@@ -121,7 +121,7 @@ go build -o arxiv-agent
 - `-max`: 每个RSS源处理的最大结果数（默认为10）
 - `-ai`: AI 提供者（`openai`、`azure`、`deepseek` 或 `mock`，默认为 `openai`）
 - `-storage`: 存储提供者（`notion` 或 `markdown`，默认为 `markdown`）
-- `-continuous`: 持续运行模式，每24小时执行一次（默认为单次运行）
+- `-continuous`: 持续运行模式，每小时执行一次（默认为单次运行）
 
 示例:
 ```bash
@@ -153,7 +153,7 @@ go build -o arxiv-agent
 
 你不需要手动提交任何内容 - GitHub Actions 会自动处理一切。这使得你可以：
 
-- 每天自动收集和整理最新的研究论文
+- 每小时自动收集和整理最新的研究论文
 - 在GitHub上浏览按日期组织的论文，方便查找最新内容
 - 通过索引文件快速访问所有论文
 

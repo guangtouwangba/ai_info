@@ -57,13 +57,13 @@ func main() {
 
 	// 运行工作流
 	if config.RunContinuously {
-		// 持续运行工作流，每天执行一次
+		// 持续运行工作流，每小时执行一次
 		for {
 			if err := runWorkflows(config); err != nil {
 				log.Printf("工作流执行失败: %v", err)
 			}
-			// 等待 24 小时
-			time.Sleep(24 * time.Hour)
+			// 等待 1 小时
+			time.Sleep(1 * time.Hour)
 		}
 	} else {
 		// 仅运行一次工作流
