@@ -31,6 +31,9 @@ jobs:
 
       - name: Run Crawler
         env:
+          # RSS配置
+          APP_RSS_URLS: ${{ secrets.APP_RSS_URLS || 'https://rsshub.app/arxiv/search_query=abs:ai+agent&start=0&max_results=10&sortBy=lastUpdatedDate,https://rsshub.app/weibo/user/6105753431' }}
+          APP_RSS_MAX_RESULTS: ${{ secrets.APP_RSS_MAX_RESULTS || '10' }}
           # 新的配置系统环境变量
           APP_AI_PROVIDER: ${{ secrets.APP_AI_PROVIDER || 'openai' }}
           APP_AI_OPENAI_API_KEY: ${{ secrets.APP_AI_OPENAI_API_KEY }}
