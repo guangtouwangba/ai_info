@@ -21,6 +21,8 @@ func main() {
 	aiProvider := flag.String("ai", config.AIProvider, "AI 提供者 (openai, azure, deepseek)")
 	storageProvider := flag.String("storage", config.StorageProvider, "存储提供者 (notion, markdown)")
 	runContinuously := flag.Bool("continuous", config.RunContinuously, "持续运行模式")
+	// 添加-once标志，与GitHub Actions工作流保持一致
+	flag.Bool("once", true, "只运行一次工作流（默认行为，与-continuous相反）")
 	generateIndex := flag.Bool("generate-index", false, "只生成Markdown索引，不执行完整工作流")
 	flag.Parse()
 
@@ -28,6 +30,8 @@ func main() {
 	config.MaxResults = *maxResults
 	config.AIProvider = *aiProvider
 	config.StorageProvider = *storageProvider
+
+	// -continuous标志控制是否持续运行
 	config.RunContinuously = *runContinuously
 
 	// 如果命令行提供了单一URL，则使用它替换配置中的所有URL
