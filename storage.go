@@ -14,6 +14,8 @@ import (
 	"sort"
 	"strings"
 	"time"
+	"unicode"
+	"unicode/utf8"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	awsconfig "github.com/aws/aws-sdk-go-v2/config"
@@ -314,6 +316,36 @@ func (p *MarkdownStorageProvider) Save(paper Paper) error {
 	return nil
 }
 
+// 添加新函数sanitizeTextForMarkdown来清理将要写入markdown中的文本
+func sanitizeTextForMarkdown(text string) string {
+	// 确保字符是有效的UTF-8字符
+	if !utf8.ValidString(text) {
+		var validContent strings.Builder
+		for _, r := range text {
+			if r != utf8.RuneError {
+				validContent.WriteRune(r)
+			}
+		}
+		text = validContent.String()
+	}
+
+	// 替换可能导致Markdown解析问题的字符
+	text = strings.ReplaceAll(text, "|", "\\|") // 转义竖线，防止表格混淆
+	text = strings.ReplaceAll(text, "*", "\\*") // 转义星号，防止强调符号混淆
+	text = strings.ReplaceAll(text, "_", "\\_") // 转义下划线，防止强调符号混淆
+	text = strings.ReplaceAll(text, "`", "\\`") // 转义反引号，防止代码块混淆
+
+	// 移除所有控制字符和不可见字符(除了空格)
+	var cleanContent strings.Builder
+	for _, r := range text {
+		if !unicode.IsControl(r) || r == ' ' || r == '\t' || r == '\n' {
+			cleanContent.WriteRune(r)
+		}
+	}
+
+	return cleanContent.String()
+}
+
 // GenerateIndex 生成索引文件，列出所有日期目录和论文
 func (p *MarkdownStorageProvider) GenerateIndex() error {
 	// 确保输出目录存在
@@ -341,6 +373,11 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 
 	// 生成索引内容
 	var content strings.Builder
+
+	// 写入带有UTF-8 BOM的标记，使某些编辑器能够正确识别UTF-8编码
+	// 注意：通常这不是必需的，因为UTF-8不需要BOM，但对于某些特定软件可能有帮助
+	// content.WriteString("\uFEFF")
+
 	content.WriteString("# 最新信息\n\n")
 	content.WriteString("按日期组织的内容集合，最新的日期在前。每个条目包含标题、摘要、发布时间和原始链接。\n\n")
 
@@ -357,11 +394,16 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 				for _, paper := range papers {
 					relativePath := filepath.Join(latestDir, paper.filename)
 
+					// 使用sanitizeTextForMarkdown确保标题不含任何可能导致乱码的字符
+					sanitizedTitle := sanitizeTextForMarkdown(paper.title)
+
 					// 增强展示，包含标题、摘要、时间和链接
-					content.WriteString(fmt.Sprintf("### [%s](%s)\n\n", paper.title, relativePath))
+					content.WriteString(fmt.Sprintf("### [%s](%s)\n\n", sanitizedTitle, relativePath))
 
 					if paper.summary != "" {
-						content.WriteString(fmt.Sprintf("**摘要**: %s\n\n", paper.summary))
+						// 确保摘要文本也经过清理
+						sanitizedSummary := sanitizeTextForMarkdown(paper.summary)
+						content.WriteString(fmt.Sprintf("**摘要**: %s\n\n", sanitizedSummary))
 					}
 
 					if paper.url != "" {
@@ -398,8 +440,11 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 			for _, paper := range papers {
 				relativePath := filepath.Join(dir, paper.filename)
 
+				// 确保标题经过清理
+				sanitizedTitle := sanitizeTextForMarkdown(paper.title)
+
 				// 简洁展示历史内容，但仍包含关键信息
-				content.WriteString(fmt.Sprintf("- **[%s](%s)** ", paper.title, relativePath))
+				content.WriteString(fmt.Sprintf("- **[%s](%s)** ", sanitizedTitle, relativePath))
 
 				if paper.url != "" {
 					content.WriteString(fmt.Sprintf("| [原文](%s) ", paper.url))
@@ -412,7 +457,9 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 				content.WriteString("\n")
 
 				if paper.summary != "" {
-					content.WriteString(fmt.Sprintf("  %s\n", paper.summary))
+					// 确保摘要文本也经过清理
+					sanitizedSummary := sanitizeTextForMarkdown(paper.summary)
+					content.WriteString(fmt.Sprintf("  %s\n", sanitizedSummary))
 				}
 
 				content.WriteString("\n")
@@ -420,7 +467,7 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 		}
 	}
 
-	// 写入索引文件
+	// 写入索引文件，确保用UTF-8编码
 	if err := os.WriteFile(indexPath, []byte(content.String()), 0644); err != nil {
 		return fmt.Errorf("写入索引文件失败: %v", err)
 	}
@@ -466,10 +513,11 @@ func listPapersInDir(dirPath string) ([]paperInfo, error) {
 			}
 
 			filePath := filepath.Join(dirPath, file.Name())
-			content, err := os.ReadFile(filePath)
+			// 使用增强的文件读取函数
+			content, err := readFileWithCorrectEncoding(filePath)
 			if err == nil {
 				// 解析文件内容以提取元数据
-				lines := strings.Split(string(content), "\n")
+				lines := strings.Split(content, "\n")
 
 				// 提取标题（第一行，格式为 # 标题）
 				if len(lines) > 0 && strings.HasPrefix(lines[0], "# ") {
@@ -612,6 +660,53 @@ func listPapersInDir(dirPath string) ([]paperInfo, error) {
 	}
 
 	return papers, nil
+}
+
+// readFileWithCorrectEncoding 读取文件内容并确保正确处理UTF-8编码
+func readFileWithCorrectEncoding(filePath string) (string, error) {
+	rawBytes, err := os.ReadFile(filePath)
+	if err != nil {
+		return "", err
+	}
+
+	// 检测并处理UTF-8 BOM（字节顺序标记）
+	if len(rawBytes) >= 3 && rawBytes[0] == 0xEF && rawBytes[1] == 0xBB && rawBytes[2] == 0xBF {
+		// 如果文件以UTF-8 BOM开头，则跳过这3个字节
+		rawBytes = rawBytes[3:]
+	}
+
+	// 尝试将内容解码为UTF-8
+	content := string(rawBytes)
+
+	// 检查是否包含无效的UTF-8序列
+	if !utf8.ValidString(content) {
+		// 如果不是有效的UTF-8，尝试其他编码处理
+		// 这里我们使用一个更强大的方法来处理无效UTF-8
+		var validContent strings.Builder
+		for i := 0; i < len(content); {
+			r, size := utf8.DecodeRuneInString(content[i:])
+			if r == utf8.RuneError && size == 1 {
+				// 处理无效字符：忽略或替换为其他字符
+				// 这里选择忽略
+				i++
+				continue
+			}
+			validContent.WriteRune(r)
+			i += size
+		}
+		content = validContent.String()
+	}
+
+	// 移除任何控制字符（除常见格式控制外）
+	var cleanContent strings.Builder
+	for _, r := range content {
+		// 保留常见格式控制字符（空格、制表符、换行符等）
+		if !unicode.IsControl(r) || r == ' ' || r == '\t' || r == '\n' || r == '\r' {
+			cleanContent.WriteRune(r)
+		}
+	}
+
+	return cleanContent.String(), nil
 }
 
 // sanitizeFileName 清理文件名，替换不合法字符
