@@ -10,6 +10,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"regexp"
 	"sort"
 	"strings"
 	"time"
@@ -340,43 +341,82 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 
 	// 生成索引内容
 	var content strings.Builder
-	content.WriteString("# 论文索引\n\n")
-	content.WriteString("按日期组织的论文集合，最新的日期在前。\n\n")
+	content.WriteString("# 最新信息\n\n")
+	content.WriteString("按日期组织的内容集合，最新的日期在前。每个条目包含标题、摘要、发布时间和原始链接。\n\n")
 
 	if len(dateDirs) == 0 {
-		content.WriteString("*暂无论文*\n")
+		content.WriteString("*暂无内容*\n")
 	} else {
-		// 最新日期的论文
+		// 最新日期的内容
 		if len(dateDirs) > 0 {
 			latestDir := dateDirs[0]
-			content.WriteString(fmt.Sprintf("## 最新论文 (%s)\n\n", latestDir))
+			content.WriteString(fmt.Sprintf("## 最新内容 (%s)\n\n", latestDir))
 
 			papers, err := listPapersInDir(filepath.Join(p.outputDir, latestDir))
 			if err == nil && len(papers) > 0 {
 				for _, paper := range papers {
 					relativePath := filepath.Join(latestDir, paper.filename)
-					content.WriteString(fmt.Sprintf("- [%s](%s)\n", paper.title, relativePath))
+
+					// 增强展示，包含标题、摘要、时间和链接
+					content.WriteString(fmt.Sprintf("### [%s](%s)\n\n", paper.title, relativePath))
+
+					if paper.summary != "" {
+						content.WriteString(fmt.Sprintf("**摘要**: %s\n\n", paper.summary))
+					}
+
+					if paper.url != "" {
+						content.WriteString(fmt.Sprintf("**原始链接**: [查看原文](%s)\n", paper.url))
+					}
+
+					if paper.savedAt != "" {
+						content.WriteString(fmt.Sprintf("**收录时间**: %s\n", paper.savedAt))
+					}
+
+					content.WriteString("\n---\n\n")
 				}
 			} else {
-				content.WriteString("*该日期下暂无论文*\n")
+				content.WriteString("*该日期下暂无内容*\n")
 			}
 			content.WriteString("\n")
 		}
 
-		// 按日期列出所有论文
-		content.WriteString("## 所有日期\n\n")
+		// 按日期列出所有内容
+		content.WriteString("## 历史内容\n\n")
 		for _, dir := range dateDirs {
+			// 跳过最新日期（因为已经在"最新内容"部分列出）
+			if dir == dateDirs[0] {
+				continue
+			}
+
 			papers, err := listPapersInDir(filepath.Join(p.outputDir, dir))
 			if err != nil {
 				continue
 			}
 
 			content.WriteString(fmt.Sprintf("### %s (%d篇)\n\n", dir, len(papers)))
+
 			for _, paper := range papers {
 				relativePath := filepath.Join(dir, paper.filename)
-				content.WriteString(fmt.Sprintf("- [%s](%s)\n", paper.title, relativePath))
+
+				// 简洁展示历史内容，但仍包含关键信息
+				content.WriteString(fmt.Sprintf("- **[%s](%s)** ", paper.title, relativePath))
+
+				if paper.url != "" {
+					content.WriteString(fmt.Sprintf("| [原文](%s) ", paper.url))
+				}
+
+				if paper.savedAt != "" {
+					content.WriteString(fmt.Sprintf("| 时间: %s ", paper.savedAt))
+				}
+
+				content.WriteString("\n")
+
+				if paper.summary != "" {
+					content.WriteString(fmt.Sprintf("  %s\n", paper.summary))
+				}
+
+				content.WriteString("\n")
 			}
-			content.WriteString("\n")
 		}
 	}
 
@@ -397,13 +437,16 @@ func isDirDateFormat(name string) bool {
 	return err == nil
 }
 
-// 论文信息
+// 论文信息，扩展结构以包含更多元数据
 type paperInfo struct {
 	title    string
 	filename string
+	summary  string // AI摘要
+	url      string // 原始链接
+	savedAt  string // 保存时间
 }
 
-// 列出目录中的所有论文
+// 列出目录中的所有论文，并获取详细信息
 func listPapersInDir(dirPath string) ([]paperInfo, error) {
 	files, err := os.ReadDir(dirPath)
 	if err != nil {
@@ -413,22 +456,158 @@ func listPapersInDir(dirPath string) ([]paperInfo, error) {
 	var papers []paperInfo
 	for _, file := range files {
 		if !file.IsDir() && strings.HasSuffix(file.Name(), ".md") {
-			// 尝试从文件中提取标题
-			title := strings.TrimSuffix(file.Name(), ".md")
-			filePath := filepath.Join(dirPath, file.Name())
+			// 初始化论文信息
+			info := paperInfo{
+				title:    strings.TrimSuffix(file.Name(), ".md"),
+				filename: file.Name(),
+				summary:  "",
+				url:      "",
+				savedAt:  "",
+			}
 
+			filePath := filepath.Join(dirPath, file.Name())
 			content, err := os.ReadFile(filePath)
 			if err == nil {
+				// 解析文件内容以提取元数据
 				lines := strings.Split(string(content), "\n")
+
+				// 提取标题（第一行，格式为 # 标题）
 				if len(lines) > 0 && strings.HasPrefix(lines[0], "# ") {
-					title = strings.TrimPrefix(lines[0], "# ")
+					info.title = strings.TrimPrefix(lines[0], "# ")
+				}
+
+				// 创建两个变量分别存储原始摘要和AI摘要
+				var originalSummary, aiSummary string
+
+				// 提取URL（通常在第三行，格式为 **URL**: http://...）
+				for i, line := range lines {
+					if strings.HasPrefix(line, "**URL**: ") {
+						info.url = strings.TrimPrefix(line, "**URL**: ")
+					}
+
+					// 查找原始摘要部分
+					if line == "## 原始摘要" && i+1 < len(lines) {
+						var summaryBuilder strings.Builder
+						summaryLine := i + 1
+
+						// 收集摘要内容直到遇到空行或新标题
+						lineCount := 0
+						for ; summaryLine < len(lines) && lineCount < 5; summaryLine++ {
+							currentLine := lines[summaryLine]
+							// 跳过空行
+							if currentLine == "" {
+								continue
+							}
+							// 如果遇到新的部分标题，结束收集
+							if strings.HasPrefix(currentLine, "##") {
+								break
+							}
+
+							if summaryBuilder.Len() > 0 {
+								summaryBuilder.WriteString(" ") // 添加空格连接不同行
+							}
+							summaryBuilder.WriteString(currentLine)
+							lineCount++
+						}
+
+						originalSummary = summaryBuilder.String()
+					}
+
+					// 查找AI摘要部分
+					if line == "## AI 摘要" && i+1 < len(lines) {
+						var summaryBuilder strings.Builder
+						summaryLine := i + 1
+
+						// 收集AI摘要内容
+						lineCount := 0
+						for ; summaryLine < len(lines) && lineCount < 5; summaryLine++ {
+							currentLine := lines[summaryLine]
+							// 跳过空行
+							if currentLine == "" {
+								continue
+							}
+							// 如果遇到新的部分标题，结束收集
+							if strings.HasPrefix(currentLine, "##") {
+								break
+							}
+
+							if summaryBuilder.Len() > 0 {
+								summaryBuilder.WriteString(" ") // 添加空格连接不同行
+							}
+							summaryBuilder.WriteString(currentLine)
+							lineCount++
+						}
+
+						aiSummary = summaryBuilder.String()
+					}
+
+					// 查找保存时间
+					if strings.HasPrefix(line, "- **保存时间**: ") {
+						info.savedAt = strings.TrimPrefix(line, "- **保存时间**: ")
+						// 尝试格式化时间为更友好的显示
+						if t, err := time.Parse(time.RFC3339, info.savedAt); err == nil {
+							info.savedAt = t.Format("2006-01-02 15:04")
+						}
+					}
+				}
+
+				// 选择更有信息量的摘要
+				chosenSummary := aiSummary
+
+				// 如果AI摘要为空或包含模板文本"主要探讨了最新进展和研究方向"，则使用原始摘要
+				if aiSummary == "" || strings.Contains(aiSummary, "主要探讨了最新进展和研究方向") {
+					if originalSummary != "" {
+						chosenSummary = originalSummary
+					}
+				}
+
+				// 处理HTML内容，提取纯文本
+				if strings.Contains(chosenSummary, "<") && strings.Contains(chosenSummary, ">") {
+					// 简单的HTML标签清理
+					// 1. 移除所有<开头到>结尾的内容
+					htmlTagRegex := regexp.MustCompile("<[^>]*>")
+					chosenSummary = htmlTagRegex.ReplaceAllString(chosenSummary, "")
+
+					// 2. 处理HTML实体
+					chosenSummary = strings.ReplaceAll(chosenSummary, "&nbsp;", " ")
+					chosenSummary = strings.ReplaceAll(chosenSummary, "&lt;", "<")
+					chosenSummary = strings.ReplaceAll(chosenSummary, "&gt;", ">")
+					chosenSummary = strings.ReplaceAll(chosenSummary, "&amp;", "&")
+					chosenSummary = strings.ReplaceAll(chosenSummary, "&quot;", "\"")
+
+					// 3. 移除多余空格
+					spaceRegex := regexp.MustCompile(`\s+`)
+					chosenSummary = spaceRegex.ReplaceAllString(chosenSummary, " ")
+					chosenSummary = strings.TrimSpace(chosenSummary)
+				}
+
+				// 处理摘要长度，保证是完整的中文或英文句子
+				if len(chosenSummary) > 150 {
+					// 尝试找一个合适的断句点（句号、问号、感叹号等）
+					cutoffIndex := 150
+					for j := cutoffIndex; j >= cutoffIndex-30 && j >= 0; j-- {
+						if j >= len(chosenSummary) {
+							continue
+						}
+						char := rune(chosenSummary[j])
+						if char == '.' || char == '。' || char == '!' || char == '！' ||
+							char == '?' || char == '？' || char == ';' || char == '；' ||
+							char == ',' || char == '，' {
+							cutoffIndex = j + 1
+							break
+						}
+					}
+					// 确保cutoffIndex不会超出范围
+					if cutoffIndex > len(chosenSummary) {
+						cutoffIndex = len(chosenSummary)
+					}
+					info.summary = chosenSummary[:cutoffIndex] + "..."
+				} else {
+					info.summary = chosenSummary
 				}
 			}
 
-			papers = append(papers, paperInfo{
-				title:    title,
-				filename: file.Name(),
-			})
+			papers = append(papers, info)
 		}
 	}
 
