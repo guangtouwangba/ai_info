@@ -1,0 +1,87 @@
+name: ArXiv AI Agent Crawler
+
+on:
+  schedule:
+    # 每天凌晨 1 点运行（UTC 时间，对应中国时间上午 9 点）
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+          cache: true
+
+      - name: Install dependencies
+        run: go mod download
+
+      - name: Build application
+        run: go build -o arxiv-agent .
+
+      - name: Run Crawler
+        env:
+          # 新的配置系统环境变量
+          APP_AI_PROVIDER: ${{ secrets.APP_AI_PROVIDER || 'openai' }}
+          APP_AI_OPENAI_API_KEY: ${{ secrets.APP_AI_OPENAI_API_KEY }}
+          APP_AI_AZURE_API_KEY: ${{ secrets.APP_AI_AZURE_API_KEY }}
+          APP_AI_AZURE_ENDPOINT: ${{ secrets.APP_AI_AZURE_ENDPOINT }}
+          APP_AI_DEEPSEEK_API_KEY: ${{ secrets.APP_AI_DEEPSEEK_API_KEY }}
+          APP_STORAGE_PROVIDER: ${{ secrets.APP_STORAGE_PROVIDER || 'markdown' }}
+          APP_STORAGE_NOTION_API_KEY: ${{ secrets.APP_STORAGE_NOTION_API_KEY }}
+          APP_STORAGE_NOTION_DATABASE_ID: ${{ secrets.APP_STORAGE_NOTION_DATABASE_ID }}
+          APP_STORAGE_OUTPUT_DIR: ${{ secrets.APP_STORAGE_OUTPUT_DIR || 'papers' }}
+          APP_RUN_CONTINUOUS: false
+          
+          # 兼容旧版环境变量（向后兼容）
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          OUTPUT_DIR: ${{ secrets.OUTPUT_DIR }}
+        run: ./arxiv-agent -once
+
+      # 生成索引文件 (即使没有新论文也会重新生成)
+      - name: Generate Index
+        env:
+          APP_STORAGE_PROVIDER: markdown
+          APP_STORAGE_OUTPUT_DIR: ${{ secrets.APP_STORAGE_OUTPUT_DIR || 'papers' }}
+        run: ./arxiv-agent -generate-index
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [[ -n $(git status -s | grep "${{ secrets.APP_STORAGE_OUTPUT_DIR || 'papers' }}") ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Configure Git
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+      - name: Commit new papers
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          CURRENT_DATE=$(date +"%Y-%m-%d")
+          git add "${{ secrets.APP_STORAGE_OUTPUT_DIR || 'papers' }}/"
+          git commit -m "📚 添加 $CURRENT_DATE 新论文和更新索引"
+          
+      - name: Push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }} 
