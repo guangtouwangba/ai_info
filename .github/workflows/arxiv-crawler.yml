@@ -6,6 +6,10 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:  # 允许手动触发
 
+# 添加权限设置
+permissions:
+  contents: write  # 授予对仓库内容的写入权限
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
@@ -81,7 +85,5 @@ jobs:
           
       - name: Push changes
         if: steps.check_changes.outputs.changes == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }} 
+        run: |
+          git push origin ${GITHUB_REF} 
