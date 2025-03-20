@@ -8,11 +8,11 @@ Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and
 
 ## AI 摘要
 
-本文介绍了Florence-VL，一种新型多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉表征。Florence-2能够捕捉视觉特征的不同层次和方面，适应多种下游任务。研究团队设计了特征融合架构和训练方法，将Florence-2的视觉特征融合到预训练的语言模型Phi 3.5和LLama 3中，并提出“深度-广度融合（DBFusion）”方法。Florence-VL在视觉语言对齐和多模态基准测试中表现优异，研究团队开源了模型和训练方法。
+本文介绍了Florence-VL，一种新型多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉表征。与常见的CLIP风格视觉变换器不同，Florence-2能捕捉多层次视觉特征，适应多种下游任务。研究团队设计了新颖的特征融合架构和训练方法，将Florence-2的视觉特征有效融合到预训练的语言模型Phi 3.5和LLama 3中，提出“深度-广度融合（DBFusion）”方法。Florence-VL在视觉语言对齐和多模态基准测试中表现优异，研究团队开源了模型和训练方法。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-03-20T00:06:08Z
+- **保存时间**: 2025-03-20T01:26:20Z
 - **目录日期**: 2025-03-20
