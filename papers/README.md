@@ -4,12 +4,165 @@
 
 ## 最新内容
 
-### [#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，...](2025-03-20/#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，....md)
+### [Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-20/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)
 
-**摘要**: 小米集团2022年财报显示，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元...
+**摘要**: 本文介绍了Florence-VL，一种新型的多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pjh3s3xnt)
-**收录时间**: 2025-03-20 13:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/P4uA6ySTO)
+**收录时间**: 2025-03-20 13:11
+
+---
+
+### [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)
+
+**摘要**: 本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58g6zGp2)
+**收录时间**: 2025-03-20 13:11
+
+---
+
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个新一代智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P4uBVcdzN)
+**收录时间**: 2025-03-20 13:11
+
+---
+
+### [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-20/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)
+
+**摘要**: 本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。Infinity通过...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P4uAXfjkX)
+**收录时间**: 2025-03-20 13:11
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，直接建模复杂的音频视觉相...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-03-20 13:10
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-03-20 13:10
+
+---
+
+### [数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)
+
+**摘要**: 微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjpR3Fjzz)
+**收录时间**: 2025-03-20 13:09
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-03-20 13:09
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: 本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-03-20 13:09
+
+---
+
+### [#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-20/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)
+
+**摘要**: ByteCraft是一项突破性技术，能够在仅4个GPU的条件下，通过微调7B参数的Qwen2.5模型，直接根据文本描述生成可执行...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqfIgl7K)
+**收录时间**: 2025-03-20 13:08
+
+---
+
+### [#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-20/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)
+
+**摘要**: 在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pjq13nAlg)
+**收录时间**: 2025-03-20 13:08
+
+---
+
+### [#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-20/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)
+
+**摘要**: Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”或“超级助手”被...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqBuE4Oj)
+**收录时间**: 2025-03-20 13:08
+
+---
+
+### [#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-20/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)
+
+**摘要**: 字节跳动与清华AIR联合实验室SIA Lab开发了一种名为DAPO的新型强化学习（RL）算法，该算法在AIME 2024基准测试中表...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjrPPz0BP)
+**收录时间**: 2025-03-20 13:07
+
+---
+
+### [#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-20/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)
+
+**摘要**: 钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqCggUKw)
+**收录时间**: 2025-03-20 13:07
+
+---
+
+### [#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-20/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)
+
+**摘要**: AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每七个月翻倍，取代了传统的摩尔定律。从2020年到2025年...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pjr6kkgb3)
+**收录时间**: 2025-03-20 13:07
+
+---
+
+### [#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-20/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)
+
+**摘要**: 波士顿动力和宇树机器人在机器人技术领域展开了一场激烈的“神仙打架”。宇树展示了全球首个能够完成侧空翻...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqJ9kuAE)
+**收录时间**: 2025-03-20 13:07
+
+---
+
+### [#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-20/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)
+
+**摘要**: 华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，并首次搭载纯血鸿蒙操作系统，流畅度提升40%。该手机...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjrhKeHfy)
+**收录时间**: 2025-03-20 13:07
+
+---
+
+### [#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-20/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)
+
+**摘要**: 阿里妈妈在3月20日于上海举办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”上宣布了一系列创新举措，包括升级...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjrZb2PO0)
+**收录时间**: 2025-03-20 13:06
 
 ---
 
@@ -22,165 +175,12 @@
 
 ---
 
-### [#苹果限制第三方智能手表##智能手表鼻祖Pebble回归#Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。尽管Pebble品牌早已停止运营...](2025-03-20/#苹果限制第三方智能手表##智能手表鼻祖Pebble回归#Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。尽管Pebble品牌早已停止运营....md)
+### [#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，...](2025-03-20/#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，....md)
 
-**摘要**: Pebble智能手表鼻祖回归，推出Core 2 Duo和Core Time 2两款新品。Core 2 Duo延续经典设计，配备1.26英寸黑白电子墨水屏和3...
+**摘要**: 小米集团2022年财报显示，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pjh4Sv6dG)
-**收录时间**: 2025-03-20 13:04
-
----
-
-### [#老黄带迪士尼机器人炸场GTC# 老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT N1，他还预言：机器人将会是未来最大的行业。 量子位...](2025-03-20/#老黄带迪士尼机器人炸场GTC#_老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT_N1，他还预言：机器人将会是未来最大的行业。_量子位....md)
-
-**摘要**: 在GTC大会上，老黄展示了迪士尼机器人，并发布了机器人物理引擎Newton和基础模型GROOT N1。他预测机器人将成为未...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pji5OnXZJ)
-**收录时间**: 2025-03-20 13:04
-
----
-
-### [#机器人会侧空翻了##全球首次人形机器人原地侧空翻#宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。官方发布的【视频】显示，机器人不仅顺利完成侧...](2025-03-20/#机器人会侧空翻了##全球首次人形机器人原地侧空翻#宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。官方发布的【视频】显示，机器人不仅顺利完成侧....md)
-
-**摘要**: 宇树科技的G1人形机器人成功完成了全球首次原地侧空翻动作，展示了其流畅的翻滚和协调的机身动作。这一成就...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjhiRtxtD)
-**收录时间**: 2025-03-20 13:04
-
----
-
-### [#搜索竞技场上线##AI联网搜索竞技场#AI联网搜索这一块，也有竞技场了。Chatbot Arena做了个搜索竞技场（Search Arena），这是一个盲测AI的搜索能力的平台，用户...](2025-03-20/#搜索竞技场上线##AI联网搜索竞技场#AI联网搜索这一块，也有竞技场了。Chatbot_Arena做了个搜索竞技场（Search_Arena），这是一个盲测AI的搜索能力的平台，用户....md)
-
-**摘要**: Chatbot Arena推出了“搜索竞技场”（Search Arena），这是一个盲测AI搜索能力的平台。用户可以通过投票比较不同模型...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjhE3gcQk)
-**收录时间**: 2025-03-20 13:04
-
----
-
-### [#小米成中国市值第一车企#小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值...](2025-03-20/#小米成中国市值第一车企#小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值....md)
-
-**摘要**: 小米凭借其SU7车型的热销，市值在一年内翻了近四倍，达到1.36万亿元，超越比亚迪成为中国市值最高的汽车制造...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pjh3Hx0JF)
-**收录时间**: 2025-03-20 13:04
-
----
-
-### [【#AI实时汉化游戏# 】其实不止Galgame……各种其他类型的游戏都可以用AI来翻译游玩，这期视频用Gal举例是因为文字对这类游戏至关重要，体验起来会更明显。啊我...](2025-03-20/【#AI实时汉化游戏#_】其实不止Galgame……各种其他类型的游戏都可以用AI来翻译游玩，这期视频用Gal举例是因为文字对这类游戏至关重要，体验起来会更明显。啊我....md)
-
-**摘要**: 该微博讨论了AI技术在游戏实时汉化中的应用，特别是以Galgame为例，因为这类游戏的文字内容对玩家体验至关重要...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjoMQuFJ4)
-**收录时间**: 2025-03-20 13:03
-
----
-
-### [#谷歌Gemini一句话P图# 没想到谷歌推出Gemini 2.0 Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的…… 量子位的微博视...](2025-03-20/#谷歌Gemini一句话P图#_没想到谷歌推出Gemini_2.0_Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的……_量子位的微博视....md)
-
-**摘要**: 谷歌推出的Gemini 2.0 Flash版本，通过对话即可实现免费P图功能，这一创新功能虽然尚不稳定，但其便捷性和趣味性...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjnN1AygN)
-**收录时间**: 2025-03-20 13:03
-
----
-
-### [A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents](2025-03-20/A_Role_of_Environmental_Complexity_on_Representation_Learning_in_Deep_Reinforcement_Learning_Agents.md)
-
-**摘要**: 研究开发了一个模拟环境，用于训练深度强化学习代理在捷径使用导航任务中的表现，灵感来自人类导航者的双解...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2407.03436v2)
-**收录时间**: 2025-03-20 13:03
-
----
-
-### [#OpenAI史上最贵模型来了# 比DeepSeek贵270倍比DeepSeek-R1贵270倍，OpenAI史上最贵模型来了！就在刚刚，OpenAI上线了推理模型o1-pro的API。本来大家还挺高兴，...](2025-03-20/#OpenAI史上最贵模型来了#_比DeepSeek贵270倍比DeepSeek-R1贵270倍，OpenAI史上最贵模型来了！就在刚刚，OpenAI上线了推理模型o1-pro的API。本来大家还挺高兴，....md)
-
-**摘要**: OpenAI最近推出了其史上最贵的推理模型o1-pro的API，其价格引发了广泛争议。该模型的100万输入/输出token价格分别为...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjoKfbBQb)
-**收录时间**: 2025-03-20 13:03
-
----
-
-### [Resource-Efficient Quantum Correlation Measurement: A Multicopy Neural Network Approach for Practical Applications](2025-03-20/Resource-Efficient_Quantum_Correlation_Measurement-_A_Multicopy_Neural_Network_Approach_for_Practical_Applications.md)
-
-**摘要**: 传统量子态层析（QST）方法需要重建密度矩阵，资源需求随系统规模指数增长。本文提出一种结合多拷贝测量和人...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2411.05745v2)
-**收录时间**: 2025-03-20 13:02
-
----
-
-### [Modeling crystal defects using defect-informed neural networks](2025-03-20/Modeling_crystal_defects_using_defect-informed_neural_networks.md)
-
-**摘要**: 机器学习在晶体材料研究中实现了快速预测和发现，但现有研究多集中于理想晶体，忽略了实际材料中的缺陷。这...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.15391v1)
-**收录时间**: 2025-03-20 13:02
-
----
-
-### [Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Software Development](2025-03-20/Developer_Perspectives_on_Licensing_and_Copyright_Issues_Arising_from_Generative_AI_for_Software_Development.md)
-
-**摘要**: 本文探讨了生成式AI（GenAI）工具在编码任务中的应用及其引发的法律问题，特别是版权法相关的风险。通过对574...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2411.10877v3)
-**收录时间**: 2025-03-20 13:02
-
----
-
-### [Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols?](2025-03-20/Subversion_Strategy_Eval-_Can_language_models_statelessly_strategize_to_subvert_control_protocols.md)
-
-**摘要**: 本文研究了AI系统在无状态操作下（即上下文间无共享内存）生成并执行策略以规避控制协议的能力。通过开发“S...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2412.12480v2)
-**收录时间**: 2025-03-20 13:02
-
----
-
-### [Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces](2025-03-20/Hybrid_Quantum-Classical_Reinforcement_Learning_in_Latent_Observation_Spaces.md)
-
-**摘要**: 量子机器学习的最新进展激发了利用量子强化学习方法解决经典控制问题的兴趣。然而，经典强化学习环境通常涉...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2410.18284v3)
-**收录时间**: 2025-03-20 13:02
-
----
-
-### [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](2025-03-20/SWEET-RL-_Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks.md)
-
-**摘要**: 大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.15478v1)
-**收录时间**: 2025-03-20 13:01
-
----
-
-### [More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns](2025-03-20/More_Information_is_Not_Always_Better-_Connections_between_Zero-Sum_Local_Nash_Equilibria_in_Feedback_and_Open-Loop_Information_Patterns.md)
-
-**摘要**: 非合作动态博弈理论为多智能体在无通信情况下的序贯决策提供了建模方法。研究重点在于寻找不同信息结构下双...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.15486v1)
-**收录时间**: 2025-03-20 13:01
-
----
-
-### [Value Profiles for Encoding Human Variation](2025-03-20/Value_Profiles_for_Encoding_Human_Variation.md)
-
-**摘要**: 本研究提出了一种通过价值档案（自然语言描述）和可调控解码器模型来建模人类评分任务中的个体差异的方法。...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.15484v1)
-**收录时间**: 2025-03-20 13:01
-
----
-
-### [From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](2025-03-20/From_1,000,000_Users_to_Every_User-_Scaling_Up_Personalized_Preference_for_User-level_Alignment.md)
-
-**摘要**: 本文提出了一种可扩展的个性化对齐大语言模型（LLMs）的框架，突破了传统“一刀切”方法的局限。通过建立系...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.15463v1)
-**收录时间**: 2025-03-20 13:01
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pjh3s3xnt)
+**收录时间**: 2025-03-20 13:05
 
 ---
 
@@ -188,11 +188,65 @@
 
 ### 2025-03-20 (57篇)
 
-- **[#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，...](2025-03-20/#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，....md)** | [原文](https://weibo.com/6105753431/Pjh3s3xnt) | 时间: 2025-03-20 13:05 
-  小米集团2022年财报显示，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元...
+- **[Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-20/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)** | [原文](https://weibo.com/1870858943/P4uA6ySTO) | 时间: 2025-03-20 13:11 
+  本文介绍了Florence-VL，一种新型的多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉...
+
+- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-20 13:11 
+  本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
+
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-20 13:11 
+  AMiner是一个新一代智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英...
+
+- **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-20/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-20 13:11 
+  本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。Infinity通过...
+
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-20 13:10 
+  本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，直接建模复杂的音频视觉相...
+
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-20 13:10 
+  这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
+
+- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-20 13:09 
+  微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-20 13:09 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
+
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-20 13:09 
+  本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
+
+- **[#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-20/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)** | [原文](https://weibo.com/6105753431/PjqfIgl7K) | 时间: 2025-03-20 13:08 
+  ByteCraft是一项突破性技术，能够在仅4个GPU的条件下，通过微调7B参数的Qwen2.5模型，直接根据文本描述生成可执行...
+
+- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-20/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-20 13:08 
+  在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
+
+- **[#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-20/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)** | [原文](https://weibo.com/6105753431/PjqBuE4Oj) | 时间: 2025-03-20 13:08 
+  Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”或“超级助手”被...
+
+- **[#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-20/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)** | [原文](https://weibo.com/6105753431/PjrPPz0BP) | 时间: 2025-03-20 13:07 
+  字节跳动与清华AIR联合实验室SIA Lab开发了一种名为DAPO的新型强化学习（RL）算法，该算法在AIME 2024基准测试中表...
+
+- **[#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-20/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)** | [原文](https://weibo.com/6105753431/PjqCggUKw) | 时间: 2025-03-20 13:07 
+  钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
+
+- **[#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-20/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)** | [原文](https://weibo.com/6105753431/Pjr6kkgb3) | 时间: 2025-03-20 13:07 
+  AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每七个月翻倍，取代了传统的摩尔定律。从2020年到2025年...
+
+- **[#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-20/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)** | [原文](https://weibo.com/6105753431/PjqJ9kuAE) | 时间: 2025-03-20 13:07 
+  波士顿动力和宇树机器人在机器人技术领域展开了一场激烈的“神仙打架”。宇树展示了全球首个能够完成侧空翻...
+
+- **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-20/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-20 13:07 
+  华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，并首次搭载纯血鸿蒙操作系统，流畅度提升40%。该手机...
+
+- **[#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-20/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)** | [原文](https://weibo.com/6105753431/PjrZb2PO0) | 时间: 2025-03-20 13:06 
+  阿里妈妈在3月20日于上海举办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”上宣布了一系列创新举措，包括升级...
 
 - **[#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰...](2025-03-20/#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰....md)** | [原文](https://weibo.com/6105753431/Pjh3cujOA) | 时间: 2025-03-20 13:05 
   在2024年财报电话会议上，小米总裁卢伟冰透露了小米汽车的发展愿景。2024年的关键词是“增长”，而2025年则是“...
+
+- **[#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，...](2025-03-20/#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，....md)** | [原文](https://weibo.com/6105753431/Pjh3s3xnt) | 时间: 2025-03-20 13:05 
+  小米集团2022年财报显示，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元...
 
 - **[#苹果限制第三方智能手表##智能手表鼻祖Pebble回归#Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。尽管Pebble品牌早已停止运营...](2025-03-20/#苹果限制第三方智能手表##智能手表鼻祖Pebble回归#Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。尽管Pebble品牌早已停止运营....md)** | [原文](https://weibo.com/6105753431/Pjh4Sv6dG) | 时间: 2025-03-20 13:04 
   Pebble智能手表鼻祖回归，推出Core 2 Duo和Core Time 2两款新品。Core 2 Duo延续经典设计，配备1.26英寸黑白电子墨水屏和3...
@@ -212,14 +266,17 @@
 - **[【#AI实时汉化游戏# 】其实不止Galgame……各种其他类型的游戏都可以用AI来翻译游玩，这期视频用Gal举例是因为文字对这类游戏至关重要，体验起来会更明显。啊我...](2025-03-20/【#AI实时汉化游戏#_】其实不止Galgame……各种其他类型的游戏都可以用AI来翻译游玩，这期视频用Gal举例是因为文字对这类游戏至关重要，体验起来会更明显。啊我....md)** | [原文](https://weibo.com/6105753431/PjoMQuFJ4) | 时间: 2025-03-20 13:03 
   该微博讨论了AI技术在游戏实时汉化中的应用，特别是以Galgame为例，因为这类游戏的文字内容对玩家体验至关重要...
 
-- **[#谷歌Gemini一句话P图# 没想到谷歌推出Gemini 2.0 Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的…… 量子位的微博视...](2025-03-20/#谷歌Gemini一句话P图#_没想到谷歌推出Gemini_2.0_Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的……_量子位的微博视....md)** | [原文](https://weibo.com/6105753431/PjnN1AygN) | 时间: 2025-03-20 13:03 
-  谷歌推出的Gemini 2.0 Flash版本，通过对话即可实现免费P图功能，这一创新功能虽然尚不稳定，但其便捷性和趣味性...
-
 - **[A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents](2025-03-20/A_Role_of_Environmental_Complexity_on_Representation_Learning_in_Deep_Reinforcement_Learning_Agents.md)** | [原文](http://arxiv.org/abs/2407.03436v2) | 时间: 2025-03-20 13:03 
   研究开发了一个模拟环境，用于训练深度强化学习代理在捷径使用导航任务中的表现，灵感来自人类导航者的双解...
 
 - **[#OpenAI史上最贵模型来了# 比DeepSeek贵270倍比DeepSeek-R1贵270倍，OpenAI史上最贵模型来了！就在刚刚，OpenAI上线了推理模型o1-pro的API。本来大家还挺高兴，...](2025-03-20/#OpenAI史上最贵模型来了#_比DeepSeek贵270倍比DeepSeek-R1贵270倍，OpenAI史上最贵模型来了！就在刚刚，OpenAI上线了推理模型o1-pro的API。本来大家还挺高兴，....md)** | [原文](https://weibo.com/6105753431/PjoKfbBQb) | 时间: 2025-03-20 13:03 
   OpenAI最近推出了其史上最贵的推理模型o1-pro的API，其价格引发了广泛争议。该模型的100万输入/输出token价格分别为...
+
+- **[#谷歌Gemini一句话P图# 没想到谷歌推出Gemini 2.0 Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的…… 量子位的微博视...](2025-03-20/#谷歌Gemini一句话P图#_没想到谷歌推出Gemini_2.0_Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的……_量子位的微博视....md)** | [原文](https://weibo.com/6105753431/PjnN1AygN) | 时间: 2025-03-20 13:03 
+  谷歌推出的Gemini 2.0 Flash版本，通过对话即可实现免费P图功能，这一创新功能虽然尚不稳定，但其便捷性和趣味性...
+
+- **[Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Software Development](2025-03-20/Developer_Perspectives_on_Licensing_and_Copyright_Issues_Arising_from_Generative_AI_for_Software_Development.md)** | [原文](http://arxiv.org/abs/2411.10877v3) | 时间: 2025-03-20 13:02 
+  本文探讨了生成式AI（GenAI）工具在编码任务中的应用及其引发的法律问题，特别是版权法相关的风险。通过对574...
 
 - **[Resource-Efficient Quantum Correlation Measurement: A Multicopy Neural Network Approach for Practical Applications](2025-03-20/Resource-Efficient_Quantum_Correlation_Measurement-_A_Multicopy_Neural_Network_Approach_for_Practical_Applications.md)** | [原文](http://arxiv.org/abs/2411.05745v2) | 时间: 2025-03-20 13:02 
   传统量子态层析（QST）方法需要重建密度矩阵，资源需求随系统规模指数增长。本文提出一种结合多拷贝测量和人...
@@ -227,80 +284,23 @@
 - **[Modeling crystal defects using defect-informed neural networks](2025-03-20/Modeling_crystal_defects_using_defect-informed_neural_networks.md)** | [原文](http://arxiv.org/abs/2503.15391v1) | 时间: 2025-03-20 13:02 
   机器学习在晶体材料研究中实现了快速预测和发现，但现有研究多集中于理想晶体，忽略了实际材料中的缺陷。这...
 
-- **[Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Software Development](2025-03-20/Developer_Perspectives_on_Licensing_and_Copyright_Issues_Arising_from_Generative_AI_for_Software_Development.md)** | [原文](http://arxiv.org/abs/2411.10877v3) | 时间: 2025-03-20 13:02 
-  本文探讨了生成式AI（GenAI）工具在编码任务中的应用及其引发的法律问题，特别是版权法相关的风险。通过对574...
-
 - **[Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols?](2025-03-20/Subversion_Strategy_Eval-_Can_language_models_statelessly_strategize_to_subvert_control_protocols.md)** | [原文](http://arxiv.org/abs/2412.12480v2) | 时间: 2025-03-20 13:02 
   本文研究了AI系统在无状态操作下（即上下文间无共享内存）生成并执行策略以规避控制协议的能力。通过开发“S...
 
 - **[Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces](2025-03-20/Hybrid_Quantum-Classical_Reinforcement_Learning_in_Latent_Observation_Spaces.md)** | [原文](http://arxiv.org/abs/2410.18284v3) | 时间: 2025-03-20 13:02 
   量子机器学习的最新进展激发了利用量子强化学习方法解决经典控制问题的兴趣。然而，经典强化学习环境通常涉...
 
-- **[SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](2025-03-20/SWEET-RL-_Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks.md)** | [原文](http://arxiv.org/abs/2503.15478v1) | 时间: 2025-03-20 13:01 
-  大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并...
-
 - **[More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns](2025-03-20/More_Information_is_Not_Always_Better-_Connections_between_Zero-Sum_Local_Nash_Equilibria_in_Feedback_and_Open-Loop_Information_Patterns.md)** | [原文](http://arxiv.org/abs/2503.15486v1) | 时间: 2025-03-20 13:01 
   非合作动态博弈理论为多智能体在无通信情况下的序贯决策提供了建模方法。研究重点在于寻找不同信息结构下双...
+
+- **[SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](2025-03-20/SWEET-RL-_Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks.md)** | [原文](http://arxiv.org/abs/2503.15478v1) | 时间: 2025-03-20 13:01 
+  大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并...
 
 - **[Value Profiles for Encoding Human Variation](2025-03-20/Value_Profiles_for_Encoding_Human_Variation.md)** | [原文](http://arxiv.org/abs/2503.15484v1) | 时间: 2025-03-20 13:01 
   本研究提出了一种通过价值档案（自然语言描述）和可调控解码器模型来建模人类评分任务中的个体差异的方法。...
 
 - **[From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](2025-03-20/From_1,000,000_Users_to_Every_User-_Scaling_Up_Personalized_Preference_for_User-level_Alignment.md)** | [原文](http://arxiv.org/abs/2503.15463v1) | 时间: 2025-03-20 13:01 
   本文提出了一种可扩展的个性化对齐大语言模型（LLMs）的框架，突破了传统“一刀切”方法的局限。通过建立系...
-
-- **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-20/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-20 12:06 
-  本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型通过无限词汇量的标记分类器和位运算自我校正机制...
-
-- **[Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-20/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)** | [原文](https://weibo.com/1870858943/P4uA6ySTO) | 时间: 2025-03-20 12:06 
-  本文介绍了Florence-VL，一种新型多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉表...
-
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-20 12:05 
-  这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
-
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-20 12:05 
-  AMiner是一个智能科技情报挖掘与服务系统，提供论文查找、理解、分析和写作的一站式服务。它支持中英文文献检...
-
-- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-20 12:05 
-  本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-20 12:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
-
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-20 12:04 
-  本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该框架...
-
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-20 12:04 
-  本文介绍了AgentSociety，一种大规模社会模拟器，结合大型语言模型驱动的代理、真实社会环境和强大的模拟引擎，...
-
-- **[#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-20/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)** | [原文](https://weibo.com/6105753431/PjqfIgl7K) | 时间: 2025-03-20 12:03 
-  ByteCraft是一个创新的AI项目，能够根据文本描述直接生成可执行的二进制文件。该项目在4个GPU上对7B参数的Qwen2....
-
-- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-20 12:03 
-  微博话题#人类推理能力可能早已达到峰值#引发讨论，内容指出人类的推理能力可能已经达到了极限。尽管相关数...
-
-- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-20/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-20 12:03 
-  在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
-
-- **[#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-20/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)** | [原文](https://weibo.com/6105753431/PjqJ9kuAE) | 时间: 2025-03-20 12:02 
-  宇树机器人展示了全球首个侧空翻的机器人，而波士顿动力则发布了其Altas机器人的新视频，展示了爬行、侧翻和...
-
-- **[#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-20/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)** | [原文](https://weibo.com/6105753431/PjqCggUKw) | 时间: 2025-03-20 12:02 
-  钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的生态政策，包括...
-
-- **[#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-20/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)** | [原文](https://weibo.com/6105753431/PjqBuE4Oj) | 时间: 2025-03-20 12:02 
-  Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”或“超级助手”，...
-
-- **[#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-20/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)** | [原文](https://weibo.com/6105753431/Pjr6kkgb3) | 时间: 2025-03-20 12:02 
-  AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
-
-- **[#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-20/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)** | [原文](https://weibo.com/6105753431/PjrZb2PO0) | 时间: 2025-03-20 12:01 
-  3月20日，阿里妈妈在上海举办了“未来商业奖（秋冬季）颁奖盛典”，宣布了一系列创新举措，包括升级自研广告...
-
-- **[#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-20/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)** | [原文](https://weibo.com/6105753431/PjrPPz0BP) | 时间: 2025-03-20 12:01 
-  字节跳动与清华AIR联合实验室SIA Lab开发了一种名为DAPO的强化学习（RL）算法，该算法在AIME 2024基准测试中表现优...
-
-- **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-20/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-20 12:01 
-  华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，搭载纯血鸿蒙系统，流畅度提升40%。该手机首次全量首...
 
 - **[#生命游戏##模拟世界的方块游戏#康威的生命游戏（Conway’s Game of Life，简称“生命游戏”）是英国数学家John Horton Conway于1970年提出的一种零玩家游戏。它...](2025-03-20/#生命游戏##模拟世界的方块游戏#康威的生命游戏（Conway’s_Game_of_Life，简称“生命游戏”）是英国数学家John_Horton_Conway于1970年提出的一种零玩家游戏。它....md)** | [原文](https://weibo.com/6105753431/PjpP34bFm) | 时间: 2025-03-20 11:03 
   康威的生命游戏是由英国数学家John Horton Conway于1970年提出的一种零玩家游戏，属于二维元胞自动机。游戏基于简...
