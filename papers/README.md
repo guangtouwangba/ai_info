@@ -15,64 +15,64 @@
 
 ### [#OpenAI史上最贵模型来了# 比DeepSeek贵270倍比DeepSeek-R1贵270倍，OpenAI史上最贵模型来了！就在刚刚，OpenAI上线了推理模型o1-pro的API。本来大家还挺高兴，...](2025-03-20/#OpenAI史上最贵模型来了#_比DeepSeek贵270倍比DeepSeek-R1贵270倍，OpenAI史上最贵模型来了！就在刚刚，OpenAI上线了推理模型o1-pro的API。本来大家还挺高兴，....md)
 
-**摘要**: OpenAI最近推出了其史上最贵的推理模型o1-pro的API，其价格引起了广泛关注和争议。该模型的100万输入/输出token的价...
+**摘要**: OpenAI最近推出了其史上最贵的推理模型o1-pro的API，其价格引发了广泛争议。该模型的100万输入/输出token价格分别为...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjoKfbBQb)
-**收录时间**: 2025-03-20 04:01
+**收录时间**: 2025-03-20 13:03
 
 ---
 
 ### [#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，...](2025-03-20/#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，....md)
 
-**摘要**: 小米集团2022年业绩创历史新高，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务仍是...
+**摘要**: 小米集团2022年财报显示，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pjh3s3xnt)
-**收录时间**: 2025-03-20 04:02
+**收录时间**: 2025-03-20 13:05
 
 ---
 
 ### [#小米成中国市值第一车企#小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值...](2025-03-20/#小米成中国市值第一车企#小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值....md)
 
-**摘要**: 小米凭借其SU7车型的热销，市值在短短一年内翻了近四倍，达到1.36万亿元，超越比亚迪成为中国市值最高的汽车...
+**摘要**: 小米凭借其SU7车型的热销，市值在一年内翻了近四倍，达到1.36万亿元，超越比亚迪成为中国市值最高的汽车制造...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pjh3Hx0JF)
-**收录时间**: 2025-03-20 04:02
+**收录时间**: 2025-03-20 13:04
 
 ---
 
 ### [#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰...](2025-03-20/#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰....md)
 
-**摘要**: 在2024年的财报电话会议上，小米总裁卢伟冰透露了小米汽车的发展愿景。2024年的关键词是“增长”，而2025年则是...
+**摘要**: 在2024年财报电话会议上，小米总裁卢伟冰透露了小米汽车的发展愿景。2024年的关键词是“增长”，而2025年则是“...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pjh3cujOA)
-**收录时间**: 2025-03-20 04:03
+**收录时间**: 2025-03-20 13:05
 
 ---
 
 ### [#搜索竞技场上线##AI联网搜索竞技场#AI联网搜索这一块，也有竞技场了。Chatbot Arena做了个搜索竞技场（Search Arena），这是一个盲测AI的搜索能力的平台，用户...](2025-03-20/#搜索竞技场上线##AI联网搜索竞技场#AI联网搜索这一块，也有竞技场了。Chatbot_Arena做了个搜索竞技场（Search_Arena），这是一个盲测AI的搜索能力的平台，用户....md)
 
-**摘要**: Chatbot Arena推出了“搜索竞技场”（Search Arena），这是一个盲测AI搜索能力的平台，用户可以通过投票比较不同模型...
+**摘要**: Chatbot Arena推出了“搜索竞技场”（Search Arena），这是一个盲测AI搜索能力的平台。用户可以通过投票比较不同模型...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjhE3gcQk)
-**收录时间**: 2025-03-20 04:02
+**收录时间**: 2025-03-20 13:04
 
 ---
 
 ### [#机器人会侧空翻了##全球首次人形机器人原地侧空翻#宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。官方发布的【视频】显示，机器人不仅顺利完成侧...](2025-03-20/#机器人会侧空翻了##全球首次人形机器人原地侧空翻#宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。官方发布的【视频】显示，机器人不仅顺利完成侧....md)
 
-**摘要**: 宇树科技的G1人形机器人成功完成了全球首次原地侧空翻动作，展示了其流畅的翻滚和协调的机身控制。这一成就...
+**摘要**: 宇树科技的G1人形机器人成功完成了全球首次原地侧空翻动作，展示了其流畅的翻滚和协调的机身动作。这一成就...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjhiRtxtD)
-**收录时间**: 2025-03-20 04:02
+**收录时间**: 2025-03-20 13:04
 
 ---
 
 ### [#老黄带迪士尼机器人炸场GTC# 老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT N1，他还预言：机器人将会是未来最大的行业。 量子位...](2025-03-20/#老黄带迪士尼机器人炸场GTC#_老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT_N1，他还预言：机器人将会是未来最大的行业。_量子位....md)
 
-**摘要**: 在GTC大会上，老黄（NVIDIA CEO 黄仁勋）展示了迪士尼机器人，并发布了机器人物理引擎Newton和基础模型GROOT N1。他...
+**摘要**: 在GTC大会上，老黄展示了迪士尼机器人，并发布了机器人物理引擎Newton和基础模型GROOT N1。他预测机器人将成为未...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pji5OnXZJ)
-**收录时间**: 2025-03-20 04:02
+**收录时间**: 2025-03-20 13:04
 
 ---
 
@@ -81,16 +81,16 @@
 **摘要**: Pebble智能手表鼻祖回归，推出Core 2 Duo和Core Time 2两款新品。Core 2 Duo延续经典设计，配备1.26英寸黑白电子墨水屏和3...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pjh4Sv6dG)
-**收录时间**: 2025-03-20 04:02
+**收录时间**: 2025-03-20 13:04
 
 ---
 
 ### [#谷歌Gemini一句话P图# 没想到谷歌推出Gemini 2.0 Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的…… 量子位的微博视...](2025-03-20/#谷歌Gemini一句话P图#_没想到谷歌推出Gemini_2.0_Flash之后，最先遭殃的居然是PS。虽然不稳定，但这个靠对话就能免费P图的功能还是挺好玩的……_量子位的微博视....md)
 
-**摘要**: 谷歌推出的Gemini 2.0 Flash版本，通过对话即可实现免费P图功能，这一创新功能虽然尚不稳定，但已经引起了广泛关...
+**摘要**: 谷歌推出的Gemini 2.0 Flash版本，通过对话即可实现免费P图功能，这一创新功能虽然尚不稳定，但其便捷性和趣味性...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjnN1AygN)
-**收录时间**: 2025-03-20 04:01
+**收录时间**: 2025-03-20 13:03
 
 ---
 
@@ -121,6 +121,15 @@
 
 ---
 
+### [A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents](2025-03-20/A_Role_of_Environmental_Complexity_on_Representation_Learning_in_Deep_Reinforcement_Learning_Agents.md)
+
+**摘要**: 研究开发了一个模拟环境，用于训练深度强化学习代理在捷径使用导航任务中的表现，灵感来自人类导航者的双解...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2407.03436v2)
+**收录时间**: 2025-03-20 13:03
+
+---
+
 ### [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](2025-03-20/Cosmos-Transfer1-_Conditional_World_Generation_with_Adaptive_Multimodal_Control.md)
 
 **摘要**: Cosmos-Transfer是一种条件世界生成模型，能够基于多种空间控制输入（如分割、深度和边缘）生成世界模拟。其设计...
@@ -136,6 +145,15 @@
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2501.03575v2)
 **收录时间**: 2025-03-20 03:11
+
+---
+
+### [Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Software Development](2025-03-20/Developer_Perspectives_on_Licensing_and_Copyright_Issues_Arising_from_Generative_AI_for_Software_Development.md)
+
+**摘要**: 本文探讨了生成式AI（GenAI）工具在编码任务中的应用及其引发的法律问题，特别是版权法相关的风险。通过对574...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2411.10877v3)
+**收录时间**: 2025-03-20 13:02
 
 ---
 
@@ -175,6 +193,15 @@
 
 ---
 
+### [From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment](2025-03-20/From_1,000,000_Users_to_Every_User-_Scaling_Up_Personalized_Preference_for_User-level_Alignment.md)
+
+**摘要**: 本文提出了一种可扩展的个性化对齐大语言模型（LLMs）的框架，突破了传统“一刀切”方法的局限。通过建立系...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.15463v1)
+**收录时间**: 2025-03-20 13:01
+
+---
+
 ### [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)
 
 **摘要**: 本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
@@ -199,6 +226,15 @@
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P4kVvfJYE)
 **收录时间**: 2025-03-20 02:33
+
+---
+
+### [Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces](2025-03-20/Hybrid_Quantum-Classical_Reinforcement_Learning_in_Latent_Observation_Spaces.md)
+
+**摘要**: 量子机器学习的最新进展激发了利用量子强化学习方法解决经典控制问题的兴趣。然而，经典强化学习环境通常涉...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2410.18284v3)
+**收录时间**: 2025-03-20 13:02
 
 ---
 
@@ -247,6 +283,24 @@
 
 ---
 
+### [Modeling crystal defects using defect-informed neural networks](2025-03-20/Modeling_crystal_defects_using_defect-informed_neural_networks.md)
+
+**摘要**: 机器学习在晶体材料研究中实现了快速预测和发现，但现有研究多集中于理想晶体，忽略了实际材料中的缺陷。这...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.15391v1)
+**收录时间**: 2025-03-20 13:02
+
+---
+
+### [More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns](2025-03-20/More_Information_is_Not_Always_Better-_Connections_between_Zero-Sum_Local_Nash_Equilibria_in_Feedback_and_Open-Loop_Information_Patterns.md)
+
+**摘要**: 非合作动态博弈理论为多智能体在无通信情况下的序贯决策提供了建模方法。研究重点在于寻找不同信息结构下双...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.15486v1)
+**收录时间**: 2025-03-20 13:01
+
+---
+
 ### [Navigating LLM Ethics: Advancements, Challenges, and Future Directions](2025-03-20/Navigating_LLM_Ethics-_Advancements,_Challenges,_and_Future_Directions.md)
 
 **摘要**: 本研究探讨了大型语言模型（LLMs）在人工智能领域的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及...
@@ -265,6 +319,42 @@
 
 ---
 
+### [Resource-Efficient Quantum Correlation Measurement: A Multicopy Neural Network Approach for Practical Applications](2025-03-20/Resource-Efficient_Quantum_Correlation_Measurement-_A_Multicopy_Neural_Network_Approach_for_Practical_Applications.md)
+
+**摘要**: 传统量子态层析（QST）方法需要重建密度矩阵，资源需求随系统规模指数增长。本文提出一种结合多拷贝测量和人...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2411.05745v2)
+**收录时间**: 2025-03-20 13:02
+
+---
+
+### [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](2025-03-20/SWEET-RL-_Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks.md)
+
+**摘要**: 大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.15478v1)
+**收录时间**: 2025-03-20 13:01
+
+---
+
+### [Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols?](2025-03-20/Subversion_Strategy_Eval-_Can_language_models_statelessly_strategize_to_subvert_control_protocols.md)
+
+**摘要**: 本文研究了AI系统在无状态操作下（即上下文间无共享内存）生成并执行策略以规避控制协议的能力。通过开发“S...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2412.12480v2)
+**收录时间**: 2025-03-20 13:02
+
+---
+
+### [Value Profiles for Encoding Human Variation](2025-03-20/Value_Profiles_for_Encoding_Human_Variation.md)
+
+**摘要**: 本研究提出了一种通过价值档案（自然语言描述）和可调控解码器模型来建模人类评分任务中的个体差异的方法。...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.15484v1)
+**收录时间**: 2025-03-20 13:01
+
+---
+
 ### [VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms](2025-03-20/VisEscape-_A_Benchmark_for_Evaluating_Exploration-driven_Decision-making_in_Virtual_Escape_Rooms.md)
 
 **摘要**: VisEscape是一个包含20个虚拟密室逃脱的基准测试，旨在评估AI模型在探索驱动规划中的表现。该测试要求模型不仅...
@@ -276,10 +366,10 @@
 
 ### [【#AI实时汉化游戏# 】其实不止Galgame……各种其他类型的游戏都可以用AI来翻译游玩，这期视频用Gal举例是因为文字对这类游戏至关重要，体验起来会更明显。啊我...](2025-03-20/【#AI实时汉化游戏#_】其实不止Galgame……各种其他类型的游戏都可以用AI来翻译游玩，这期视频用Gal举例是因为文字对这类游戏至关重要，体验起来会更明显。啊我....md)
 
-**摘要**: 这段内容主要讨论了AI在游戏实时汉化中的应用，特别是以Galgame为例，强调了文字在这类游戏中的重要性。视频展...
+**摘要**: 该微博讨论了AI技术在游戏实时汉化中的应用，特别是以Galgame为例，因为这类游戏的文字内容对玩家体验至关重要...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjoMQuFJ4)
-**收录时间**: 2025-03-20 04:01
+**收录时间**: 2025-03-20 13:03
 
 ---
 

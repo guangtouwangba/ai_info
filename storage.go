@@ -384,54 +384,97 @@ func (p *MarkdownStorageProvider) GenerateIndex() error {
 	if len(dateDirs) == 0 {
 		content.WriteString("*暂无内容*\n")
 	} else {
-		// 最新日期的内容
-		if len(dateDirs) > 0 {
-			latestDir := dateDirs[0]
-			content.WriteString(fmt.Sprintf("## 最新内容 (%s)\n\n", latestDir))
+		// 收集所有文章并按收录时间排序
+		var allPapers []paperInfo
 
-			papers, err := listPapersInDir(filepath.Join(p.outputDir, latestDir))
+		// 首先收集所有目录中的所有论文
+		for _, dir := range dateDirs {
+			papers, err := listPapersInDir(filepath.Join(p.outputDir, dir))
 			if err == nil && len(papers) > 0 {
 				for _, paper := range papers {
-					relativePath := filepath.Join(latestDir, paper.filename)
-
-					// 使用sanitizeTextForMarkdown确保标题不含任何可能导致乱码的字符
-					sanitizedTitle := sanitizeTextForMarkdown(paper.title)
-
-					// 增强展示，包含标题、摘要、时间和链接
-					content.WriteString(fmt.Sprintf("### [%s](%s)\n\n", sanitizedTitle, relativePath))
-
-					if paper.summary != "" {
-						// 确保摘要文本也经过清理
-						sanitizedSummary := sanitizeTextForMarkdown(paper.summary)
-						content.WriteString(fmt.Sprintf("**摘要**: %s\n\n", sanitizedSummary))
-					}
-
-					if paper.url != "" {
-						content.WriteString(fmt.Sprintf("**原始链接**: [查看原文](%s)\n", paper.url))
-					}
-
-					if paper.savedAt != "" {
-						content.WriteString(fmt.Sprintf("**收录时间**: %s\n", paper.savedAt))
-					}
-
-					content.WriteString("\n---\n\n")
+					// 设置目录信息，用于建立文件路径
+					paper.dirName = dir
+					allPapers = append(allPapers, paper)
 				}
-			} else {
-				content.WriteString("*该日期下暂无内容*\n")
 			}
-			content.WriteString("\n")
 		}
 
-		// 按日期列出所有内容
-		content.WriteString("## 历史内容\n\n")
-		for _, dir := range dateDirs {
-			// 跳过最新日期（因为已经在"最新内容"部分列出）
-			if dir == dateDirs[0] {
-				continue
+		// 按收录时间排序所有论文（最新的在前）
+		sort.Slice(allPapers, func(i, j int) bool {
+			// 尝试解析时间字符串
+			timeI, errI := time.Parse("2006-01-02 15:04", allPapers[i].savedAt)
+			timeJ, errJ := time.Parse("2006-01-02 15:04", allPapers[j].savedAt)
+
+			// 如果解析失败，尝试其他格式
+			if errI != nil {
+				timeI, errI = time.Parse(time.RFC3339, allPapers[i].savedAt)
+			}
+			if errJ != nil {
+				timeJ, errJ = time.Parse(time.RFC3339, allPapers[j].savedAt)
 			}
 
-			papers, err := listPapersInDir(filepath.Join(p.outputDir, dir))
-			if err != nil {
+			// 如果任一时间解析失败，使用目录名称和文件名比较
+			if errI != nil || errJ != nil {
+				// 先按目录名逆序排序
+				if allPapers[i].dirName != allPapers[j].dirName {
+					return allPapers[i].dirName > allPapers[j].dirName
+				}
+				// 目录名相同，则按文件名排序
+				return allPapers[i].filename > allPapers[j].filename
+			}
+
+			// 返回时间比较结果，较新的时间在前
+			return timeI.After(timeJ)
+		})
+
+		// 显示最新的20篇论文作为"最新内容"
+		maxLatestContent := 20
+		if len(allPapers) < maxLatestContent {
+			maxLatestContent = len(allPapers)
+		}
+
+		content.WriteString(fmt.Sprintf("## 最新内容\n\n"))
+
+		for i := 0; i < maxLatestContent; i++ {
+			paper := allPapers[i]
+			relativePath := filepath.Join(paper.dirName, paper.filename)
+
+			// 使用sanitizeTextForMarkdown确保标题不含任何可能导致乱码的字符
+			sanitizedTitle := sanitizeTextForMarkdown(paper.title)
+
+			// 增强展示，包含标题、摘要、时间和链接
+			content.WriteString(fmt.Sprintf("### [%s](%s)\n\n", sanitizedTitle, relativePath))
+
+			if paper.summary != "" {
+				// 确保摘要文本也经过清理
+				sanitizedSummary := sanitizeTextForMarkdown(paper.summary)
+				content.WriteString(fmt.Sprintf("**摘要**: %s\n\n", sanitizedSummary))
+			}
+
+			if paper.url != "" {
+				content.WriteString(fmt.Sprintf("**原始链接**: [查看原文](%s)\n", paper.url))
+			}
+
+			if paper.savedAt != "" {
+				content.WriteString(fmt.Sprintf("**收录时间**: %s\n", paper.savedAt))
+			}
+
+			content.WriteString("\n---\n\n")
+		}
+
+		// 按日期分组展示所有内容（历史内容）
+		content.WriteString("## 历史内容\n\n")
+
+		// 创建日期目录到论文映射
+		dirToPapers := make(map[string][]paperInfo)
+		for _, paper := range allPapers {
+			dirToPapers[paper.dirName] = append(dirToPapers[paper.dirName], paper)
+		}
+
+		// 按日期目录展示（日期逆序）
+		for _, dir := range dateDirs {
+			papers := dirToPapers[dir]
+			if len(papers) == 0 {
 				continue
 			}
 
@@ -491,6 +534,7 @@ type paperInfo struct {
 	summary  string // AI摘要
 	url      string // 原始链接
 	savedAt  string // 保存时间
+	dirName  string // 所在的日期目录
 }
 
 // 列出目录中的所有论文，并获取详细信息
