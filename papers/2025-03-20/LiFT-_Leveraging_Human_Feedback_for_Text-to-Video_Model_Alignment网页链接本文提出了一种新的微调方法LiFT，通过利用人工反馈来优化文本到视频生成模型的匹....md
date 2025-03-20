@@ -14,5 +14,5 @@ LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment<a href="https:
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-03-20T04:05:11Z
+- **保存时间**: 2025-03-20T06:07:04Z
 - **目录日期**: 2025-03-20
