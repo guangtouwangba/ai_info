@@ -4,12 +4,156 @@
 
 ## 最新内容
 
-### [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-21/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: 本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。该模型通过...
+**摘要**: AMiner是一个智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P4uAXfjkX)
-**收录时间**: 2025-03-21 02:31
+**原始链接**: [查看原文](https://weibo.com/1870858943/P4uBVcdzN)
+**收录时间**: 2025-03-21 03:15
+
+---
+
+### [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-21/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)
+
+**摘要**: 本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58g6zGp2)
+**收录时间**: 2025-03-21 03:15
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-03-21 03:15
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出了LatentSync，一种端到端的唇同步框架，利用音频条件的潜在扩散模型直接建模音频与视觉的复杂关系...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-03-21 03:14
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: 本文介绍了AgentSociety，一种大规模社会模拟器，结合大型语言模型驱动的代理、真实社会环境和强大的模拟引擎，...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-03-21 03:14
+
+---
+
+### [#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊...](2025-03-21/#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊....md)
+
+**摘要**: 科研人员开发了一种新型定向音频技术，利用超声波和声学超表面材料，使声音能够在空中“拐弯”，精准传输到...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjpPjgYYo)
+**收录时间**: 2025-03-21 03:13
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-03-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-03-21 03:13
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-03-21 03:13
+
+---
+
+### [#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-21/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)
+
+**摘要**: 在英伟达GTC大会上，OpenAI研究负责人Noam Brown指出，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pjq13nAlg)
+**收录时间**: 2025-03-21 03:12
+
+---
+
+### [数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-21/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)
+
+**摘要**: 微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjpR3Fjzz)
+**收录时间**: 2025-03-21 03:12
+
+---
+
+### [#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-21/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)
+
+**摘要**: 钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqCggUKw)
+**收录时间**: 2025-03-21 03:12
+
+---
+
+### [#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-21/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)
+
+**摘要**: Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”被管理。他认为未...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqBuE4Oj)
+**收录时间**: 2025-03-21 03:12
+
+---
+
+### [#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-21/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)
+
+**摘要**: ByteCraft是一项突破性技术，能够在仅4个GPU的条件下，通过微调7B参数的Qwen2.5模型，直接根据文本描述生成可执行...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqfIgl7K)
+**收录时间**: 2025-03-21 03:12
+
+---
+
+### [#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-21/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)
+
+**摘要**: 华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，首次搭载纯血鸿蒙系统，流畅度提升40%。该手机还引入...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjrhKeHfy)
+**收录时间**: 2025-03-21 03:11
+
+---
+
+### [#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-21/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)
+
+**摘要**: AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pjr6kkgb3)
+**收录时间**: 2025-03-21 03:11
+
+---
+
+### [#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-21/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)
+
+**摘要**: 3月20日，阿里妈妈在上海举办了“未来商业奖（秋冬季）颁奖盛典”，宣布了一系列创新举措，包括升级自研广告...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjrZb2PO0)
+**收录时间**: 2025-03-21 03:11
+
+---
+
+### [#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-21/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)
+
+**摘要**: 宇树机器人展示了全球首个能够侧空翻的机器人，而波士顿动力则发布了其Atlas机器人的新视频，展示了爬行、侧...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjqJ9kuAE)
+**收录时间**: 2025-03-21 03:11
 
 ---
 
@@ -22,147 +166,12 @@
 
 ---
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+### [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-21/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)
 
-**摘要**: AMiner是一个智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献...
+**摘要**: 本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。该模型通过...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P4uBVcdzN)
-**收录时间**: 2025-03-21 02:30
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示，直接建...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-03-21 02:30
-
----
-
-### [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-21/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)
-
-**摘要**: 本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58g6zGp2)
-**收录时间**: 2025-03-21 02:30
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-03-21 02:30
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-03-21 02:29
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 本文介绍了AgentSociety，一种大规模社会模拟器，结合大型语言模型驱动的代理、真实社会环境和强大的模拟引擎，...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-03-21 02:29
-
----
-
-### [#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊...](2025-03-21/#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊....md)
-
-**摘要**: 科研人员开发了一种新型定向音频技术，利用超声波和声学超表面材料，使声音能够在空中“拐弯”，精准传输到...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjpPjgYYo)
-**收录时间**: 2025-03-21 02:28
-
----
-
-### [#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-21/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)
-
-**摘要**: Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”被管理。他认为未...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjqBuE4Oj)
-**收录时间**: 2025-03-21 02:28
-
----
-
-### [数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-21/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)
-
-**摘要**: 微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjpR3Fjzz)
-**收录时间**: 2025-03-21 02:28
-
----
-
-### [#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-21/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)
-
-**摘要**: 在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pjq13nAlg)
-**收录时间**: 2025-03-21 02:28
-
----
-
-### [#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-21/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)
-
-**摘要**: ByteCraft是一个创新的AI项目，能够根据文本描述直接生成可执行的二进制文件。该项目在4个GPU上对7B参数的Qwen2....
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjqfIgl7K)
-**收录时间**: 2025-03-21 02:28
-
----
-
-### [#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-21/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)
-
-**摘要**: 华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，搭载纯血鸿蒙系统，流畅度提升40%。该手机首次搭载鸿...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjrhKeHfy)
-**收录时间**: 2025-03-21 02:27
-
----
-
-### [#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-21/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)
-
-**摘要**: AI评估机构METR提出“Barnes定律”，认为AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pjr6kkgb3)
-**收录时间**: 2025-03-21 02:27
-
----
-
-### [#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-21/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)
-
-**摘要**: 波士顿动力和宇树机器人在机器人技术领域展示了惊人的进展。宇树机器人展示了全球首个能够侧空翻的机器人，...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjqJ9kuAE)
-**收录时间**: 2025-03-21 02:27
-
----
-
-### [#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-21/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)
-
-**摘要**: 钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjqCggUKw)
-**收录时间**: 2025-03-21 02:27
-
----
-
-### [#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-21/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)
-
-**摘要**: 3月20日，阿里妈妈在上海举办了“未来商业奖（秋冬季）颁奖盛典”，宣布了一系列创新举措，包括升级自研广告...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjrZb2PO0)
-**收录时间**: 2025-03-21 02:26
+**原始链接**: [查看原文](https://weibo.com/1870858943/P4uAXfjkX)
+**收录时间**: 2025-03-21 02:31
 
 ---
 
@@ -175,72 +184,66 @@
 
 ---
 
-### [Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-20/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)
-
-**摘要**: 本文介绍了Florence-VL，一种新型的多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P4uA6ySTO)
-**收录时间**: 2025-03-20 23:04
-
----
-
 ## 历史内容
 
-### 2025-03-21 (19篇)
+### 2025-03-21 (20篇)
 
-- **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-21/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-21 02:31 
-  本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。该模型通过...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-21 03:15 
+  AMiner是一个智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献...
+
+- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-21/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-21 03:15 
+  本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
+
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-21 03:15 
+  这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
+
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-21 03:14 
+  本研究提出了LatentSync，一种端到端的唇同步框架，利用音频条件的潜在扩散模型直接建模音频与视觉的复杂关系...
+
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-21 03:14 
+  本文介绍了AgentSociety，一种大规模社会模拟器，结合大型语言模型驱动的代理、真实社会环境和强大的模拟引擎，...
+
+- **[#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊...](2025-03-21/#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊....md)** | [原文](https://weibo.com/6105753431/PjpPjgYYo) | 时间: 2025-03-21 03:13 
+  科研人员开发了一种新型定向音频技术，利用超声波和声学超表面材料，使声音能够在空中“拐弯”，精准传输到...
+
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-03-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-03-21 03:13 
+  本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-21 03:13 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
+
+- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-21/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-21 03:12 
+  在英伟达GTC大会上，OpenAI研究负责人Noam Brown指出，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
+
+- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-21/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-21 03:12 
+  微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
+
+- **[#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-21/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)** | [原文](https://weibo.com/6105753431/PjqCggUKw) | 时间: 2025-03-21 03:12 
+  钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
+
+- **[#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-21/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)** | [原文](https://weibo.com/6105753431/PjqBuE4Oj) | 时间: 2025-03-21 03:12 
+  Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”被管理。他认为未...
+
+- **[#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-21/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)** | [原文](https://weibo.com/6105753431/PjqfIgl7K) | 时间: 2025-03-21 03:12 
+  ByteCraft是一项突破性技术，能够在仅4个GPU的条件下，通过微调7B参数的Qwen2.5模型，直接根据文本描述生成可执行...
+
+- **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-21/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-21 03:11 
+  华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，首次搭载纯血鸿蒙系统，流畅度提升40%。该手机还引入...
+
+- **[#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-21/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)** | [原文](https://weibo.com/6105753431/Pjr6kkgb3) | 时间: 2025-03-21 03:11 
+  AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
+
+- **[#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-21/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)** | [原文](https://weibo.com/6105753431/PjrZb2PO0) | 时间: 2025-03-21 03:11 
+  3月20日，阿里妈妈在上海举办了“未来商业奖（秋冬季）颁奖盛典”，宣布了一系列创新举措，包括升级自研广告...
+
+- **[#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-21/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)** | [原文](https://weibo.com/6105753431/PjqJ9kuAE) | 时间: 2025-03-21 03:11 
+  宇树机器人展示了全球首个能够侧空翻的机器人，而波士顿动力则发布了其Atlas机器人的新视频，展示了爬行、侧...
 
 - **[Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-21/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)** | [原文](https://weibo.com/1870858943/P4uA6ySTO) | 时间: 2025-03-21 02:31 
   本文介绍了Florence-VL，一种新型多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉表...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-21 02:30 
-  AMiner是一个智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献...
-
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-21 02:30 
-  本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示，直接建...
-
-- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-21/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-21 02:30 
-  本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
-
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-21 02:30 
-  这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-21 02:29 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
-
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-21 02:29 
-  本文介绍了AgentSociety，一种大规模社会模拟器，结合大型语言模型驱动的代理、真实社会环境和强大的模拟引擎，...
-
-- **[#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊...](2025-03-21/#声音定向黑科技##不带耳机独享音乐#科研人员近期提出了一种定向音频技术，有望让人无需佩戴耳机即可听音乐，而周围的人却毫无察觉。这一技术依赖于超声波和特殊....md)** | [原文](https://weibo.com/6105753431/PjpPjgYYo) | 时间: 2025-03-21 02:28 
-  科研人员开发了一种新型定向音频技术，利用超声波和声学超表面材料，使声音能够在空中“拐弯”，精准传输到...
-
-- **[#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-21/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)** | [原文](https://weibo.com/6105753431/PjqBuE4Oj) | 时间: 2025-03-21 02:28 
-  Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”被管理。他认为未...
-
-- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-21/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-21 02:28 
-  微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
-
-- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-21/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-21 02:28 
-  在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
-
-- **[#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-21/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)** | [原文](https://weibo.com/6105753431/PjqfIgl7K) | 时间: 2025-03-21 02:28 
-  ByteCraft是一个创新的AI项目，能够根据文本描述直接生成可执行的二进制文件。该项目在4个GPU上对7B参数的Qwen2....
-
-- **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-21/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-21 02:27 
-  华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，搭载纯血鸿蒙系统，流畅度提升40%。该手机首次搭载鸿...
-
-- **[#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-21/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)** | [原文](https://weibo.com/6105753431/Pjr6kkgb3) | 时间: 2025-03-21 02:27 
-  AI评估机构METR提出“Barnes定律”，认为AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
-
-- **[#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-21/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)** | [原文](https://weibo.com/6105753431/PjqJ9kuAE) | 时间: 2025-03-21 02:27 
-  波士顿动力和宇树机器人在机器人技术领域展示了惊人的进展。宇树机器人展示了全球首个能够侧空翻的机器人，...
-
-- **[#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-21/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)** | [原文](https://weibo.com/6105753431/PjqCggUKw) | 时间: 2025-03-21 02:27 
-  钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
-
-- **[#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-21/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)** | [原文](https://weibo.com/6105753431/PjrZb2PO0) | 时间: 2025-03-21 02:26 
-  3月20日，阿里妈妈在上海举办了“未来商业奖（秋冬季）颁奖盛典”，宣布了一系列创新举措，包括升级自研广告...
+- **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-21/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-21 02:31 
+  本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。该模型通过...
 
 - **[#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-21/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)** | [原文](https://weibo.com/6105753431/PjrPPz0BP) | 时间: 2025-03-21 00:01 
   字节跳动与清华AIR联合实验室SIA Lab推出了一种名为DAPO的新型强化学习（RL）算法，该算法在AIME 2024基准测试中表...
@@ -265,8 +268,8 @@
 - **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-20 23:03 
   本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
 
-- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-20/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-20 23:02 
-  在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
+- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-20 23:02 
+  微博话题#人类推理能力可能早已达到峰值#引发了广泛讨论。尽管相关数据尚未完全证实，但这一观点值得深思。...
 
 - **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-20 23:02 
   该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
@@ -280,8 +283,8 @@
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-20 23:02 
   本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
 
-- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-20 23:02 
-  微博话题#人类推理能力可能早已达到峰值#引发了广泛讨论。尽管相关数据尚未完全证实，但这一观点值得深思。...
+- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-20/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-20 23:02 
+  在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
 
 - **[#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-20/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)** | [原文](https://weibo.com/6105753431/PjqJ9kuAE) | 时间: 2025-03-20 23:01 
   宇树机器人展示了全球首个能完成侧空翻的机器人，而波士顿动力也不甘示弱，发布了Atlas机器人的新视频，展示...
