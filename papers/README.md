@@ -4,39 +4,21 @@
 
 ## 最新内容
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献检...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P4uBVcdzN)
-**收录时间**: 2025-03-21 19:06
-
----
-
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
 **摘要**: 这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-03-21 19:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-03-21 19:05
+**收录时间**: 2025-03-21 20:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出了一种名为LatentSync的端到端唇同步框架，利用音频条件的潜在扩散模型直接建模复杂的音频视觉相关...
+**摘要**: 本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该框架...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-03-21 19:05
+**收录时间**: 2025-03-21 20:05
 
 ---
 
@@ -45,61 +27,61 @@
 **摘要**: 本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58g6zGp2)
-**收录时间**: 2025-03-21 19:05
+**收录时间**: 2025-03-21 20:05
 
 ---
 
-### [#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将...](2025-03-21/#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: 英伟达支持的AI初创公司CoreWeave正在筹备首次公开募股（IPO），预计募资约27亿美元，估值最高可达260亿美元。CoreW...
+**摘要**: AMiner是一个智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjyvGlBSw)
-**收录时间**: 2025-03-21 19:04
-
----
-
-### [#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一...](2025-03-21/#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一....md)
-
-**摘要**: 微软放弃了与CoreWeave签署的价值120亿美元的数据中心扩容订单，随后OpenAI接手了这一订单。OpenAI是微软的主要投资...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjyvoBJ6v)
-**收录时间**: 2025-03-21 19:04
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本上下文...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-03-21 19:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/P4uBVcdzN)
+**收录时间**: 2025-03-21 20:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-03-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因...
+**摘要**: 本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC中常见的致癌驱动基...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-03-21 19:04
+**收录时间**: 2025-03-21 20:04
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-03-21 20:04
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: 本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-03-21 20:04
 
 ---
 
 ### [#Nature发文智能体摩尔定律# AI Agents（智能体）也有自己的“摩尔定律”了？！就在最近，Nature报道了一项来自非营利研究机构METR的最新发现：AI在完成长期任务...](2025-03-21/#Nature发文智能体摩尔定律#_AI_Agents（智能体）也有自己的“摩尔定律”了？！就在最近，Nature报道了一项来自非营利研究机构METR的最新发现：AI在完成长期任务....md)
 
-**摘要**: Nature最近报道了非营利研究机构METR的一项发现，指出AI在完成长期任务方面的进步速度惊人，其能力大约每七个月...
+**摘要**: Nature最近报道了非营利研究机构METR的一项发现，指出AI在完成长期任务方面的进步速度惊人，大约每七个月翻一番...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjyuB3PxL)
-**收录时间**: 2025-03-21 19:04
+**收录时间**: 2025-03-21 20:04
 
 ---
 
-### [#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西...](2025-03-21/#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam_Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西....md)
+### [#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料...](2025-03-21/#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料....md)
 
-**摘要**: 在最近的一次访谈中，Sam Altman反思了OpenAI的策略，指出中国团队DeepSeek的成功让OpenAI意识到开放和透明的重要性。...
+**摘要**: Anthropic宣布其AI助手Claude现已具备实时联网搜索功能，能够查询最新资料并提供引用链接，从而提供更可靠的回答...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pjyw3biwM)
-**收录时间**: 2025-03-21 19:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjzNk3bB4)
+**收录时间**: 2025-03-21 20:03
 
 ---
 
@@ -108,43 +90,52 @@
 **摘要**: OpenAI发布了三款新的语音模型，包括语音转文字的GPT-4o-transcribe和GPT-4o-mini-transcribe，以及文字转语音的GPT-4o-mini-TTS...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjzE31xe9)
-**收录时间**: 2025-03-21 19:03
-
----
-
-### [#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS 4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升...](2025-03-21/#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS_4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升....md)
-
-**摘要**: 华为在发布会上宣布了多项技术升级和新车发布。问界M9全系将升级至ADS 4.0，并首次搭载华为4D毫米波雷达，提升...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjAqeakBZ)
-**收录时间**: 2025-03-21 19:03
-
----
-
-### [#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone 16时，重点宣传了Apple...](2025-03-21/#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone_16时，重点宣传了Apple....md)
-
-**摘要**: 苹果因AI功能跳票在美国加州面临集体诉讼。该公司在发布iPhone 16时大力宣传Apple Intelligence，承诺为Siri带来革命性...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjzG5d4Ef)
-**收录时间**: 2025-03-21 19:03
-
----
-
-### [#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料...](2025-03-21/#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料....md)
-
-**摘要**: Anthropic宣布其AI助手Claude现已具备实时联网搜索功能，能够查询最新资料并提供引用链接，从而提供更准确的回答...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PjzNk3bB4)
-**收录时间**: 2025-03-21 19:03
+**收录时间**: 2025-03-21 20:03
 
 ---
 
 ### [#用AI创造你的专属3D世界##Roblox发布空间智能模型#你想体验当造物主的感觉吗？Roblox发布了空间智能Cube 3D模型，在该模型装载的世界中， 用户输入指令，就能生...](2025-03-21/#用AI创造你的专属3D世界##Roblox发布空间智能模型#你想体验当造物主的感觉吗？Roblox发布了空间智能Cube_3D模型，在该模型装载的世界中，_用户输入指令，就能生....md)
 
-**摘要**: Roblox发布了空间智能Cube 3D模型，用户通过输入指令即可生成3D模型，甚至打造专属世界。该模型利用AI对3D空间布...
+**摘要**: Roblox发布了空间智能Cube 3D模型，用户通过输入指令即可生成3D模型，甚至打造专属世界。该模型采用3D令牌化技术...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjA8wrfts)
-**收录时间**: 2025-03-21 19:03
+**收录时间**: 2025-03-21 20:03
+
+---
+
+### [#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西...](2025-03-21/#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam_Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西....md)
+
+**摘要**: 在最近的一次访谈中，Sam Altman反思了OpenAI的策略，承认中国团队DeepSeek的成功让OpenAI意识到开放和透明的重要性。...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pjyw3biwM)
+**收录时间**: 2025-03-21 20:03
+
+---
+
+### [#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone 16时，重点宣传了Apple...](2025-03-21/#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone_16时，重点宣传了Apple....md)
+
+**摘要**: 苹果因AI功能未如期上线在美国加州面临集体诉讼。该公司在发布iPhone 16时大力宣传Apple Intelligence，承诺为Siri带来...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjzG5d4Ef)
+**收录时间**: 2025-03-21 20:03
+
+---
+
+### [#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将...](2025-03-21/#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将....md)
+
+**摘要**: 英伟达支持的AI初创公司CoreWeave正在筹备首次公开募股（IPO），预计募资金额约为27亿美元，公司估值最高可达260...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjyvGlBSw)
+**收录时间**: 2025-03-21 20:03
+
+---
+
+### [#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一...](2025-03-21/#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一....md)
+
+**摘要**: 微软决定放弃与CoreWeave签署的价值120亿美元的数据中心扩容订单，OpenAI迅速接手。OpenAI是微软的主要投资者，因此...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjyvoBJ6v)
+**收录时间**: 2025-03-21 20:03
 
 ---
 
@@ -153,34 +144,43 @@
 **摘要**: 近期，开放世界环境中的基于行动的决策引起了广泛关注。视觉语言行动（VLA）模型在大规模网络数据集上预训练...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.16365v1)
-**收录时间**: 2025-03-21 19:02
-
----
-
-### [UniSync: A Unified Framework for Audio-Visual Synchronization](2025-03-21/UniSync-_A_Unified_Framework_for_Audio-Visual_Synchronization.md)
-
-**摘要**: UniSync是一种新颖的音频-视频同步评估方法，通过嵌入相似性来处理不同音频（如梅尔频谱、HuBERT）和视觉（如RGB...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.16357v1)
-**收录时间**: 2025-03-21 19:02
+**收录时间**: 2025-03-21 20:02
 
 ---
 
 ### [#元戎启行CEO谈自动驾驶AGI新路径##对话元戎启行CEO周光# 自动驾驶实现垂直领域的AGI，有了新路径。不是Robotaxi，而是RoadAGI。在英伟达GTC 2025上，元戎启行CE...](2025-03-21/#元戎启行CEO谈自动驾驶AGI新路径##对话元戎启行CEO周光#_自动驾驶实现垂直领域的AGI，有了新路径。不是Robotaxi，而是RoadAGI。在英伟达GTC_2025上，元戎启行CE....md)
 
-**摘要**: 元戎启行CEO周光在英伟达GTC 2025上提出了RoadAGI概念，这是一种通过自动驾驶实现垂直领域AGI（人工通用智能）的新...
+**摘要**: 元戎启行CEO周光在英伟达GTC 2025上提出了一种新的自动驾驶AGI实现路径——RoadAGI。与传统的Robotaxi不同，RoadAGI旨在...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PjAtYrPQY)
-**收录时间**: 2025-03-21 19:02
+**收录时间**: 2025-03-21 20:02
 
 ---
 
-### [Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model](2025-03-21/Enhancing_Software_Quality_Assurance_with_an_Adaptive_Differential_Evolution_based_Quantum_Variational_Autoencoder-Transformer_Model.md)
+### [Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds](2025-03-21/Palatable_Conceptions_of_Disembodied_Being-_Terra_Incognita_in_the_Space_of_Possible_Minds.md)
 
-**摘要**: 本研究提出了一种新型AI驱动的质量工程平台模型——自适应差分进化量子变分自编码器-变压器模型（ADE-QVAET），...
+**摘要**: 本文探讨了如何构建一种与当代无实体AI系统的异质特性兼容的意识概念，并使其经受哲学审视。文章指出，试图...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.16335v1)
-**收录时间**: 2025-03-21 19:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.16348v1)
+**收录时间**: 2025-03-21 20:02
+
+---
+
+### [#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS 4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升...](2025-03-21/#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS_4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升....md)
+
+**摘要**: 华为在发布会上宣布了多项新技术和车型更新。问界M9将全系升级，搭载华为4D毫米波雷达和4个激光雷达，提升自...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PjAqeakBZ)
+**收录时间**: 2025-03-21 20:02
+
+---
+
+### [UniSync: A Unified Framework for Audio-Visual Synchronization](2025-03-21/UniSync-_A_Unified_Framework_for_Audio-Visual_Synchronization.md)
+
+**摘要**: UniSync是一种新颖的音频-视频同步评估方法，通过嵌入相似性处理多种音频（如梅尔频谱、HuBERT）和视觉（如RGB图...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.16357v1)
+**收录时间**: 2025-03-21 20:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-03-21 (41篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-21 19:06 
-  AMiner是一个智能科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献检...
-
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-21 19:05 
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-21 20:05 
   这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-21 19:05 
-  本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-21 20:05 
+  本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该框架...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-21 19:05 
-  本研究提出了一种名为LatentSync的端到端唇同步框架，利用音频条件的潜在扩散模型直接建模复杂的音频视觉相关...
-
-- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-21/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-21 19:05 
+- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-21/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-21 20:05 
   本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
 
-- **[#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将...](2025-03-21/#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将....md)** | [原文](https://weibo.com/6105753431/PjyvGlBSw) | 时间: 2025-03-21 19:04 
-  英伟达支持的AI初创公司CoreWeave正在筹备首次公开募股（IPO），预计募资约27亿美元，估值最高可达260亿美元。CoreW...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-21 20:05 
+  AMiner是一个智能型科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献...
 
-- **[#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一...](2025-03-21/#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一....md)** | [原文](https://weibo.com/6105753431/PjyvoBJ6v) | 时间: 2025-03-21 19:04 
-  微软放弃了与CoreWeave签署的价值120亿美元的数据中心扩容订单，随后OpenAI接手了这一订单。OpenAI是微软的主要投资...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-03-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-03-21 20:04 
+  本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC中常见的致癌驱动基...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-21 19:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本上下文...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-21 20:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-03-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-03-21 19:04 
-  本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-21 20:04 
+  本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
 
-- **[#Nature发文智能体摩尔定律# AI Agents（智能体）也有自己的“摩尔定律”了？！就在最近，Nature报道了一项来自非营利研究机构METR的最新发现：AI在完成长期任务...](2025-03-21/#Nature发文智能体摩尔定律#_AI_Agents（智能体）也有自己的“摩尔定律”了？！就在最近，Nature报道了一项来自非营利研究机构METR的最新发现：AI在完成长期任务....md)** | [原文](https://weibo.com/6105753431/PjyuB3PxL) | 时间: 2025-03-21 19:04 
-  Nature最近报道了非营利研究机构METR的一项发现，指出AI在完成长期任务方面的进步速度惊人，其能力大约每七个月...
+- **[#Nature发文智能体摩尔定律# AI Agents（智能体）也有自己的“摩尔定律”了？！就在最近，Nature报道了一项来自非营利研究机构METR的最新发现：AI在完成长期任务...](2025-03-21/#Nature发文智能体摩尔定律#_AI_Agents（智能体）也有自己的“摩尔定律”了？！就在最近，Nature报道了一项来自非营利研究机构METR的最新发现：AI在完成长期任务....md)** | [原文](https://weibo.com/6105753431/PjyuB3PxL) | 时间: 2025-03-21 20:04 
+  Nature最近报道了非营利研究机构METR的一项发现，指出AI在完成长期任务方面的进步速度惊人，大约每七个月翻一番...
 
-- **[#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西...](2025-03-21/#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam_Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西....md)** | [原文](https://weibo.com/6105753431/Pjyw3biwM) | 时间: 2025-03-21 19:03 
-  在最近的一次访谈中，Sam Altman反思了OpenAI的策略，指出中国团队DeepSeek的成功让OpenAI意识到开放和透明的重要性。...
+- **[#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料...](2025-03-21/#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料....md)** | [原文](https://weibo.com/6105753431/PjzNk3bB4) | 时间: 2025-03-21 20:03 
+  Anthropic宣布其AI助手Claude现已具备实时联网搜索功能，能够查询最新资料并提供引用链接，从而提供更可靠的回答...
 
-- **[#OpenAI发布3款语音模型##OpenAI发布语音版GPT4o# 超越WhisperOpenAI发布了一整套全新的语音AI，开发者可以把自己的AI客服，从文字版升级成语音版了。新的语音模...](2025-03-21/#OpenAI发布3款语音模型##OpenAI发布语音版GPT4o#_超越WhisperOpenAI发布了一整套全新的语音AI，开发者可以把自己的AI客服，从文字版升级成语音版了。新的语音模....md)** | [原文](https://weibo.com/6105753431/PjzE31xe9) | 时间: 2025-03-21 19:03 
+- **[#OpenAI发布3款语音模型##OpenAI发布语音版GPT4o# 超越WhisperOpenAI发布了一整套全新的语音AI，开发者可以把自己的AI客服，从文字版升级成语音版了。新的语音模...](2025-03-21/#OpenAI发布3款语音模型##OpenAI发布语音版GPT4o#_超越WhisperOpenAI发布了一整套全新的语音AI，开发者可以把自己的AI客服，从文字版升级成语音版了。新的语音模....md)** | [原文](https://weibo.com/6105753431/PjzE31xe9) | 时间: 2025-03-21 20:03 
   OpenAI发布了三款新的语音模型，包括语音转文字的GPT-4o-transcribe和GPT-4o-mini-transcribe，以及文字转语音的GPT-4o-mini-TTS...
 
-- **[#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS 4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升...](2025-03-21/#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS_4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升....md)** | [原文](https://weibo.com/6105753431/PjAqeakBZ) | 时间: 2025-03-21 19:03 
-  华为在发布会上宣布了多项技术升级和新车发布。问界M9全系将升级至ADS 4.0，并首次搭载华为4D毫米波雷达，提升...
+- **[#用AI创造你的专属3D世界##Roblox发布空间智能模型#你想体验当造物主的感觉吗？Roblox发布了空间智能Cube 3D模型，在该模型装载的世界中， 用户输入指令，就能生...](2025-03-21/#用AI创造你的专属3D世界##Roblox发布空间智能模型#你想体验当造物主的感觉吗？Roblox发布了空间智能Cube_3D模型，在该模型装载的世界中，_用户输入指令，就能生....md)** | [原文](https://weibo.com/6105753431/PjA8wrfts) | 时间: 2025-03-21 20:03 
+  Roblox发布了空间智能Cube 3D模型，用户通过输入指令即可生成3D模型，甚至打造专属世界。该模型采用3D令牌化技术...
 
-- **[#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone 16时，重点宣传了Apple...](2025-03-21/#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone_16时，重点宣传了Apple....md)** | [原文](https://weibo.com/6105753431/PjzG5d4Ef) | 时间: 2025-03-21 19:03 
-  苹果因AI功能跳票在美国加州面临集体诉讼。该公司在发布iPhone 16时大力宣传Apple Intelligence，承诺为Siri带来革命性...
+- **[#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西...](2025-03-21/#Altman最新超长访谈##Altman反思DeepSeek带来的教训#在最近一场超长访谈中，Sam_Altman坦言，中国团队DeepSeek的爆火让OpenAI意识到一个重要教训：别再把好东西....md)** | [原文](https://weibo.com/6105753431/Pjyw3biwM) | 时间: 2025-03-21 20:03 
+  在最近的一次访谈中，Sam Altman反思了OpenAI的策略，承认中国团队DeepSeek的成功让OpenAI意识到开放和透明的重要性。...
 
-- **[#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料...](2025-03-21/#Claude终于可以联网了##Claude更新联网搜索功能#Claude不会上网这个短板，终于被Anthropic补上了。Anthropic宣布，Claude接入了实时联网搜索功能，能查最新资料....md)** | [原文](https://weibo.com/6105753431/PjzNk3bB4) | 时间: 2025-03-21 19:03 
-  Anthropic宣布其AI助手Claude现已具备实时联网搜索功能，能够查询最新资料并提供引用链接，从而提供更准确的回答...
+- **[#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone 16时，重点宣传了Apple...](2025-03-21/#苹果面临集体诉讼##苹果AI功能跳票引诉讼#据TechCrunch报道，苹果的AI功能一再跳票，近日在美国加州遭遇集体诉讼。苹果当初在发布iPhone_16时，重点宣传了Apple....md)** | [原文](https://weibo.com/6105753431/PjzG5d4Ef) | 时间: 2025-03-21 20:03 
+  苹果因AI功能未如期上线在美国加州面临集体诉讼。该公司在发布iPhone 16时大力宣传Apple Intelligence，承诺为Siri带来...
 
-- **[#用AI创造你的专属3D世界##Roblox发布空间智能模型#你想体验当造物主的感觉吗？Roblox发布了空间智能Cube 3D模型，在该模型装载的世界中， 用户输入指令，就能生...](2025-03-21/#用AI创造你的专属3D世界##Roblox发布空间智能模型#你想体验当造物主的感觉吗？Roblox发布了空间智能Cube_3D模型，在该模型装载的世界中，_用户输入指令，就能生....md)** | [原文](https://weibo.com/6105753431/PjA8wrfts) | 时间: 2025-03-21 19:03 
-  Roblox发布了空间智能Cube 3D模型，用户通过输入指令即可生成3D模型，甚至打造专属世界。该模型利用AI对3D空间布...
+- **[#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将...](2025-03-21/#英伟达押注的AI初创公司即将上市##AI明星公司Coreweave准备IPO#据路透社报道，英伟达力挺的CoreWeave，正在筹备首次公开募股（IPO）。外界普遍认为，这次上市将....md)** | [原文](https://weibo.com/6105753431/PjyvGlBSw) | 时间: 2025-03-21 20:03 
+  英伟达支持的AI初创公司CoreWeave正在筹备首次公开募股（IPO），预计募资金额约为27亿美元，公司估值最高可达260...
 
-- **[JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse](2025-03-21/JARVIS-VLA-_Post-Training_Large-Scale_Vision_Language_Models_to_Play_Visual_Games_with_Keyboards_and_Mouse.md)** | [原文](http://arxiv.org/abs/2503.16365v1) | 时间: 2025-03-21 19:02 
+- **[#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一...](2025-03-21/#微软不要的订单被OpenAI抢了##OpenAI掏钱买CoreWeave算力#据外媒Semafor报道，在AI热潮正盛之时，微软却做出了一个颇为“冷静”的决定：放弃与CoreWeave签署一....md)** | [原文](https://weibo.com/6105753431/PjyvoBJ6v) | 时间: 2025-03-21 20:03 
+  微软决定放弃与CoreWeave签署的价值120亿美元的数据中心扩容订单，OpenAI迅速接手。OpenAI是微软的主要投资者，因此...
+
+- **[JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse](2025-03-21/JARVIS-VLA-_Post-Training_Large-Scale_Vision_Language_Models_to_Play_Visual_Games_with_Keyboards_and_Mouse.md)** | [原文](http://arxiv.org/abs/2503.16365v1) | 时间: 2025-03-21 20:02 
   近期，开放世界环境中的基于行动的决策引起了广泛关注。视觉语言行动（VLA）模型在大规模网络数据集上预训练...
 
-- **[UniSync: A Unified Framework for Audio-Visual Synchronization](2025-03-21/UniSync-_A_Unified_Framework_for_Audio-Visual_Synchronization.md)** | [原文](http://arxiv.org/abs/2503.16357v1) | 时间: 2025-03-21 19:02 
-  UniSync是一种新颖的音频-视频同步评估方法，通过嵌入相似性来处理不同音频（如梅尔频谱、HuBERT）和视觉（如RGB...
+- **[#元戎启行CEO谈自动驾驶AGI新路径##对话元戎启行CEO周光# 自动驾驶实现垂直领域的AGI，有了新路径。不是Robotaxi，而是RoadAGI。在英伟达GTC 2025上，元戎启行CE...](2025-03-21/#元戎启行CEO谈自动驾驶AGI新路径##对话元戎启行CEO周光#_自动驾驶实现垂直领域的AGI，有了新路径。不是Robotaxi，而是RoadAGI。在英伟达GTC_2025上，元戎启行CE....md)** | [原文](https://weibo.com/6105753431/PjAtYrPQY) | 时间: 2025-03-21 20:02 
+  元戎启行CEO周光在英伟达GTC 2025上提出了一种新的自动驾驶AGI实现路径——RoadAGI。与传统的Robotaxi不同，RoadAGI旨在...
 
-- **[#元戎启行CEO谈自动驾驶AGI新路径##对话元戎启行CEO周光# 自动驾驶实现垂直领域的AGI，有了新路径。不是Robotaxi，而是RoadAGI。在英伟达GTC 2025上，元戎启行CE...](2025-03-21/#元戎启行CEO谈自动驾驶AGI新路径##对话元戎启行CEO周光#_自动驾驶实现垂直领域的AGI，有了新路径。不是Robotaxi，而是RoadAGI。在英伟达GTC_2025上，元戎启行CE....md)** | [原文](https://weibo.com/6105753431/PjAtYrPQY) | 时间: 2025-03-21 19:02 
-  元戎启行CEO周光在英伟达GTC 2025上提出了RoadAGI概念，这是一种通过自动驾驶实现垂直领域AGI（人工通用智能）的新...
+- **[Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds](2025-03-21/Palatable_Conceptions_of_Disembodied_Being-_Terra_Incognita_in_the_Space_of_Possible_Minds.md)** | [原文](http://arxiv.org/abs/2503.16348v1) | 时间: 2025-03-21 20:02 
+  本文探讨了如何构建一种与当代无实体AI系统的异质特性兼容的意识概念，并使其经受哲学审视。文章指出，试图...
 
-- **[Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model](2025-03-21/Enhancing_Software_Quality_Assurance_with_an_Adaptive_Differential_Evolution_based_Quantum_Variational_Autoencoder-Transformer_Model.md)** | [原文](http://arxiv.org/abs/2503.16335v1) | 时间: 2025-03-21 19:02 
-  本研究提出了一种新型AI驱动的质量工程平台模型——自适应差分进化量子变分自编码器-变压器模型（ADE-QVAET），...
+- **[#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS 4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升...](2025-03-21/#华为4D雷达首搭问界M9##余承东发布ADS4.0#ADS_4.0来了！刚刚，余承东官宣今年三季度ADS4.0将上车，目前透露问界M9全系都将升级。华为ADS的硬件方案也同步迎来升....md)** | [原文](https://weibo.com/6105753431/PjAqeakBZ) | 时间: 2025-03-21 20:02 
+  华为在发布会上宣布了多项新技术和车型更新。问界M9将全系升级，搭载华为4D毫米波雷达和4个激光雷达，提升自...
 
-- **[Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds](2025-03-21/Palatable_Conceptions_of_Disembodied_Being-_Terra_Incognita_in_the_Space_of_Possible_Minds.md)** | [原文](http://arxiv.org/abs/2503.16348v1) | 时间: 2025-03-21 19:02 
-  本文探讨了如何构建一种与当代无实体AI系统特性兼容的意识概念，并使其经得起哲学审视。文章指出，这种意识...
+- **[UniSync: A Unified Framework for Audio-Visual Synchronization](2025-03-21/UniSync-_A_Unified_Framework_for_Audio-Visual_Synchronization.md)** | [原文](http://arxiv.org/abs/2503.16357v1) | 时间: 2025-03-21 20:02 
+  UniSync是一种新颖的音频-视频同步评估方法，通过嵌入相似性处理多种音频（如梅尔频谱、HuBERT）和视觉（如RGB图...
 
-- **[Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment](2025-03-21/Graph_of_Effort-_Quantifying_Risk_of_AI_Usage_for_Vulnerability_Assessment.md)** | [原文](http://arxiv.org/abs/2503.16392v1) | 时间: 2025-03-21 19:02 
-  随着基于AI的软件广泛应用，利用其高自动化和复杂模式识别能力进行攻击的风险显著增加，这种攻击被称为“进...
+- **[Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model](2025-03-21/Enhancing_Software_Quality_Assurance_with_an_Adaptive_Differential_Evolution_based_Quantum_Variational_Autoencoder-Transformer_Model.md)** | [原文](http://arxiv.org/abs/2503.16335v1) | 时间: 2025-03-21 20:02 
+  本研究提出了一种新型AI驱动的质量工程平台模型——基于自适应差分进化的量子变分自编码器-变压器模型（ADE-QV...
 
-- **[GAEA: A Geolocation Aware Conversational Model](2025-03-21/GAEA-_A_Geolocation_Aware_Conversational_Model.md)** | [原文](http://arxiv.org/abs/2503.16423v1) | 时间: 2025-03-21 19:01 
+- **[Do Visual Imaginations Improve Vision-and-Language Navigation Agents?](2025-03-21/Do_Visual_Imaginations_Improve_Vision-and-Language_Navigation_Agents.md)** | [原文](http://arxiv.org/abs/2503.16394v1) | 时间: 2025-03-21 20:01 
+  本研究探讨了在视觉与语言导航（VLN）任务中，利用自然语言指令中的子目标视觉表示作为导航线索是否能提升导...
+
+- **[GAEA: A Geolocation Aware Conversational Model](2025-03-21/GAEA-_A_Geolocation_Aware_Conversational_Model.md)** | [原文](http://arxiv.org/abs/2503.16423v1) | 时间: 2025-03-21 20:01 
   图像地理定位是一项具有挑战性的任务，传统AI模型仅能预测图像的GPS坐标，缺乏对位置的理解和与用户的对话能...
 
-- **[Survey on Evaluation of LLM-based Agents](2025-03-21/Survey_on_Evaluation_of_LLM-based_Agents.md)** | [原文](http://arxiv.org/abs/2503.16416v1) | 时间: 2025-03-21 19:01 
-  本文首次全面综述了基于大型语言模型（LLM）的智能体评估方法，分析了四个关键维度的评估基准和框架：基础能...
+- **[Computing Lindahl Equilibrium for Public Goods with and without Funding Caps](2025-03-21/Computing_Lindahl_Equilibrium_for_Public_Goods_with_and_without_Funding_Caps.md)** | [原文](http://arxiv.org/abs/2503.16414v1) | 时间: 2025-03-21 20:01 
+  Lindahl均衡是一种用于在多个可分公共物品之间分配固定预算的解决方案，具有稳定性和比例公平性。研究考虑了...
 
-- **[RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints](2025-03-21/RoboFactory-_Exploring_Embodied_Agent_Collaboration_with_Compositional_Constraints.md)** | [原文](http://arxiv.org/abs/2503.16408v1) | 时间: 2025-03-21 19:01 
+- **[RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints](2025-03-21/RoboFactory-_Exploring_Embodied_Agent_Collaboration_with_Compositional_Constraints.md)** | [原文](http://arxiv.org/abs/2503.16408v1) | 时间: 2025-03-21 20:01 
   设计有效的具身多智能体系统对于解决跨领域的复杂现实任务至关重要。由于多智能体具身系统的复杂性，现有方...
 
-- **[Computing Lindahl Equilibrium for Public Goods with and without Funding Caps](2025-03-21/Computing_Lindahl_Equilibrium_for_Public_Goods_with_and_without_Funding_Caps.md)** | [原文](http://arxiv.org/abs/2503.16414v1) | 时间: 2025-03-21 19:01 
-  林达尔均衡是一种用于在多个可分公共物品之间分配固定预算的解决方案概念，始终位于核心，满足稳定性和比例...
+- **[Survey on Evaluation of LLM-based Agents](2025-03-21/Survey_on_Evaluation_of_LLM-based_Agents.md)** | [原文](http://arxiv.org/abs/2503.16416v1) | 时间: 2025-03-21 20:01 
+  本文首次全面调查了基于大型语言模型（LLM）的智能体评估方法，系统分析了四个关键维度的评估基准和框架：基...
 
-- **[Do Visual Imaginations Improve Vision-and-Language Navigation Agents?](2025-03-21/Do_Visual_Imaginations_Improve_Vision-and-Language_Navigation_Agents.md)** | [原文](http://arxiv.org/abs/2503.16394v1) | 时间: 2025-03-21 19:01 
-  本研究探讨了在视觉与语言导航（VLN）任务中，利用自然语言指令中的子目标视觉表示作为导航线索是否能够提升...
+- **[Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment](2025-03-21/Graph_of_Effort-_Quantifying_Risk_of_AI_Usage_for_Vulnerability_Assessment.md)** | [原文](http://arxiv.org/abs/2503.16392v1) | 时间: 2025-03-21 20:01 
+  随着AI软件的普及，其高自动化和复杂模式识别能力可能被恶意利用，形成“进攻性AI”。当前研究探讨了进攻性AI...
 
 - **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-21/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-21 09:05 
   华为发布了新款折叠手机Pura X，搭载了纯血鸿蒙操作系统和自研盘古大模型与DeepSeek双模型架构的AI功能，提升了40...
@@ -296,22 +296,25 @@
 - **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-21/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-21 03:12 
   微博话题#人类推理能力可能早已达到峰值#引发讨论，内容虽有待数据考证，但值得深思。该话题探讨了人类推理...
 
-- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-21/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-21 03:12 
-  在英伟达GTC大会上，OpenAI研究负责人Noam Brown指出，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
-
 - **[#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正...](2025-03-21/#AI直接生成可执行文件##AI能生成二进制文件了#想象一下，只需描述一个游戏或动画，AI就能直接生成一个可执行文件！这可不仅仅是AI生成图片或视频，而是一个真正....md)** | [原文](https://weibo.com/6105753431/PjqfIgl7K) | 时间: 2025-03-21 03:12 
   ByteCraft是一项突破性技术，能够在仅4个GPU的条件下，通过微调7B参数的Qwen2.5模型，直接根据文本描述生成可执行...
 
-- **[Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-21/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)** | [原文](https://weibo.com/1870858943/P4uA6ySTO) | 时间: 2025-03-21 02:31 
-  本文介绍了Florence-VL，一种新型多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉表...
+- **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-21/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-21 03:12 
+  在英伟达GTC大会上，OpenAI研究负责人Noam Brown指出，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
 
 - **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-21/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-21 02:31 
   本文介绍了一种名为Infinity的位运算视觉自回归模型，能够根据语言指令生成高分辨率、逼真的图像。该模型通过...
+
+- **[Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-21/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)** | [原文](https://weibo.com/1870858943/P4uA6ySTO) | 时间: 2025-03-21 02:31 
+  本文介绍了Florence-VL，一种新型多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉表...
 
 - **[#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-21/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)** | [原文](https://weibo.com/6105753431/PjrPPz0BP) | 时间: 2025-03-21 00:01 
   字节跳动与清华AIR联合实验室SIA Lab推出了一种名为DAPO的新型强化学习（RL）算法，该算法在AIME 2024基准测试中表...
 
 ### 2025-03-20 (57篇)
+
+- **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-20/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-20 23:04 
+  本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型通过无限词汇量的标记分类器和位运算自我校正机制...
 
 - **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-03-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P4uBVcdzN) | 时间: 2025-03-20 23:04 
   AMiner是一个智能科技情报挖掘与服务系统，提供查找、理解、分析和写作论文的一站式服务。它支持中英文文献检...
@@ -319,17 +322,17 @@
 - **[Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion网页链接本文提出了一种名为Florence-VL的新型多模态...](2025-03-20/Florence-VL-_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_Fusion网页链接本文提出了一种名为Florence-VL的新型多模态....md)** | [原文](https://weibo.com/1870858943/P4uA6ySTO) | 时间: 2025-03-20 23:04 
   本文介绍了Florence-VL，一种新型的多模态大型语言模型（MLLM），通过集成生成性视觉基础模型Florence-2来增强视觉...
 
-- **[Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型...](2025-03-20/Infinity-_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis网页链接本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型....md)** | [原文](https://weibo.com/1870858943/P4uAXfjkX) | 时间: 2025-03-20 23:04 
-  本文介绍了一种名为Infinity的位运算视觉自回归模型，该模型通过无限词汇量的标记分类器和位运算自我校正机制...
+- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-20 23:03 
+  本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
 
 - **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-03-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-03-20 23:03 
   本研究提出了一种名为LatentSync的端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该框架...
 
-- **[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评...](2025-03-20/From_Generation_to_Judgment-_Opportunities_and_Challenges_of_LLM-as-a-judge网页链接本文全面探讨了大型语言模型（LLM）作为评判者的应用与评估，对LLM在评....md)** | [原文](https://weibo.com/1870858943/P58g6zGp2) | 时间: 2025-03-20 23:03 
-  本文探讨了大型语言模型（LLM）作为评判者的应用与评估，详细定义了LLM评判者的概念，并从评判内容、方式和领...
-
 - **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-03-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-03-20 23:03 
   这篇论文探讨了代码生成大型语言模型（codeLLMs）在性能评估和与人类偏好对齐方面的问题。现有基准测试主要关...
+
+- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-20 23:02 
+  微博话题#人类推理能力可能早已达到峰值#引发了广泛讨论。尽管相关数据尚未完全证实，但这一观点值得深思。...
 
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-03-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-03-20 23:02 
   本文介绍了AgentSociety，一种大规模社会模拟器，结合了大型语言模型驱动的代理、真实社会环境和强大的模拟引擎...
@@ -340,23 +343,20 @@
 - **[#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann LeCun的答案很明确：AI不...](2025-03-20/#人工智能会取代人类吗##英伟达GTC大会LeCun演讲#人工智能会不会变得比人类聪明，最终摆脱控制，成为“统治者”？Meta首席AI科学家Yann_LeCun的答案很明确：AI不....md)** | [原文](https://weibo.com/6105753431/PjqBuE4Oj) | 时间: 2025-03-20 23:02 
   Meta首席AI科学家Yann LeCun在英伟达GTC大会上表示，AI不会取代人类，而是作为人类的“超级工具”被管理。他认为，...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-20 23:02 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
-
 - **[#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam Brown感慨道，某些AI推理...](2025-03-20/#AI推理20年就能实现##高校适合研究的AI方向#如果AI推理模型能早20年问世，世界会是什么样？在英伟达GTC大会上，OpenAI研究负责人Noam_Brown感慨道，某些AI推理....md)** | [原文](https://weibo.com/6105753431/Pjq13nAlg) | 时间: 2025-03-20 23:02 
   在英伟达GTC大会上，OpenAI研究负责人Noam Brown表示，某些AI推理方法其实20年前就能实现，只是当时未找到正确方法...
 
-- **[数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值# [图片]](2025-03-20/数据有待考证，但内容值得深思。#人类推理能力可能早已达到峰值#_[图片].md)** | [原文](https://weibo.com/6105753431/PjpR3Fjzz) | 时间: 2025-03-20 23:02 
-  微博话题#人类推理能力可能早已达到峰值#引发了广泛讨论。尽管相关数据尚未完全证实，但这一观点值得深思。...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-03-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-03-20 23:02 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
 
-- **[#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-20/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)** | [原文](https://weibo.com/6105753431/PjrPPz0BP) | 时间: 2025-03-20 23:01 
-  字节跳动与清华AIR联合实验室SIA Lab开发了一种名为DAPO的新型强化学习（RL）算法，该算法在AIME 2024基准测试中表...
+- **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-20/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-20 23:01 
+  华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，搭载纯血鸿蒙操作系统，流畅度提升40%。该手机首次全...
 
 - **[#波士顿动力宇树机器人神仙打架# 机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网...](2025-03-20/#波士顿动力宇树机器人神仙打架#_机器人神仙打架！宇树刚秀出全球首个侧空翻的机器人炸场，波士顿动力也连夜甩出Altas新视频，爬行、侧翻、托马斯全旋样样行，网....md)** | [原文](https://weibo.com/6105753431/PjqJ9kuAE) | 时间: 2025-03-20 23:01 
   宇树机器人展示了全球首个能完成侧空翻的机器人，而波士顿动力也不甘示弱，发布了Atlas机器人的新视频，展示...
 
-- **[#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-20/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)** | [原文](https://weibo.com/6105753431/Pjr6kkgb3) | 时间: 2025-03-20 23:01 
-  AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
+- **[#01年实习生被曝负责字节RL核心算法# 一个超越DeepSeek GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME 20...](2025-03-20/#01年实习生被曝负责字节RL核心算法#_一个超越DeepSeek_GRPO的关键RL算法出现了！用上该算法后，Qwen2.5-32B模型只经过RL训练，不引入蒸馏等其他技术，在AIME_20....md)** | [原文](https://weibo.com/6105753431/PjrPPz0BP) | 时间: 2025-03-20 23:01 
+  字节跳动与清华AIR联合实验室SIA Lab开发了一种名为DAPO的新型强化学习（RL）算法，该算法在AIME 2024基准测试中表...
 
 - **[#钉钉发布AI创新N次方计划# 3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：...](2025-03-20/#钉钉发布AI创新N次方计划#_3月20日，钉钉举办在北京举办了“AI创业N次方”生态创新大会。会上，钉钉发布了一系列全新生态政策，为AI创业者、AI转型者提供助力：....md)** | [原文](https://weibo.com/6105753431/PjqCggUKw) | 时间: 2025-03-20 23:01 
   钉钉于3月20日在北京举办了“AI创业N次方”生态创新大会，发布了一系列支持AI创业者和转型者的新政策，包括免...
@@ -364,8 +364,8 @@
 - **[#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键# 3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈...](2025-03-20/#阿里妈妈迭代AI投放模式##AI驱动下品牌高质增长成破局关键#_3月20日，由阿里妈妈主办的“阿里妈妈未来商业奖（秋冬季）颁奖盛典”在上海圆满落幕。会上，阿里妈....md)** | [原文](https://weibo.com/6105753431/PjrZb2PO0) | 时间: 2025-03-20 23:01 
   3月20日，阿里妈妈在上海举办的“未来商业奖（秋冬季）颁奖盛典”上宣布了一系列创新举措，包括升级自研广告...
 
-- **[#7499拿下纯血鸿蒙和DeepSeek#华为PuraX 不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16:10“阔形屏”折叠手机Pura X！与此同时，鸿蒙AI功能也正式...](2025-03-20/#7499拿下纯血鸿蒙和DeepSeek#华为PuraX_不是四折叠，余承东刚刚揭秘了华为“想不到的新产品”——16-10“阔形屏”折叠手机Pura_X！与此同时，鸿蒙AI功能也正式....md)** | [原文](https://weibo.com/6105753431/PjrhKeHfy) | 时间: 2025-03-20 23:01 
-  华为发布了新款折叠手机Pura X，采用16:10“阔形屏”设计，搭载纯血鸿蒙操作系统，流畅度提升40%。该手机首次全...
+- **[#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七...](2025-03-20/#AI界的摩尔定律##AI能力每隔七个月就翻倍#AI评估机构METR声称，摩尔定律的时代已经告一段落，取而代之的是“Barnes定律”：也就是AI能够处理的任务时长，每隔七....md)** | [原文](https://weibo.com/6105753431/Pjr6kkgb3) | 时间: 2025-03-20 23:01 
+  AI评估机构METR提出“Barnes定律”，指出AI处理任务的能力每隔七个月翻倍，取代了传统的摩尔定律。从2020年到2025...
 
 - **[#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰...](2025-03-20/#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰....md)** | [原文](https://weibo.com/6105753431/Pjh3cujOA) | 时间: 2025-03-20 13:05 
   在2024年财报电话会议上，小米总裁卢伟冰透露了小米汽车的发展愿景。2024年的关键词是“增长”，而2025年则是“...
