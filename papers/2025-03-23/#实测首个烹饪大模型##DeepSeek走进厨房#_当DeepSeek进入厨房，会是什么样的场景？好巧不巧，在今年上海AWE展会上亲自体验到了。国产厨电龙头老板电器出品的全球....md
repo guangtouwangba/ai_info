@@ -1,0 +1,18 @@
+# #实测首个烹饪大模型##DeepSeek走进厨房# 当DeepSeek进入厨房，会是什么样的场景？好巧不巧，在今年上海AWE展会上亲自体验到了。国产厨电龙头老板电器出品的全球...
+
+**URL**: https://weibo.com/6105753431/PjJraiUPY
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%AE%9E%E6%B5%8B%E9%A6%96%E4%B8%AA%E7%83%B9%E9%A5%AA%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23%E5%AE%9E%E6%B5%8B%E9%A6%96%E4%B8%AA%E7%83%B9%E9%A5%AA%E5%A4%A7%E6%A8%A1%E5%9E%8B%23" data-hide=""><span class="surl-text">#实测首个烹饪大模型#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23DeepSeek%E8%B5%B0%E8%BF%9B%E5%8E%A8%E6%88%BF%23&amp;extparam=%23DeepSeek%E8%B5%B0%E8%BF%9B%E5%8E%A8%E6%88%BF%23" data-hide=""><span class="surl-text">#DeepSeek走进厨房#</span></a> <br><br>当DeepSeek进入厨房，会是什么样的场景？<br><br>好巧不巧，在今年上海AWE展会上亲自体验到了。<br><br>国产厨电龙头老板电器出品的全球首个烹饪大模型「食神」升级，不光接入了DeepSeek，还拓展了多模态。像推荐菜谱、指导烹饪已经是常规操作。<br><br>在此基础上，它还能一眼看出你的健康状况——通过面部识别、分析体检报告，生成长期的健康膳食计划。【图1】<br><br>健康、养生、烹饪一步到位~赛博养生的年轻人有福了。<br><br>为了让大家更直观地感受烹饪大模型的魅力，老板电器真把它搬来了现场，一时间人从众，成为展会焦点之一。<br><br>如果说之前看到的还是大模型本身，那么这一次更像是智能体，而且是直接能干预到物理世界的那种。<br><br>要知道，我们日常看到的通用智能体，基本上是在虚拟世界完成任务，比如帮你做财报、帮你做机票规划和旅行规划。那么「食神」此次展现的，不单单在线上生成内容，比如菜谱定制、健康管理、食材技法选择，还能与我们物理生活联动。<br><br>想象一下，你可以直接在APP上直接操控厨电设备，实现菜谱的无缝制作。【图2】<br><br>具体拿此次升级的两大重点「推理和多模态」来说，相当于在更多交互方式下更懂你的意图。<br><br>首先来看最基本的对话功能，它支持深度思考、多轮对话等模式。【图3】<br><br>作为一名注重健康的上班族，日常的最大挑战就是如何在控制热量（不超过1500卡）的同时，保持饮食的健康。<br><br>将这个问题抛给「食神」。结果思考时间不到几秒，就直接抛出了三天的饮食计划。<br><br>它首先考虑到目前处在华东地区可能有的饮食习惯，推荐了具体的早餐、午餐和晚餐，并附上每餐的详细卡路里信息。【图4】<br><br>这里其实值得说一嘴，因为其实不少通用大模型有时候都分不太清「卡、卡路里、大卡」等之间的细微差别，但它们却在营养学中是个最基本最重要的单位之一。正因如此，食神不仅能够准确计算每餐的热量，还能确保为用户提供科学、合理的饮食建议。<br><br>通过对本地饮食习惯的深入理解，以及对营养学术语的准确把握，食神能够为用户量身定制饮食计划，帮助他们在享受美食的同时，保持营养均衡，达到健康目标。<br><br>这一技术实现不仅展现了AI在饮食推荐中的智能化水平，也反映了其在基础科学知识理解上的严谨性和准确性。【图5】<br><br>更关键的是，在底下还会弹出相应的菜谱做法。【图6】<br><br>如果你正好下班回家准备烹饪，只需点击就能开启语音指导模式，随时解答你的疑问。<br><br>如果你还拥有他们的数字厨房设备，可以直接启动「自动烹饪」模式。【图7】<br><br>当然要是还有更具体的要求，比如有啥忌口、饮食习惯啥的，还可以继续跟它交流调整。<br><br>而除了这种时间维度上的饮食规划，它还能支持横向的烹饪规划，以往可能仅限于一道菜的制作，而现在推理能力升级后，它能够基于现有食材规划整个「一顿饭」的烹饪流程，避免了因单道菜品制作时间过长而导致的食物冷却问题。【图8】<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAYTa_ZIozpcDbup2ijk8g" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hzpt5oavflg30fn0kz4qr.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hzpt6au1wgj30j60k6juq.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzpt6hdtffj30j5101af2.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzpt6supnfg30dd0rn7wh.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hzpt73rogwg30hk10a7wh.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hzpt7bnqjyj30u00w1tge.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzpt7jpcdhj30u00jmact.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzpt7y8aasj30u00fz49o.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+在上海AWE展会上，老板电器展示了其全球首个烹饪大模型「食神」的升级版，该模型接入了DeepSeek并拓展了多模态功能。除了常规的菜谱推荐和烹饪指导，「食神」还能通过面部识别和分析体检报告生成长期的健康膳食计划。用户可以通过APP直接操控厨电设备，实现菜谱的无缝制作。该模型支持深度思考和多轮对话，能够根据用户的饮食习惯和健康需求定制饮食计划，并支持自动烹饪模式，展现了AI在饮食推荐和健康管理中的智能化水平。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-03-23T00:03:22Z
+- **目录日期**: 2025-03-23
