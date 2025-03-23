@@ -35,5 +35,5 @@ model, LLaVA-OneVision by 25.69% and the best proprietary model, GPT-4o by
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-03-23T04:01:00Z
+- **保存时间**: 2025-03-23T05:00:59Z
 - **目录日期**: 2025-03-23
