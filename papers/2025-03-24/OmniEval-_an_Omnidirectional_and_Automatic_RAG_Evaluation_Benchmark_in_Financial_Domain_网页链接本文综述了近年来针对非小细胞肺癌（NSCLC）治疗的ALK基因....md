@@ -14,5 +14,5 @@ OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-03-24T05:05:30Z
+- **保存时间**: 2025-03-24T06:05:52Z
 - **目录日期**: 2025-03-24
