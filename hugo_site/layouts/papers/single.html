@@ -1,0 +1,112 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[草稿]</sup></div>{{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Param "source_url" }}
+  <div class="original-link">
+    <a href="{{ .Param "source_url" }}" target="_blank" rel="noopener">{{ T "viewOriginal" | default "View Original" }}</a>
+  </div>
+  {{- end }}
+
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    {{- if (.GetTerms $tags) }}
+    <ul class="post-tags">
+      {{- range (.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    
+    <!-- 相关内容推荐 -->
+    {{- $related := .Site.RegularPages.Related . | first 5 }}
+    {{- with $related }}
+    <div class="related-content">
+      <h3>{{ T "relatedContent" | default "Related Content" }}</h3>
+      <ul>
+        {{- range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+
+    <!-- 基于标签的相关内容 -->
+    {{- if (.GetTerms $tags) }}
+    {{- $tagsRelated := slice }}
+    {{- range (.GetTerms $tags) }}
+      {{- $tag := . }}
+      {{- range first 3 $tag.Pages }}
+        {{- if ne .Permalink $.Permalink }}
+          {{- $tagsRelated = $tagsRelated | append . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    
+    {{- $uniqueTagsRelated := slice }}
+    {{- range $page := $tagsRelated }}
+      {{- $found := false }}
+      {{- range $unique := $uniqueTagsRelated }}
+        {{- if eq $unique.Permalink $page.Permalink }}
+          {{- $found = true }}
+        {{- end }}
+      {{- end }}
+      {{- if not $found }}
+        {{- $uniqueTagsRelated = $uniqueTagsRelated | append $page }}
+      {{- end }}
+    {{- end }}
+    
+    {{- with $uniqueTagsRelated }}
+    <div class="tagged-related">
+      <h3>{{ T "sameTagContent" | default "More on these topics" }}</h3>
+      <ul>
+        {{- range first 5 . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+    {{- end }}
+
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}} 

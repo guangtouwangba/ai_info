@@ -1,0 +1,155 @@
+baseURL = "https://example.org/"
+title = "AI研究资料库"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+# 多语言支持配置
+defaultContentLanguage = "zh"
+
+# 明确设置多语言支持
+[params]
+  mainSections = ["papers"]
+  env = "production"
+  author = "AI Research Repository"
+  
+  # 主页设置
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+  
+  # 主页信息
+  [params.profileMode]
+    enabled = true
+    imageUrl = "/img/avatar.jpg"
+    imageTitle = "AI研究资料库Logo"
+    
+    [[params.profileMode.buttons]]
+      name = "最新内容"
+      url = "/papers/"
+    
+    [[params.profileMode.buttons]]
+      name = "标签"
+      url = "/tags/"
+  
+  # 社交图标
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername/yourrepository"
+  
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+  
+  # 编辑链接配置
+  [params.editPost]
+    URL = "https://github.com/yourusername/yourrepository/tree/main/content"
+    Text = "建议修改"
+    appendFilePath = true
+
+# 分类法配置
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# 搜索功能配置
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+# 明确设置忽略日志
+[server]
+  [[server.headers]]
+    for = "/**"
+    [server.headers.values]
+      X-Frame-Options = "DENY"
+      X-Content-Type-Options = "nosniff"
+      Referrer-Policy = "strict-origin-when-cross-origin"
+
+# 语言设置
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
+    title = "AI研究资料库"
+    description = "AI领域的最新研究论文和新闻集合"
+    
+    [languages.zh.params]
+      profileMode.title = "AI研究资料库"
+      profileMode.subtitle = "收集和整理AI领域的最新研究和新闻"
+      homeInfoParams.Title = "欢迎访问AI研究资料库"
+      homeInfoParams.Content = "这里收集了AI领域的最新研究论文和新闻，按时间排序，方便你了解AI领域的最新进展。"
+      
+    [languages.zh.menu]
+      [[languages.zh.menu.main]]
+        identifier = "papers"
+        name = "论文"
+        url = "/papers/"
+        weight = 10
+      
+      [[languages.zh.menu.main]]
+        identifier = "tags"
+        name = "标签"
+        url = "/tags/"
+        weight = 20
+      
+      [[languages.zh.menu.main]]
+        identifier = "categories"
+        name = "分类"
+        url = "/categories/"
+        weight = 30
+      
+      [[languages.zh.menu.main]]
+        identifier = "search"
+        name = "搜索"
+        url = "/search/"
+        weight = 40
+  
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "AI Research Repository"
+    description = "Latest research papers and news in AI field"
+    
+    [languages.en.params]
+      profileMode.title = "AI Research Repository"
+      profileMode.subtitle = "Collection of the latest research and news in AI field"
+      homeInfoParams.Title = "Welcome to AI Research Repository"
+      homeInfoParams.Content = "Here you'll find the latest research papers and news in AI, sorted by date for your convenience."
+      
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "papers"
+        name = "Papers"
+        url = "/papers/"
+        weight = 10
+      
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 20
+      
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 30
+      
+      [[languages.en.menu.main]]
+        identifier = "search"
+        name = "Search"
+        url = "/search/"
+        weight = 40

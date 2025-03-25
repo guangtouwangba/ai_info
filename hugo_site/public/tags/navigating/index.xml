@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Navigating on AI研究资料库</title>
+    <link>https://example.org/tags/navigating/</link>
+    <description>Recent content in Navigating on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 03:12:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/navigating/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating LLM Ethics: Advancements, Challenges, and Future Directions</title>
+      <link>https://example.org/papers/2025-03-20/navigating-llm-ethics-advancements-challenges-and-/</link>
+      <pubDate>Thu, 20 Mar 2025 03:12:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/navigating-llm-ethics-advancements-challenges-and-/</guid>
+      <description>本研究探讨了大型语言模型（LLMs）在人工智能领域的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及LLMs特有的问题，如幻觉、可验证的责任和审查复杂性。研究强调需解决这些复杂性以确保责任性、减少偏见并增强透明度，特别是在信息传播方面。提出了缓解策略和未来方向，倡导跨学科合作，推荐针对特定领域的伦理框架和适应多样环境的动态审计系统，旨在指导LLMs的负责任开发和整合，设想伦理考虑主导AI社会进步的未来。</description>
+      <content:encoded><![CDATA[<h1 id="navigating-llm-ethics-advancements-challenges-and-future-directions">Navigating LLM Ethics: Advancements, Challenges, and Future Directions</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2406.18841v4">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>This study addresses ethical issues surrounding Large Language Models (LLMs)
+within the field of artificial intelligence. It explores the common ethical
+challenges posed by both LLMs and other AI systems, such as privacy and
+fairness, as well as ethical challenges uniquely arising from LLMs. It
+highlights challenges such as hallucination, verifiable accountability, and
+decoding censorship complexity, which are unique to LLMs and distinct from
+those encountered in traditional AI systems. The study underscores the need to
+tackle these complexities to ensure accountability, reduce biases, and enhance
+transparency in the influential role that LLMs play in shaping information
+dissemination. It proposes mitigation strategies and future directions for LLM
+ethics, advocating for interdisciplinary collaboration. It recommends ethical
+frameworks tailored to specific domains and dynamic auditing systems adapted to
+diverse contexts. This roadmap aims to guide responsible development and
+integration of LLMs, envisioning a future where ethical considerations govern
+AI advancements in society.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本研究探讨了大型语言模型（LLMs）在人工智能领域的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及LLMs特有的问题，如幻觉、可验证的责任和审查复杂性。研究强调需解决这些复杂性以确保责任性、减少偏见并增强透明度，特别是在信息传播方面。提出了缓解策略和未来方向，倡导跨学科合作，推荐针对特定领域的伦理框架和适应多样环境的动态审计系统，旨在指导LLMs的负责任开发和整合，设想伦理考虑主导AI社会进步的未来。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T03:12:21Z</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Navigating LLM Ethics: Advancements, Challenges, and Future Directions</title>
+      <link>https://example.org/papers/2025-03-19/navigating-llm-ethics-advancements-challenges-and-/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/navigating-llm-ethics-advancements-challenges-and-/</guid>
+      <description>本研究探讨了大型语言模型（LLMs）在人工智能领域中的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及LLMs特有的问题，如幻觉、可验证的责任性和解码审查复杂性。研究强调了解决这些复杂性的必要性，以确保责任性、减少偏见并增强LLMs在信息传播中的透明度。提出了缓解策略和未来方向，倡导跨学科合作，推荐针对特定领域的伦理框架和适应多样环境的动态审计系统，旨在指导LLMs的负责任开发和整合，展望伦理考量主导AI社会进步的未来。</description>
+      <content:encoded><![CDATA[<h1 id="navigating-llm-ethics-advancements-challenges-and-future-directions">Navigating LLM Ethics: Advancements, Challenges, and Future Directions</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2406.18841v4">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>This study addresses ethical issues surrounding Large Language Models (LLMs)
+within the field of artificial intelligence. It explores the common ethical
+challenges posed by both LLMs and other AI systems, such as privacy and
+fairness, as well as ethical challenges uniquely arising from LLMs. It
+highlights challenges such as hallucination, verifiable accountability, and
+decoding censorship complexity, which are unique to LLMs and distinct from
+those encountered in traditional AI systems. The study underscores the need to
+tackle these complexities to ensure accountability, reduce biases, and enhance
+transparency in the influential role that LLMs play in shaping information
+dissemination. It proposes mitigation strategies and future directions for LLM
+ethics, advocating for interdisciplinary collaboration. It recommends ethical
+frameworks tailored to specific domains and dynamic auditing systems adapted to
+diverse contexts. This roadmap aims to guide responsible development and
+integration of LLMs, envisioning a future where ethical considerations govern
+AI advancements in society.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本研究探讨了大型语言模型（LLMs）在人工智能领域中的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及LLMs特有的问题，如幻觉、可验证的责任性和解码审查复杂性。研究强调了解决这些复杂性的必要性，以确保责任性、减少偏见并增强LLMs在信息传播中的透明度。提出了缓解策略和未来方向，倡导跨学科合作，推荐针对特定领域的伦理框架和适应多样环境的动态审计系统，旨在指导LLMs的负责任开发和整合，展望伦理考量主导AI社会进步的未来。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:51Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

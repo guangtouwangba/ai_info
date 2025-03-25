@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tasks on AI研究资料库</title>
+    <link>https://example.org/tags/tasks/</link>
+    <description>Recent content in Tasks on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 23:01:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/tasks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring AI Ability to Complete Long Tasks</title>
+      <link>https://example.org/papers/2025-03-19/measuring-ai-ability-to-complete-long-tasks/</link>
+      <pubDate>Wed, 19 Mar 2025 23:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/measuring-ai-ability-to-complete-long-tasks/</guid>
+      <description>尽管AI基准测试进展迅速，但其实际意义仍不明确。为量化AI系统在人类能力方面的表现，研究者提出新指标“50%任务完成时间跨度”，即人类完成AI模型50%成功率任务所需时间。研究表明，当前前沿AI模型（如Claude 3.7 Sonnet）的50%时间跨度约为50分钟，且自2019年以来每7个月翻倍，2024年可能加速。AI时间跨度的提升主要源于更高的可靠性、错误适应能力、逻辑推理和工具使用能力。若趋势持续，5年内AI或能自动化目前人类需一个月完成的软件任务。</description>
+      <content:encoded><![CDATA[<h1 id="measuring-ai-ability-to-complete-long-tasks">Measuring AI Ability to Complete Long Tasks</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14499v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Despite rapid progress on AI benchmarks, the real-world meaning of benchmark
+performance remains unclear. To quantify the capabilities of AI systems in
+terms of human capabilities, we propose a new metric: 50%-task-completion time
+horizon. This is the time humans typically take to complete tasks that AI
+models can complete with 50% success rate. We first timed humans with relevant
+domain expertise on a combination of RE-Bench, HCAST, and 66 novel shorter
+tasks. On these tasks, current frontier AI models such as Claude 3.7 Sonnet
+have a 50% time horizon of around 50 minutes. Furthermore, frontier AI time
+horizon has been doubling approximately every seven months since 2019, though
+the trend may have accelerated in 2024. The increase in AI models&rsquo; time
+horizons seems to be primarily driven by greater reliability and ability to
+adapt to mistakes, combined with better logical reasoning and tool use
+capabilities. We discuss the limitations of our results &ndash; including their
+degree of external validity &ndash; and the implications of increased autonomy for
+dangerous capabilities. If these results generalize to real-world software
+tasks, extrapolation of this trend predicts that within 5 years, AI systems
+will be capable of automating many software tasks that currently take humans a
+month.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>尽管AI基准测试进展迅速，但其实际意义仍不明确。为量化AI系统在人类能力方面的表现，研究者提出新指标“50%任务完成时间跨度”，即人类完成AI模型50%成功率任务所需时间。研究表明，当前前沿AI模型（如Claude 3.7 Sonnet）的50%时间跨度约为50分钟，且自2019年以来每7个月翻倍，2024年可能加速。AI时间跨度的提升主要源于更高的可靠性、错误适应能力、逻辑推理和工具使用能力。若趋势持续，5年内AI或能自动化目前人类需一个月完成的软件任务。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:01:16Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

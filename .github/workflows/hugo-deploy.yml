@@ -1,0 +1,62 @@
+name: Build and Deploy Hugo Site
+
+on:
+  workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '0 */12 * * *'  # 每12小时运行一次
+  push:
+    branches: [ main ]
+    paths:
+      - 'papers/**'
+      - 'hugo_site/**'
+      - '.github/workflows/hugo-deploy.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # 获取Hugo主题（如果在Git子模块中）
+          fetch-depth: 0    # 获取所有历史以便GitInfo正常工作
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+
+      - name: Install dependencies
+        run: |
+          go mod download
+        
+      - name: Run arxiv-agent
+        run: |
+          go build -o arxiv-agent .
+          ./arxiv-agent -once
+          ./arxiv-agent -export-hugo hugo_site
+        env:
+          # 可以设置环境变量来影响程序行为
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          RSS_URLS: ${{ secrets.RSS_URLS }}
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Install PaperMod Theme
+        run: git clone https://github.com/adityatelange/hugo-PaperMod.git hugo_site/themes/PaperMod --depth=1
+      
+      - name: Build
+        run: cd hugo_site && hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./hugo_site/public
+          commit_message: ${{ github.event.head_commit.message }}
+          full_commit_message: ${{ github.event.head_commit.message }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com' 

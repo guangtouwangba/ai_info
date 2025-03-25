@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spaces on AI研究资料库</title>
+    <link>https://example.org/tags/spaces/</link>
+    <description>Recent content in Spaces on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 13:02:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/spaces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces</title>
+      <link>https://example.org/papers/2025-03-20/hybrid-quantum-classical-reinforcement-learning-in/</link>
+      <pubDate>Thu, 20 Mar 2025 13:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/hybrid-quantum-classical-reinforcement-learning-in/</guid>
+      <description>量子机器学习的最新进展激发了利用量子强化学习方法解决经典控制问题的兴趣。然而，经典强化学习环境通常涉及高维问题空间，这对量子代理实现的有限且昂贵的资源构成了挑战。为解决这一维度挑战，本文提出了一种结合经典自编码器和量子代理的混合训练方法，通过联合学习压缩的观测表示来优化控制问题和量子处理单元架构的需求。通过一系列数值实验，展示了该方法在不同控制问题和光子（连续变量）及基于量子比特的代理中的性能，证明了联合训练对量子神经网络学习过程的改进效果。</description>
+      <content:encoded><![CDATA[<h1 id="hybrid-quantum-classical-reinforcement-learning-in-latent-observation-spaces">Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2410.18284v3">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Recent progress in quantum machine learning has sparked interest in using
+quantum methods to tackle classical control problems via quantum reinforcement
+learning. However, the classical reinforcement learning environments often
+scale to high dimensional problem spaces, which represents a challenge for the
+limited and costly resources available for quantum agent implementations. We
+propose to solve this dimensionality challenge by a classical autoencoder and a
+quantum agent together, where a compressed representation of observations is
+jointly learned in a hybrid training loop. The latent representation of such an
+autoencoder will serve as a tailored observation space best suited for both the
+control problem and the QPU architecture, aligning with the agent&rsquo;s
+requirements. A series of numerical experiments are designed for a performance
+analysis of the latent-space learning method. Results are presented for
+different control problems and for both photonic (continuous-variable) and
+qubit-based agents, to show how the QNN learning process is improved by the
+joint training.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>量子机器学习的最新进展激发了利用量子强化学习方法解决经典控制问题的兴趣。然而，经典强化学习环境通常涉及高维问题空间，这对量子代理实现的有限且昂贵的资源构成了挑战。为解决这一维度挑战，本文提出了一种结合经典自编码器和量子代理的混合训练方法，通过联合学习压缩的观测表示来优化控制问题和量子处理单元架构的需求。通过一系列数值实验，展示了该方法在不同控制问题和光子（连续变量）及基于量子比特的代理中的性能，证明了联合训练对量子神经网络学习过程的改进效果。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T13:02:55+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

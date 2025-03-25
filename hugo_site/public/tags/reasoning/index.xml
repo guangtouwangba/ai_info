@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reasoning on AI研究资料库</title>
+    <link>https://example.org/tags/reasoning/</link>
+    <description>Recent content in Reasoning on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 09:16:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</title>
+      <link>https://example.org/papers/2025-03-19/videomind-a-chain-of-lora-agent-for-long-video-rea/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/videomind-a-chain-of-lora-agent-for-long-video-rea/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="videomind-a-chain-of-lora-agent-for-long-video-reasoning">VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.13444v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Videos, with their unique temporal dimension, demand precise grounded
+understanding, where answers are directly linked to visual, interpretable
+evidence. Despite significant breakthroughs in reasoning capabilities within
+Large Language Models, multi-modal reasoning - especially for videos - remains
+unexplored. In this work, we introduce VideoMind, a novel video-language agent
+designed for temporal-grounded video understanding. VideoMind incorporates two
+key innovations: (i) We identify essential capabilities for video temporal
+reasoning and develop a role-based agentic workflow, including a planner for
+coordinating different roles, a grounder for temporal localization, a verifier
+to assess temporal interval accuracy, and an answerer for question-answering.
+(ii) To efficiently integrate these diverse roles, we propose a novel
+Chain-of-LoRA strategy, enabling seamless role-switching via lightweight LoRA
+adaptors while avoiding the overhead of multiple models, thus balancing
+efficiency and flexibility. Extensive experiments on 14 public benchmarks
+demonstrate that our agent achieves state-of-the-art performance on diverse
+video understanding tasks, including 3 on grounded video question-answering, 6
+on video temporal grounding, and 5 on general video question-answering,
+underscoring its effectiveness in advancing video agent and long-form temporal
+reasoning.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

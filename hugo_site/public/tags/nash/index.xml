@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nash on AI研究资料库</title>
+    <link>https://example.org/tags/nash/</link>
+    <description>Recent content in Nash on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 13:01:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/nash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns</title>
+      <link>https://example.org/papers/2025-03-20/more-information-is-not-always-better-connections-/</link>
+      <pubDate>Thu, 20 Mar 2025 13:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/more-information-is-not-always-better-connections-/</guid>
+      <description>非合作动态博弈理论为多智能体在无通信情况下的序贯决策提供了建模方法。研究重点在于寻找不同信息结构下双智能体零和动态博弈的纳什均衡。在线性二次博弈中，反馈和开环信息结构下的唯一纳什均衡轨迹相同。本文扩展至非线性动态和非凸非凹目标函数，证明局部反馈纳什均衡（FBNE）满足局部开环纳什均衡（OLNE）的一阶和二阶最优性条件，且在满足反馈充分条件时构成局部OLNE。此外，在严格互补条件下，局部FBNE也满足局部OLNE的一阶最优性条件。</description>
+      <content:encoded><![CDATA[<h1 id="more-information-is-not-always-better-connections-between-zero-sum-local-nash-equilibria-in-feedback-and-open-loop-information-patterns">More Information is Not Always Better: Connections between Zero-Sum Local Nash Equilibria in Feedback and Open-Loop Information Patterns</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.15486v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Non-cooperative dynamic game theory provides a principled approach to
+modeling sequential decision-making among multiple noncommunicative agents. A
+key focus has been on finding Nash equilibria in two-agent zero-sum dynamic
+games under various information structures. A well-known result states that in
+linear-quadratic games, unique Nash equilibria under feedback and open-loop
+information structures yield identical trajectories. Motivated by two key
+perspectives &ndash; (i) many real-world problems extend beyond linear-quadratic
+settings and lack unique equilibria, making only local Nash equilibria
+computable, and (ii) local open-loop Nash equilibria (OLNE) are easier to
+compute than local feedback Nash equilibria (FBNE) &ndash; it is natural to ask
+whether a similar result holds for local equilibria in zero-sum games. To this
+end, we establish that for a broad class of zero-sum games with potentially
+nonconvex-nonconcave objectives and nonlinear dynamics: (i) the state/control
+trajectory of a local FBNE satisfies local OLNE first-order optimality
+conditions, and vice versa, (ii) a local FBNE trajectory satisfies local OLNE
+second-order necessary conditions, (iii) a local FBNE trajectory satisfying
+feedback sufficiency conditions also constitutes a local OLNE, and (iv) with
+additional hard constraints on agents&rsquo; actuations, a local FBNE where strict
+complementarity holds also satisfies local OLNE first-order optimality
+conditions, and vice versa.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>非合作动态博弈理论为多智能体在无通信情况下的序贯决策提供了建模方法。研究重点在于寻找不同信息结构下双智能体零和动态博弈的纳什均衡。在线性二次博弈中，反馈和开环信息结构下的唯一纳什均衡轨迹相同。本文扩展至非线性动态和非凸非凹目标函数，证明局部反馈纳什均衡（FBNE）满足局部开环纳什均衡（OLNE）的一阶和二阶最优性条件，且在满足反馈充分条件时构成局部OLNE。此外，在严格互补条件下，局部FBNE也满足局部OLNE的一阶最优性条件。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T13:01:17+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

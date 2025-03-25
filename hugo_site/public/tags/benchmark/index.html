@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Benchmark - AI研究资料库</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark');
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <div class="header-content">
+        <h1><a href="/">AI研究资料库</a></h1>
+        <nav>
+            
+            <a href="/papers/">论文</a>
+            
+            <a href="/tags/">标签</a>
+            
+            <a href="/categories/">分类</a>
+            
+            <a href="/search/">搜索</a>
+            
+        </nav>
+        
+<div class="language-switcher">
+    
+    <a href="https://example.org/" class="active">
+        中文
+    </a>
+    
+    <a href="https://example.org/en/" class="">
+        English
+    </a>
+    
+</div>
+ 
+    </div>
+</header> 
+    
+    <main>
+        
+<section class="taxonomy-list">
+    <h1>Benchmark</h1>
+    <div class="papers-list">
+        
+        <article class="paper-item">
+            <h3><a href="/papers/2025-03-20/envbench-a-benchmark-for-automated-environment-set/">EnvBench: A Benchmark for Automated Environment Setup</a></h3>
+            <div class="paper-meta">
+                <span class="date">2025-03-20</span>
+            </div>
+            <div class="summary">
+                近期大型语言模型（LLMs）的进展使得研究者能够专注于软件工程领域的实际仓库级任务。本文提出EnvBench，一个全面的环境设置基准，涵盖329个Python和665个基于JVM（Java、Kotlin）的仓库，重点关注具有真实配置挑战的项目。我们实现了两种自动评估指标：Python的静态分析检查和JVM语言的编译检查。通过评估三种环境设置方法，包括一个简单的零样本基线和两个代理工作流，使用GPT-4o和GPT-4o-mini进行测试，最佳方法成功配置了6.69%的Python仓库和29.47%的JVM仓库，表明EnvBench对当前方法仍具挑战性。
+            </div>
+            <a href="/papers/2025-03-20/envbench-a-benchmark-for-automated-environment-set/" class="read-more">阅读更多</a>
+        </article>
+        
+        <article class="paper-item">
+            <h3><a href="/papers/2025-03-19/envbench-a-benchmark-for-automated-environment-set/">EnvBench: A Benchmark for Automated Environment Setup</a></h3>
+            <div class="paper-meta">
+                <span class="date">2025-03-19</span>
+            </div>
+            <div class="summary">
+                近期大型语言模型（LLMs）的进展促使研究者关注软件工程领域的实际仓库级任务。本文聚焦于自动化软件仓库环境设置任务，提出了一个全面的环境设置基准EnvBench，涵盖329个Python和665个JVM（Java、Kotlin）仓库，重点关注具有真实配置挑战的项目。我们实现了两种自动评估指标：Python的静态分析检查和JVM语言的编译检查。通过评估三种环境设置方法，包括简单的零样本基线和两种代理工作流，使用GPT-4o和GPT-4o-mini进行测试，结果表明EnvBench对当前方法仍具挑战性。基准套件公开于https://github.com/JetBrains-Research/EnvBench。
+            </div>
+            <a href="/papers/2025-03-19/envbench-a-benchmark-for-automated-environment-set/" class="read-more">阅读更多</a>
+        </article>
+        
+    </div>
+</section>
+
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 AI研究资料库</p>
+    </footer>
+</body>
+</html> 

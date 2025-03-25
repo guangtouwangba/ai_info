@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2025-03-19 on AI研究资料库</title>
+    <link>https://example.org/categories/2025-03-19/</link>
+    <description>Recent content in 2025-03-19 on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 23:04:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/categories/2025-03-19/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#8张GPU训出近SOTA模型# 超低成本图像生成预训练方案来了——仅需8张GPU训练，就能实现近SOTA的高质量图像生成效果。划重点：开源。模型名为LightGen，由港科大H...</title>
+      <link>https://example.org/papers/2025-03-19/8gpusota-8gpusotalightgenh/</link>
+      <pubDate>Wed, 19 Mar 2025 23:04:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/8gpusota-8gpusotalightgenh/</guid>
+      <description>港科大Harry Yang团队与Everlyn AI等机构合作开发了名为LightGen的开源图像生成模型。该模型通过知识蒸馏和直接偏好优化策略，显著降低了训练所需的数据规模和计算资源，仅需8张GPU即可实现接近SOTA的高质量图像生成效果。LightGen在参数量和预训练数据规模上更为精简，但在图像生成任务中表现优异，甚至超越部分现有SOTA模型。此外，LightGen将传统上需要数千GPU天的预训练过程缩短至仅88个GPU天，实现了效率与性能的良好平衡。</description>
+      <content:encoded><![CDATA[<h1 id="8张gpu训出近sota模型-超低成本图像生成预训练方案来了仅需8张gpu训练就能实现近sota的高质量图像生成效果划重点开源模型名为lightgen由港科大h">#8张GPU训出近SOTA模型# 超低成本图像生成预训练方案来了——仅需8张GPU训练，就能实现近SOTA的高质量图像生成效果。划重点：开源。模型名为LightGen，由港科大H&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/PjfF42Dzu">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%238%E5%BC%A0GPU%E8%AE%AD%E5%87%BA%E8%BF%91SOTA%E6%A8%A1%E5%9E%8B%23&amp;extparam=%238%E5%BC%A0GPU%E8%AE%AD%E5%87%BA%E8%BF%91SOTA%E6%A8%A1%E5%9E%8B%23" data-hide=""><span class="surl-text">#8张GPU训出近SOTA模型#</span></a> <br>超低成本图像生成预训练方案来了——<br><br>仅需8张GPU训练，就能实现近SOTA的高质量图像生成效果。<br><br>划重点：开源。<br><br>模型名为LightGen，由港科大Harry Yang团队联合Everlyn AI等机构打造，借助知识蒸馏（KD）和直接偏好优化（DPO）策略，有效压缩了大规模图像生成模型的训练流程。<br><br>LightGen不仅显著降低了数据规模与计算资源需求，而且在高质量图像生成任务上展现了与SOTA模型相媲美的性能。<br><br>LightGen相较于现有的生成模型，尽管参数量更小、预训练数据规模更精简，却在geneval图像生成任务的基准评测中甚至超出了部分最先进SOTA模型。<br><br>此外，LightGen在效率与性能之间实现了良好的平衡，成功地将传统上需要数千GPU days的预训练过程缩短至仅88个GPU days，即可完成高质量图像生成模型的训练。<br><br>以下是更多细节。<br><a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.toutiao.com%2Fprofile_v4%2Fgraphic%2Fpreview%3Fpgc_id%3D7483368874113745417" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzm5rp9kd9j30u00u0e81.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>港科大Harry Yang团队与Everlyn AI等机构合作开发了名为LightGen的开源图像生成模型。该模型通过知识蒸馏和直接偏好优化策略，显著降低了训练所需的数据规模和计算资源，仅需8张GPU即可实现接近SOTA的高质量图像生成效果。LightGen在参数量和预训练数据规模上更为精简，但在图像生成任务中表现优异，甚至超越部分现有SOTA模型。此外，LightGen将传统上需要数千GPU天的预训练过程缩短至仅88个GPU天，实现了效率与性能的良好平衡。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:04:39Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#豆包编程能力升级##用豆包3分钟做个小游戏#豆包编程能力升级了，现在3分钟就能做出专属小游戏。升级后，豆包支持HTML代码实时预览、Python运行，甚至是生成完整...</title>
+      <link>https://example.org/papers/2025-03-19/33htmlpython/</link>
+      <pubDate>Wed, 19 Mar 2025 23:04:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/33htmlpython/</guid>
+      <description>豆包编程能力升级，现支持3分钟内制作专属小游戏。新功能包括HTML代码实时预览、Python运行及完整项目生成。示例游戏包括点击匹配中英文泡泡消除单词、点击贺卡随机抽取生日祝福语、完成测试题生成MBTI人格。此外，豆包新增运行按钮，可直接在平台内运行Python代码。</description>
+      <content:encoded><![CDATA[<h1 id="豆包编程能力升级用豆包3分钟做个小游戏豆包编程能力升级了现在3分钟就能做出专属小游戏升级后豆包支持html代码实时预览python运行甚至是生成完整">#豆包编程能力升级##用豆包3分钟做个小游戏#豆包编程能力升级了，现在3分钟就能做出专属小游戏。升级后，豆包支持HTML代码实时预览、Python运行，甚至是生成完整&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/PjgAdcQ2V">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B1%86%E5%8C%85%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%8D%87%E7%BA%A7%23&amp;extparam=%23%E8%B1%86%E5%8C%85%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%8D%87%E7%BA%A7%23" data-hide=""><span class="surl-text">#豆包编程能力升级#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%94%A8%E8%B1%86%E5%8C%853%E5%88%86%E9%92%9F%E5%81%9A%E4%B8%AA%E5%B0%8F%E6%B8%B8%E6%88%8F%23&amp;extparam=%23%E7%94%A8%E8%B1%86%E5%8C%853%E5%88%86%E9%92%9F%E5%81%9A%E4%B8%AA%E5%B0%8F%E6%B8%B8%E6%88%8F%23" data-hide=""><span class="surl-text">#用豆包3分钟做个小游戏#</span></a><br><br>豆包编程能力升级了，现在3分钟就能做出专属小游戏。<br><br>升级后，豆包支持HTML代码实时预览、Python运行，甚至是生成完整项目。<br><br>我们先来看看HTML代码实时预览，做出的小游戏效果：<br><br>1.点击和高亮的英文泡泡意思相同的中文泡泡，就能消除单词；【图1】<br>2.点击屏幕中的贺卡，可以随机抽取一句生日祝福语；【图2】<br>3.完成4道测试题，就能自动生成你的MBTI人格。【图3】<br><br>而且，豆包生成代码后，多了一个运行按钮，在豆包内部就能运行Python代码了。【图4】<img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hzm9u4zq08g30hq0n4toe.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hzm9u7nu0qg30hq0n4e81.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzm9u7n2m1g30hq0n4k8o.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzm9u7kli8g30g00c4gs8.gif" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>豆包编程能力升级，现支持3分钟内制作专属小游戏。新功能包括HTML代码实时预览、Python运行及完整项目生成。示例游戏包括点击匹配中英文泡泡消除单词、点击贺卡随机抽取生日祝福语、完成测试题生成MBTI人格。此外，豆包新增运行按钮，可直接在平台内运行Python代码。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:04:18Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#路由LLM最全面探索##笔记本也能玩的大模型Scaling Up研究# 事关路由LLM（Routing LLM），一项截至目前最全面的研究，来了——共计收集和整理了涉及8500&#43;个LLM，...</title>
+      <link>https://example.org/papers/2025-03-19/llmscaling-up-llmrouting-llm8500llm/</link>
+      <pubDate>Wed, 19 Mar 2025 23:04:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/llmscaling-up-llmrouting-llm8500llm/</guid>
+      <description>中山大学和普渡大学的研究团队进行了一项关于路由LLM（Routing LLM）的全面研究，涉及8500多个大型语言模型（LLM）在12个基准测试上的2亿条性能记录。路由LLM通过将输入分配给最合适的LLM处理，旨在实现高性能、低计算消耗和减少幻觉。研究发现，随着LLM候选数量的增加，路由LLM的性能显著提升，这一现象被称为“Model-level Scaling Up”。此外，团队开发了RouterEval评测工具，使其他研究人员能在有限计算资源（如笔记本或单卡GPU）上参与路由LLM的研究。</description>
+      <content:encoded><![CDATA[<h1 id="路由llm最全面探索笔记本也能玩的大模型scaling-up研究-事关路由llmrouting-llm一项截至目前最全面的研究来了共计收集和整理了涉及8500个llm">#路由LLM最全面探索##笔记本也能玩的大模型Scaling Up研究# 事关路由LLM（Routing LLM），一项截至目前最全面的研究，来了——共计收集和整理了涉及8500+个LLM，&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjgszzzde">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B7%AF%E7%94%B1LLM%E6%9C%80%E5%85%A8%E9%9D%A2%E6%8E%A2%E7%B4%A2%23&amp;extparam=%23%E8%B7%AF%E7%94%B1LLM%E6%9C%80%E5%85%A8%E9%9D%A2%E6%8E%A2%E7%B4%A2%23" data-hide=""><span class="surl-text">#路由LLM最全面探索#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B9%9F%E8%83%BD%E7%8E%A9%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8BScaling+Up%E7%A0%94%E7%A9%B6%23&amp;extparam=%23%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B9%9F%E8%83%BD%E7%8E%A9%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8BScaling+Up%E7%A0%94%E7%A9%B6%23" data-hide=""><span class="surl-text">#笔记本也能玩的大模型Scaling Up研究#</span></a> <br><br>事关路由LLM（Routing LLM），一项截至目前最全面的研究，来了——<br><br>共计收集和整理了涉及8500+个LLM，在12个Benchmark上的共2亿条性能记录！<br><br>先来简单科普一下路由LLM。<br><br>这种方法主要是把像ChatGPT、Qwen、DeepSeek这些成型的LLM当作 “专家” ，当给一个输入的时候，有分类能力的Router（路由器）就会把这个输入分配给合适的LLM处理。<br><br>如此一来，就能实现高性能、低计算消耗、低幻觉等目标。<br><br>而来自中山大学和普渡大学的研究人员在基于上述海量的记录做了一番探索之后，发现了一个现象，叫做Model-level Scaling Up。<br><br>一言蔽之，就是一个好的Router，可以让路由LLM范式的性能随着LLM候选数量的增加迅速变强。<br><br>随后，他们通过这些数据构建了针对Router设计的评测RouterEval。<br><br>值得注意的是，其他研究人员，也可以通过RouterEval在很少的计算资源下（如笔记本、单卡GPU上）就能参与到该路由LLM的研究当中。<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOQFUcemTEmGC0eKUO_Fuiw" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hzm99rc631j30u0091dit.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hzm9aggvavj311w0juwlw.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>中山大学和普渡大学的研究团队进行了一项关于路由LLM（Routing LLM）的全面研究，涉及8500多个大型语言模型（LLM）在12个基准测试上的2亿条性能记录。路由LLM通过将输入分配给最合适的LLM处理，旨在实现高性能、低计算消耗和减少幻觉。研究发现，随着LLM候选数量的增加，路由LLM的性能显著提升，这一现象被称为“Model-level Scaling Up”。此外，团队开发了RouterEval评测工具，使其他研究人员能在有限计算资源（如笔记本或单卡GPU）上参与路由LLM的研究。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:04:28Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰...</title>
+      <link>https://example.org/papers/2025-03-19/20242025/</link>
+      <pubDate>Wed, 19 Mar 2025 23:04:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/20242025/</guid>
+      <description>在2024年财报电话会议上，小米总裁卢伟冰透露了小米汽车的发展愿景。2024年关键词为“增长”，2025年则为“智能化”，计划在智能驾驶领域实现“一年追三代”，并加大AI研发投入，目标在2025年进入自动驾驶第一梯队。小米智驾系统已实现高速NOA、端到端泊车等功能，2024年将进一步优化全场景智驾。此外，小米计划年底推出SUV车型YU7，定位更亲民，并加速全球化布局，计划2027年启动海外销售，挑战特斯拉Model Y的销量地位。</description>
+      <content:encoded><![CDATA[<h1 id="小米汽车透露今年愿景在财报电话会议上小米总裁卢伟冰透露了小米汽车今年的新前景2024年小米汽车的关键词是增长而2025年则是智能化卢伟冰">#小米汽车透露今年愿景#在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。卢伟冰&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjh3cujOA">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%80%8F%E9%9C%B2%E4%BB%8A%E5%B9%B4%E6%84%BF%E6%99%AF%23&amp;extparam=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%80%8F%E9%9C%B2%E4%BB%8A%E5%B9%B4%E6%84%BF%E6%99%AF%23" data-hide=""><span class="surl-text">#小米汽车透露今年愿景#</span></a><br><br>在财报电话会议上，小米总裁卢伟冰透露了小米汽车今年的新前景。<br><br>2024年，小米汽车的关键词是“增长”，而2025年，则是“智能化”。<br><br>卢伟冰表示，要在智能驾驶领域实现“一年追三代”，并计划加大AI研发投入，力争在2025年跻身自动驾驶第一梯队。<br><br>目前，小米的智驾系统已经实现高速NOA、端到端泊车、城区NOA全量推送。<br><br>而今年目标则是，进一步优化端到端全场景智驾，让小米汽车能够实现真正的“车位到车位”自动驾驶体验。<br><br>同时，在产品线扩张方面，除了持续提升SU7的产能，小米计划在2024年底推出SUV车型YU7。<br><br>YU7这款车定位更符合中国市场偏好，预计售价区间比SU7更亲民，已经被市场提前预定为“爆款”。<br><br>此外，小米正在加速全球化布局，计划于2027年正式启动海外销售，并在欧洲设立汽车研发中心，吸引国际顶级汽车人才加盟。<br><br>从目前的发展节奏来看，小米汽车不仅有望在国内市场挑战特斯拉Model Y的销量霸主地位，在全球市场也可能掀起一场新的竞争风暴。<img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hzmbwf2zqij30mi0ekwgs.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzmbwgr7esj30rj0j07h7.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hzmbwhu25mj30u00a2jvv.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hzmbwj5klyj30q70f4wjf.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>在2024年财报电话会议上，小米总裁卢伟冰透露了小米汽车的发展愿景。2024年关键词为“增长”，2025年则为“智能化”，计划在智能驾驶领域实现“一年追三代”，并加大AI研发投入，目标在2025年进入自动驾驶第一梯队。小米智驾系统已实现高速NOA、端到端泊车等功能，2024年将进一步优化全场景智驾。此外，小米计划年底推出SUV车型YU7，定位更亲民，并加速全球化布局，计划2027年启动海外销售，挑战特斯拉Model Y的销量地位。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:04:11Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，...</title>
+      <link>https://example.org/papers/2025-03-19/365935/</link>
+      <pubDate>Wed, 19 Mar 2025 23:04:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/365935/</guid>
+      <description>小米集团2022年业绩创历史新高，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元，高端化战略见效，平均售价提升至1138.2元。IoT与生活消费产品收入1041亿元，互联网服务收入341亿元。研发投入240.5亿元，重点在AI和智能驾驶。汽车业务毛利率突破20%，为未来盈利奠定基础。整体毛利率达20.9%，多元化布局进入收获期。</description>
+      <content:encoded><![CDATA[<h1 id="小米史上最强年报去年是小米集团成立以来业绩最辉煌的一年据小米年报显示小米集团全年营收高达3659亿元同比增长35第四季度更是首次突破千亿大关">#小米史上最强年报#去年是小米集团成立以来，业绩最辉煌的一年。据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjh3s3xnt">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%B9%B4%E6%8A%A5%23&amp;extparam=%23%E5%B0%8F%E7%B1%B3%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%B9%B4%E6%8A%A5%23" data-hide=""><span class="surl-text">#小米史上最强年报#</span></a><br><br>去年是小米集团成立以来，业绩最辉煌的一年。<br><br>据小米年报显示，小米集团全年营收高达3659亿元，同比增长35%，第四季度更是首次突破千亿大关，达到1090亿元。<br><br>净利润方面，小米全年调整后净利润272亿元，同比增长41.3%，其中第四季度利润同比增长近70%，远超市场预期。<br><br>值得注意的是，小米的大手笔研发投入也是这份年报中的亮点之一：全年研发支出240.5亿元，同比增长26%，其中AI和智能驾驶成为投入重点。<br><br>其中，智能手机业务依旧是小米的核心支柱，全年收入1918亿元，同比增长21.8%，高端化战略初见成效，手机ASP（平均售价）同比提升至1138.2元。<br><br>此外，IoT与生活消费产品收入1041亿元，同比增长30%，互联网服务收入341亿元，同比增长13.3%。<br><br>在多条业务线齐头并进的情况下，小米成功实现了利润率的提升，全年毛利率达到20.9%，其中汽车业务的毛利率在第四季度突破20%，这也为未来实现造车盈利奠定了基础。<br><br>可以说，这份财报不仅展示了小米当前的强势增长，也表明其多元化布局正在进入收获期。<img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hzmbx2gg8qj30o40k8431.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hzmbx3g4amj30m60dwdhm.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hzmbx4yz3xj30lg0ej75s.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hzmbx6fgegj30rz0fntck.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>小米集团2022年业绩创历史新高，全年营收达3659亿元，同比增长35%，净利润272亿元，增长41.3%。智能手机业务收入1918亿元，高端化战略见效，平均售价提升至1138.2元。IoT与生活消费产品收入1041亿元，互联网服务收入341亿元。研发投入240.5亿元，重点在AI和智能驾驶。汽车业务毛利率突破20%，为未来盈利奠定基础。整体毛利率达20.9%，多元化布局进入收获期。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:04:02Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#机器人会侧空翻了##全球首次人形机器人原地侧空翻#宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。官方发布的【视频】显示，机器人不仅顺利完成侧...</title>
+      <link>https://example.org/papers/2025-03-19/g1/</link>
+      <pubDate>Wed, 19 Mar 2025 23:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/g1/</guid>
+      <description>宇树科技的G1人形机器人成功完成了全球首次原地侧空翻动作，展示了其流畅的翻滚和协调的机身控制。这一成就体现了团队在动力学算法和机械设计方面的实力。去年，该公司还曾用H1机器人完成全球首个电机驱动人形机器人后空翻。尽管这一技术突破令人印象深刻，但部分网友更期待机器人能执行如做家务等实用性任务。</description>
+      <content:encoded><![CDATA[<h1 id="机器人会侧空翻了全球首次人形机器人原地侧空翻宇树科技的g1人形机器人刚刚完成了全球首次原地侧空翻动作官方发布的视频显示机器人不仅顺利完成侧">#机器人会侧空翻了##全球首次人形机器人原地侧空翻#宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。官方发布的【视频】显示，机器人不仅顺利完成侧&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/PjhiRtxtD">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E4%BE%A7%E7%A9%BA%E7%BF%BB%E4%BA%86%23&amp;extparam=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E4%BE%A7%E7%A9%BA%E7%BF%BB%E4%BA%86%23" data-hide=""><span class="surl-text">#机器人会侧空翻了#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8E%9F%E5%9C%B0%E4%BE%A7%E7%A9%BA%E7%BF%BB%23&amp;extparam=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8E%9F%E5%9C%B0%E4%BE%A7%E7%A9%BA%E7%BF%BB%23" data-hide=""><span class="surl-text">#全球首次人形机器人原地侧空翻#</span></a><br><br>宇树科技的G1人形机器人，刚刚完成了全球首次原地侧空翻动作。<br><br>官方发布的【视频】显示，机器人不仅顺利完成侧空翻，而且翻滚流畅，机身协调，丝毫没有多余的动作。<br>  <br>宇树科技表示，该动作是团队抽空时顺便挑战的，而且开发程序和拍摄过程中，G1没有出现任何故障。<br>  <br>去年，宇树科技曾用身高1.8米的H1机器人，完成全球首个电机驱动人形机器人后空翻动作。  <br>  <br>而这次的G1侧空翻更进一步，体现了团队独创的动力学算法和机械设计实力。<br><br>不过，评论区有网友表示，作为消费者，相比于侧空翻、回旋踢这类华丽的动作，他们更想看做家务这类实用性动作。 <a href="https://video.weibo.com/show?fid=1034:5145947307442243" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a><br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3ly1hzmd0apgkqj31hc0u0760.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/v7MDnyKElx08mNxHZWFa010412008uLn0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=j%2BBy5OFrVE&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/1AxCYHlMlx08mNxHxd4c010412004kHk0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=WdGpzq3Htq&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/i6bh1Zbslx08mNxHh15m010412002Lec0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=%2BcdeoJKhXo&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5145947307442243" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>宇树科技的G1人形机器人成功完成了全球首次原地侧空翻动作，展示了其流畅的翻滚和协调的机身控制。这一成就体现了团队在动力学算法和机械设计方面的实力。去年，该公司还曾用H1机器人完成全球首个电机驱动人形机器人后空翻。尽管这一技术突破令人印象深刻，但部分网友更期待机器人能执行如做家务等实用性任务。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:03:29Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#老黄带迪士尼机器人炸场GTC# 老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT N1，他还预言：机器人将会是未来最大的行业。 量子位...</title>
+      <link>https://example.org/papers/2025-03-19/gtc-gtcnewtongroot-n1-/</link>
+      <pubDate>Wed, 19 Mar 2025 23:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/gtc-gtcnewtongroot-n1-/</guid>
+      <description>在GTC大会上，老黄展示了迪士尼机器人，并发布了机器人物理引擎Newton和基础模型GROOT N1。他预测机器人将成为未来最大的行业。这一展示突显了机器人在未来科技发展中的重要性，并展示了相关技术的创新进展。</description>
+      <content:encoded><![CDATA[<h1 id="老黄带迪士尼机器人炸场gtc-老黄带着迪士尼机器人炸场gtc现场发布机器人物理引擎newton基础模型groot-n1他还预言机器人将会是未来最大的行业-量子位">#老黄带迪士尼机器人炸场GTC# 老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT N1，他还预言：机器人将会是未来最大的行业。 量子位&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pji5OnXZJ">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%80%81%E9%BB%84%E5%B8%A6%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%82%B8%E5%9C%BAGTC%23&amp;extparam=%23%E8%80%81%E9%BB%84%E5%B8%A6%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%82%B8%E5%9C%BAGTC%23" data-hide=""><span class="surl-text">#老黄带迪士尼机器人炸场GTC#</span></a> <br><br>老黄带着迪士尼机器人炸场GTC，现场发布机器人物理引擎Newton、基础模型GROOT N1，他还预言：机器人将会是未来最大的行业。 <a href="https://video.weibo.com/show?fid=1034:5145976109989898" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3ly1hzmgg1jtfrj30u01hc0uh.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/nD6GSYJdlx08mNFZsn2o01041200j15G0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=5qLPAFChbo&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/Mu45wiRxlx08mNFZbnTa01041200bt9O0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=sH%2BXONwaP%2B&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/5tWdyuSulx08mNFYMkbe010412006mq50E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=%2BXMj1gp55b&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5145976109989898" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>在GTC大会上，老黄展示了迪士尼机器人，并发布了机器人物理引擎Newton和基础模型GROOT N1。他预测机器人将成为未来最大的行业。这一展示突显了机器人在未来科技发展中的重要性，并展示了相关技术的创新进展。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:03:06Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#苹果限制第三方智能手表##智能手表鼻祖Pebble回归#Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。尽管Pebble品牌早已停止运营...</title>
+      <link>https://example.org/papers/2025-03-19/pebblepebblepebble/</link>
+      <pubDate>Wed, 19 Mar 2025 23:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/pebblepebblepebble/</guid>
+      <description>Pebble智能手表鼻祖回归，推出Core 2 Duo和Core Time 2两款新品，延续经典设计并升级硬件。Core 2 Duo配备1.26英寸黑白电子墨水屏，续航30天，售价$149；Core Time 2配备1.5英寸64色电子墨水屏，支持心率监测，售价$225。两款手表开放源代码，允许开发者自由修改。然而，苹果对PebbleOS手表在iPhone上的使用施加了诸多限制，如无法发送短信、快速回复消息等，导致其在Android上的体验优于iOS。苹果此举引发美国司法部反垄断调查。</description>
+      <content:encoded><![CDATA[<h1 id="苹果限制第三方智能手表智能手表鼻祖pebble回归pebble这款智能手表的鼻祖凭借超长续航和极简设计被无数科技极客奉为神器尽管pebble品牌早已停止运营">#苹果限制第三方智能手表##智能手表鼻祖Pebble回归#Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。尽管Pebble品牌早已停止运营&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjh4Sv6dG">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E9%99%90%E5%88%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%23&amp;extparam=%23%E8%8B%B9%E6%9E%9C%E9%99%90%E5%88%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%23" data-hide=""><span class="surl-text">#苹果限制第三方智能手表#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E9%BC%BB%E7%A5%96Pebble%E5%9B%9E%E5%BD%92%23&amp;extparam=%23%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E9%BC%BB%E7%A5%96Pebble%E5%9B%9E%E5%BD%92%23" data-hide=""><span class="surl-text">#智能手表鼻祖Pebble回归#</span></a><br><br>Pebble，这款智能手表的鼻祖，凭借超长续航和极简设计，被无数科技极客奉为神器。<br><br>尽管Pebble品牌早已停止运营，但一群忠实的开发者重燃了它的生命，推出了两款全新的PebbleOS手表：Core 2 Duo和Core Time 2。<br><br>先来看Core 2 Duo，它不仅延续了Pebble的经典设计，还带来了现代化的硬件升级：<br><br>- 1.26英寸黑白电子墨水屏，显示清晰<br>- 30天超长续航，比旧版Pebble 2的7天大幅提升<br>- 轻量化聚碳酸酯机身，提供黑白两种配色<br>- 物理按键操控，避免触控屏误触问题<br>- 内置扬声器和线性马达，震动反馈更强，声音更安静<br>- 售价$149（约人民币1078元），预计7月发货<br><br>接下来是Core Time 2，它是一款更先进的Pebble智能手表：<br><br>- 1.5英寸64色电子墨水屏，显示面积比Pebble Time 2大53%<br>- 金属机身+触控屏，外观更精致<br>- 预计30天续航，无需频繁充电<br>- 额外支持心率监测，增加健康功能<br>- 标准22mm表带，可自由更换<br>- 售价$225（约人民币1627元），预计12月发货<br><br>此外，这两款手表还开放了源代码，允许开发者自由修改和拓展功能。<br><br>然而，PebbleOS手表在iPhone上的使用却受到了诸多限制，包括：<br><br>- 无法代替iPhone发送短信或iMessage<br>- 无法“标记为已读”“删除”或“快速回复”消息<br>- PebbleOS应用一旦被手动关闭或iOS自动清理，手表将无法连接手机或访问互联网<br>- 无法检测用户是否在使用iPhone，哪怕你正在看手机，通知仍会震动提醒<br>- 所有应用必须经过App Store审核，每次更新都有被拒的风险<br>- 开发者无法通过iOS应用商店收费<br><br>这些限制使得新款PebbleOS手表在Android上的体验远超iOS。<br><br>苹果对外宣称这些限制是出于“安全、隐私和用户体验”考虑，但美国司法部对此展开了反垄断调查，指控苹果通过技术壁垒打压竞争对手。<br><br>Pebble的精神虽然延续了下来，但面对苹果的封闭生态，新款PebbleOS手表的未来仍充满挑战。<br><br>拓展阅读：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fericmigi.com%2Fblog%2Fapple-restricts-pebble-from-being-awesome-with-iphones" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzmc04mjl0j30zk0p4dqw.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hzmc0qbv2ij31900u075p.jpg" referrerpolicy="no-referrer"><br><br><br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hzmc0qutqij31900u075p.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/dQB50x82lx08mNvli1jO010412000GI60E010.mp4?label=mp4_720p&amp;template=1080x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=43dvOk4JA4&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/mIWN2TO1lx08mNvkZfss010412000jzH0E010.mp4?label=mp4_hd&amp;template=720x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=cdoHFvSxfh&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/7EvrACkGlx08mNvl2brW010412000cm30E010.mp4?label=mp4_ld&amp;template=540x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742428976&amp;ssig=4sPpC%2FwL6A&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5145938675564597" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>Pebble智能手表鼻祖回归，推出Core 2 Duo和Core Time 2两款新品，延续经典设计并升级硬件。Core 2 Duo配备1.26英寸黑白电子墨水屏，续航30天，售价$149；Core Time 2配备1.5英寸64色电子墨水屏，支持心率监测，售价$225。两款手表开放源代码，允许开发者自由修改。然而，苹果对PebbleOS手表在iPhone上的使用施加了诸多限制，如无法发送短信、快速回复消息等，导致其在Android上的体验优于iOS。苹果此举引发美国司法部反垄断调查。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:03:39Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#小米成中国市值第一车企#小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值...</title>
+      <link>https://example.org/papers/2025-03-19/su7136/</link>
+      <pubDate>Wed, 19 Mar 2025 23:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/su7136/</guid>
+      <description>小米凭借其SU7车型的热销，市值在一年内翻了近四倍，达到1.36万亿元，超越比亚迪成为中国市值最高的汽车制造商。这一成就得益于小米的“手机+AI+汽车”一体化生态战略及其在供应链、技术积累和用户流量上的优势。小米SU7自上市以来销量持续攀升，7个月内单月销量突破2万，并创下新势力最快十万台下线纪录。小米计划将年交付目标提升至35万辆，并推出第二款SUV车型YU7，以进一步扩大市场份额。市值的飙升反映了资本市场对小米前景的看好。</description>
+      <content:encoded><![CDATA[<h1 id="小米成中国市值第一车企小米su7的热销不仅助推公司营收增长更是带动了股价暴涨短短一年小米市值翻了近四倍突破136万亿元超越比亚迪成了中国市值">#小米成中国市值第一车企#小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjh3Hx0JF">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E6%88%90%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80%E8%BD%A6%E4%BC%81%23&amp;extparam=%23%E5%B0%8F%E7%B1%B3%E6%88%90%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80%E8%BD%A6%E4%BC%81%23" data-hide=""><span class="surl-text">#小米成中国市值第一车企#</span></a><br><br>小米SU7的热销不仅助推公司营收增长，更是带动了股价暴涨。<br><br>短短一年，小米市值翻了近四倍，突破1.36万亿元，超越比亚迪，成了中国市值最高的汽车制造商。<br><br>相比之下，比亚迪目前市值万亿元左右，而蔚来、小鹏等新势力车企则仍在千亿级别。<br><br>这背后，离不开小米的“手机+AI+汽车”一体化的生态战略，以及其品牌在供应链、技术积累、用户流量上的优势。<br><br>更重要的是，小米SU7自上市以来销量节节攀升，不仅3个月交付破万，7个月单月销量突破2万，还打破新势力最快十万台下线纪录。<br><br>目前，小米已将年交付目标提升至35万辆，并计划推出第二款SUV车型YU7，意图进一步扩大市场份额。<br><br>可以说，小米造车的第一年，交出了一份超出市场预期的成绩单，而市值的飙升正是资本市场对其前景的看好。<img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hzmbxs6msdj30zk0pyjxj.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hzmbxthhraj30u00ja7ho.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>小米凭借其SU7车型的热销，市值在一年内翻了近四倍，达到1.36万亿元，超越比亚迪成为中国市值最高的汽车制造商。这一成就得益于小米的“手机+AI+汽车”一体化生态战略及其在供应链、技术积累和用户流量上的优势。小米SU7自上市以来销量持续攀升，7个月内单月销量突破2万，并创下新势力最快十万台下线纪录。小米计划将年交付目标提升至35万辆，并推出第二款SUV车型YU7，以进一步扩大市场份额。市值的飙升反映了资本市场对小米前景的看好。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:03:50Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>搜索竞技场上线 - AI联网搜索竞技场</title>
+      <link>https://example.org/papers/2025-03-19/aiaichatbot-arenasearch-arenaai/</link>
+      <pubDate>Wed, 19 Mar 2025 23:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/aiaichatbot-arenasearch-arenaai/</guid>
+      <description>Chatbot Arena推出了搜索竞技场，这是一个盲测AI搜索能力的平台。用户可以通过投票比较不同AI模型的搜索效果。</description>
+      <content:encoded><![CDATA[<h1 id="搜索竞技场上线---ai联网搜索竞技场">搜索竞技场上线 - AI联网搜索竞技场</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/PjhE3gcQk">查看原文</a></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>Chatbot Arena推出了&quot;搜索竞技场&quot;，这是一个盲测AI搜索能力的平台。用户可以通过投票比较不同AI模型的搜索效果。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:03:15Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cosmos World Foundation Model Platform for Physical AI</title>
+      <link>https://example.org/papers/2025-03-19/cosmos-world-foundation-model-platform-for-physica/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/cosmos-world-foundation-model-platform-for-physica/</guid>
+      <description>本文介绍了Cosmos世界基础模型平台，旨在帮助开发者为其物理AI系统构建定制化的世界模型。该平台包括视频处理管道、预训练的世界基础模型、模型微调示例和视频标记器。世界基础模型作为通用模型，可微调为下游应用的定制模型。为促进物理AI解决社会关键问题，Cosmos平台开源并提供开放权重模型，许可宽松，可通过https://github.com/nvidia-cosmos/cosmos-predict1获取。</description>
+      <content:encoded><![CDATA[<h1 id="cosmos-world-foundation-model-platform-for-physical-ai">Cosmos World Foundation Model Platform for Physical AI</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2501.03575v2">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Physical AI needs to be trained digitally first. It needs a digital twin of
+itself, the policy model, and a digital twin of the world, the world model. In
+this paper, we present the Cosmos World Foundation Model Platform to help
+developers build customized world models for their Physical AI setups. We
+position a world foundation model as a general-purpose world model that can be
+fine-tuned into customized world models for downstream applications. Our
+platform covers a video curation pipeline, pre-trained world foundation models,
+examples of post-training of pre-trained world foundation models, and video
+tokenizers. To help Physical AI builders solve the most critical problems of
+our society, we make Cosmos open-source and our models open-weight with
+permissive licenses available via
+<a href="https://github.com/nvidia-cosmos/cosmos-predict1">https://github.com/nvidia-cosmos/cosmos-predict1</a>.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文介绍了Cosmos世界基础模型平台，旨在帮助开发者为其物理AI系统构建定制化的世界模型。该平台包括视频处理管道、预训练的世界基础模型、模型微调示例和视频标记器。世界基础模型作为通用模型，可微调为下游应用的定制模型。为促进物理AI解决社会关键问题，Cosmos平台开源并提供开放权重模型，许可宽松，可通过https://github.com/nvidia-cosmos/cosmos-predict1获取。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:31Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>EnvBench: A Benchmark for Automated Environment Setup</title>
+      <link>https://example.org/papers/2025-03-19/envbench-a-benchmark-for-automated-environment-set/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/envbench-a-benchmark-for-automated-environment-set/</guid>
+      <description>近期大型语言模型（LLMs）的进展促使研究者关注软件工程领域的实际仓库级任务。本文聚焦于自动化软件仓库环境设置任务，提出了一个全面的环境设置基准EnvBench，涵盖329个Python和665个JVM（Java、Kotlin）仓库，重点关注具有真实配置挑战的项目。我们实现了两种自动评估指标：Python的静态分析检查和JVM语言的编译检查。通过评估三种环境设置方法，包括简单的零样本基线和两种代理工作流，使用GPT-4o和GPT-4o-mini进行测试，结果表明EnvBench对当前方法仍具挑战性。基准套件公开于https://github.com/JetBrains-Research/EnvBench。</description>
+      <content:encoded><![CDATA[<h1 id="envbench-a-benchmark-for-automated-environment-setup">EnvBench: A Benchmark for Automated Environment Setup</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14443v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Recent advances in Large Language Models (LLMs) have enabled researchers to
+focus on practical repository-level tasks in software engineering domain. In
+this work, we consider a cornerstone task for automating work with software
+repositories-environment setup, i.e., a task of configuring a
+repository-specific development environment on a system. Existing studies on
+environment setup introduce innovative agentic strategies, but their evaluation
+is often based on small datasets that may not capture the full range of
+configuration challenges encountered in practice. To address this gap, we
+introduce a comprehensive environment setup benchmark EnvBench. It encompasses
+329 Python and 665 JVM-based (Java, Kotlin) repositories, with a focus on
+repositories that present genuine configuration challenges, excluding projects
+that can be fully configured by simple deterministic scripts. To enable further
+benchmark extension and usage for model tuning, we implement two automatic
+metrics: a static analysis check for missing imports in Python and a
+compilation check for JVM languages. We demonstrate the applicability of our
+benchmark by evaluating three environment setup approaches, including a simple
+zero-shot baseline and two agentic workflows, that we test with two powerful
+LLM backbones, GPT-4o and GPT-4o-mini. The best approach manages to
+successfully configure 6.69% repositories for Python and 29.47% repositories
+for JVM, suggesting that EnvBench remains challenging for current approaches.
+Our benchmark suite is publicly available at
+<a href="https://github.com/JetBrains-Research/EnvBench">https://github.com/JetBrains-Research/EnvBench</a>. The dataset and experiment
+trajectories are available at <a href="https://jb.gg/envbench">https://jb.gg/envbench</a>.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>近期大型语言模型（LLMs）的进展促使研究者关注软件工程领域的实际仓库级任务。本文聚焦于自动化软件仓库环境设置任务，提出了一个全面的环境设置基准EnvBench，涵盖329个Python和665个JVM（Java、Kotlin）仓库，重点关注具有真实配置挑战的项目。我们实现了两种自动评估指标：Python的静态分析检查和JVM语言的编译检查。通过评估三种环境设置方法，包括简单的零样本基线和两种代理工作流，使用GPT-4o和GPT-4o-mini进行测试，结果表明EnvBench对当前方法仍具挑战性。基准套件公开于https://github.com/JetBrains-Research/EnvBench。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:03Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Information Fusion in Smart Agriculture: Machine Learning Applications and Future Research Directions</title>
+      <link>https://example.org/papers/2025-03-19/information-fusion-in-smart-agriculture-machine-le/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/information-fusion-in-smart-agriculture-machine-le/</guid>
+      <description>本文综述了机器学习（ML）在农业可持续发展与效率提升中的广泛应用，填补了现有研究在跨领域融合视角上的不足。研究围绕五大目标展开：分析ML在农业各阶段的应用、探讨ML与农业数据及数据融合的结合、进行文献计量与统计分析、研究AI驱动的农业公司案例、并整理公开数据集以支持ML模型训练。重点探讨了ML与多源数据融合（如遥感、物联网和气候分析）如何提升精准农业的预测精度与决策能力，同时指出了未来研究方向及异质数据集融合的挑战，为研究者、行业专家及政策制定者提供了参考。</description>
+      <content:encoded><![CDATA[<h1 id="information-fusion-in-smart-agriculture-machine-learning-applications-and-future-research-directions">Information Fusion in Smart Agriculture: Machine Learning Applications and Future Research Directions</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2405.17465v2">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Machine learning (ML) is a rapidly evolving technology with expanding
+applications across various fields. This paper presents a comprehensive survey
+of recent ML applications in agriculture for sustainability and efficiency.
+Existing reviews mainly focus on narrow subdomains or lack a fusion-driven
+perspectives. This study provides a combined analysis of ML applications in
+agriculture, structured around five key objectives: (i) Analyzing ML techniques
+across pre-harvesting, harvesting, and post-harvesting phases. (ii)
+Demonstrating how ML can be used with agricultural data and data fusion. (iii)
+Conducting a bibliometric and statistical analysis to reveal research trends
+and activity. (iv) Investigating real-world case studies of leading artificial
+intelligence (AI)-driven agricultural companies that use different types of
+multisensors and multisource data. (v) Compiling publicly available datasets to
+support ML model training. Going beyond existing previous reviews, this review
+focuses on how machine learning (ML) techniques, combined with multi-source
+data fusion (integrating remote sensing, IoT, and climate analytics), enhance
+precision agriculture by improving predictive accuracy and decision-making.
+Case studies and statistical insights illustrate the evolving landscape of AI
+driven smart farming, while future research directions also discusses
+challenges associated with data fusion for heterogeneous datasets. This review
+bridges the gap between AI research and agricultural applications, offering a
+roadmap for researchers, industry professionals, and policymakers to harness
+information fusion and ML for advancing precision agriculture.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文综述了机器学习（ML）在农业可持续发展与效率提升中的广泛应用，填补了现有研究在跨领域融合视角上的不足。研究围绕五大目标展开：分析ML在农业各阶段的应用、探讨ML与农业数据及数据融合的结合、进行文献计量与统计分析、研究AI驱动的农业公司案例、并整理公开数据集以支持ML模型训练。重点探讨了ML与多源数据融合（如遥感、物联网和气候分析）如何提升精准农业的预测精度与决策能力，同时指出了未来研究方向及异质数据集融合的挑战，为研究者、行业专家及政策制定者提供了参考。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:42Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Navigating LLM Ethics: Advancements, Challenges, and Future Directions</title>
+      <link>https://example.org/papers/2025-03-19/navigating-llm-ethics-advancements-challenges-and-/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/navigating-llm-ethics-advancements-challenges-and-/</guid>
+      <description>本研究探讨了大型语言模型（LLMs）在人工智能领域中的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及LLMs特有的问题，如幻觉、可验证的责任性和解码审查复杂性。研究强调了解决这些复杂性的必要性，以确保责任性、减少偏见并增强LLMs在信息传播中的透明度。提出了缓解策略和未来方向，倡导跨学科合作，推荐针对特定领域的伦理框架和适应多样环境的动态审计系统，旨在指导LLMs的负责任开发和整合，展望伦理考量主导AI社会进步的未来。</description>
+      <content:encoded><![CDATA[<h1 id="navigating-llm-ethics-advancements-challenges-and-future-directions">Navigating LLM Ethics: Advancements, Challenges, and Future Directions</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2406.18841v4">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>This study addresses ethical issues surrounding Large Language Models (LLMs)
+within the field of artificial intelligence. It explores the common ethical
+challenges posed by both LLMs and other AI systems, such as privacy and
+fairness, as well as ethical challenges uniquely arising from LLMs. It
+highlights challenges such as hallucination, verifiable accountability, and
+decoding censorship complexity, which are unique to LLMs and distinct from
+those encountered in traditional AI systems. The study underscores the need to
+tackle these complexities to ensure accountability, reduce biases, and enhance
+transparency in the influential role that LLMs play in shaping information
+dissemination. It proposes mitigation strategies and future directions for LLM
+ethics, advocating for interdisciplinary collaboration. It recommends ethical
+frameworks tailored to specific domains and dynamic auditing systems adapted to
+diverse contexts. This roadmap aims to guide responsible development and
+integration of LLMs, envisioning a future where ethical considerations govern
+AI advancements in society.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本研究探讨了大型语言模型（LLMs）在人工智能领域中的伦理问题，包括与其他AI系统共有的隐私和公平性挑战，以及LLMs特有的问题，如幻觉、可验证的责任性和解码审查复杂性。研究强调了解决这些复杂性的必要性，以确保责任性、减少偏见并增强LLMs在信息传播中的透明度。提出了缓解策略和未来方向，倡导跨学科合作，推荐针对特定领域的伦理框架和适应多样环境的动态审计系统，旨在指导LLMs的负责任开发和整合，展望伦理考量主导AI社会进步的未来。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:51Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
+      <link>https://example.org/papers/2025-03-19/play2prompt-zero-shot-tool-instruction-optimizatio/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/play2prompt-zero-shot-tool-instruction-optimizatio/</guid>
+      <description>大型语言模型（LLMs）越来越多地与专用外部工具集成，但许多任务需要在零样本设置下使用工具，且文档可能不完整或存在噪声。现有方法依赖手动重写或标注数据进行验证，难以在真正的零样本环境中应用。为此，研究者提出了PLAY2PROMPT框架，通过自动化“试错”过程探索工具的输入输出行为，生成工具文档和使用示例，无需标注数据。这些示例不仅指导LLM推理，还可用于验证工具使用效果。实验表明，PLAY2PROMPT显著提升了零样本工具性能，为领域专用工具集成提供了可扩展的解决方案。</description>
+      <content:encoded><![CDATA[<h1 id="play2prompt-zero-shot-tool-instruction-optimization-for-llm-agents-via-tool-play">PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14432v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Large language models (LLMs) are increasingly integrated with specialized
+external tools, yet many tasks demand zero-shot tool usage with minimal or
+noisy documentation. Existing solutions rely on manual rewriting or labeled
+data for validation, making them inapplicable in true zero-shot settings. To
+address these challenges, we propose PLAY2PROMPT, an automated framework that
+systematically &ldquo;plays&rdquo; with each tool to explore its input-output behaviors.
+Through this iterative trial-and-error process, PLAY2PROMPT refines tool
+documentation and generates usage examples without any labeled data. These
+examples not only guide LLM inference but also serve as validation to further
+enhance tool utilization. Extensive experiments on real-world tasks demonstrate
+that PLAY2PROMPT significantly improves zero-shot tool performance across both
+open and closed models, offering a scalable and effective solution for
+domain-specific tool integration.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>大型语言模型（LLMs）越来越多地与专用外部工具集成，但许多任务需要在零样本设置下使用工具，且文档可能不完整或存在噪声。现有方法依赖手动重写或标注数据进行验证，难以在真正的零样本环境中应用。为此，研究者提出了PLAY2PROMPT框架，通过自动化“试错”过程探索工具的输入输出行为，生成工具文档和使用示例，无需标注数据。这些示例不仅指导LLM推理，还可用于验证工具使用效果。实验表明，PLAY2PROMPT显著提升了零样本工具性能，为领域专用工具集成提供了可扩展的解决方案。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:13Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms</title>
+      <link>https://example.org/papers/2025-03-19/visescape-a-benchmark-for-evaluating-exploration-d/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/visescape-a-benchmark-for-evaluating-exploration-d/</guid>
+      <description>VisEscape是一个包含20个虚拟密室逃脱的基准测试，旨在评估AI模型在探索驱动规划中的表现。该测试要求模型不仅解决孤立谜题，还需动态构建和优化时空知识。研究发现，即使最先进的多模态模型也难以成功逃脱，表现差异显著。为此，提出了VisEscaper模型，通过整合记忆、反馈和ReAct模块，显著提升了性能，平均效率提高了5倍，效果提升了3.7倍。</description>
+      <content:encoded><![CDATA[<h1 id="visescape-a-benchmark-for-evaluating-exploration-driven-decision-making-in-virtual-escape-rooms">VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14427v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Escape rooms present a unique cognitive challenge that demands
+exploration-driven planning: players should actively search their environment,
+continuously update their knowledge based on new discoveries, and connect
+disparate clues to determine which elements are relevant to their objectives.
+Motivated by this, we introduce VisEscape, a benchmark of 20 virtual escape
+rooms specifically designed to evaluate AI models under these challenging
+conditions, where success depends not only on solving isolated puzzles but also
+on iteratively constructing and refining spatial-temporal knowledge of a
+dynamically changing environment. On VisEscape, we observed that even
+state-of-the-art multimodal models generally fail to escape the rooms, showing
+considerable variation in their levels of progress and trajectories. To address
+this issue, we propose VisEscaper, which effectively integrates Memory,
+Feedback, and ReAct modules, demonstrating significant improvements by
+performing 3.7 times more effectively and 5.0 times more efficiently on
+average.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>VisEscape是一个包含20个虚拟密室逃脱的基准测试，旨在评估AI模型在探索驱动规划中的表现。该测试要求模型不仅解决孤立谜题，还需动态构建和优化时空知识。研究发现，即使最先进的多模态模型也难以成功逃脱，表现差异显著。为此，提出了VisEscaper模型，通过整合记忆、反馈和ReAct模块，显著提升了性能，平均效率提高了5倍，效果提升了3.7倍。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:22Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control</title>
+      <link>https://example.org/papers/2025-03-19/cosmos-transfer1-conditional-world-generation-with/</link>
+      <pubDate>Wed, 19 Mar 2025 23:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/cosmos-transfer1-conditional-world-generation-with/</guid>
+      <description>Cosmos-Transfer 是一种条件世界生成模型，能够基于多种空间控制输入（如分割、深度和边缘）生成世界模拟。其设计具有自适应和可定制的空间条件方案，允许在不同空间位置对不同条件输入进行加权，从而实现高度可控的世界生成。该模型在多种世界到世界转换应用（如 Sim2Real）中具有广泛用途，特别是在物理 AI、机器人 Sim2Real 和自动驾驶数据增强方面。通过 NVIDIA GB200 NVL72 机架，模型实现了实时世界生成。为加速研究发展，相关模型和代码已在 GitHub 开源。</description>
+      <content:encoded><![CDATA[<h1 id="cosmos-transfer1-conditional-world-generation-with-adaptive-multimodal-control">Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14492v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>We introduce Cosmos-Transfer, a conditional world generation model that can
+generate world simulations based on multiple spatial control inputs of various
+modalities such as segmentation, depth, and edge. In the design, the spatial
+conditional scheme is adaptive and customizable. It allows weighting different
+conditional inputs differently at different spatial locations. This enables
+highly controllable world generation and finds use in various world-to-world
+transfer use cases, including Sim2Real. We conduct extensive evaluations to
+analyze the proposed model and demonstrate its applications for Physical AI,
+including robotics Sim2Real and autonomous vehicle data enrichment. We further
+demonstrate an inference scaling strategy to achieve real-time world generation
+with an NVIDIA GB200 NVL72 rack. To help accelerate research development in the
+field, we open-source our models and code at
+<a href="https://github.com/nvidia-cosmos/cosmos-transfer1">https://github.com/nvidia-cosmos/cosmos-transfer1</a>.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>Cosmos-Transfer 是一种条件世界生成模型，能够基于多种空间控制输入（如分割、深度和边缘）生成世界模拟。其设计具有自适应和可定制的空间条件方案，允许在不同空间位置对不同条件输入进行加权，从而实现高度可控的世界生成。该模型在多种世界到世界转换应用（如 Sim2Real）中具有广泛用途，特别是在物理 AI、机器人 Sim2Real 和自动驾驶数据增强方面。通过 NVIDIA GB200 NVL72 机架，模型实现了实时世界生成。为加速研究发展，相关模型和代码已在 GitHub 开源。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:01:26Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Don&#39;t lie to your friends: Learning what you know from collaborative self-play</title>
+      <link>https://example.org/papers/2025-03-19/dont-lie-to-your-friends-learning-what-you-know-fr/</link>
+      <pubDate>Wed, 19 Mar 2025 23:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/dont-lie-to-your-friends-learning-what-you-know-fr/</guid>
+      <description>本文提出了一种名为“协作自玩”的新方法，用于教导AI代理了解自身能力和限制。通过构建多代理协作环境，团队因共同得出正确答案而获得奖励，从而促使代理发展出必要的元知识。这种方法特别适用于拥有不同工具（如特定语料库检索）的小型代理群体，它们必须协作以最大化成功并最小化努力。实验表明，多代理群体的集体奖励能够诱导出在单独部署时也能改善工具使用和选择性预测的策略。这种方法避免了监督微调中难以构建反映代理特定能力的示例的问题。</description>
+      <content:encoded><![CDATA[<h1 id="dont-lie-to-your-friends-learning-what-you-know-from-collaborative-self-play">Don&rsquo;t lie to your friends: Learning what you know from collaborative self-play</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14481v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>To be helpful assistants, AI agents must be aware of their own capabilities
+and limitations. This includes knowing when to answer from parametric knowledge
+versus using tools, when to trust tool outputs, and when to abstain or hedge.
+Such capabilities are hard to teach through supervised fine-tuning because they
+require constructing examples that reflect the agent&rsquo;s specific capabilities.
+We therefore propose a radically new approach to teaching agents what they
+know: \emph{collaborative self-play}. We construct multi-agent collaborations
+in which the group is rewarded for collectively arriving at correct answers.
+The desired meta-knowledge emerges from the incentives built into the structure
+of the interaction. We focus on small societies of agents that have access to
+heterogeneous tools (corpus-specific retrieval), and therefore must collaborate
+to maximize their success while minimizing their effort. Experiments show that
+group-level rewards for multi-agent communities can induce policies that
+\emph{transfer} to improve tool use and selective prediction in settings where
+individual agents are deployed in isolation.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文提出了一种名为“协作自玩”的新方法，用于教导AI代理了解自身能力和限制。通过构建多代理协作环境，团队因共同得出正确答案而获得奖励，从而促使代理发展出必要的元知识。这种方法特别适用于拥有不同工具（如特定语料库检索）的小型代理群体，它们必须协作以最大化成功并最小化努力。实验表明，多代理群体的集体奖励能够诱导出在单独部署时也能改善工具使用和选择性预测的策略。这种方法避免了监督微调中难以构建反映代理特定能力的示例的问题。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:01:52Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Gricean Norms as a Basis for Effective Collaboration</title>
+      <link>https://example.org/papers/2025-03-19/gricean-norms-as-a-basis-for-effective-collaborati/</link>
+      <pubDate>Wed, 19 Mar 2025 23:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/gricean-norms-as-a-basis-for-effective-collaborati/</guid>
+      <description>本文提出了一种整合Gricean准则和认知框架的规范框架，旨在提升基于大型语言模型（LLM）的AI代理在模糊、不完整、无效或不相关指令下的协作能力。通过引入Lamoids（基于GPT-4的代理），实验验证了在网格世界任务中，遵循Gricean准则的Lamoid在任务准确性和生成清晰、准确、上下文相关响应方面优于未遵循准则的版本。结果表明，该框架增强了代理的语用推理能力，促进了人机协作的有效性，并实现了基于LLM的代理的上下文感知通信。</description>
+      <content:encoded><![CDATA[<h1 id="gricean-norms-as-a-basis-for-effective-collaboration">Gricean Norms as a Basis for Effective Collaboration</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14484v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Effective human-AI collaboration hinges not only on the AI agent&rsquo;s ability to
+follow explicit instructions but also on its capacity to navigate ambiguity,
+incompleteness, invalidity, and irrelevance in communication. Gricean
+conversational and inference norms facilitate collaboration by aligning unclear
+instructions with cooperative principles. We propose a normative framework that
+integrates Gricean norms and cognitive frameworks &ndash; common ground, relevance
+theory, and theory of mind &ndash; into large language model (LLM) based agents. The
+normative framework adopts the Gricean maxims of quantity, quality, relation,
+and manner, along with inference, as Gricean norms to interpret unclear
+instructions, which are: ambiguous, incomplete, invalid, or irrelevant. Within
+this framework, we introduce Lamoids, GPT-4 powered agents designed to
+collaborate with humans. To assess the influence of Gricean norms in human-AI
+collaboration, we evaluate two versions of a Lamoid: one with norms and one
+without. In our experiments, a Lamoid collaborates with a human to achieve
+shared goals in a grid world (Doors, Keys, and Gems) by interpreting both clear
+and unclear natural language instructions. Our results reveal that the Lamoid
+with Gricean norms achieves higher task accuracy and generates clearer, more
+accurate, and contextually relevant responses than the Lamoid without norms.
+This improvement stems from the normative framework, which enhances the agent&rsquo;s
+pragmatic reasoning, fostering effective human-AI collaboration and enabling
+context-aware communication in LLM-based agents.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文提出了一种整合Gricean准则和认知框架的规范框架，旨在提升基于大型语言模型（LLM）的AI代理在模糊、不完整、无效或不相关指令下的协作能力。通过引入Lamoids（基于GPT-4的代理），实验验证了在网格世界任务中，遵循Gricean准则的Lamoid在任务准确性和生成清晰、准确、上下文相关响应方面优于未遵循准则的版本。结果表明，该框架增强了代理的语用推理能力，促进了人机协作的有效性，并实现了基于LLM的代理的上下文感知通信。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:01:41Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Measuring AI Ability to Complete Long Tasks</title>
+      <link>https://example.org/papers/2025-03-19/measuring-ai-ability-to-complete-long-tasks/</link>
+      <pubDate>Wed, 19 Mar 2025 23:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/measuring-ai-ability-to-complete-long-tasks/</guid>
+      <description>尽管AI基准测试进展迅速，但其实际意义仍不明确。为量化AI系统在人类能力方面的表现，研究者提出新指标“50%任务完成时间跨度”，即人类完成AI模型50%成功率任务所需时间。研究表明，当前前沿AI模型（如Claude 3.7 Sonnet）的50%时间跨度约为50分钟，且自2019年以来每7个月翻倍，2024年可能加速。AI时间跨度的提升主要源于更高的可靠性、错误适应能力、逻辑推理和工具使用能力。若趋势持续，5年内AI或能自动化目前人类需一个月完成的软件任务。</description>
+      <content:encoded><![CDATA[<h1 id="measuring-ai-ability-to-complete-long-tasks">Measuring AI Ability to Complete Long Tasks</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14499v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Despite rapid progress on AI benchmarks, the real-world meaning of benchmark
+performance remains unclear. To quantify the capabilities of AI systems in
+terms of human capabilities, we propose a new metric: 50%-task-completion time
+horizon. This is the time humans typically take to complete tasks that AI
+models can complete with 50% success rate. We first timed humans with relevant
+domain expertise on a combination of RE-Bench, HCAST, and 66 novel shorter
+tasks. On these tasks, current frontier AI models such as Claude 3.7 Sonnet
+have a 50% time horizon of around 50 minutes. Furthermore, frontier AI time
+horizon has been doubling approximately every seven months since 2019, though
+the trend may have accelerated in 2024. The increase in AI models&rsquo; time
+horizons seems to be primarily driven by greater reliability and ability to
+adapt to mistakes, combined with better logical reasoning and tool use
+capabilities. We discuss the limitations of our results &ndash; including their
+degree of external validity &ndash; and the implications of increased autonomy for
+dangerous capabilities. If these results generalize to real-world software
+tasks, extrapolation of this trend predicts that within 5 years, AI systems
+will be capable of automating many software tasks that currently take humans a
+month.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>尽管AI基准测试进展迅速，但其实际意义仍不明确。为量化AI系统在人类能力方面的表现，研究者提出新指标“50%任务完成时间跨度”，即人类完成AI模型50%成功率任务所需时间。研究表明，当前前沿AI模型（如Claude 3.7 Sonnet）的50%时间跨度约为50分钟，且自2019年以来每7个月翻倍，2024年可能加速。AI时间跨度的提升主要源于更高的可靠性、错误适应能力、逻辑推理和工具使用能力。若趋势持续，5年内AI或能自动化目前人类需一个月完成的软件任务。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:01:16Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#马斯克收购了一家视频生成初创公司# 马斯克也要打造自己的视频生成模型了？？就在最近，xAI收购了一家视频生成初创公司，这家仅4个人的公司过去两年打造出了Hot...</title>
+      <link>https://example.org/papers/2025-03-19/-xai4hot/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/-xai4hot/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="马斯克收购了一家视频生成初创公司-马斯克也要打造自己的视频生成模型了就在最近xai收购了一家视频生成初创公司这家仅4个人的公司过去两年打造出了hot">#马斯克收购了一家视频生成初创公司# 马斯克也要打造自己的视频生成模型了？？就在最近，xAI收购了一家视频生成初创公司，这家仅4个人的公司过去两年打造出了Hot&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjds449Uw">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B6%E8%B4%AD%E4%BA%86%E4%B8%80%E5%AE%B6%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%23&amp;extparam=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B6%E8%B4%AD%E4%BA%86%E4%B8%80%E5%AE%B6%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%23" data-hide=""><span class="surl-text">#马斯克收购了一家视频生成初创公司#</span></a> <br><br>马斯克也要打造自己的视频生成模型了？？<br><br>就在最近，xAI收购了一家视频生成初创公司，这家仅4个人的公司过去两年打造出了Hotshot这款产品。<br><br>据公告介绍，Hotshot至今已有3款视频生成基础模型。被收购之后，目前已停止推出新的视频创作功能，而且用户过往创作的视频截止下载时间为3月30日。<br><br>一看这架势，网友们纷纷想起了老马在今年1月的一场直播活动中掷下的豪言：<br><br>预计将在几个月内发布Grok视频模型<br><br>而且就在Hotshot联创&amp;CEO公布上述消息之后，老马也第一时间跑来卖关子：<br><br>酷炫视频AI即将到来！<br><br>那么，这是一家怎样的团队呢？为什么它能被马斯克“看上”？<br><br>答案这就揭晓——<br><br>概括而言，Hotshot之所以能入老马的眼，原因显然在于两方面：<br><br>一是“小团队也有大能量”，据悉Hotshot团队一共只有4个人，但他们在13个月里连续训练出了3个视频生成模型，且获得了一定程度的用户关注；二是虽然成立不久，但投资者中不乏Reddit联合创始人Alexis Ohanian等大佬。<br><br>从Hotshot官网公布的信息来看，这个4人小团队在两年时间里成功打造出了“Sora”模型。<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDgYseRVqfOy8_HvZC5aFbg" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">马斯克进军AI视频，收购视频生成初创公司，4人13个月打造类Sora模型</span></a><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hzlw0eaxtfj30sg0sgh3a.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hzlw0ig7kwj312u0o016t.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#陶哲轩亲测点赞o3-mini# 陶哲轩亲测点赞o3-mini：它纠正了我一个数学错误，10分钟就能解决原本一小时才能完成的题目，事情究竟咋回事？ 量子位的微博视频</title>
+      <link>https://example.org/papers/2025-03-19/o3-mini-o3-mini10-/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/o3-mini-o3-mini10-/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="陶哲轩亲测点赞o3-mini-陶哲轩亲测点赞o3-mini它纠正了我一个数学错误10分钟就能解决原本一小时才能完成的题目事情究竟咋回事-量子位的微博视频">#陶哲轩亲测点赞o3-mini# 陶哲轩亲测点赞o3-mini：它纠正了我一个数学错误，10分钟就能解决原本一小时才能完成的题目，事情究竟咋回事？ 量子位的微博视频</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjemxa9Gv">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%99%B6%E5%93%B2%E8%BD%A9%E4%BA%B2%E6%B5%8B%E7%82%B9%E8%B5%9Eo3-mini%23&amp;extparam=%23%E9%99%B6%E5%93%B2%E8%BD%A9%E4%BA%B2%E6%B5%8B%E7%82%B9%E8%B5%9Eo3-mini%23" data-hide=""><span class="surl-text">#陶哲轩亲测点赞o3-mini#</span></a> <br><br>陶哲轩亲测点赞o3-mini：它纠正了我一个数学错误，10分钟就能解决原本一小时才能完成的题目，事情究竟咋回事？ <a href="https://video.weibo.com/show?fid=1034:5145602762407949" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1hzl9hkrewlj30u01hcwhh.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/VgXn0y3Nlx08mM2k0aIw01041200sBoW0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742350603&amp;ssig=yX5gkYfS3T&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/IAE3LGHklx08mM2jGRyE01041200j5550E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742350603&amp;ssig=naI8qne8EY&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/XYe2vcYGlx08mM2k4uyA010412009oKt0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742350603&amp;ssig=T81lMZo%2FVS&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5145602762407949" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Escaping Plato&#39;s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</title>
+      <link>https://example.org/papers/2025-03-19/escaping-platos-cave-robust-conceptual-reasoning-t/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/escaping-platos-cave-robust-conceptual-reasoning-t/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="escaping-platos-cave-robust-conceptual-reasoning-through-interpretable-3d-neural-object-volumes">Escaping Plato&rsquo;s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.13429v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>With the rise of neural networks, especially in high-stakes applications,
+these networks need two properties (i) robustness and (ii) interpretability to
+ensure their safety. Recent advances in classifiers with 3D volumetric object
+representations have demonstrated a greatly enhanced robustness in
+out-of-distribution data. However, these 3D-aware classifiers have not been
+studied from the perspective of interpretability. We introduce CAVE - Concept
+Aware Volumes for Explanations - a new direction that unifies interpretability
+and robustness in image classification. We design an inherently-interpretable
+and robust classifier by extending existing 3D-aware classifiers with concepts
+extracted from their volumetric representations for classification. In an array
+of quantitative metrics for interpretability, we compare against different
+concept-based approaches across the explainable AI literature and show that
+CAVE discovers well-grounded concepts that are used consistently across images,
+while achieving superior robustness.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</title>
+      <link>https://example.org/papers/2025-03-19/videomind-a-chain-of-lora-agent-for-long-video-rea/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/videomind-a-chain-of-lora-agent-for-long-video-rea/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="videomind-a-chain-of-lora-agent-for-long-video-reasoning">VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.13444v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Videos, with their unique temporal dimension, demand precise grounded
+understanding, where answers are directly linked to visual, interpretable
+evidence. Despite significant breakthroughs in reasoning capabilities within
+Large Language Models, multi-modal reasoning - especially for videos - remains
+unexplored. In this work, we introduce VideoMind, a novel video-language agent
+designed for temporal-grounded video understanding. VideoMind incorporates two
+key innovations: (i) We identify essential capabilities for video temporal
+reasoning and develop a role-based agentic workflow, including a planner for
+coordinating different roles, a grounder for temporal localization, a verifier
+to assess temporal interval accuracy, and an answerer for question-answering.
+(ii) To efficiently integrate these diverse roles, we propose a novel
+Chain-of-LoRA strategy, enabling seamless role-switching via lightweight LoRA
+adaptors while avoiding the overhead of multiple models, thus balancing
+efficiency and flexibility. Extensive experiments on 14 public benchmarks
+demonstrate that our agent achieves state-of-the-art performance on diverse
+video understanding tasks, including 3 on grounded video question-answering, 6
+on video temporal grounding, and 5 on general video question-answering,
+underscoring its effectiveness in advancing video agent and long-form temporal
+reasoning.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

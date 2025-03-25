@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Optimization on AI研究资料库</title>
+    <link>https://example.org/tags/optimization/</link>
+    <description>Recent content in Optimization on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 03:11:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
+      <link>https://example.org/papers/2025-03-20/play2prompt-zero-shot-tool-instruction-optimizatio/</link>
+      <pubDate>Thu, 20 Mar 2025 03:11:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/play2prompt-zero-shot-tool-instruction-optimizatio/</guid>
+      <description>为了解决大型语言模型（LLMs）在零样本工具使用中的挑战，研究者提出了PLAY2PROMPT框架。该框架通过自动“试错”探索工具的输入输出行为，无需标注数据即可优化工具文档并生成使用示例。这些示例不仅指导LLM推理，还作为验证进一步提升工具使用效果。实验表明，PLAY2PROMPT显著提升了开放和封闭模型在零样本任务中的表现，为领域特定工具集成提供了可扩展且有效的解决方案。</description>
+      <content:encoded><![CDATA[<h1 id="play2prompt-zero-shot-tool-instruction-optimization-for-llm-agents-via-tool-play">PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14432v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Large language models (LLMs) are increasingly integrated with specialized
+external tools, yet many tasks demand zero-shot tool usage with minimal or
+noisy documentation. Existing solutions rely on manual rewriting or labeled
+data for validation, making them inapplicable in true zero-shot settings. To
+address these challenges, we propose PLAY2PROMPT, an automated framework that
+systematically &ldquo;plays&rdquo; with each tool to explore its input-output behaviors.
+Through this iterative trial-and-error process, PLAY2PROMPT refines tool
+documentation and generates usage examples without any labeled data. These
+examples not only guide LLM inference but also serve as validation to further
+enhance tool utilization. Extensive experiments on real-world tasks demonstrate
+that PLAY2PROMPT significantly improves zero-shot tool performance across both
+open and closed models, offering a scalable and effective solution for
+domain-specific tool integration.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>为了解决大型语言模型（LLMs）在零样本工具使用中的挑战，研究者提出了PLAY2PROMPT框架。该框架通过自动“试错”探索工具的输入输出行为，无需标注数据即可优化工具文档并生成使用示例。这些示例不仅指导LLM推理，还作为验证进一步提升工具使用效果。实验表明，PLAY2PROMPT显著提升了开放和封闭模型在零样本任务中的表现，为领域特定工具集成提供了可扩展且有效的解决方案。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T03:11:13Z</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
+      <link>https://example.org/papers/2025-03-19/play2prompt-zero-shot-tool-instruction-optimizatio/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/play2prompt-zero-shot-tool-instruction-optimizatio/</guid>
+      <description>大型语言模型（LLMs）越来越多地与专用外部工具集成，但许多任务需要在零样本设置下使用工具，且文档可能不完整或存在噪声。现有方法依赖手动重写或标注数据进行验证，难以在真正的零样本环境中应用。为此，研究者提出了PLAY2PROMPT框架，通过自动化“试错”过程探索工具的输入输出行为，生成工具文档和使用示例，无需标注数据。这些示例不仅指导LLM推理，还可用于验证工具使用效果。实验表明，PLAY2PROMPT显著提升了零样本工具性能，为领域专用工具集成提供了可扩展的解决方案。</description>
+      <content:encoded><![CDATA[<h1 id="play2prompt-zero-shot-tool-instruction-optimization-for-llm-agents-via-tool-play">PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14432v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Large language models (LLMs) are increasingly integrated with specialized
+external tools, yet many tasks demand zero-shot tool usage with minimal or
+noisy documentation. Existing solutions rely on manual rewriting or labeled
+data for validation, making them inapplicable in true zero-shot settings. To
+address these challenges, we propose PLAY2PROMPT, an automated framework that
+systematically &ldquo;plays&rdquo; with each tool to explore its input-output behaviors.
+Through this iterative trial-and-error process, PLAY2PROMPT refines tool
+documentation and generates usage examples without any labeled data. These
+examples not only guide LLM inference but also serve as validation to further
+enhance tool utilization. Extensive experiments on real-world tasks demonstrate
+that PLAY2PROMPT significantly improves zero-shot tool performance across both
+open and closed models, offering a scalable and effective solution for
+domain-specific tool integration.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>大型语言模型（LLMs）越来越多地与专用外部工具集成，但许多任务需要在零样本设置下使用工具，且文档可能不完整或存在噪声。现有方法依赖手动重写或标注数据进行验证，难以在真正的零样本环境中应用。为此，研究者提出了PLAY2PROMPT框架，通过自动化“试错”过程探索工具的输入输出行为，生成工具文档和使用示例，无需标注数据。这些示例不仅指导LLM推理，还可用于验证工具使用效果。实验表明，PLAY2PROMPT显著提升了零样本工具性能，为领域专用工具集成提供了可扩展的解决方案。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:13Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

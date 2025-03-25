@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PLAY2PROMPT - AI研究资料库</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark');
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <div class="header-content">
+        <h1><a href="/">AI研究资料库</a></h1>
+        <nav>
+            
+            <a href="/papers/">论文</a>
+            
+            <a href="/tags/">标签</a>
+            
+            <a href="/categories/">分类</a>
+            
+            <a href="/search/">搜索</a>
+            
+        </nav>
+        
+<div class="language-switcher">
+    
+    <a href="https://example.org/" class="active">
+        中文
+    </a>
+    
+    <a href="https://example.org/en/" class="">
+        English
+    </a>
+    
+</div>
+ 
+    </div>
+</header> 
+    
+    <main>
+        
+<section class="taxonomy-list">
+    <h1>PLAY2PROMPT</h1>
+    <div class="papers-list">
+        
+        <article class="paper-item">
+            <h3><a href="/papers/2025-03-19/play2prompt-zero-shot-tool-instruction-optimizatio/">PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</a></h3>
+            <div class="paper-meta">
+                <span class="date">2025-03-19</span>
+            </div>
+            <div class="summary">
+                大型语言模型（LLMs）越来越多地与专用外部工具集成，但许多任务需要在零样本设置下使用工具，且文档可能不完整或存在噪声。现有方法依赖手动重写或标注数据进行验证，难以在真正的零样本环境中应用。为此，研究者提出了PLAY2PROMPT框架，通过自动化“试错”过程探索工具的输入输出行为，生成工具文档和使用示例，无需标注数据。这些示例不仅指导LLM推理，还可用于验证工具使用效果。实验表明，PLAY2PROMPT显著提升了零样本工具性能，为领域专用工具集成提供了可扩展的解决方案。
+            </div>
+            <a href="/papers/2025-03-19/play2prompt-zero-shot-tool-instruction-optimizatio/" class="read-more">阅读更多</a>
+        </article>
+        
+    </div>
+</section>
+
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 AI研究资料库</p>
+    </footer>
+</body>
+</html> 

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agents on AI研究资料库</title>
+    <link>https://example.org/tags/agents/</link>
+    <description>Recent content in Agents on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 13:03:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents</title>
+      <link>https://example.org/papers/2025-03-20/a-role-of-environmental-complexity-on-representati/</link>
+      <pubDate>Thu, 20 Mar 2025 13:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/a-role-of-environmental-complexity-on-representati/</guid>
+      <description>研究开发了一个模拟环境，用于训练深度强化学习代理在捷径使用导航任务中的表现，灵感来自人类导航者的双解决方案范式测试。研究发现，代理在封闭捷径试验中一旦开始学习，便能迅速达到最佳表现。高频率接触捷径的代理在捷径开放时导航速度和捷径使用更快。分析显示，频繁呈现的导航线索在初期能更好地编码于单个节点中，但更强的线索表示是通过导航规划中的使用形成的。空间表示在训练早期发展并稳定，而计划轨迹而非当前位置在代理网络中编码，且编码在群体而非单个节点水平上表示。</description>
+      <content:encoded><![CDATA[<h1 id="a-role-of-environmental-complexity-on-representation-learning-in-deep-reinforcement-learning-agents">A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2407.03436v2">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>We developed a simulated environment to train deep reinforcement learning
+agents on a shortcut usage navigation task, motivated by the Dual Solutions
+Paradigm test used for human navigators. We manipulated the frequency with
+which agents were exposed to a shortcut and a navigation cue, to investigate
+how these factors influence shortcut usage development. We find that all agents
+rapidly achieve optimal performance in closed shortcut trials once initial
+learning starts. However, their navigation speed and shortcut usage when it is
+open happen faster in agents with higher shortcut exposure. Analysis of the
+agents&rsquo; artificial neural networks activity revealed that frequent presentation
+of a cue initially resulted in better encoding of the cue in the activity of
+individual nodes, compared to agents who encountered the cue less often.
+However, stronger cue representations were ultimately formed through the use of
+the cue in the context of navigation planning, rather than simply through
+exposure. We found that in all agents, spatial representations develop early in
+training and subsequently stabilize before navigation strategies fully develop,
+suggesting that having spatially consistent activations is necessary for basic
+navigation, but insufficient for advanced strategies. Further, using new
+analysis techniques, we found that the planned trajectory rather than the
+agent&rsquo;s immediate location is encoded in the agent&rsquo;s networks. Moreover, the
+encoding is represented at the population rather than the individual node
+level. These techniques could have broader applications in studying neural
+activity across populations of neurons or network nodes beyond individual
+activity patterns.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>研究开发了一个模拟环境，用于训练深度强化学习代理在捷径使用导航任务中的表现，灵感来自人类导航者的双解决方案范式测试。研究发现，代理在封闭捷径试验中一旦开始学习，便能迅速达到最佳表现。高频率接触捷径的代理在捷径开放时导航速度和捷径使用更快。分析显示，频繁呈现的导航线索在初期能更好地编码于单个节点中，但更强的线索表示是通过导航规划中的使用形成的。空间表示在训练早期发展并稳定，而计划轨迹而非当前位置在代理网络中编码，且编码在群体而非单个节点水平上表示。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T13:03:15+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks</title>
+      <link>https://example.org/papers/2025-03-20/sweet-rl-training-multi-turn-llm-agents-on-collabo/</link>
+      <pubDate>Thu, 20 Mar 2025 13:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/sweet-rl-training-multi-turn-llm-agents-on-collabo/</guid>
+      <description>大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并利用LLM的泛化能力。为此，研究团队提出了新基准ColBench，模拟LLM代理与人类协作解决后端编程和前端设计任务。基于此，他们开发了SWEET-RL算法，通过训练时信息优化目标训练评论家模型，提供步骤级奖励以改进策略模型。实验表明，SWEET-RL在ColBench上成功率提升6%，使Llama-3.1-8B在协作内容创作中表现媲美或超越GPT4-o。</description>
+      <content:encoded><![CDATA[<h1 id="sweet-rl-training-multi-turn-llm-agents-on-collaborative-reasoning-tasks">SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.15478v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Large language model (LLM) agents need to perform multi-turn interactions in
+real-world tasks. However, existing multi-turn RL algorithms for optimizing LLM
+agents fail to perform effective credit assignment over multiple turns while
+leveraging the generalization capabilities of LLMs and it remains unclear how
+to develop such algorithms. To study this, we first introduce a new benchmark,
+ColBench, where an LLM agent interacts with a human collaborator over multiple
+turns to solve realistic tasks in backend programming and frontend design.
+Building on this benchmark, we propose a novel RL algorithm, SWEET-RL (RL with
+Step-WisE Evaluation from Training-time information), that uses a carefully
+designed optimization objective to train a critic model with access to
+additional training-time information. The critic provides step-level rewards
+for improving the policy model. Our experiments demonstrate that SWEET-RL
+achieves a 6% absolute improvement in success and win rates on ColBench
+compared to other state-of-the-art multi-turn RL algorithms, enabling
+Llama-3.1-8B to match or exceed the performance of GPT4-o in realistic
+collaborative content creation.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并利用LLM的泛化能力。为此，研究团队提出了新基准ColBench，模拟LLM代理与人类协作解决后端编程和前端设计任务。基于此，他们开发了SWEET-RL算法，通过训练时信息优化目标训练评论家模型，提供步骤级奖励以改进策略模型。实验表明，SWEET-RL在ColBench上成功率提升6%，使Llama-3.1-8B在协作内容创作中表现媲美或超越GPT4-o。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T13:01:40+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

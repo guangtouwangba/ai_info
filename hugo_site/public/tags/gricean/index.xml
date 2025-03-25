@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gricean on AI研究资料库</title>
+    <link>https://example.org/tags/gricean/</link>
+    <description>Recent content in Gricean on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 03:10:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/gricean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gricean Norms as a Basis for Effective Collaboration</title>
+      <link>https://example.org/papers/2025-03-20/gricean-norms-as-a-basis-for-effective-collaborati/</link>
+      <pubDate>Thu, 20 Mar 2025 03:10:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/gricean-norms-as-a-basis-for-effective-collaborati/</guid>
+      <description>本文提出了一种结合Gricean准则和认知框架的规范性框架，旨在提升基于大型语言模型（LLM）的AI代理在人类-AI协作中的表现。该框架通过整合Gricean准则（数量、质量、关联、方式）和推理，帮助AI代理处理模糊、不完整、无效或不相关的指令。实验表明，采用Gricean准则的Lamoid（基于GPT-4的代理）在任务准确性和生成清晰、准确、上下文相关的响应方面优于未采用准则的版本。这一改进源于规范性框架增强了代理的语用推理能力，促进了有效的人类-AI协作和上下文感知的沟通。</description>
+      <content:encoded><![CDATA[<h1 id="gricean-norms-as-a-basis-for-effective-collaboration">Gricean Norms as a Basis for Effective Collaboration</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14484v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Effective human-AI collaboration hinges not only on the AI agent&rsquo;s ability to
+follow explicit instructions but also on its capacity to navigate ambiguity,
+incompleteness, invalidity, and irrelevance in communication. Gricean
+conversational and inference norms facilitate collaboration by aligning unclear
+instructions with cooperative principles. We propose a normative framework that
+integrates Gricean norms and cognitive frameworks &ndash; common ground, relevance
+theory, and theory of mind &ndash; into large language model (LLM) based agents. The
+normative framework adopts the Gricean maxims of quantity, quality, relation,
+and manner, along with inference, as Gricean norms to interpret unclear
+instructions, which are: ambiguous, incomplete, invalid, or irrelevant. Within
+this framework, we introduce Lamoids, GPT-4 powered agents designed to
+collaborate with humans. To assess the influence of Gricean norms in human-AI
+collaboration, we evaluate two versions of a Lamoid: one with norms and one
+without. In our experiments, a Lamoid collaborates with a human to achieve
+shared goals in a grid world (Doors, Keys, and Gems) by interpreting both clear
+and unclear natural language instructions. Our results reveal that the Lamoid
+with Gricean norms achieves higher task accuracy and generates clearer, more
+accurate, and contextually relevant responses than the Lamoid without norms.
+This improvement stems from the normative framework, which enhances the agent&rsquo;s
+pragmatic reasoning, fostering effective human-AI collaboration and enabling
+context-aware communication in LLM-based agents.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文提出了一种结合Gricean准则和认知框架的规范性框架，旨在提升基于大型语言模型（LLM）的AI代理在人类-AI协作中的表现。该框架通过整合Gricean准则（数量、质量、关联、方式）和推理，帮助AI代理处理模糊、不完整、无效或不相关的指令。实验表明，采用Gricean准则的Lamoid（基于GPT-4的代理）在任务准确性和生成清晰、准确、上下文相关的响应方面优于未采用准则的版本。这一改进源于规范性框架增强了代理的语用推理能力，促进了有效的人类-AI协作和上下文感知的沟通。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T03:10:28Z</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Gricean Norms as a Basis for Effective Collaboration</title>
+      <link>https://example.org/papers/2025-03-19/gricean-norms-as-a-basis-for-effective-collaborati/</link>
+      <pubDate>Wed, 19 Mar 2025 23:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/gricean-norms-as-a-basis-for-effective-collaborati/</guid>
+      <description>本文提出了一种整合Gricean准则和认知框架的规范框架，旨在提升基于大型语言模型（LLM）的AI代理在模糊、不完整、无效或不相关指令下的协作能力。通过引入Lamoids（基于GPT-4的代理），实验验证了在网格世界任务中，遵循Gricean准则的Lamoid在任务准确性和生成清晰、准确、上下文相关响应方面优于未遵循准则的版本。结果表明，该框架增强了代理的语用推理能力，促进了人机协作的有效性，并实现了基于LLM的代理的上下文感知通信。</description>
+      <content:encoded><![CDATA[<h1 id="gricean-norms-as-a-basis-for-effective-collaboration">Gricean Norms as a Basis for Effective Collaboration</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14484v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Effective human-AI collaboration hinges not only on the AI agent&rsquo;s ability to
+follow explicit instructions but also on its capacity to navigate ambiguity,
+incompleteness, invalidity, and irrelevance in communication. Gricean
+conversational and inference norms facilitate collaboration by aligning unclear
+instructions with cooperative principles. We propose a normative framework that
+integrates Gricean norms and cognitive frameworks &ndash; common ground, relevance
+theory, and theory of mind &ndash; into large language model (LLM) based agents. The
+normative framework adopts the Gricean maxims of quantity, quality, relation,
+and manner, along with inference, as Gricean norms to interpret unclear
+instructions, which are: ambiguous, incomplete, invalid, or irrelevant. Within
+this framework, we introduce Lamoids, GPT-4 powered agents designed to
+collaborate with humans. To assess the influence of Gricean norms in human-AI
+collaboration, we evaluate two versions of a Lamoid: one with norms and one
+without. In our experiments, a Lamoid collaborates with a human to achieve
+shared goals in a grid world (Doors, Keys, and Gems) by interpreting both clear
+and unclear natural language instructions. Our results reveal that the Lamoid
+with Gricean norms achieves higher task accuracy and generates clearer, more
+accurate, and contextually relevant responses than the Lamoid without norms.
+This improvement stems from the normative framework, which enhances the agent&rsquo;s
+pragmatic reasoning, fostering effective human-AI collaboration and enabling
+context-aware communication in LLM-based agents.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文提出了一种整合Gricean准则和认知框架的规范框架，旨在提升基于大型语言模型（LLM）的AI代理在模糊、不完整、无效或不相关指令下的协作能力。通过引入Lamoids（基于GPT-4的代理），实验验证了在网格世界任务中，遵循Gricean准则的Lamoid在任务准确性和生成清晰、准确、上下文相关响应方面优于未遵循准则的版本。结果表明，该框架增强了代理的语用推理能力，促进了人机协作的有效性，并实现了基于LLM的代理的上下文感知通信。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:01:41Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

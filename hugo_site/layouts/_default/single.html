@@ -1,0 +1,44 @@
+{{ define "main" }}
+<article class="paper-content">
+    <h1>{{ .Title }}</h1>
+    
+    <div class="paper-meta">
+        <span class="date">发布日期: {{ .Date.Format "2006-01-02" }}</span>
+        
+        {{ if isset .Params "source_url" }}
+        <div class="source">
+            <a href="{{ .Params.source_url }}" target="_blank">查看原文</a>
+        </div>
+        {{ end }}
+        
+        {{ if .Params.tags }}
+        <div class="tags">
+            标签: 
+            {{ range .Params.tags }}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+        
+        {{ if .Params.categories }}
+        <div class="categories">
+            分类: 
+            {{ range .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    
+    {{ if .Params.summary }}
+    <div class="paper-summary">
+        <h2>摘要</h2>
+        <p>{{ .Params.summary }}</p>
+    </div>
+    {{ end }}
+    
+    <div class="content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }} 

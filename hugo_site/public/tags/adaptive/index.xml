@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Adaptive on AI研究资料库</title>
+    <link>https://example.org/tags/adaptive/</link>
+    <description>Recent content in Adaptive on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 03:10:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/adaptive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control</title>
+      <link>https://example.org/papers/2025-03-20/cosmos-transfer1-conditional-world-generation-with/</link>
+      <pubDate>Thu, 20 Mar 2025 03:10:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/cosmos-transfer1-conditional-world-generation-with/</guid>
+      <description>Cosmos-Transfer是一种条件世界生成模型，能够基于多种空间控制输入（如分割、深度和边缘）生成世界模拟。其设计中的空间条件方案具有自适应性和可定制性，允许在不同空间位置对条件输入进行不同权重的调整，从而实现高度可控的世界生成。该模型在Sim2Real等世界到世界转换应用中具有广泛用途，包括物理AI、机器人Sim2Real和自动驾驶数据增强。通过NVIDIA GB200 NVL72机架，模型实现了实时世界生成。为加速该领域研究，模型和代码已在GitHub开源。</description>
+      <content:encoded><![CDATA[<h1 id="cosmos-transfer1-conditional-world-generation-with-adaptive-multimodal-control">Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.14492v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>We introduce Cosmos-Transfer, a conditional world generation model that can
+generate world simulations based on multiple spatial control inputs of various
+modalities such as segmentation, depth, and edge. In the design, the spatial
+conditional scheme is adaptive and customizable. It allows weighting different
+conditional inputs differently at different spatial locations. This enables
+highly controllable world generation and finds use in various world-to-world
+transfer use cases, including Sim2Real. We conduct extensive evaluations to
+analyze the proposed model and demonstrate its applications for Physical AI,
+including robotics Sim2Real and autonomous vehicle data enrichment. We further
+demonstrate an inference scaling strategy to achieve real-time world generation
+with an NVIDIA GB200 NVL72 rack. To help accelerate research development in the
+field, we open-source our models and code at
+<a href="https://github.com/nvidia-cosmos/cosmos-transfer1">https://github.com/nvidia-cosmos/cosmos-transfer1</a>.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>Cosmos-Transfer是一种条件世界生成模型，能够基于多种空间控制输入（如分割、深度和边缘）生成世界模拟。其设计中的空间条件方案具有自适应性和可定制性，允许在不同空间位置对条件输入进行不同权重的调整，从而实现高度可控的世界生成。该模型在Sim2Real等世界到世界转换应用中具有广泛用途，包括物理AI、机器人Sim2Real和自动驾驶数据增强。通过NVIDIA GB200 NVL72机架，模型实现了实时世界生成。为加速该领域研究，模型和代码已在GitHub开源。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T03:10:03Z</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

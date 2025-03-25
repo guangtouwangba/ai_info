@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Complete - AI研究资料库</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark');
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <div class="header-content">
+        <h1><a href="/">AI研究资料库</a></h1>
+        <nav>
+            
+            <a href="/papers/">论文</a>
+            
+            <a href="/tags/">标签</a>
+            
+            <a href="/categories/">分类</a>
+            
+            <a href="/search/">搜索</a>
+            
+        </nav>
+        
+<div class="language-switcher">
+    
+    <a href="https://example.org/" class="active">
+        中文
+    </a>
+    
+    <a href="https://example.org/en/" class="">
+        English
+    </a>
+    
+</div>
+ 
+    </div>
+</header> 
+    
+    <main>
+        
+<section class="taxonomy-list">
+    <h1>Complete</h1>
+    <div class="papers-list">
+        
+        <article class="paper-item">
+            <h3><a href="/papers/2025-03-20/measuring-ai-ability-to-complete-long-tasks/">Measuring AI Ability to Complete Long Tasks</a></h3>
+            <div class="paper-meta">
+                <span class="date">2025-03-20</span>
+            </div>
+            <div class="summary">
+                本文提出了一种新指标“50%-任务完成时间范围”，用于量化AI系统在人类能力方面的表现。该指标指人类完成AI模型能以50%成功率完成的任务所需时间。研究发现，当前前沿AI模型（如Claude 3.7 Sonnet）的50%时间范围约为50分钟，且自2019年以来每7个月翻倍，2024年可能加速。AI能力的提升主要源于更高的可靠性、错误适应能力、逻辑推理和工具使用能力。若趋势持续，5年内AI可能自动化许多目前人类需一个月完成的软件任务，但也带来潜在危险能力增加的担忧。
+            </div>
+            <a href="/papers/2025-03-20/measuring-ai-ability-to-complete-long-tasks/" class="read-more">阅读更多</a>
+        </article>
+        
+    </div>
+</section>
+
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 AI研究资料库</p>
+    </footer>
+</body>
+</html> 

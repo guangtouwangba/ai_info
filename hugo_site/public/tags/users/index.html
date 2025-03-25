@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Users - AI研究资料库</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark');
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <div class="header-content">
+        <h1><a href="/">AI研究资料库</a></h1>
+        <nav>
+            
+            <a href="/papers/">论文</a>
+            
+            <a href="/tags/">标签</a>
+            
+            <a href="/categories/">分类</a>
+            
+            <a href="/search/">搜索</a>
+            
+        </nav>
+        
+<div class="language-switcher">
+    
+    <a href="https://example.org/" class="active">
+        中文
+    </a>
+    
+    <a href="https://example.org/en/" class="">
+        English
+    </a>
+    
+</div>
+ 
+    </div>
+</header> 
+    
+    <main>
+        
+<section class="taxonomy-list">
+    <h1>Users</h1>
+    <div class="papers-list">
+        
+        <article class="paper-item">
+            <h3><a href="/papers/2025-03-20/from-1000000-users-to-every-user-scaling-up-person/">From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment</a></h3>
+            <div class="paper-meta">
+                <span class="date">2025-03-20</span>
+            </div>
+            <div class="summary">
+                本文提出了一种可扩展的个性化对齐大语言模型（LLMs）的框架，突破了传统“一刀切”方法的局限。通过建立系统化的偏好空间和多样化的人物表征，结合包含130万个性化偏好示例的AlignX数据集，开发了两种对齐方法：基于人物表征的上下文对齐和基于中间偏好分布的偏好桥接对齐。实验表明，该方法在四个基准测试中平均提升了17.06%的准确率，展现出对新偏好的强适应性、对有限用户数据的鲁棒性以及精确的偏好控制能力，推动了真正适应用户的AI系统的发展。
+            </div>
+            <a href="/papers/2025-03-20/from-1000000-users-to-every-user-scaling-up-person/" class="read-more">阅读更多</a>
+        </article>
+        
+    </div>
+</section>
+
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 AI研究资料库</p>
+    </footer>
+</body>
+</html> 

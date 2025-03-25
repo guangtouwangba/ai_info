@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Information on AI研究资料库</title>
+    <link>https://example.org/tags/information/</link>
+    <description>Recent content in Information on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 23:02:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/information/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Fusion in Smart Agriculture: Machine Learning Applications and Future Research Directions</title>
+      <link>https://example.org/papers/2025-03-19/information-fusion-in-smart-agriculture-machine-le/</link>
+      <pubDate>Wed, 19 Mar 2025 23:02:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/information-fusion-in-smart-agriculture-machine-le/</guid>
+      <description>本文综述了机器学习（ML）在农业可持续发展与效率提升中的广泛应用，填补了现有研究在跨领域融合视角上的不足。研究围绕五大目标展开：分析ML在农业各阶段的应用、探讨ML与农业数据及数据融合的结合、进行文献计量与统计分析、研究AI驱动的农业公司案例、并整理公开数据集以支持ML模型训练。重点探讨了ML与多源数据融合（如遥感、物联网和气候分析）如何提升精准农业的预测精度与决策能力，同时指出了未来研究方向及异质数据集融合的挑战，为研究者、行业专家及政策制定者提供了参考。</description>
+      <content:encoded><![CDATA[<h1 id="information-fusion-in-smart-agriculture-machine-learning-applications-and-future-research-directions">Information Fusion in Smart Agriculture: Machine Learning Applications and Future Research Directions</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2405.17465v2">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Machine learning (ML) is a rapidly evolving technology with expanding
+applications across various fields. This paper presents a comprehensive survey
+of recent ML applications in agriculture for sustainability and efficiency.
+Existing reviews mainly focus on narrow subdomains or lack a fusion-driven
+perspectives. This study provides a combined analysis of ML applications in
+agriculture, structured around five key objectives: (i) Analyzing ML techniques
+across pre-harvesting, harvesting, and post-harvesting phases. (ii)
+Demonstrating how ML can be used with agricultural data and data fusion. (iii)
+Conducting a bibliometric and statistical analysis to reveal research trends
+and activity. (iv) Investigating real-world case studies of leading artificial
+intelligence (AI)-driven agricultural companies that use different types of
+multisensors and multisource data. (v) Compiling publicly available datasets to
+support ML model training. Going beyond existing previous reviews, this review
+focuses on how machine learning (ML) techniques, combined with multi-source
+data fusion (integrating remote sensing, IoT, and climate analytics), enhance
+precision agriculture by improving predictive accuracy and decision-making.
+Case studies and statistical insights illustrate the evolving landscape of AI
+driven smart farming, while future research directions also discusses
+challenges associated with data fusion for heterogeneous datasets. This review
+bridges the gap between AI research and agricultural applications, offering a
+roadmap for researchers, industry professionals, and policymakers to harness
+information fusion and ML for advancing precision agriculture.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文综述了机器学习（ML）在农业可持续发展与效率提升中的广泛应用，填补了现有研究在跨领域融合视角上的不足。研究围绕五大目标展开：分析ML在农业各阶段的应用、探讨ML与农业数据及数据融合的结合、进行文献计量与统计分析、研究AI驱动的农业公司案例、并整理公开数据集以支持ML模型训练。重点探讨了ML与多源数据融合（如遥感、物联网和气候分析）如何提升精准农业的预测精度与决策能力，同时指出了未来研究方向及异质数据集融合的挑战，为研究者、行业专家及政策制定者提供了参考。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:02:42Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI on AI研究资料库</title>
+    <link>https://example.org/tags/agent%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%BA%E6%96%87%E4%B8%BB%E8%A6%81%E6%8E%A2%E8%AE%A8%E4%BA%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E8%AE%BA%E6%96%87%E6%8F%90%E5%87%BA%E4%BA%86%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E6%96%B9%E6%B3%95%E6%9D%A5%E6%8F%90%E9%AB%98agent%E7%9A%84%E6%80%A7%E8%83%BD%E5%B9%B6%E9%80%9A%E8%BF%87%E5%AE%9E%E9%AA%8C%E8%AF%81%E6%98%8E%E4%BA%86%E5%85%B6%E6%9C%89%E6%95%88%E6%80%A7%E8%BF%99%E9%A1%B9%E7%A0%94%E7%A9%B6%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%9A%84ai/</link>
+    <description>Recent content in Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 09:16:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/agent%E9%A2%86%E5%9F%9F%E7%9A%84%E8%AE%BA%E6%96%87%E4%B8%BB%E8%A6%81%E6%8E%A2%E8%AE%A8%E4%BA%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E8%AE%BA%E6%96%87%E6%8F%90%E5%87%BA%E4%BA%86%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E6%96%B9%E6%B3%95%E6%9D%A5%E6%8F%90%E9%AB%98agent%E7%9A%84%E6%80%A7%E8%83%BD%E5%B9%B6%E9%80%9A%E8%BF%87%E5%AE%9E%E9%AA%8C%E8%AF%81%E6%98%8E%E4%BA%86%E5%85%B6%E6%9C%89%E6%95%88%E6%80%A7%E8%BF%99%E9%A1%B9%E7%A0%94%E7%A9%B6%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%9A%84ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#马斯克收购了一家视频生成初创公司# 马斯克也要打造自己的视频生成模型了？？就在最近，xAI收购了一家视频生成初创公司，这家仅4个人的公司过去两年打造出了Hot...</title>
+      <link>https://example.org/papers/2025-03-19/-xai4hot/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/-xai4hot/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="马斯克收购了一家视频生成初创公司-马斯克也要打造自己的视频生成模型了就在最近xai收购了一家视频生成初创公司这家仅4个人的公司过去两年打造出了hot">#马斯克收购了一家视频生成初创公司# 马斯克也要打造自己的视频生成模型了？？就在最近，xAI收购了一家视频生成初创公司，这家仅4个人的公司过去两年打造出了Hot&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjds449Uw">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B6%E8%B4%AD%E4%BA%86%E4%B8%80%E5%AE%B6%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%23&amp;extparam=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B6%E8%B4%AD%E4%BA%86%E4%B8%80%E5%AE%B6%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%23" data-hide=""><span class="surl-text">#马斯克收购了一家视频生成初创公司#</span></a> <br><br>马斯克也要打造自己的视频生成模型了？？<br><br>就在最近，xAI收购了一家视频生成初创公司，这家仅4个人的公司过去两年打造出了Hotshot这款产品。<br><br>据公告介绍，Hotshot至今已有3款视频生成基础模型。被收购之后，目前已停止推出新的视频创作功能，而且用户过往创作的视频截止下载时间为3月30日。<br><br>一看这架势，网友们纷纷想起了老马在今年1月的一场直播活动中掷下的豪言：<br><br>预计将在几个月内发布Grok视频模型<br><br>而且就在Hotshot联创&amp;CEO公布上述消息之后，老马也第一时间跑来卖关子：<br><br>酷炫视频AI即将到来！<br><br>那么，这是一家怎样的团队呢？为什么它能被马斯克“看上”？<br><br>答案这就揭晓——<br><br>概括而言，Hotshot之所以能入老马的眼，原因显然在于两方面：<br><br>一是“小团队也有大能量”，据悉Hotshot团队一共只有4个人，但他们在13个月里连续训练出了3个视频生成模型，且获得了一定程度的用户关注；二是虽然成立不久，但投资者中不乏Reddit联合创始人Alexis Ohanian等大佬。<br><br>从Hotshot官网公布的信息来看，这个4人小团队在两年时间里成功打造出了“Sora”模型。<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDgYseRVqfOy8_HvZC5aFbg" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">马斯克进军AI视频，收购视频生成初创公司，4人13个月打造类Sora模型</span></a><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hzlw0eaxtfj30sg0sgh3a.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hzlw0ig7kwj312u0o016t.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>#陶哲轩亲测点赞o3-mini# 陶哲轩亲测点赞o3-mini：它纠正了我一个数学错误，10分钟就能解决原本一小时才能完成的题目，事情究竟咋回事？ 量子位的微博视频</title>
+      <link>https://example.org/papers/2025-03-19/o3-mini-o3-mini10-/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/o3-mini-o3-mini10-/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="陶哲轩亲测点赞o3-mini-陶哲轩亲测点赞o3-mini它纠正了我一个数学错误10分钟就能解决原本一小时才能完成的题目事情究竟咋回事-量子位的微博视频">#陶哲轩亲测点赞o3-mini# 陶哲轩亲测点赞o3-mini：它纠正了我一个数学错误，10分钟就能解决原本一小时才能完成的题目，事情究竟咋回事？ 量子位的微博视频</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/Pjemxa9Gv">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%99%B6%E5%93%B2%E8%BD%A9%E4%BA%B2%E6%B5%8B%E7%82%B9%E8%B5%9Eo3-mini%23&amp;extparam=%23%E9%99%B6%E5%93%B2%E8%BD%A9%E4%BA%B2%E6%B5%8B%E7%82%B9%E8%B5%9Eo3-mini%23" data-hide=""><span class="surl-text">#陶哲轩亲测点赞o3-mini#</span></a> <br><br>陶哲轩亲测点赞o3-mini：它纠正了我一个数学错误，10分钟就能解决原本一小时才能完成的题目，事情究竟咋回事？ <a href="https://video.weibo.com/show?fid=1034:5145602762407949" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1hzl9hkrewlj30u01hcwhh.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/VgXn0y3Nlx08mM2k0aIw01041200sBoW0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742350603&amp;ssig=yX5gkYfS3T&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/IAE3LGHklx08mM2jGRyE01041200j5550E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742350603&amp;ssig=naI8qne8EY&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/XYe2vcYGlx08mM2k4uyA010412009oKt0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1742350603&amp;ssig=T81lMZo%2FVS&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5145602762407949" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Escaping Plato&#39;s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</title>
+      <link>https://example.org/papers/2025-03-19/escaping-platos-cave-robust-conceptual-reasoning-t/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/escaping-platos-cave-robust-conceptual-reasoning-t/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="escaping-platos-cave-robust-conceptual-reasoning-through-interpretable-3d-neural-object-volumes">Escaping Plato&rsquo;s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.13429v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>With the rise of neural networks, especially in high-stakes applications,
+these networks need two properties (i) robustness and (ii) interpretability to
+ensure their safety. Recent advances in classifiers with 3D volumetric object
+representations have demonstrated a greatly enhanced robustness in
+out-of-distribution data. However, these 3D-aware classifiers have not been
+studied from the perspective of interpretability. We introduce CAVE - Concept
+Aware Volumes for Explanations - a new direction that unifies interpretability
+and robustness in image classification. We design an inherently-interpretable
+and robust classifier by extending existing 3D-aware classifiers with concepts
+extracted from their volumetric representations for classification. In an array
+of quantitative metrics for interpretability, we compare against different
+concept-based approaches across the explainable AI literature and show that
+CAVE discovers well-grounded concepts that are used consistently across images,
+while achieving superior robustness.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</title>
+      <link>https://example.org/papers/2025-03-19/videomind-a-chain-of-lora-agent-for-long-video-rea/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/videomind-a-chain-of-lora-agent-for-long-video-rea/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="videomind-a-chain-of-lora-agent-for-long-video-reasoning">VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.13444v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Videos, with their unique temporal dimension, demand precise grounded
+understanding, where answers are directly linked to visual, interpretable
+evidence. Despite significant breakthroughs in reasoning capabilities within
+Large Language Models, multi-modal reasoning - especially for videos - remains
+unexplored. In this work, we introduce VideoMind, a novel video-language agent
+designed for temporal-grounded video understanding. VideoMind incorporates two
+key innovations: (i) We identify essential capabilities for video temporal
+reasoning and develop a role-based agentic workflow, including a planner for
+coordinating different roles, a grounder for temporal localization, a verifier
+to assess temporal interval accuracy, and an answerer for question-answering.
+(ii) To efficiently integrate these diverse roles, we propose a novel
+Chain-of-LoRA strategy, enabling seamless role-switching via lightweight LoRA
+adaptors while avoiding the overhead of multiple models, thus balancing
+efficiency and flexibility. Extensive experiments on 14 public benchmarks
+demonstrate that our agent achieves state-of-the-art performance on diverse
+video understanding tasks, including 3 on grounded video question-answering, 6
+on video temporal grounding, and 5 on general video question-answering,
+underscoring its effectiveness in advancing video agent and long-form temporal
+reasoning.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

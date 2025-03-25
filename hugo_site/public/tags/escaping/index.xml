@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Escaping on AI研究资料库</title>
+    <link>https://example.org/tags/escaping/</link>
+    <description>Recent content in Escaping on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 09:16:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/escaping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escaping Plato&#39;s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</title>
+      <link>https://example.org/papers/2025-03-19/escaping-platos-cave-robust-conceptual-reasoning-t/</link>
+      <pubDate>Wed, 19 Mar 2025 09:16:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/escaping-platos-cave-robust-conceptual-reasoning-t/</guid>
+      <description>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</description>
+      <content:encoded><![CDATA[<h1 id="escaping-platos-cave-robust-conceptual-reasoning-through-interpretable-3d-neural-object-volumes">Escaping Plato&rsquo;s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.13429v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>With the rise of neural networks, especially in high-stakes applications,
+these networks need two properties (i) robustness and (ii) interpretability to
+ensure their safety. Recent advances in classifiers with 3D volumetric object
+representations have demonstrated a greatly enhanced robustness in
+out-of-distribution data. However, these 3D-aware classifiers have not been
+studied from the perspective of interpretability. We introduce CAVE - Concept
+Aware Volumes for Explanations - a new direction that unifies interpretability
+and robustness in image classification. We design an inherently-interpretable
+and robust classifier by extending existing 3D-aware classifiers with concepts
+extracted from their volumetric representations for classification. In an array
+of quantitative metrics for interpretability, we compare against different
+concept-based approaches across the explainable AI literature and show that
+CAVE discovers well-grounded concepts that are used consistently across images,
+while achieving superior robustness.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>这是一篇关于AI Agent领域的论文，主要探讨了最新进展和研究方向。论文提出了一种新的方法来提高Agent的性能，并通过实验证明了其有效性。这项研究对未来的AI Agent开发具有重要指导意义。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T09:16:53+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

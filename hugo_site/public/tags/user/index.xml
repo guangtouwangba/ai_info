@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>User on AI研究资料库</title>
+    <link>https://example.org/tags/user/</link>
+    <description>Recent content in User on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 13:01:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/user/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment</title>
+      <link>https://example.org/papers/2025-03-20/from-1000000-users-to-every-user-scaling-up-person/</link>
+      <pubDate>Thu, 20 Mar 2025 13:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/from-1000000-users-to-every-user-scaling-up-person/</guid>
+      <description>本文提出了一种可扩展的个性化对齐大语言模型（LLMs）的框架，突破了传统“一刀切”方法的局限。通过建立系统化的偏好空间和多样化的人物表征，结合包含130万个性化偏好示例的AlignX数据集，开发了两种对齐方法：基于人物表征的上下文对齐和基于中间偏好分布的偏好桥接对齐。实验表明，该方法在四个基准测试中平均提升了17.06%的准确率，展现出对新偏好的强适应性、对有限用户数据的鲁棒性以及精确的偏好控制能力，推动了真正适应用户的AI系统的发展。</description>
+      <content:encoded><![CDATA[<h1 id="from-1000000-users-to-every-user-scaling-up-personalized-preference-for-user-level-alignment">From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.15463v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Large language models (LLMs) have traditionally been aligned through
+one-size-fits-all approaches that assume uniform human preferences,
+fundamentally overlooking the diversity in user values and needs. This paper
+introduces a comprehensive framework for scalable personalized alignment of
+LLMs. We establish a systematic preference space characterizing psychological
+and behavioral dimensions, alongside diverse persona representations for robust
+preference inference in real-world scenarios. Building upon this foundation, we
+introduce \textsc{AlignX}, a large-scale dataset of over 1.3 million
+personalized preference examples, and develop two complementary alignment
+approaches: \textit{in-context alignment} directly conditioning on persona
+representations and \textit{preference-bridged alignment} modeling intermediate
+preference distributions. Extensive experiments demonstrate substantial
+improvements over existing methods, with an average 17.06% accuracy gain
+across four benchmarks while exhibiting a strong adaptation capability to novel
+preferences, robustness to limited user data, and precise preference
+controllability. These results validate our framework&rsquo;s effectiveness,
+advancing toward truly user-adaptive AI systems.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>本文提出了一种可扩展的个性化对齐大语言模型（LLMs）的框架，突破了传统“一刀切”方法的局限。通过建立系统化的偏好空间和多样化的人物表征，结合包含130万个性化偏好示例的AlignX数据集，开发了两种对齐方法：基于人物表征的上下文对齐和基于中间偏好分布的偏好桥接对齐。实验表明，该方法在四个基准测试中平均提升了17.06%的准确率，展现出对新偏好的强适应性、对有限用户数据的鲁棒性以及精确的偏好控制能力，推动了真正适应用户的AI系统的发展。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T13:01:49+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

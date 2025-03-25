@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI等机构合作开发了名为LightGen的开源图像生成模型。该模型通过知识蒸馏和直接偏好优化策略，显著降低了训练所需的数据规模和计算资源，仅需8张GPU即可实现接近SOTA的高质量图像生成效果。LightGen在参数量和预训练数据规模上更为精简，但在图像生成任务中表现优异，甚至超越部分现有SOTA模型。此外，LightGen将传统上需要数千GPU天的预训练过程缩短至仅88个GPU天，实现了效率与性能的良好平衡。 on AI研究资料库</title>
+    <link>https://example.org/tags/ai%E7%AD%89%E6%9C%BA%E6%9E%84%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E4%BA%86%E5%90%8D%E4%B8%BAlightgen%E7%9A%84%E5%BC%80%E6%BA%90%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E8%AF%A5%E6%A8%A1%E5%9E%8B%E9%80%9A%E8%BF%87%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F%E5%92%8C%E7%9B%B4%E6%8E%A5%E5%81%8F%E5%A5%BD%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5%E6%98%BE%E8%91%97%E9%99%8D%E4%BD%8E%E4%BA%86%E8%AE%AD%E7%BB%83%E6%89%80%E9%9C%80%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%84%E6%A8%A1%E5%92%8C%E8%AE%A1%E7%AE%97%E8%B5%84%E6%BA%90%E4%BB%85%E9%9C%808%E5%BC%A0gpu%E5%8D%B3%E5%8F%AF%E5%AE%9E%E7%8E%B0%E6%8E%A5%E8%BF%91sota%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%95%88%E6%9E%9Clightgen%E5%9C%A8%E5%8F%82%E6%95%B0%E9%87%8F%E5%92%8C%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E8%A7%84%E6%A8%A1%E4%B8%8A%E6%9B%B4%E4%B8%BA%E7%B2%BE%E7%AE%80%E4%BD%86%E5%9C%A8%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E4%BB%BB%E5%8A%A1%E4%B8%AD%E8%A1%A8%E7%8E%B0%E4%BC%98%E5%BC%82%E7%94%9A%E8%87%B3%E8%B6%85%E8%B6%8A%E9%83%A8%E5%88%86%E7%8E%B0%E6%9C%89sota%E6%A8%A1%E5%9E%8B%E6%AD%A4%E5%A4%96lightgen%E5%B0%86%E4%BC%A0%E7%BB%9F%E4%B8%8A%E9%9C%80%E8%A6%81%E6%95%B0%E5%8D%83gpu%E5%A4%A9%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%E7%BC%A9%E7%9F%AD%E8%87%B3%E4%BB%8588%E4%B8%AAgpu%E5%A4%A9%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%95%88%E7%8E%87%E4%B8%8E%E6%80%A7%E8%83%BD%E7%9A%84%E8%89%AF%E5%A5%BD%E5%B9%B3%E8%A1%A1/</link>
+    <description>Recent content in AI等机构合作开发了名为LightGen的开源图像生成模型。该模型通过知识蒸馏和直接偏好优化策略，显著降低了训练所需的数据规模和计算资源，仅需8张GPU即可实现接近SOTA的高质量图像生成效果。LightGen在参数量和预训练数据规模上更为精简，但在图像生成任务中表现优异，甚至超越部分现有SOTA模型。此外，LightGen将传统上需要数千GPU天的预训练过程缩短至仅88个GPU天，实现了效率与性能的良好平衡。 on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 23:04:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/ai%E7%AD%89%E6%9C%BA%E6%9E%84%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E4%BA%86%E5%90%8D%E4%B8%BAlightgen%E7%9A%84%E5%BC%80%E6%BA%90%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E8%AF%A5%E6%A8%A1%E5%9E%8B%E9%80%9A%E8%BF%87%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F%E5%92%8C%E7%9B%B4%E6%8E%A5%E5%81%8F%E5%A5%BD%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5%E6%98%BE%E8%91%97%E9%99%8D%E4%BD%8E%E4%BA%86%E8%AE%AD%E7%BB%83%E6%89%80%E9%9C%80%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%84%E6%A8%A1%E5%92%8C%E8%AE%A1%E7%AE%97%E8%B5%84%E6%BA%90%E4%BB%85%E9%9C%808%E5%BC%A0gpu%E5%8D%B3%E5%8F%AF%E5%AE%9E%E7%8E%B0%E6%8E%A5%E8%BF%91sota%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%95%88%E6%9E%9Clightgen%E5%9C%A8%E5%8F%82%E6%95%B0%E9%87%8F%E5%92%8C%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E8%A7%84%E6%A8%A1%E4%B8%8A%E6%9B%B4%E4%B8%BA%E7%B2%BE%E7%AE%80%E4%BD%86%E5%9C%A8%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E4%BB%BB%E5%8A%A1%E4%B8%AD%E8%A1%A8%E7%8E%B0%E4%BC%98%E5%BC%82%E7%94%9A%E8%87%B3%E8%B6%85%E8%B6%8A%E9%83%A8%E5%88%86%E7%8E%B0%E6%9C%89sota%E6%A8%A1%E5%9E%8B%E6%AD%A4%E5%A4%96lightgen%E5%B0%86%E4%BC%A0%E7%BB%9F%E4%B8%8A%E9%9C%80%E8%A6%81%E6%95%B0%E5%8D%83gpu%E5%A4%A9%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%E7%BC%A9%E7%9F%AD%E8%87%B3%E4%BB%8588%E4%B8%AAgpu%E5%A4%A9%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%95%88%E7%8E%87%E4%B8%8E%E6%80%A7%E8%83%BD%E7%9A%84%E8%89%AF%E5%A5%BD%E5%B9%B3%E8%A1%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#8张GPU训出近SOTA模型# 超低成本图像生成预训练方案来了——仅需8张GPU训练，就能实现近SOTA的高质量图像生成效果。划重点：开源。模型名为LightGen，由港科大H...</title>
+      <link>https://example.org/papers/2025-03-19/8gpusota-8gpusotalightgenh/</link>
+      <pubDate>Wed, 19 Mar 2025 23:04:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/8gpusota-8gpusotalightgenh/</guid>
+      <description>港科大Harry Yang团队与Everlyn AI等机构合作开发了名为LightGen的开源图像生成模型。该模型通过知识蒸馏和直接偏好优化策略，显著降低了训练所需的数据规模和计算资源，仅需8张GPU即可实现接近SOTA的高质量图像生成效果。LightGen在参数量和预训练数据规模上更为精简，但在图像生成任务中表现优异，甚至超越部分现有SOTA模型。此外，LightGen将传统上需要数千GPU天的预训练过程缩短至仅88个GPU天，实现了效率与性能的良好平衡。</description>
+      <content:encoded><![CDATA[<h1 id="8张gpu训出近sota模型-超低成本图像生成预训练方案来了仅需8张gpu训练就能实现近sota的高质量图像生成效果划重点开源模型名为lightgen由港科大h">#8张GPU训出近SOTA模型# 超低成本图像生成预训练方案来了——仅需8张GPU训练，就能实现近SOTA的高质量图像生成效果。划重点：开源。模型名为LightGen，由港科大H&hellip;</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/PjfF42Dzu">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%238%E5%BC%A0GPU%E8%AE%AD%E5%87%BA%E8%BF%91SOTA%E6%A8%A1%E5%9E%8B%23&amp;extparam=%238%E5%BC%A0GPU%E8%AE%AD%E5%87%BA%E8%BF%91SOTA%E6%A8%A1%E5%9E%8B%23" data-hide=""><span class="surl-text">#8张GPU训出近SOTA模型#</span></a> <br>超低成本图像生成预训练方案来了——<br><br>仅需8张GPU训练，就能实现近SOTA的高质量图像生成效果。<br><br>划重点：开源。<br><br>模型名为LightGen，由港科大Harry Yang团队联合Everlyn AI等机构打造，借助知识蒸馏（KD）和直接偏好优化（DPO）策略，有效压缩了大规模图像生成模型的训练流程。<br><br>LightGen不仅显著降低了数据规模与计算资源需求，而且在高质量图像生成任务上展现了与SOTA模型相媲美的性能。<br><br>LightGen相较于现有的生成模型，尽管参数量更小、预训练数据规模更精简，却在geneval图像生成任务的基准评测中甚至超出了部分最先进SOTA模型。<br><br>此外，LightGen在效率与性能之间实现了良好的平衡，成功地将传统上需要数千GPU days的预训练过程缩短至仅88个GPU days，即可完成高质量图像生成模型的训练。<br><br>以下是更多细节。<br><a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.toutiao.com%2Fprofile_v4%2Fgraphic%2Fpreview%3Fpgc_id%3D7483368874113745417" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzm5rp9kd9j30u00u0e81.jpg" referrerpolicy="no-referrer"><br><br></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>港科大Harry Yang团队与Everlyn AI等机构合作开发了名为LightGen的开源图像生成模型。该模型通过知识蒸馏和直接偏好优化策略，显著降低了训练所需的数据规模和计算资源，仅需8张GPU即可实现接近SOTA的高质量图像生成效果。LightGen在参数量和预训练数据规模上更为精简，但在图像生成任务中表现优异，甚至超越部分现有SOTA模型。此外，LightGen将传统上需要数千GPU天的预训练过程缩短至仅88个GPU天，实现了效率与性能的良好平衡。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:04:39Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

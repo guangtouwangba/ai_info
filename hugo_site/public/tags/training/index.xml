@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Training on AI研究资料库</title>
+    <link>https://example.org/tags/training/</link>
+    <description>Recent content in Training on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 20 Mar 2025 13:01:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks</title>
+      <link>https://example.org/papers/2025-03-20/sweet-rl-training-multi-turn-llm-agents-on-collabo/</link>
+      <pubDate>Thu, 20 Mar 2025 13:01:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-20/sweet-rl-training-multi-turn-llm-agents-on-collabo/</guid>
+      <description>大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并利用LLM的泛化能力。为此，研究团队提出了新基准ColBench，模拟LLM代理与人类协作解决后端编程和前端设计任务。基于此，他们开发了SWEET-RL算法，通过训练时信息优化目标训练评论家模型，提供步骤级奖励以改进策略模型。实验表明，SWEET-RL在ColBench上成功率提升6%，使Llama-3.1-8B在协作内容创作中表现媲美或超越GPT4-o。</description>
+      <content:encoded><![CDATA[<h1 id="sweet-rl-training-multi-turn-llm-agents-on-collaborative-reasoning-tasks">SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks</h1>
+<p><strong>原始链接</strong>: <a href="http://arxiv.org/abs/2503.15478v1">查看原文</a></p>
+<h2 id="原始摘要">原始摘要</h2>
+<p>Large language model (LLM) agents need to perform multi-turn interactions in
+real-world tasks. However, existing multi-turn RL algorithms for optimizing LLM
+agents fail to perform effective credit assignment over multiple turns while
+leveraging the generalization capabilities of LLMs and it remains unclear how
+to develop such algorithms. To study this, we first introduce a new benchmark,
+ColBench, where an LLM agent interacts with a human collaborator over multiple
+turns to solve realistic tasks in backend programming and frontend design.
+Building on this benchmark, we propose a novel RL algorithm, SWEET-RL (RL with
+Step-WisE Evaluation from Training-time information), that uses a carefully
+designed optimization objective to train a critic model with access to
+additional training-time information. The critic provides step-level rewards
+for improving the policy model. Our experiments demonstrate that SWEET-RL
+achieves a 6% absolute improvement in success and win rates on ColBench
+compared to other state-of-the-art multi-turn RL algorithms, enabling
+Llama-3.1-8B to match or exceed the performance of GPT4-o in realistic
+collaborative content creation.</p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>大型语言模型（LLM）代理在现实任务中需进行多轮交互，但现有多轮强化学习（RL）算法难以有效分配多轮信用并利用LLM的泛化能力。为此，研究团队提出了新基准ColBench，模拟LLM代理与人类协作解决后端编程和前端设计任务。基于此，他们开发了SWEET-RL算法，通过训练时信息优化目标训练评论家模型，提供步骤级奖励以改进策略模型。实验表明，SWEET-RL在ColBench上成功率提升6%，使Llama-3.1-8B在协作内容创作中表现媲美或超越GPT4-o。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-20T13:01:40+08:00</li>
+<li><strong>目录日期</strong>: 2025-03-20</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

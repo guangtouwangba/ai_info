@@ -1,0 +1,55 @@
+- id: prev_page
+  translation: "上一页"
+
+- id: next_page
+  translation: "下一页"
+
+- id: read_time
+  translation:
+    one: "1 分钟"
+    other: "{{ .Count }} 分钟"
+
+- id: toc
+  translation: "目录"
+
+- id: translations
+  translation: "翻译"
+
+- id: home
+  translation: "首页"
+
+- id: edit_post
+  translation: "编辑"
+
+- id: post_on
+  translation: "发表于"
+
+- id: last_updated
+  translation: "最后更新"
+
+- id: see_all
+  translation: "查看全部"
+
+- id: recent_posts
+  translation: "最新文章"
+
+- id: powered_by
+  translation: "由 {{ .Generator }} 驱动"
+
+- id: tag
+  translation: "标签"
+
+- id: tags
+  translation: "标签"
+
+- id: categories
+  translation: "分类"
+
+- id: related_content
+  translation: "相关内容"
+
+- id: sameTagContent
+  translation: "相关主题"
+
+- id: viewOriginal
+  translation: "查看原文" 

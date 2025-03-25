@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>盲测AI on AI研究资料库</title>
+    <link>https://example.org/tags/%E7%9B%B2%E6%B5%8Bai/</link>
+    <description>Recent content in 盲测AI on AI研究资料库</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 23:03:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E7%9B%B2%E6%B5%8Bai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搜索竞技场上线 - AI联网搜索竞技场</title>
+      <link>https://example.org/papers/2025-03-19/aiaichatbot-arenasearch-arenaai/</link>
+      <pubDate>Wed, 19 Mar 2025 23:03:00 +0000</pubDate>
+      <guid>https://example.org/papers/2025-03-19/aiaichatbot-arenasearch-arenaai/</guid>
+      <description>Chatbot Arena推出了搜索竞技场，这是一个盲测AI搜索能力的平台。用户可以通过投票比较不同AI模型的搜索效果。</description>
+      <content:encoded><![CDATA[<h1 id="搜索竞技场上线---ai联网搜索竞技场">搜索竞技场上线 - AI联网搜索竞技场</h1>
+<p><strong>原始链接</strong>: <a href="https://weibo.com/6105753431/PjhE3gcQk">查看原文</a></p>
+<h2 id="ai-摘要">AI 摘要</h2>
+<p>Chatbot Arena推出了&quot;搜索竞技场&quot;，这是一个盲测AI搜索能力的平台。用户可以通过投票比较不同AI模型的搜索效果。</p>
+<h2 id="元数据">元数据</h2>
+<ul>
+<li><strong>来源</strong>: ArXiv</li>
+<li><strong>类型</strong>: 论文</li>
+<li><strong>保存时间</strong>: 2025-03-19T23:03:15Z</li>
+<li><strong>目录日期</strong>: 2025-03-19</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
