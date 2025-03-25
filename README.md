@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/guangtouwangba/ai_info?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forksguangtouwangba/ai_info?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/forks/guangtouwangba/ai_info?style=social" alt="GitHub Forks">
   <img src="https://img.shields.io/github/issues/guangtouwangba/ai_info" alt="GitHub Issues">
   <img src="https://img.shields.io/github/license/guangtouwangba/ai_info" alt="License">
 </p>
