@@ -1,10 +1,10 @@
 # 🚀 AI Workflow - 智能研究与知识管理平台
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/siqiuchen/ai_workflow?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/siqiuchen/ai_workflow?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/issues/siqiuchen/ai_workflow" alt="GitHub Issues">
-  <img src="https://img.shields.io/github/license/siqiuchen/ai_workflow" alt="License">
+  <img src="https://img.shields.io/github/stars/guangtouwangba/ai_info?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forksguangtouwangba/ai_info?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/guangtouwangba/ai_info" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/license/guangtouwangba/ai_info" alt="License">
 </p>
 
 <p align="center">
