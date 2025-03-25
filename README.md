@@ -81,13 +81,6 @@ cp .env.example .env
 ./ai_workflow -sources arxiv,weibo,twitter -ai deepseek -storage notion
 ```
 
-#### 2. 启动Hugo站点预览
-
-```bash
-cd hugo_site
-hugo server -D
-```
-
 ## 📚 核心功能详解
 
 ### 内容采集系统
@@ -164,12 +157,6 @@ func (p *NewAIProvider) Summarize(content string) (string, error) {
     // 实现摘要生成逻辑...
 }
 ```
-
-### 自定义Hugo主题
-
-1. 修改 `hugo_site/config.toml` 文件中的主题设置
-2. 在 `hugo_site/layouts` 目录中创建自定义模板
-3. 在 `hugo_site/static/css` 中定制样式
 
 ## 📊 数据分析扩展 (实验性)
 
