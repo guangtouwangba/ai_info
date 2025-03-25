@@ -12,9 +12,6 @@ deduplication.db
 *.log
 logs/
 
-# 输出目录
-papers/
-output/
 
 # 系统文件
 .DS_Store
