@@ -1,0 +1,18 @@
+# #X华人工程总监突然离职##北邮背景高管离职𝕏#据The Verge报道，𝕏的华人工程总监Haofei Wang突然离职了，离职原因不明，目前他本人与公司方面均未就此事作...
+
+**URL**: https://weibo.com/6105753431/Pk998D1RE
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23X%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%9B%91%E7%AA%81%E7%84%B6%E7%A6%BB%E8%81%8C%23&amp;extparam=%23X%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%9B%91%E7%AA%81%E7%84%B6%E7%A6%BB%E8%81%8C%23" data-hide=""><span class="surl-text">#X华人工程总监突然离职#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8C%97%E9%82%AE%E8%83%8C%E6%99%AF%E9%AB%98%E7%AE%A1%E7%A6%BB%E8%81%8C%F0%9D%95%8F%23&amp;extparam=%23%E5%8C%97%E9%82%AE%E8%83%8C%E6%99%AF%E9%AB%98%E7%AE%A1%E7%A6%BB%E8%81%8C%F0%9D%95%8F%23" data-hide=""><span class="surl-text">#北邮背景高管离职𝕏#</span></a><br><br>据The Verge报道，𝕏的华人工程总监Haofei Wang突然离职了，离职原因不明，目前他本人与公司方面均未就此事作出任何回应。<br><br>要知道马斯克现在分身乏术，xAI和DOGE项目还忙不过来，因此Haofei Wang被外界普遍视为𝕏工程与产品方向的“实际领导者”。<br><br>说起来，Haofei Wang本身也颇具传奇色彩。<br><br>他本科毕业于北京邮电大学，之后赴美就读雪城大学（Syracuse University）硕士，职业生涯起步于AdRise，担任软件工程师。<br><br>然后转战Tubi，整整7年做到VP of Engineering，2021年跳槽进Twitter搞推荐算法，马斯克收购Twitter后，他被迅速提拔为产品工程负责人，一路走到高层。<br><br>目前尚不清楚他的离职是否出于个人选择，还是与𝕏的内部调整有关。<br><br>但最近𝕏正积极整合社交、支付等多种功能，朝着类似微信的“万能应用”迈进。有人猜测，高管变动可能对该计划产生影响。<img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hzsypcfq5ej30pb0kwtel.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hzsyphihibj30p20e90v0.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+X（原Twitter）华人工程总监Haofei Wang突然离职，原因不明。Wang本科毕业于北京邮电大学，拥有雪城大学硕士学位，曾任职Tubi副总裁，2021年加入Twitter后迅速晋升为产品工程负责人，被视为X平台的实际领导者。目前尚不清楚其离职是个人选择还是与公司内部调整有关。X近期正推动社交、支付等功能的整合，向"万能应用"方向发展，此次高管变动可能影响这一计划。Wang及公司均未对此事作出回应。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-03-25T02:29:30Z
+- **目录日期**: 2025-03-25
