@@ -1,2 +1,49 @@
+# 配置文件
 .env
-.idea
+.env.local
+.env.development
+.env.production
+
+# 数据库文件
+*.db
+deduplication.db
+
+# 日志文件
+*.log
+logs/
+
+# 输出目录
+papers/
+output/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器目录
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 编译输出
+bin/
+ai_workflow
+arxiv-agent
+
+# Go特定
+*.exe
+*.test
+*.prof
+vendor/
+
+# 测试缓存
+.cache/
+go-build/
+
+# AWS本地配置
+.aws/
+
+# 其他临时文件
+tmp/
+temp/
