@@ -31,11 +31,11 @@ are available at https://github.com/BioinfoMachineLearning/FlowDock.
 
 ## AI 摘要
 
-FlowDock是一种基于条件流匹配的深度几何生成模型，能够将未结合（apo）蛋白质结构直接映射到任意数量配体结合的（holo）结构。它不仅能预测结构置信度，还能估计结合亲和力，支持多配体同时建模和虚拟筛选。在PoseBusters Benchmark中，FlowDock以51%的盲对接成功率超越单序列AlphaFold 3；在DockGen-E数据集上，其性能与单序列Chai-1相当。此外，在CASP16的配体类别中，FlowDock在140个蛋白-配体复合物的亲和力预测中位列前五。代码、数据和预训练模型已开源。
+本文提出了FlowDock，首个基于条件流匹配的深度几何生成模型，能够直接将未结合（apo）蛋白结构映射到任意数量配体结合（holo）的复合结构。FlowDock不仅能预测结构置信度，还能估计结合亲和力，支持快速虚拟筛选。在PoseBusters基准测试中，FlowDock以51%的盲对接成功率超越单序列AlphaFold 3；在DockGen-E数据集上，其表现与单序列Chai-1相当。此外，在CASP16竞赛中，FlowDock在140个蛋白-配体复合物的亲和力预测中位列前五，展示了其在药物发现中的潜力。代码和预训练模型已开源。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-03-26T00:02:40Z
+- **保存时间**: 2025-03-26T01:29:40Z
 - **目录日期**: 2025-03-26
