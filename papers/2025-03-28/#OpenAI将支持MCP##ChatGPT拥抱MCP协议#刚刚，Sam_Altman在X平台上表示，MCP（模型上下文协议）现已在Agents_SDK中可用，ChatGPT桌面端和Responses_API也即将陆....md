@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-OpenAI宣布将在ChatGPT桌面端和Responses API中支持MCP（模型上下文协议）。MCP是由Anthropic推出的开放标准，可将AI模型与外部数据源标准化连接，被称为"AI界的USB-C"。该协议允许AI直接访问实时业务数据，提升响应准确性。此前Replit等公司已接入MCP，OpenAI的加入进一步巩固了其作为AI集成标准的地位。Anthropic表示MCP已拥有数千个集成且持续增长。这一举措将使AI助手更好地理解用户实时数据，提供更精准的服务。
+OpenAI宣布将在ChatGPT桌面端和Responses API中支持MCP（Model Context Protocol）协议。MCP是Anthropic推出的开放标准，旨在标准化AI模型与外部数据的交互方式，被称为"AI界的USB-C"。该协议允许AI直接访问业务工具、内容库等实时数据源，提升响应准确性。此前Replit等公司已接入MCP，OpenAI的加入进一步巩固了其作为AI集成标准的地位。Anthropic表示MCP已拥有数千个集成且持续增长，预计将帮助AI助手更好地理解用户实时数据，提供更精准的服务。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-03-28T00:04:15Z
+- **保存时间**: 2025-03-28T01:31:02Z
 - **目录日期**: 2025-03-28
