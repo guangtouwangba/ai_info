@@ -1,0 +1,18 @@
+# #Qwen可以深度思考图片视频了##AI看手相#阿里又发了个有意思的大模型——QVQ-Max，第一版视觉推理模型，对任意图像或视频都可以进行深度思考。举个有趣的例子�...
+
+**URL**: https://weibo.com/6105753431/PkBDG5Fcq
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Qwen%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E4%BA%86%23&amp;extparam=%23Qwen%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E4%BA%86%23" data-hide=""><span class="surl-text">#Qwen可以深度思考图片视频了#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E7%9C%8B%E6%89%8B%E7%9B%B8%23&amp;extparam=%23AI%E7%9C%8B%E6%89%8B%E7%9B%B8%23" data-hide=""><span class="surl-text">#AI看手相#</span></a><br><br>阿里又发了个有意思的大模型——<br><br>QVQ-Max，第一版视觉推理模型，对任意图像或视频都可以进行深度思考。<br><br>举个有趣的例子🌰，上传一张你的手掌，QVQ-Max就可以给看手相。如【视频1】中，QVQ-Max给出了“情绪稳定”、“求知欲强”、“创造力突出”等分析。<br><br>此外，该模型还支持多图像分析、数学推理和视频理解，下面我们一个一个来看。<br><br>多图分析：用户一次上传两张风景图片，分别对应不同季节。QVQ-Max不仅成功判断出季节差异，还细致地描述了图中细节：第一张图中识别出西湖、雷峰塔、船只与山脉，第二张图中识别出拱桥、树木与湖面，并准确归纳出前者“充满活力”，后者“宁静幽雅”的氛围。【视频2】<br><br>数学推理：用户提问图片中数字的规律，QVQ-Max判断出“第三个数字是前两个数字之和”，从而推出第三行缺失数字应为10。【视频3】<br><br>视频理解：用户上传了一段手绘蜗牛的短视频，QVQ-Max不仅识别出画面，还以富有表现力的语言复述了绘图过程：“触角长出，眼睛眨了眨，突然间，我们的蜗牛有了个性！”、“阴影加深了贝壳的深度，每条线条都证明了耐心。”【视频4】<br><br>关于技术实现部分，一句话概括就是：QVQ-Max在原有视觉模型的基础上，赋予了模型更多的tokens上限。<br><br>看这张【图5】，说的就是在MathVision数学基准测试中，只要增加模型思考过程的最大tokens数，模型的准确率就会不断提高。<br><br>QVQ-Max或许就是打开下一代通用人工智能大门的一块重要拼图。图像，不再只是识别的对象，而是AI认知世界、进行思维推理的起点。<br><br>感兴趣的小伙伴可以点击：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fqwenlm.github.io%2Fblog%2Fqvq-max-preview%2F" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzwgi3zumhj314y0k0mxq.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hzwgi1e6h7j314s0k0aan.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzwgi3mlx6j31580k0wf3.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hzwgi36e0aj316i0k03zh.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hzwgh0ye7gj316o0q0jwt.jpg" referrerpolicy="no-referrer"><br><br><br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1hzwgi4lsqxj314y0k0mxq.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/pVL9eNNRlx08n1tnKB0s0104120085cR0E010.mp4?label=mp4_720p&amp;template=1474x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1743132541&amp;ssig=mKIQYohV17&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/kgcl9nIglx08n1tn7NEs010412003sOV0E010.mp4?label=mp4_hd&amp;template=980x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1743132541&amp;ssig=Wbi6bISQA7&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/LlAN0EHOlx08n1tnjJXi010412001TGX0E010.mp4?label=mp4_ld&amp;template=736x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1743132541&amp;ssig=AXz51vMZSU&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5149112106942523" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+
+## AI 摘要
+
+阿里推出视觉推理大模型QVQ-Max，具备深度图像/视频分析能力。该模型支持多图对比（如识别季节差异并描述场景细节）、数学推理（解数字规律题）、视频理解（生动复述手绘过程）等复杂任务，甚至能通过手掌照片进行"AI看手相"。技术核心在于突破模型token上限，实验显示增加思考token数能显著提升MathVision基准测试准确率。模型将图像作为认知起点，推动AI从识别向推理进化。目前已在官网开放预览。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-03-28T02:29:23Z
+- **目录日期**: 2025-03-28
