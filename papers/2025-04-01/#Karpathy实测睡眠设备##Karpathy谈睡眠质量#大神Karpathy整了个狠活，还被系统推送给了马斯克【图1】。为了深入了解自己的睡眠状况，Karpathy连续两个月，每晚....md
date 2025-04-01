@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-AI专家Karpathy进行了为期两个月的睡眠监测实验，测试了Oura戒指、Whoop手环、Apple Watch+AutoSleep和8Sleep床垫四款设备。结果显示：Oura和Whoop数据最准确，其中Oura表现最佳但佩戴场景受限，Whoop更舒适；8Sleep数据仅供参考；Apple Watch评分波动大不可靠。实验还发现规律运动能显著改善睡眠质量，而睡眠评分直接影响次日工作效率。Karpathy强调优质睡眠对状态提升至关重要。实验详情见其博客。
+AI专家Karpathy进行了为期两个月的睡眠监测实验，同时使用Oura戒指、Whoop手环、Apple Watch+AutoSleep和8Sleep床垫四种设备。结果显示：Oura和Whoop数据最准确，其中Oura表现最佳但佩戴不便，Whoop佩戴舒适但评分较宽松；8Sleep数据仅供参考；Apple Watch组合表现最差。实验还发现规律运动显著提升睡眠质量，而睡眠评分直接影响次日工作效率。Karpathy强调优质睡眠对工作状态和人生效率的关键作用。（99字）
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-01T01:31:33Z
+- **保存时间**: 2025-04-01T02:33:44Z
 - **目录日期**: 2025-04-01
