@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-斯坦福大学CME-295课程内容被浓缩成一份高效PDF小抄，涵盖大语言模型(LLM)核心知识点，包括文本分词(tokenization)、自注意力机制(self-attention)、提示词设计(prompting)、模型微调(fine-tuning)、LLM评估(LLM-as-a-Judge)、检索增强生成(RAG)、AI智能体(Agents)和推理模型(reasoning models)等关键技术。由知名AI手绘笔记创作者Amidi兄弟整理，配套250页图文教程《Super Study Guide》，包含600+插图，系统梳理Transformer和LLM知识体系。该资源以直观可视化形式呈现复杂概念，适合快速掌握AI领域核心内容。GitHub已开源。
+斯坦福大学推出了一份关于Transformer和大语言模型(LLM)的精华知识点小抄PDF，由知名AI手绘笔记组合Amidi兄弟制作。内容涵盖tokenization、self-attention、prompting、fine-tuning等核心概念，以及LLM-as-a-Judge、RAG、AI Agents、reasoning models等前沿应用。配套250页图文教程《Super Study Guide》包含600+插图，系统梳理知识图谱。这份资料浓缩了斯坦福CME-295课程精华，被赞为"一页顶十页"的AI学习神器，适合快速掌握大语言模型关键技术。GitHub已开源。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-03T05:03:30Z
+- **保存时间**: 2025-04-03T06:03:57Z
 - **目录日期**: 2025-04-03
