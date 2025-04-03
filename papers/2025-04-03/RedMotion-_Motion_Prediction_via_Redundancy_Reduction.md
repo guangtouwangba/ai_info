@@ -21,11 +21,11 @@ https://github.com/kit-mrt/future-motion
 
 ## AI 摘要
 
-RedMotion是一种基于Transformer的自动驾驶运动预测模型，通过冗余减少学习环境表征。它采用两种冗余减少方法：1) 内部Transformer解码器将可变大小的局部道路环境token(道路图和智能体数据)压缩为固定大小的全局嵌入；2) 自监督学习对道路环境增强视图生成的嵌入应用冗余减少原则。实验表明，在半监督设置下，RedMotion优于PreTraM、Traj-MAE和GraphDINO；在Waymo运动预测挑战中，性能与HPTR和MTR++相当。该模型已开源。
+RedMotion是一种用于自动驾驶车辆运动预测的Transformer模型，通过冗余减少学习环境表征。它采用两种冗余减少方法：一是通过内部Transformer解码器将可变大小的局部道路环境标记（如道路图和智能体数据）压缩为固定大小的全局嵌入；二是通过自监督学习对道路环境增强视图生成的嵌入应用冗余减少原则。实验表明，在半监督设置下，RedMotion优于PreTraM、Traj-MAE和GraphDINO，并在Waymo运动预测挑战中与HPTR或MTR++表现相当。其开源实现已发布。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-03T00:03:04Z
+- **保存时间**: 2025-04-03T01:29:39Z
 - **目录日期**: 2025-04-03

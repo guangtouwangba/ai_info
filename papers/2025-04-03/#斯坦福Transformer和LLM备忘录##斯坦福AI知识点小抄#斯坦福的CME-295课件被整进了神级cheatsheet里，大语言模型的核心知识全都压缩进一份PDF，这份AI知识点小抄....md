@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-斯坦福大学推出的Transformer和LLM备忘录是一份浓缩大语言模型核心知识的PDF小抄，由知名AI手绘笔记组合Amidi兄弟制作。内容涵盖tokenization、self-attention、prompting、微调、LLM评判、RAG检索增强、AI智能体和推理模型等关键技术点，并配有250页图文教程《Super Study Guide》。该资源系统梳理了Transformer架构和大语言模型知识体系，以可视化方式呈现复杂概念，被誉为AI学习者的"漫画教材"。GitHub已开源该课件，适合快速掌握LLM核心原理与应用。
+斯坦福大学发布的Transformer和LLM备忘录是一份浓缩大语言模型核心知识的PDF小抄，由知名AI手绘笔记组合Amidi兄弟制作。内容涵盖tokenization、self-attention、prompting、微调、LLM-as-a-Judge、RAG检索增强、AI智能体和推理模型等关键技术，以可视化方式呈现复杂概念。配套250页图文教程《Super Study Guide》包含600+插图，系统梳理Transformer架构和LLM知识体系，被称作"AI人的漫画教材"。该资源已在GitHub开源，为学习大语言模型提供了高效直观的参考资料。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-03T00:03:51Z
+- **保存时间**: 2025-04-03T01:30:25Z
 - **目录日期**: 2025-04-03
