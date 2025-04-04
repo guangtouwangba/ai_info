@@ -23,11 +23,11 @@ models to probe unexplored boosted regimes at the LHC.
 
 ## AI 摘要
 
-本文提出了一种在LHC测量$|V_{cb}|$的新方法，通过先进的boosted-jet标记器识别"bc特征"。该方法将$W \rightarrow bc$信号与来自顶夸克衰变的$bc$匹配喷注关联，实现标记器的原位校准，显著抑制背景并降低味道标记效率的不确定性。基于AI开发的大/小半径标记器Sophon和SophonAK4已验证与ATLAS和CMS最先进标记器相当。该方法在HL-LHC下可将$|V_{cb}|$测量精度提高约30%，同时使$H^{\pm} \rightarrow bc$搜索灵敏度比ATLAS Run 2结果提升2-5倍，为LHC探索未开发的boosted区域提供了新视角。
+本文提出了一种在LHC测量$|V_{cb}|$的新方法，利用先进的"bc标记"喷注重构技术。通过将$W \rightarrow bc$信号与顶夸克衰变的bc匹配喷注关联，实现了标记器的原位校准，显著抑制背景并降低味道标记效率的不确定性。研究采用基于AI的大/小半径喷注重构器Sophon和SophonAK4，验证性能达到ATLAS/CMS先进水平。该方法在HL-LHC下可将$|V_{cb}|$测量精度提高约30%，同时使$H^{\pm} \rightarrow bc$搜索灵敏度比ATLAS Run 2结果提升2-5倍，为LHC高能区探索提供了新思路。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-04T04:02:07Z
+- **保存时间**: 2025-04-04T05:02:21Z
 - **目录日期**: 2025-04-04
