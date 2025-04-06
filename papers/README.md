@@ -4,111 +4,93 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文提出了CodeArena基准测试，用于评估代码生成大模型(CodeLLMs)与人类偏好的对齐程度。研究者从真实用户查...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-06 01:48
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-06/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-06 01:47
-
----
-
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献检索、AI...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-06 01:47
+**收录时间**: 2025-04-06 02:34
 
 ---
 
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。它结合真实社会环境...
+**摘要**: 这篇论文探讨了代码生成大模型（codeLLMs）如何与人类偏好对齐的问题。现有基准主要测试代码正确性，而忽略了...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-06 01:47
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-04-06 02:34
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+**摘要**: 本研究提出LatentSync，一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该框架利用Stabl...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-06 01:47
+**收录时间**: 2025-04-06 02:33
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-06/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了近年来针对非小细胞肺癌（NSCLC）ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，尽...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-06 01:42
-
----
-
-### [#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用...](2025-04-06/#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用....md)
-
-**摘要**: 华为GTS算法团队推出新模型GTS-LUM，专门用于电信用户行为建模。该模型能精准预测用户行为，如套餐更换意向、...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PlH6bjKrI)
-**收录时间**: 2025-04-06 01:41
-
----
-
-### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与 第三届#中国AIGC产...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与_第三届#中国AIGC产....md)
-
-**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，聚焦AI技术应用与产业发展。网易有道智能应用事业...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PlKdlxSa2)
-**收录时间**: 2025-04-06 01:41
+**收录时间**: 2025-04-06 02:33
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统观...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-06 01:41
+**收录时间**: 2025-04-06 02:33
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-06/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-06 02:33
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它分析了四...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-04-06 02:33
+
+---
+
+### [#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用...](2025-04-06/#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用....md)
+
+**摘要**: 华为GTS算法团队推出新大模型GTS-LUM，在电信用户行为预测领域取得突破性进展。该模型能精准预测用户换套餐意...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PlH6bjKrI)
+**收录时间**: 2025-04-06 02:32
+
+---
+
+### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与 第三届#中国AIGC产...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与_第三届#中国AIGC产....md)
+
+**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与产业发展。网易有道智能应用事业...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PlKdlxSa2)
+**收录时间**: 2025-04-06 02:32
 
 ---
 
 ### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～趣丸科技副总裁贾朔已确认参与 第三届#中国AIGC产业峰会# ！贾朔...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～趣丸科技副总裁贾朔已确认参与_第三届#中国AIGC产业峰会#_！贾朔....md)
 
-**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京举行，趣丸科技副总裁贾朔确认出席。贾朔团队开发的唱鸭APP创新了"弹...
+**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京举行，趣丸科技副总裁贾朔确认出席。贾朔团队开发的唱鸭APP创新"无弦...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PlJxMicbm)
-**收录时间**: 2025-04-06 01:41
-
----
-
-### [#台大李宏毅爆火AI课# 用100分钟讲透AI Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐...](2025-04-06/#台大李宏毅爆火AI课#_用100分钟讲透AI_Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐....md)
-
-**摘要**: 台大教授李宏毅的AI课程因讲解生动有趣而广受欢迎。他用100分钟深入浅出地讲解了AI Agent的原理与应用，结合动...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PlQ0ddUTu)
-**收录时间**: 2025-04-06 01:40
-
----
-
-### [#GPT5将在几个月后发布##DeepSeek发布新论文# 有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。...](2025-04-06/#GPT5将在几个月后发布##DeepSeek发布新论文#_有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling_Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。....md)
-
-**摘要**: #GPT5将在几个月后发布##DeepSeek发布新论文# 有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling Law的论文嘛...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PlQ9VqAwj)
-**收录时间**: 2025-04-06 01:40
+**收录时间**: 2025-04-06 02:32
 
 ---
 
@@ -117,16 +99,25 @@
 **摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会聚焦AI技术落地应用，邀...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PlRpAxzw8)
-**收录时间**: 2025-04-06 01:35
+**收录时间**: 2025-04-06 02:31
 
 ---
 
 ### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～轻松健康集团技术副总裁高玉石已确认参与 第三届#中国AIGC产业峰...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～轻松健康集团技术副总裁高玉石已确认参与_第三届#中国AIGC产业峰....md)
 
-**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与发展。轻松健康集团技术副总裁高...
+**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，轻松健康集团技术副总裁高玉石确认出席。作为资...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PlQFUvC3W)
-**收录时间**: 2025-04-06 01:35
+**收录时间**: 2025-04-06 02:31
+
+---
+
+### [#GPT5将在几个月后发布##DeepSeek发布新论文# 有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。...](2025-04-06/#GPT5将在几个月后发布##DeepSeek发布新论文#_有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling_Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。....md)
+
+**摘要**: OpenAI CEO奥特曼宣布GPT-5发布时间调整，预计将在几个月后推出，性能将超预期，但需先发布o3和o4-mini过渡版本。延...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PlQ9VqAwj)
+**收录时间**: 2025-04-06 02:31
 
 ---
 
@@ -135,52 +126,61 @@
 **摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会将聚焦AI算力、AI Agent、AI...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PlRitxm9g)
-**收录时间**: 2025-04-06 01:35
+**收录时间**: 2025-04-06 02:31
 
 ---
 
 ### [#比尔盖茨公开50年前源代码##比尔盖茨公开Altair Basic源代码# 一段时隔整整50年的源代码，更是让微软这家科技巨头起家的源代码，正式被公开了——Altair Basic...](2025-04-06/#比尔盖茨公开50年前源代码##比尔盖茨公开Altair_Basic源代码#_一段时隔整整50年的源代码，更是让微软这家科技巨头起家的源代码，正式被公开了——Altair_Basic....md)
 
-**摘要**: 比尔·盖茨公开了50年前由他编写的Altair Basic源代码（共157页），这是微软起家的关键代码。盖茨强调在Office、Windo...
+**摘要**: 比尔·盖茨公开了50年前由他编写的Altair Basic源代码（共157页），这段代码是微软公司的起点。盖茨强调，在Office...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PlQeJfOXb)
-**收录时间**: 2025-04-06 01:35
+**收录时间**: 2025-04-06 02:31
+
+---
+
+### [#台大李宏毅爆火AI课# 用100分钟讲透AI Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐...](2025-04-06/#台大李宏毅爆火AI课#_用100分钟讲透AI_Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐....md)
+
+**摘要**: 台湾大学李宏毅教授的AI课程因其生动易懂的讲解风格而广受欢迎。他用100分钟深入浅出地讲解了AI Agent从原理到...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PlQ0ddUTu)
+**收录时间**: 2025-04-06 02:31
 
 ---
 
 ### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～像素绽放PixelBloom CEO 赵充已确认参与 第三届#中国AIGC产业峰...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～像素绽放PixelBloom_CEO_赵充已确认参与_第三届#中国AIGC产业峰....md)
 
-**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI应用与产业发展。像素绽放PixelBloom CEO赵充确...
+**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，聚焦AI应用与产业发展。像素绽放PixelBloom CEO赵充确...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PlSGVyHha)
-**收录时间**: 2025-04-06 01:35
+**收录时间**: 2025-04-06 02:31
 
 ---
 
 ### [Novel $\|V\_{cb}\|$ extraction method via boosted $bc$-tagging with in-situ calibration](2025-04-06/Novel_$V_{cb}$_extraction_method_via_boosted_$bc$-tagging_with_in-situ_calibration.md)
 
-**摘要**: 本文提出了一种在LHC测量$\|V\_{cb}\|$的新方法，通过先进的"bc标记器"识别$W \rightarrow bc$信号，并结合来自顶夸克衰变...
+**摘要**: 本文提出了一种在LHC上测量$\|V\_{cb}\|$的新方法，利用先进的增强喷射标记器识别"bc特征"。通过将$W \rightarrow bc$信号...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.00118v2)
-**收录时间**: 2025-04-06 01:34
+**收录时间**: 2025-04-06 02:30
 
 ---
 
-### [Measuring temporal effects of agent knowledge by date-controlled tool use](2025-04-06/Measuring_temporal_effects_of_agent_knowledge_by_date-controlled_tool_use.md)
+### [Safety-Aware Multi-Agent Learning for Dynamic Network Bridging](2025-04-06/Safety-Aware_Multi-Agent_Learning_for_Dynamic_Network_Bridging.md)
 
-**摘要**: 这篇摘要研究了大型语言模型(LLM)代理在知识更新中的时间动态性。通过使用日期控制工具(DCTs)测试LLM代理作为写...
+**摘要**: 在多智能体系统中，安全关键环境下的复杂协作任务面临重大挑战，尤其在部分可观测条件下。本研究针对动态网...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.04188v2)
-**收录时间**: 2025-04-06 01:34
+**原始链接**: [查看原文](http://arxiv.org/abs/2404.01551v2)
+**收录时间**: 2025-04-06 02:30
 
 ---
 
 ### [Spatial segregation across travelling fronts in individual-based and continuum models for the growth of heterogeneous cell populations](2025-04-06/Spatial_segregation_across_travelling_fronts_in_individual-based_and_continuum_models_for_the_growth_of_heterogeneous_cell_populations.md)
 
-**摘要**: 该研究建立了一个偏微分方程模型，描述由多种表型组成的异质性细胞群体的生长动态。模型中，细胞倾向于向压...
+**摘要**: 该研究建立了一个偏微分方程模型，描述由多种表型组成的异质细胞群体的生长动态。模型中，细胞倾向于向压缩...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2412.08535v3)
-**收录时间**: 2025-04-06 01:34
+**收录时间**: 2025-04-06 02:30
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-04-06 (27篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-06 01:48 
-  这篇论文提出了CodeArena基准测试，用于评估代码生成大模型(CodeLLMs)与人类偏好的对齐程度。研究者从真实用户查...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-06 02:34 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-06/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-06 01:47 
-  Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-06 02:34 
+  这篇论文探讨了代码生成大模型（codeLLMs）如何与人类偏好对齐的问题。现有基准主要测试代码正确性，而忽略了...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-06 01:47 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献检索、AI...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-06 02:33 
+  本研究提出LatentSync，一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该框架利用Stabl...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-06 01:47 
-  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。它结合真实社会环境...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-06/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-06 02:33 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，尽...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-06 01:47 
-  本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-06 02:33 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-06/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-06 01:42 
-  这篇论文综述了近年来针对非小细胞肺癌（NSCLC）ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-06/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-06 02:33 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用...](2025-04-06/#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用....md)** | [原文](https://weibo.com/6105753431/PlH6bjKrI) | 时间: 2025-04-06 01:41 
-  华为GTS算法团队推出新模型GTS-LUM，专门用于电信用户行为建模。该模型能精准预测用户行为，如套餐更换意向、...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-06 02:33 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它分析了四...
 
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与 第三届#中国AIGC产...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与_第三届#中国AIGC产....md)** | [原文](https://weibo.com/6105753431/PlKdlxSa2) | 时间: 2025-04-06 01:41 
-  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，聚焦AI技术应用与产业发展。网易有道智能应用事业...
+- **[#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用...](2025-04-06/#华为新模型精准预测用户行为##华为新模型拿下通信领域SOTA#移动通信领域杀出了一个新SOTA选手！华为GTS算法团队最近上新了个大模型——GTS-LUM，专门搞定电信用....md)** | [原文](https://weibo.com/6105753431/PlH6bjKrI) | 时间: 2025-04-06 02:32 
+  华为GTS算法团队推出新大模型GTS-LUM，在电信用户行为预测领域取得突破性进展。该模型能精准预测用户换套餐意...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-06 01:41 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统观...
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与 第三届#中国AIGC产...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～网易有道智能应用事业部负责人张艺已确认参与_第三届#中国AIGC产....md)** | [原文](https://weibo.com/6105753431/PlKdlxSa2) | 时间: 2025-04-06 02:32 
+  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与产业发展。网易有道智能应用事业...
 
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～趣丸科技副总裁贾朔已确认参与 第三届#中国AIGC产业峰会# ！贾朔...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～趣丸科技副总裁贾朔已确认参与_第三届#中国AIGC产业峰会#_！贾朔....md)** | [原文](https://weibo.com/6105753431/PlJxMicbm) | 时间: 2025-04-06 01:41 
-  第三届中国AIGC产业峰会将于4月16日在北京举行，趣丸科技副总裁贾朔确认出席。贾朔团队开发的唱鸭APP创新了"弹...
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～趣丸科技副总裁贾朔已确认参与 第三届#中国AIGC产业峰会# ！贾朔...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～趣丸科技副总裁贾朔已确认参与_第三届#中国AIGC产业峰会#_！贾朔....md)** | [原文](https://weibo.com/6105753431/PlJxMicbm) | 时间: 2025-04-06 02:32 
+  第三届中国AIGC产业峰会将于4月16日在北京举行，趣丸科技副总裁贾朔确认出席。贾朔团队开发的唱鸭APP创新"无弦...
 
-- **[#台大李宏毅爆火AI课# 用100分钟讲透AI Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐...](2025-04-06/#台大李宏毅爆火AI课#_用100分钟讲透AI_Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐....md)** | [原文](https://weibo.com/6105753431/PlQ0ddUTu) | 时间: 2025-04-06 01:40 
-  台大教授李宏毅的AI课程因讲解生动有趣而广受欢迎。他用100分钟深入浅出地讲解了AI Agent的原理与应用，结合动...
-
-- **[#GPT5将在几个月后发布##DeepSeek发布新论文# 有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。...](2025-04-06/#GPT5将在几个月后发布##DeepSeek发布新论文#_有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling_Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。....md)** | [原文](https://weibo.com/6105753431/PlQ9VqAwj) | 时间: 2025-04-06 01:40 
-  #GPT5将在几个月后发布##DeepSeek发布新论文# 有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling Law的论文嘛...
-
-- **[4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通道已开启 网页链接今年峰会主题是「万物皆可AI」，我们看到随着基础模型的深入发展，...](2025-04-06/4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通道已开启_网页链接今年峰会主题是「万物皆可AI」，我们看到随着基础模型的深入发展，....md)** | [原文](https://weibo.com/6105753431/PlRpAxzw8) | 时间: 2025-04-06 01:35 
+- **[4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通道已开启 网页链接今年峰会主题是「万物皆可AI」，我们看到随着基础模型的深入发展，...](2025-04-06/4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通道已开启_网页链接今年峰会主题是「万物皆可AI」，我们看到随着基础模型的深入发展，....md)** | [原文](https://weibo.com/6105753431/PlRpAxzw8) | 时间: 2025-04-06 02:31 
   第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会聚焦AI技术落地应用，邀...
 
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～轻松健康集团技术副总裁高玉石已确认参与 第三届#中国AIGC产业峰...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～轻松健康集团技术副总裁高玉石已确认参与_第三届#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/PlQFUvC3W) | 时间: 2025-04-06 01:35 
-  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与发展。轻松健康集团技术副总裁高...
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～轻松健康集团技术副总裁高玉石已确认参与 第三届#中国AIGC产业峰...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～轻松健康集团技术副总裁高玉石已确认参与_第三届#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/PlQFUvC3W) | 时间: 2025-04-06 02:31 
+  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，轻松健康集团技术副总裁高玉石确认出席。作为资...
 
-- **[【速戳报名 ‼️ 最新 #中国AIGC产业峰会# 嘉宾在此，4月16日，来和大佬们一起AI 】4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通...](2025-04-06/【速戳报名_‼️_最新_#中国AIGC产业峰会#_嘉宾在此，4月16日，来和大佬们一起AI_】4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通....md)** | [原文](https://weibo.com/6105753431/PlRitxm9g) | 时间: 2025-04-06 01:35 
+- **[#GPT5将在几个月后发布##DeepSeek发布新论文# 有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。...](2025-04-06/#GPT5将在几个月后发布##DeepSeek发布新论文#_有点意思。这不DeepSeek前脚刚刚上新了一篇关于推理时Scaling_Law的论文嘛，引得大家纷纷联想是不是R2马上要来了。....md)** | [原文](https://weibo.com/6105753431/PlQ9VqAwj) | 时间: 2025-04-06 02:31 
+  OpenAI CEO奥特曼宣布GPT-5发布时间调整，预计将在几个月后推出，性能将超预期，但需先发布o3和o4-mini过渡版本。延...
+
+- **[【速戳报名 ‼️ 最新 #中国AIGC产业峰会# 嘉宾在此，4月16日，来和大佬们一起AI 】4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通...](2025-04-06/【速戳报名_‼️_最新_#中国AIGC产业峰会#_嘉宾在此，4月16日，来和大佬们一起AI_】4月16日，北京金茂万丽酒店，第三届#中国AIGC产业峰会#就要来啦！观众报名通....md)** | [原文](https://weibo.com/6105753431/PlRitxm9g) | 时间: 2025-04-06 02:31 
   第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会将聚焦AI算力、AI Agent、AI...
 
-- **[#比尔盖茨公开50年前源代码##比尔盖茨公开Altair Basic源代码# 一段时隔整整50年的源代码，更是让微软这家科技巨头起家的源代码，正式被公开了——Altair Basic...](2025-04-06/#比尔盖茨公开50年前源代码##比尔盖茨公开Altair_Basic源代码#_一段时隔整整50年的源代码，更是让微软这家科技巨头起家的源代码，正式被公开了——Altair_Basic....md)** | [原文](https://weibo.com/6105753431/PlQeJfOXb) | 时间: 2025-04-06 01:35 
-  比尔·盖茨公开了50年前由他编写的Altair Basic源代码（共157页），这是微软起家的关键代码。盖茨强调在Office、Windo...
+- **[#比尔盖茨公开50年前源代码##比尔盖茨公开Altair Basic源代码# 一段时隔整整50年的源代码，更是让微软这家科技巨头起家的源代码，正式被公开了——Altair Basic...](2025-04-06/#比尔盖茨公开50年前源代码##比尔盖茨公开Altair_Basic源代码#_一段时隔整整50年的源代码，更是让微软这家科技巨头起家的源代码，正式被公开了——Altair_Basic....md)** | [原文](https://weibo.com/6105753431/PlQeJfOXb) | 时间: 2025-04-06 02:31 
+  比尔·盖茨公开了50年前由他编写的Altair Basic源代码（共157页），这段代码是微软公司的起点。盖茨强调，在Office...
 
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～像素绽放PixelBloom CEO 赵充已确认参与 第三届#中国AIGC产业峰...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～像素绽放PixelBloom_CEO_赵充已确认参与_第三届#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/PlSGVyHha) | 时间: 2025-04-06 01:35 
-  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI应用与产业发展。像素绽放PixelBloom CEO赵充确...
+- **[#台大李宏毅爆火AI课# 用100分钟讲透AI Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐...](2025-04-06/#台大李宏毅爆火AI课#_用100分钟讲透AI_Agent的原理到应用。李教授十年前就开始在台湾大学讲授机器学习课程，因为讲课浅显易懂风趣幽默，同时经常结合一些像炮姐....md)** | [原文](https://weibo.com/6105753431/PlQ0ddUTu) | 时间: 2025-04-06 02:31 
+  台湾大学李宏毅教授的AI课程因其生动易懂的讲解风格而广受欢迎。他用100分钟深入浅出地讲解了AI Agent从原理到...
 
-- **[Novel $\|V\_{cb}\|$ extraction method via boosted $bc$-tagging with in-situ calibration](2025-04-06/Novel_$V_{cb}$_extraction_method_via_boosted_$bc$-tagging_with_in-situ_calibration.md)** | [原文](http://arxiv.org/abs/2503.00118v2) | 时间: 2025-04-06 01:34 
-  本文提出了一种在LHC测量$\|V\_{cb}\|$的新方法，通过先进的"bc标记器"识别$W \rightarrow bc$信号，并结合来自顶夸克衰变...
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～像素绽放PixelBloom CEO 赵充已确认参与 第三届#中国AIGC产业峰...](2025-04-06/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～像素绽放PixelBloom_CEO_赵充已确认参与_第三届#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/PlSGVyHha) | 时间: 2025-04-06 02:31 
+  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，聚焦AI应用与产业发展。像素绽放PixelBloom CEO赵充确...
 
-- **[Measuring temporal effects of agent knowledge by date-controlled tool use](2025-04-06/Measuring_temporal_effects_of_agent_knowledge_by_date-controlled_tool_use.md)** | [原文](http://arxiv.org/abs/2503.04188v2) | 时间: 2025-04-06 01:34 
-  这篇摘要研究了大型语言模型(LLM)代理在知识更新中的时间动态性。通过使用日期控制工具(DCTs)测试LLM代理作为写...
+- **[Novel $\|V\_{cb}\|$ extraction method via boosted $bc$-tagging with in-situ calibration](2025-04-06/Novel_$V_{cb}$_extraction_method_via_boosted_$bc$-tagging_with_in-situ_calibration.md)** | [原文](http://arxiv.org/abs/2503.00118v2) | 时间: 2025-04-06 02:30 
+  本文提出了一种在LHC上测量$\|V\_{cb}\|$的新方法，利用先进的增强喷射标记器识别"bc特征"。通过将$W \rightarrow bc$信号...
 
-- **[Spatial segregation across travelling fronts in individual-based and continuum models for the growth of heterogeneous cell populations](2025-04-06/Spatial_segregation_across_travelling_fronts_in_individual-based_and_continuum_models_for_the_growth_of_heterogeneous_cell_populations.md)** | [原文](http://arxiv.org/abs/2412.08535v3) | 时间: 2025-04-06 01:34 
-  该研究建立了一个偏微分方程模型，描述由多种表型组成的异质性细胞群体的生长动态。模型中，细胞倾向于向压...
+- **[Safety-Aware Multi-Agent Learning for Dynamic Network Bridging](2025-04-06/Safety-Aware_Multi-Agent_Learning_for_Dynamic_Network_Bridging.md)** | [原文](http://arxiv.org/abs/2404.01551v2) | 时间: 2025-04-06 02:30 
+  在多智能体系统中，安全关键环境下的复杂协作任务面临重大挑战，尤其在部分可观测条件下。本研究针对动态网...
 
-- **[Scaling Laws in Scientific Discovery with AI and Robot Scientists](2025-04-06/Scaling_Laws_in_Scientific_Discovery_with_AI_and_Robot_Scientists.md)** | [原文](http://arxiv.org/abs/2503.22444v2) | 时间: 2025-04-06 01:34 
-  本文提出"自主通才科学家"(AGS)概念，通过结合智能AI与机器人技术实现科研全流程自动化。该系统能整合多学科知...
+- **[Spatial segregation across travelling fronts in individual-based and continuum models for the growth of heterogeneous cell populations](2025-04-06/Spatial_segregation_across_travelling_fronts_in_individual-based_and_continuum_models_for_the_growth_of_heterogeneous_cell_populations.md)** | [原文](http://arxiv.org/abs/2412.08535v3) | 时间: 2025-04-06 02:30 
+  该研究建立了一个偏微分方程模型，描述由多种表型组成的异质细胞群体的生长动态。模型中，细胞倾向于向压缩...
 
-- **[Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets](2025-04-06/Unified_World_Models-_Coupling_Video_and_Action_Diffusion_for_Pretraining_on_Large_Robotic_Datasets.md)** | [原文](http://arxiv.org/abs/2504.02792v1) | 时间: 2025-04-06 01:34 
-  本文提出了一种名为统一世界模型（UWM）的框架，用于结合视频和动作数据进行机器人策略学习。UWM通过统一的Tra...
+- **[Measuring temporal effects of agent knowledge by date-controlled tool use](2025-04-06/Measuring_temporal_effects_of_agent_knowledge_by_date-controlled_tool_use.md)** | [原文](http://arxiv.org/abs/2503.04188v2) | 时间: 2025-04-06 02:30 
+  本研究评估了大型语言模型（LLM）代理在知识更新中的时间依赖性，重点测试了其作为写作助手时依赖网络搜索完...
 
-- **[Safety-Aware Multi-Agent Learning for Dynamic Network Bridging](2025-04-06/Safety-Aware_Multi-Agent_Learning_for_Dynamic_Network_Bridging.md)** | [原文](http://arxiv.org/abs/2404.01551v2) | 时间: 2025-04-06 01:34 
-  本文研究了安全关键环境下多智能体系统在部分可观测条件下的复杂协作任务。针对动态网络桥接任务，研究者提...
+- **[A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models](2025-04-06/A_Framework_for_Situating_Innovations,_Opportunities,_and_Challenges_in_Advancing_Vertical_Systems_with_Large_AI_Models.md)** | [原文](http://arxiv.org/abs/2504.02793v1) | 时间: 2025-04-06 02:29 
+  大型AI模型虽然在标准化测试中表现优异，但在医疗、教育、法律等高风险领域应用时，常暴露局限性，如输入数...
 
-- **[A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models](2025-04-06/A_Framework_for_Situating_Innovations,_Opportunities,_and_Challenges_in_Advancing_Vertical_Systems_with_Large_AI_Models.md)** | [原文](http://arxiv.org/abs/2504.02793v1) | 时间: 2025-04-06 01:33 
-  大型AI模型虽然在标准化测试中表现优异，但在医疗、教育、法律等高风险领域应用时，仍存在明显缺陷，如对输...
+- **[Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets](2025-04-06/Unified_World_Models-_Coupling_Video_and_Action_Diffusion_for_Pretraining_on_Large_Robotic_Datasets.md)** | [原文](http://arxiv.org/abs/2504.02792v1) | 时间: 2025-04-06 02:29 
+  本文提出统一世界模型（UWM），通过整合动作扩散和视频扩散过程，利用Transformer架构实现多模态学习。UWM能灵活...
 
-- **[Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence](2025-04-06/Systematic_Evaluation_of_Large_Vision-Language_Models_for_Surgical_Artificial_Intelligence.md)** | [原文](http://arxiv.org/abs/2504.02799v1) | 时间: 2025-04-06 01:33 
-  Large Vision-Language Models offer a new paradigm for AI-driven image understanding, enabling models to perform tasks without task-specific training....
+- **[STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](2025-04-06/STING-BEE-_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection.md)** | [原文](http://arxiv.org/abs/2504.02823v1) | 时间: 2025-04-06 02:29 
+  研究团队开发了首个多模态X射线行李安检数据集STCray，包含46,642张图像-文本配对扫描图，涵盖21种威胁类别。该...
 
-- **[STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](2025-04-06/STING-BEE-_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection.md)** | [原文](http://arxiv.org/abs/2504.02823v1) | 时间: 2025-04-06 01:28 
-  研究人员开发了首个多模态X射线行李安检数据集STCray，包含46,642张图像-文本配对的扫描图像，涵盖21种威胁类别...
+- **[Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence](2025-04-06/Systematic_Evaluation_of_Large_Vision-Language_Models_for_Surgical_Artificial_Intelligence.md)** | [原文](http://arxiv.org/abs/2504.02799v1) | 时间: 2025-04-06 02:29 
+  大型视觉语言模型(VLMs)为AI驱动的图像理解提供了新范式，无需特定任务训练即可执行多种任务。在医学领域，特...
 
-- **[Do Two AI Scientists Agree?](2025-04-06/Do_Two_AI_Scientists_Agree.md)** | [原文](http://arxiv.org/abs/2504.02822v1) | 时间: 2025-04-06 01:28 
-  研究表明，当两个AI模型在同一科学任务上训练时，它们可能学习相同或不同的理论，类似于科学史上理论随实验...
+- **[Do Two AI Scientists Agree?](2025-04-06/Do_Two_AI_Scientists_Agree.md)** | [原文](http://arxiv.org/abs/2504.02822v1) | 时间: 2025-04-06 02:29 
+  当两个AI模型在相同科学任务上训练时，它们可能学习相同或不同的理论，类似于科学史上理论随实验数据增加而...
+
+- **[Scaling Laws in Scientific Discovery with AI and Robot Scientists](2025-04-06/Scaling_Laws_in_Scientific_Discovery_with_AI_and_Robot_Scientists.md)** | [原文](http://arxiv.org/abs/2503.22444v2) | 时间: 2025-04-06 02:29 
+  本文提出"自主通用科学家"(AGS)概念，通过结合智能代理AI与机器人技术实现科研全流程自动化。该系统能动态交互...
 
 ### 2025-04-05 (34篇)
 
