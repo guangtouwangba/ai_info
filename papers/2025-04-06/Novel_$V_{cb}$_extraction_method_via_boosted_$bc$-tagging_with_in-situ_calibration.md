@@ -23,11 +23,11 @@ models to probe unexplored boosted regimes at the LHC.
 
 ## AI 摘要
 
-本文提出了一种在LHC上测量$|V_{cb}|$的新方法，通过先进的boosted-jet tagger识别"$bc$特征"。该方法利用顶夸克衰变中的$bc$匹配喷注对tagger进行原位校准，显著抑制背景并降低味道标记效率的不确定性。研究开发了基于AI的大/小半径tagger（Sophon和SophonAK4），性能与ATLAS和CMS最先进tagger相当。在高亮度LHC条件下，该方法可将$|V_{cb}|$测量精度提高约30%，同时将$H^{\pm} \rightarrow bc$搜索灵敏度提升2-5倍。这项工作为精确测量$|V_{cb}|$提供了新视角，并展示了先进标记模型在LHC探索boosted区域的潜力。
+本文提出了一种在LHC测量$|V_{cb}|$的新方法，通过先进的增强喷射标记器识别"bc特征"。该方法将增强的$W \rightarrow bc$信号与来自顶夸克衰变的$bc$匹配喷射相关联，实现了标记器的原位校准，显著抑制背景并降低风味标记效率的不确定性。研究采用基于AI的大/小半径标记器Sophon和SophonAK4，验证其性能与ATLAS和CMS最先进标记器相当。该方法使$|V_{cb}|$测量精度在HL-LHC下提高约30%，同时将$H^{\pm} \rightarrow bc$搜索灵敏度提升2-5倍，为LHC探索增强机制提供了新视角。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-06T07:02:22Z
+- **保存时间**: 2025-04-06T08:02:29Z
 - **目录日期**: 2025-04-06
