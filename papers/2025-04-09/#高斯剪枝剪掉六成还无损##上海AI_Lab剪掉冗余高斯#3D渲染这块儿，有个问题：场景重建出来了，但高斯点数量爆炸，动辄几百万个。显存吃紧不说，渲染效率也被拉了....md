@@ -1,0 +1,18 @@
+# #高斯剪枝剪掉六成还无损##上海AI Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了...
+
+**URL**: https://weibo.com/6105753431/PmtS954Zl
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E6%96%AF%E5%89%AA%E6%9E%9D%E5%89%AA%E6%8E%89%E5%85%AD%E6%88%90%E8%BF%98%E6%97%A0%E6%8D%9F%23&amp;extparam=%23%E9%AB%98%E6%96%AF%E5%89%AA%E6%9E%9D%E5%89%AA%E6%8E%89%E5%85%AD%E6%88%90%E8%BF%98%E6%97%A0%E6%8D%9F%23" data-hide=""><span class="surl-text">#高斯剪枝剪掉六成还无损#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%8A%E6%B5%B7AI+Lab%E5%89%AA%E6%8E%89%E5%86%97%E4%BD%99%E9%AB%98%E6%96%AF%23&amp;extparam=%23%E4%B8%8A%E6%B5%B7AI+Lab%E5%89%AA%E6%8E%89%E5%86%97%E4%BD%99%E9%AB%98%E6%96%AF%23" data-hide=""><span class="surl-text">#上海AI Lab剪掉冗余高斯#</span></a><br><br>3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了下来。<br><br>而现在，上海AI Lab带来了“剪枝界的一股清流”——MaskGaussian。这项技术靠改进掩码机制，在不损失重建质量的前提下，能剪掉60%以上的冗余高斯点，效果直接拉满！<br><br>传统剪枝主要有两种方式：<br><br>- 一种靠人工打分，谁重要谁留下，但只能剪一次，还得提前全局看完图；<br>- 另一种用可学习掩码，但一旦剪了某点就再也回不来，容易误伤关键细节，结果越剪越糊。<br><br>而MaskGaussian不走老路，它把掩码融合到渲染公式中，不管这个高斯点当前有没有被“激活”，它都能拿到梯度、继续优化。<br><br>他们还做了个特别有意思的设计——每个高斯点都被赋予一个“存在与否”的概率，然后通过Gumbel-Softmax采样出是否存在的二值掩码，所有点都继续参与前向溅射和后向传播，就连掩码为0的高斯点也有参与感。<br><br>这就像让所有队员都能练，不会因为一时“上不了场”就被淘汰。<br><br>这样一来，每一步训练都能动态评估每个高斯点的实际贡献。<br><br>这样的改进，其实只需要改两行CUDA代码，就能实现完整掩码控制和梯度流动，简直“润物细无声”。<br><br>实验上，MaskGaussian在三个数据集（Mip-NeRF360、Tanks &amp; Temples、Deep Blending）上的表现显著，在性能几乎没损失情况下，剪掉了60-75%的高斯点，而且细节保留效果也在线。<br><br>甚至像藤蔓的细枝末节这类小体积物体，也没有“被顺手剪了”。<br><br>此外，MaskGaussian还解决了旧方法中“未激活高斯无法更新”导致的“死亡螺旋”问题，训练中误删重要点的概率大大降低。<br><br>它除了能从头训练的基础操作，甚至支持对已有高斯点微调优化，工程适配性极强。<br><br>训练过程中，他们还加入了一个高斯点数量的平方惩罚项，通过采样频次+平均数量的约束，进一步让高斯点数量收敛得自然、稳定，避免出现“一刀剪光”或“全都留着”的极端情况。<br><br>也许未来不光是视觉重建，在其他高密度场景建模任务中，也能看到MaskGaussian的身影。原文：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsRzXJ0DoI_ZDBD1dN5vB9Q" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br><br>项目地址：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmaskgaussian.github.io%2F" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>代码链接：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fkaikai23%2Fmaskgaussian" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0aovwnmeyg30m80jk1l3.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i0aow18ixgg30m80jk1lg.gif" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i0aovxt8pbj30zk0mq1kx.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i0aovy6w74j30zk0o0qi0.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+上海AI Lab提出MaskGaussian技术，通过改进掩码机制实现高效3D高斯剪枝。该方法将掩码融入渲染公式，使所有高斯点（包括被剪枝点）都能参与梯度优化，并引入概率化二值掩码动态评估贡献。相比传统方法，MaskGaussian在Mip-NeRF360等数据集上可剪除60-75%冗余高斯点，同时保持重建质量，精细结构（如藤蔓）得以保留。其创新性在于避免"死亡螺旋"问题，支持微调优化，仅需两行CUDA代码修改。该技术显著提升渲染效率，为高密度场景建模提供新思路。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-04-09T10:03:28Z
+- **目录日期**: 2025-04-09
