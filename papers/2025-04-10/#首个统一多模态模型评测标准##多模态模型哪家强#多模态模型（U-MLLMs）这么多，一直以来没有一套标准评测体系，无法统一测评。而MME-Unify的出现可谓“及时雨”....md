@@ -1,0 +1,18 @@
+# #首个统一多模态模型评测标准##多模态模型哪家强#多模态模型（U-MLLMs）这么多，一直以来没有一套标准评测体系，无法统一测评。而MME-Unify的出现可谓“及时雨”...
+
+**URL**: https://weibo.com/6105753431/PmttOF90c
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A6%96%E4%B8%AA%E7%BB%9F%E4%B8%80%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E8%AF%84%E6%B5%8B%E6%A0%87%E5%87%86%23&amp;extparam=%23%E9%A6%96%E4%B8%AA%E7%BB%9F%E4%B8%80%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E8%AF%84%E6%B5%8B%E6%A0%87%E5%87%86%23" data-hide=""><span class="surl-text">#首个统一多模态模型评测标准#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E5%93%AA%E5%AE%B6%E5%BC%BA%23&amp;extparam=%23%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E5%93%AA%E5%AE%B6%E5%BC%BA%23" data-hide=""><span class="surl-text">#多模态模型哪家强#</span></a><br><br>多模态模型（U-MLLMs）这么多，一直以来没有一套标准评测体系，无法统一测评。<br><br>而MME-Unify的出现可谓“及时雨”，这套由MME-Benchmarks团队推出的评测框架，第一次把多模态模型的理解、生成、混合任务测评，放进一套统一标准里。<br><br>MME-Unify到底测啥？实际就是三件事：<br><br>第一，能不能听懂看懂：  <br>理解类任务被分成三大类，单图感知（比如看图识物）、多图推理（比如比较几张图谁更合理），甚至还有视频理解（看短视频答题）。这些题都被统一成四选一的多选题，考的是模型到底有没有“眼力”和“脑力”。<br><br>第二，能不能按要求画图/视频：  <br>生成类任务直接上强度——文本生成图像、图像编辑、图像转视频、文本转视频甚至预测视频下一帧…不是“AI画画”那种简单创作，是要求你细节到位，比如能不能按提示把人物T恤上的字写对、背景画得一致。评测指标也都统一成100分制，方便模型间横向比较。<br><br>第三，也是最难的，能不能同时搞定图+文+推理的“超级任务”：  <br>这就是所谓的“统一任务”，包括像常识问答生成图像（你得先答对问题，比如“国宝是什么”→“熊猫”，然后把图画出来），图像编辑并解释修改逻辑、几何题上画出辅助线并解题，找不同、视觉链式推理（走迷宫式生成）等等。这类任务最大考验的是模型的综合调度能力，既要推理，还要生成，关键是中间过程不能掉链子。<br><br>评测了22个主流U-MLLMs后，有几个亮点以及痛点：<br><br>- 闭源模型果然还是天花板：Gemini 2.0 flash不出意外地在理解类任务上霸榜，Text-to-Image甚至比DALL·E 3高出六分，连专业生成模型都被碾压。<br><br>- 开源里Janus表现最稳定：Janus系列通过“双视觉编码器”思路，让理解和生成不互相拖后腿，特别适合这类“分工明确”的复杂任务；在理解任务上也成功击败了不少体量更大的模型。<br><br>- Emu3、Show-o这种一体Tokenizer方案遇到瓶颈：虽然设计上更简洁，但在复杂图像理解上明显吃力，说明当前的融合路径还有待打磨。<br><br>- 统一任务真的把大家难住了：目前最好的开源模型，在复杂统一任务上的准确率不到30%，很多时候甚至连迷宫都走不出第一步……而且没有一个模型能在所有维度上都表现平衡，不是理解强生成弱，就是反之。<br><br>更深的观察是：现在模型在“基础能力”和“统一能力”之间存在严重的性能权衡。<br><br>有些模型为追统一任务搞得很激进，比如MiniGPT-5、GILL、Anole，结果反倒丢了基础分；<br><br>而像MIO-Instruct在理解任务表现惊艳，但到了统一任务就掉速严重。<br><br>这反映出当前的训练策略还没有找到真正的“多模态一体化”突破点。<br><br>MME-Unify的出现，不仅把当前主流模型的短板暴露得一清二楚，也给未来模型优化、训练方式转变指明了方向——从“能炫技”到“能实用”，路还长，但方向更清晰了。<br><br>项目地址放这啦：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmme-unify.github.io" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>原文链接：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFDFFEn3FjpImdNIWfyg3jw" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">首个统一多模态模型评测标准，DeepSeek Janus理解能力领跑开源，但和闭源还有差距</span></a><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0anx4xud5j30zk0k8wyw.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0anx61339j30x80yaart.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0anx7xtvzj30ys0zk1kx.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i0anx96v1ej30zk0tvx3l.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+MME-Unify是首个统一的多模态模型评测标准，由MME-Benchmarks团队推出，涵盖理解、生成和混合任务三大类。理解任务包括单图感知、多图推理和视频理解；生成任务测试图像/视频生成的细节准确性；统一任务则挑战图文推理与生成的综合能力。评测显示，闭源模型如Gemini 2.0表现最优，开源模型中Janus凭借双视觉编码器设计表现稳定。当前模型在统一任务上普遍表现不佳（准确率<30%），暴露了基础能力与综合调度能力的失衡。该标准为多模态模型的优化提供了明确方向。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-04-10T00:05:30Z
+- **目录日期**: 2025-04-10
