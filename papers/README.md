@@ -6,64 +6,73 @@
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-10 05:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次互动。研究者用它研究社...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-10 05:05
+**收录时间**: 2025-04-10 06:08
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-10 05:05
+**收录时间**: 2025-04-10 06:08
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(包含397个样本，覆...
+**摘要**: 该论文研究了代码生成大模型(codeLLMs)与人类偏好的对齐问题。针对现有基准测试忽视人类偏好的局限，研究团队...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-10 05:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-10 05:04
+**收录时间**: 2025-04-10 06:08
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在长文本处理中的高...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-10 05:04
+**收录时间**: 2025-04-10 06:07
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大型语言模型的大规模社会模拟器，能模拟1万多个代理及其500万次互动。研究者用它分析了...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-04-10 06:07
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-04-10 06:07
+
+---
+
+### [#高斯剪枝剪掉六成还无损##上海AI Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了...](2025-04-10/#高斯剪枝剪掉六成还无损##上海AI_Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了....md)
+
+**摘要**: 上海AI Lab提出MaskGaussian技术，通过改进掩码机制实现高效3D高斯剪枝。该技术将掩码融入渲染公式，使所有高斯点...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmtS954Zl)
+**收录时间**: 2025-04-10 06:06
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 该研究提出SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传统认知。该方法通过初...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量随机...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-10 05:04
+**收录时间**: 2025-04-10 06:06
 
 ---
 
@@ -72,115 +81,106 @@
 **摘要**: 第三届中国AIGC产业峰会将于4月16日在北京举行，无问芯穹联合创始人兼CEO夏立雪确认出席。夏立雪是清华大学电...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pmu7Goig1)
-**收录时间**: 2025-04-10 05:04
-
----
-
-### [#高斯剪枝剪掉六成还无损##上海AI Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了...](2025-04-10/#高斯剪枝剪掉六成还无损##上海AI_Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了....md)
-
-**摘要**: 上海AI Lab提出的MaskGaussian技术通过改进掩码机制，能在3D场景重建中剪除60%以上的冗余高斯点而不损失质量。传统...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmtS954Zl)
-**收录时间**: 2025-04-10 05:04
-
----
-
-### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与_第三届#中国AIGC产业....md)
-
-**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与发展。微软亚洲研究院首席研究员...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmAjohawM)
-**收录时间**: 2025-04-10 05:03
-
----
-
-### [#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台# 在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase Studio：在浏览器中一站式完成AI应用...](2025-04-10/#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台#_在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase_Studio：在浏览器中一站式完成AI应用....md)
-
-**摘要**: 谷歌推出了一站式AI应用开发平台Firebase Studio，允许用户在浏览器中完成从创意到上线的全流程开发，无需安装IDE...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmAiN1a4a)
-**收录时间**: 2025-04-10 05:03
-
----
-
-### [#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google Cloud Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El Ca...](2025-04-10/#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google_Cloud_Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El_Ca....md)
-
-**摘要**: 谷歌在Google Cloud Next大会上发布第七代TPU芯片Ironwood，专为AI推理任务优化。该芯片性能达42.5ExaFLOPS，比最强超算El ...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmzTb1AN1)
-**收录时间**: 2025-04-10 05:03
-
----
-
-### [#星动纪元XHAND电竞手指速之王# 星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓...](2025-04-10/#星动纪元XHAND电竞手指速之王#_星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓....md)
-
-**摘要**: 星动纪元发布全自研XHAND1五指灵巧手，配备12个主动自由度，采用行业首创的关节全直驱方案，具备超强灵活性和...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pmut34MEr)
-**收录时间**: 2025-04-10 05:03
-
----
-
-### [一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-10/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)
-
-**摘要**: 中国AIGC产业峰会即将召开，20余位行业专家将探讨AI在各领域的应用，展现「万物皆可AI」的趋势。会议涵盖AI技术...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmuGEt6W5)
-**收录时间**: 2025-04-10 05:03
+**收录时间**: 2025-04-10 06:05
 
 ---
 
 ### [【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会# 最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如...](2025-04-10/【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会#_最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如....md)
 
-**摘要**: 第三届中国AIGC产业峰会将于2025年4月16日在北京金茂万丽酒店举办。峰会汇聚20余位行业领袖，包括百度、华为、...
+**摘要**: 第三届中国AIGC产业峰会将于2025年4月16日在北京举行，聚焦AI技术应用与产业发展。20余位来自百度、华为、蚂蚁等...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PmuFPFL8G)
-**收录时间**: 2025-04-10 05:03
+**收录时间**: 2025-04-10 06:05
 
 ---
 
-### [Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](2025-04-10/Dolphin-_Moving_Towards_Closed-loop_Auto-research_through_Thinking,_Practice,_and_Feedback.md)
+### [一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-10/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)
 
-**摘要**: 人工智能（AI）正在推动科研范式的变革。本文提出的Dolphin框架是一个闭环的LLM驱动系统，旨在提升科研自动化水...
+**摘要**: 这篇微博预告了中国AIGC产业峰会即将召开，20多位行业专家将共同探讨AI技术在各领域的应用前景，展现"万物皆可...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2501.03916v3)
-**收录时间**: 2025-04-10 05:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmuGEt6W5)
+**收录时间**: 2025-04-10 06:05
+
+---
+
+### [#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google Cloud Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El Ca...](2025-04-10/#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google_Cloud_Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El_Ca....md)
+
+**摘要**: 谷歌在Cloud Next大会上发布第七代TPU芯片Ironwood，专为AI推理任务优化。该芯片性能达42.5ExaFLOPS，比最强超算快24倍...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmzTb1AN1)
+**收录时间**: 2025-04-10 06:05
+
+---
+
+### [#星动纪元XHAND电竞手指速之王# 星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓...](2025-04-10/#星动纪元XHAND电竞手指速之王#_星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓....md)
+
+**摘要**: 星动纪元推出全自研XHAND1五指灵巧手，具备12个主动自由度，采用行业首创的关节全直驱方案，动作灵活精准，可...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pmut34MEr)
+**收录时间**: 2025-04-10 06:05
+
+---
+
+### [🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与_第三届#中国AIGC产业....md)
+
+**摘要**: 第三届中国AIGC产业峰会将于4月16日在北京举行，聚焦AI应用与发展。微软亚洲研究院首席研究员刘炜清确认出席，...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmAjohawM)
+**收录时间**: 2025-04-10 06:04
+
+---
+
+### [#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台# 在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase Studio：在浏览器中一站式完成AI应用...](2025-04-10/#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台#_在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase_Studio：在浏览器中一站式完成AI应用....md)
+
+**摘要**: 谷歌推出全新一站式AI应用开发平台Firebase Studio，支持在浏览器中完成全流程开发，无需安装IDE或配置环境。该平...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmAiN1a4a)
+**收录时间**: 2025-04-10 06:04
 
 ---
 
 ### [#3分钟生成文献综述##arXiv上线深度研究功能#论文平台arXiv，上线了深度研究功能AlphaXiv，科研人员只需3分钟，即可AI搜索arXiv上的海量论文。【视频】展示了两...](2025-04-10/#3分钟生成文献综述##arXiv上线深度研究功能#论文平台arXiv，上线了深度研究功能AlphaXiv，科研人员只需3分钟，即可AI搜索arXiv上的海量论文。【视频】展示了两....md)
 
-**摘要**: arXiv平台推出AI工具AlphaXiv，可在3分钟内生成结构化文献综述或主题报告。用户输入查询后，系统自动分析海量论...
+**摘要**: arXiv平台推出AI工具AlphaXiv，可在3分钟内自动生成结构化文献综述或主题报告。用户输入查询（如"自监督学习文献...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PmAKMn9i1)
-**收录时间**: 2025-04-10 05:02
-
----
-
-### [#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度...](2025-04-10/#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone_V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度....md)
-
-**摘要**: Clone公司发布了仿生机器人Protoclone V1的实机视频，展示了多项突破性技术：1) 人工肌肉系统（3克可拉1公斤）；2) ...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmAX0kvQG)
-**收录时间**: 2025-04-10 05:02
+**收录时间**: 2025-04-10 06:04
 
 ---
 
 ### [Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](2025-04-10/Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_Evaluation.md)
 
-**摘要**: 当前视觉语言模型(VLM)评估面临开放性问题导致评价困难的挑战。研究者提出AutoConverter框架，能自动将开放性问题...
+**摘要**: 本文介绍了AutoConverter框架，用于将开放式视觉问答(VQA)自动转换为多选题格式，以解决现有评估基准因回答多样性...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2501.03225v2)
-**收录时间**: 2025-04-10 05:02
+**收录时间**: 2025-04-10 06:03
 
 ---
 
 ### [Beyond the Hype: A dispassionate look at vision-language models in medical scenario](2025-04-10/Beyond_the_Hype-_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)
 
-**摘要**: 该研究提出了RadVUQA基准，用于全面评估大型视觉语言模型(LVLMs)在放射学领域的表现。该基准从五个维度测试模型...
+**摘要**: 近期大视觉语言模型(LVLMs)在多个领域展现出卓越能力，但医学等专业领域的性能评估仍不足。研究团队提出RadVUQA...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2408.08704v2)
-**收录时间**: 2025-04-10 05:02
+**收录时间**: 2025-04-10 06:03
+
+---
+
+### [#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度...](2025-04-10/#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone_V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度....md)
+
+**摘要**: Clone公司发布了仿生机器人Protoclone V1的实机视频，其高度拟人的外形和动作引发关注。该机器人采用多项仿生技术...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmAX0kvQG)
+**收录时间**: 2025-04-10 06:03
+
+---
+
+### [Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](2025-04-10/Dolphin-_Moving_Towards_Closed-loop_Auto-research_through_Thinking,_Practice,_and_Feedback.md)
+
+**摘要**: 人工智能正在推动科研范式的变革。本文提出的"Dolphin"是一个闭环式大语言模型驱动框架，旨在提升科研自动化水...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2501.03916v3)
+**收录时间**: 2025-04-10 06:03
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-04-10 (43篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-10 05:05 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-10 06:08 
+  本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-10 05:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次互动。研究者用它研究社...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-10 06:08 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-10 05:05 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-10 06:08 
+  该论文研究了代码生成大模型(codeLLMs)与人类偏好的对齐问题。针对现有基准测试忽视人类偏好的局限，研究团队...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-10 05:05 
-  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(包含397个样本，覆...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-10 06:07 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-10 05:04 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-10 06:07 
+  AgentSociety是一个基于大型语言模型的大规模社会模拟器，能模拟1万多个代理及其500万次互动。研究者用它分析了...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-10 05:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在长文本处理中的高...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-10 06:07 
+  该论文综述了针对非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-10 05:04 
-  该研究提出SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传统认知。该方法通过初...
+- **[#高斯剪枝剪掉六成还无损##上海AI Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了...](2025-04-10/#高斯剪枝剪掉六成还无损##上海AI_Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了....md)** | [原文](https://weibo.com/6105753431/PmtS954Zl) | 时间: 2025-04-10 06:06 
+  上海AI Lab提出MaskGaussian技术，通过改进掩码机制实现高效3D高斯剪枝。该技术将掩码融入渲染公式，使所有高斯点...
 
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～无问芯穹联合创始人、CEO夏立雪已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～无问芯穹联合创始人、CEO夏立雪已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/Pmu7Goig1) | 时间: 2025-04-10 05:04 
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-10 06:06 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量随机...
+
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～无问芯穹联合创始人、CEO夏立雪已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～无问芯穹联合创始人、CEO夏立雪已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/Pmu7Goig1) | 时间: 2025-04-10 06:05 
   第三届中国AIGC产业峰会将于4月16日在北京举行，无问芯穹联合创始人兼CEO夏立雪确认出席。夏立雪是清华大学电...
 
-- **[#高斯剪枝剪掉六成还无损##上海AI Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了...](2025-04-10/#高斯剪枝剪掉六成还无损##上海AI_Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了....md)** | [原文](https://weibo.com/6105753431/PmtS954Zl) | 时间: 2025-04-10 05:04 
-  上海AI Lab提出的MaskGaussian技术通过改进掩码机制，能在3D场景重建中剪除60%以上的冗余高斯点而不损失质量。传统...
+- **[【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会# 最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如...](2025-04-10/【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会#_最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如....md)** | [原文](https://weibo.com/6105753431/PmuFPFL8G) | 时间: 2025-04-10 06:05 
+  第三届中国AIGC产业峰会将于2025年4月16日在北京举行，聚焦AI技术应用与产业发展。20余位来自百度、华为、蚂蚁等...
 
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/PmAjohawM) | 时间: 2025-04-10 05:03 
-  第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与发展。微软亚洲研究院首席研究员...
+- **[一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-10/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)** | [原文](https://weibo.com/6105753431/PmuGEt6W5) | 时间: 2025-04-10 06:05 
+  这篇微博预告了中国AIGC产业峰会即将召开，20多位行业专家将共同探讨AI技术在各领域的应用前景，展现"万物皆可...
 
-- **[#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台# 在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase Studio：在浏览器中一站式完成AI应用...](2025-04-10/#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台#_在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase_Studio：在浏览器中一站式完成AI应用....md)** | [原文](https://weibo.com/6105753431/PmAiN1a4a) | 时间: 2025-04-10 05:03 
-  谷歌推出了一站式AI应用开发平台Firebase Studio，允许用户在浏览器中完成从创意到上线的全流程开发，无需安装IDE...
+- **[#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google Cloud Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El Ca...](2025-04-10/#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google_Cloud_Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El_Ca....md)** | [原文](https://weibo.com/6105753431/PmzTb1AN1) | 时间: 2025-04-10 06:05 
+  谷歌在Cloud Next大会上发布第七代TPU芯片Ironwood，专为AI推理任务优化。该芯片性能达42.5ExaFLOPS，比最强超算快24倍...
 
-- **[#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google Cloud Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El Ca...](2025-04-10/#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google_Cloud_Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El_Ca....md)** | [原文](https://weibo.com/6105753431/PmzTb1AN1) | 时间: 2025-04-10 05:03 
-  谷歌在Google Cloud Next大会上发布第七代TPU芯片Ironwood，专为AI推理任务优化。该芯片性能达42.5ExaFLOPS，比最强超算El ...
+- **[#星动纪元XHAND电竞手指速之王# 星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓...](2025-04-10/#星动纪元XHAND电竞手指速之王#_星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓....md)** | [原文](https://weibo.com/6105753431/Pmut34MEr) | 时间: 2025-04-10 06:05 
+  星动纪元推出全自研XHAND1五指灵巧手，具备12个主动自由度，采用行业首创的关节全直驱方案，动作灵活精准，可...
 
-- **[#星动纪元XHAND电竞手指速之王# 星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓...](2025-04-10/#星动纪元XHAND电竞手指速之王#_星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓....md)** | [原文](https://weibo.com/6105753431/Pmut34MEr) | 时间: 2025-04-10 05:03 
-  星动纪元发布全自研XHAND1五指灵巧手，配备12个主动自由度，采用行业首创的关节全直驱方案，具备超强灵活性和...
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/PmAjohawM) | 时间: 2025-04-10 06:04 
+  第三届中国AIGC产业峰会将于4月16日在北京举行，聚焦AI应用与发展。微软亚洲研究院首席研究员刘炜清确认出席，...
 
-- **[一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-10/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)** | [原文](https://weibo.com/6105753431/PmuGEt6W5) | 时间: 2025-04-10 05:03 
-  中国AIGC产业峰会即将召开，20余位行业专家将探讨AI在各领域的应用，展现「万物皆可AI」的趋势。会议涵盖AI技术...
+- **[#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台# 在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase Studio：在浏览器中一站式完成AI应用...](2025-04-10/#谷歌推出一站式AI应用开发平台##谷歌推出用自然语言开发APP平台#_在浏览器中开发AI应用谷歌发布了AI应用开发神器Firebase_Studio：在浏览器中一站式完成AI应用....md)** | [原文](https://weibo.com/6105753431/PmAiN1a4a) | 时间: 2025-04-10 06:04 
+  谷歌推出全新一站式AI应用开发平台Firebase Studio，支持在浏览器中完成全流程开发，无需安装IDE或配置环境。该平...
 
-- **[【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会# 最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如...](2025-04-10/【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会#_最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如....md)** | [原文](https://weibo.com/6105753431/PmuFPFL8G) | 时间: 2025-04-10 05:03 
-  第三届中国AIGC产业峰会将于2025年4月16日在北京金茂万丽酒店举办。峰会汇聚20余位行业领袖，包括百度、华为、...
+- **[#3分钟生成文献综述##arXiv上线深度研究功能#论文平台arXiv，上线了深度研究功能AlphaXiv，科研人员只需3分钟，即可AI搜索arXiv上的海量论文。【视频】展示了两...](2025-04-10/#3分钟生成文献综述##arXiv上线深度研究功能#论文平台arXiv，上线了深度研究功能AlphaXiv，科研人员只需3分钟，即可AI搜索arXiv上的海量论文。【视频】展示了两....md)** | [原文](https://weibo.com/6105753431/PmAKMn9i1) | 时间: 2025-04-10 06:04 
+  arXiv平台推出AI工具AlphaXiv，可在3分钟内自动生成结构化文献综述或主题报告。用户输入查询（如"自监督学习文献...
 
-- **[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](2025-04-10/Dolphin-_Moving_Towards_Closed-loop_Auto-research_through_Thinking,_Practice,_and_Feedback.md)** | [原文](http://arxiv.org/abs/2501.03916v3) | 时间: 2025-04-10 05:02 
-  人工智能（AI）正在推动科研范式的变革。本文提出的Dolphin框架是一个闭环的LLM驱动系统，旨在提升科研自动化水...
+- **[Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](2025-04-10/Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_Evaluation.md)** | [原文](http://arxiv.org/abs/2501.03225v2) | 时间: 2025-04-10 06:03 
+  本文介绍了AutoConverter框架，用于将开放式视觉问答(VQA)自动转换为多选题格式，以解决现有评估基准因回答多样性...
 
-- **[#3分钟生成文献综述##arXiv上线深度研究功能#论文平台arXiv，上线了深度研究功能AlphaXiv，科研人员只需3分钟，即可AI搜索arXiv上的海量论文。【视频】展示了两...](2025-04-10/#3分钟生成文献综述##arXiv上线深度研究功能#论文平台arXiv，上线了深度研究功能AlphaXiv，科研人员只需3分钟，即可AI搜索arXiv上的海量论文。【视频】展示了两....md)** | [原文](https://weibo.com/6105753431/PmAKMn9i1) | 时间: 2025-04-10 05:02 
-  arXiv平台推出AI工具AlphaXiv，可在3分钟内生成结构化文献综述或主题报告。用户输入查询后，系统自动分析海量论...
+- **[Beyond the Hype: A dispassionate look at vision-language models in medical scenario](2025-04-10/Beyond_the_Hype-_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)** | [原文](http://arxiv.org/abs/2408.08704v2) | 时间: 2025-04-10 06:03 
+  近期大视觉语言模型(LVLMs)在多个领域展现出卓越能力，但医学等专业领域的性能评估仍不足。研究团队提出RadVUQA...
 
-- **[#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度...](2025-04-10/#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone_V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度....md)** | [原文](https://weibo.com/6105753431/PmAX0kvQG) | 时间: 2025-04-10 05:02 
-  Clone公司发布了仿生机器人Protoclone V1的实机视频，展示了多项突破性技术：1) 人工肌肉系统（3克可拉1公斤）；2) ...
+- **[#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度...](2025-04-10/#仿生机器人实机画面曝光##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone_V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度....md)** | [原文](https://weibo.com/6105753431/PmAX0kvQG) | 时间: 2025-04-10 06:03 
+  Clone公司发布了仿生机器人Protoclone V1的实机视频，其高度拟人的外形和动作引发关注。该机器人采用多项仿生技术...
 
-- **[Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](2025-04-10/Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_Evaluation.md)** | [原文](http://arxiv.org/abs/2501.03225v2) | 时间: 2025-04-10 05:02 
-  当前视觉语言模型(VLM)评估面临开放性问题导致评价困难的挑战。研究者提出AutoConverter框架，能自动将开放性问题...
+- **[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](2025-04-10/Dolphin-_Moving_Towards_Closed-loop_Auto-research_through_Thinking,_Practice,_and_Feedback.md)** | [原文](http://arxiv.org/abs/2501.03916v3) | 时间: 2025-04-10 06:03 
+  人工智能正在推动科研范式的变革。本文提出的"Dolphin"是一个闭环式大语言模型驱动框架，旨在提升科研自动化水...
 
-- **[Beyond the Hype: A dispassionate look at vision-language models in medical scenario](2025-04-10/Beyond_the_Hype-_A_dispassionate_look_at_vision-language_models_in_medical_scenario.md)** | [原文](http://arxiv.org/abs/2408.08704v2) | 时间: 2025-04-10 05:02 
-  该研究提出了RadVUQA基准，用于全面评估大型视觉语言模型(LVLMs)在放射学领域的表现。该基准从五个维度测试模型...
+- **[A Unified Agentic Framework for Evaluating Conditional Image Generation](2025-04-10/A_Unified_Agentic_Framework_for_Evaluating_Conditional_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07046v1) | 时间: 2025-04-10 06:02 
+  本文提出CIGEval框架，利用多模态大模型（LMMs）作为核心，构建了条件图像生成的统一评估系统。该框架整合多功...
 
-- **[Countering threats to national security posed by AI systems through an incident regime](2025-04-10/Countering_threats_to_national_security_posed_by_AI_systems_through_an_incident_regime.md)** | [原文](http://arxiv.org/abs/2503.19887v2) | 时间: 2025-04-10 05:02 
-  本文提出建立强制性的AI事故应对机制以应对国家安全威胁。作者将"安全关键领域"概念扩展到民用核能、航空、...
+- **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](2025-04-10/Evaluating_Retrieval_Augmented_Generative_Models_for_Document_Queries_in_Transportation_Safety.md)** | [原文](http://arxiv.org/abs/2504.07022v1) | 时间: 2025-04-10 06:02 
+  本研究评估了ChatGPT、谷歌Vertex AI和ORNL检索增强生成（RAG）优化的LLaMA 2/LLaMA在危险品运输法规检索中的表现。通过...
 
-- **[SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](2025-04-10/SkillWeaver-_Web_Agents_can_Self-Improve_by_Discovering_and_Honing_Skills.md)** | [原文](http://arxiv.org/abs/2504.07079v1) | 时间: 2025-04-10 05:01 
-  人类通过环境探索、经验分层抽象和协作构建技能库实现自我提升。然而，现有网络智能体仍缺乏关键的自改进能...
+- **[Beyond the Hype: Embeddings vs. Prompting for Multiclass Classification Tasks](2025-04-10/Beyond_the_Hype-_Embeddings_vs._Prompting_for_Multiclass_Classification_Tasks.md)** | [原文](http://arxiv.org/abs/2504.04277v2) | 时间: 2025-04-10 06:02 
+  该研究表明，在利用专有多模态数据（文本+图像）的多类别分类任务中，基于嵌入的softmax模型全面优于当前最先...
 
-- **[Beyond the Hype: Embeddings vs. Prompting for Multiclass Classification Tasks](2025-04-10/Beyond_the_Hype-_Embeddings_vs._Prompting_for_Multiclass_Classification_Tasks.md)** | [原文](http://arxiv.org/abs/2504.04277v2) | 时间: 2025-04-10 05:01 
-  该研究表明，在多分类任务中，基于嵌入的softmax模型在准确性、校准性、延迟和成本方面全面优于当前最先进的LL...
+- **[Countering threats to national security posed by AI systems through an incident regime](2025-04-10/Countering_threats_to_national_security_posed_by_AI_systems_through_an_incident_regime.md)** | [原文](http://arxiv.org/abs/2503.19887v2) | 时间: 2025-04-10 06:02 
+  近期AI能力的快速发展引发了对国家安全的担忧，如恶意网络攻击和自主AI失控的风险。为此，美国立法者提出建...
 
-- **[Detecting AI-generated Artwork](2025-04-10/Detecting_AI-generated_Artwork.md)** | [原文](http://arxiv.org/abs/2504.07078v1) | 时间: 2025-04-10 05:01 
-  这项研究探讨了如何利用机器学习（ML）和深度学习（DL）模型区分AI生成与人类生成的艺术作品，重点关注巴洛克...
+- **[SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](2025-04-10/SkillWeaver-_Web_Agents_can_Self-Improve_by_Discovering_and_Honing_Skills.md)** | [原文](http://arxiv.org/abs/2504.07079v1) | 时间: 2025-04-10 06:01 
+  人类通过环境探索、经验分层抽象和协作构建技能库实现自我提升。然而，自主网络代理仍缺乏关键的自改进能力...
 
-- **[AssistanceZero: Scalably Solving Assistance Games](2025-04-10/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v1) | 时间: 2025-04-10 05:01 
-  本文提出了一种替代人类反馈强化学习（RLHF）的新方法——辅助游戏（assistance games），通过将AI助手与用户的互...
+- **[Detecting AI-generated Artwork](2025-04-10/Detecting_AI-generated_Artwork.md)** | [原文](http://arxiv.org/abs/2504.07078v1) | 时间: 2025-04-10 06:01 
+  人工智能（AI）生成的艺术作品因其高效和高质量，对人类艺术家带来了新的挑战。近期生成式AI的进步使得人们...
 
-- **[A Unified Agentic Framework for Evaluating Conditional Image Generation](2025-04-10/A_Unified_Agentic_Framework_for_Evaluating_Conditional_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07046v1) | 时间: 2025-04-10 05:01 
-  本文提出了CIGEval框架，利用多模态大模型（LMMs）作为核心，通过多功能工具箱和细粒度评估体系，实现对条件图...
-
-- **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](2025-04-10/Evaluating_Retrieval_Augmented_Generative_Models_for_Document_Queries_in_Transportation_Safety.md)** | [原文](http://arxiv.org/abs/2504.07022v1) | 时间: 2025-04-10 05:01 
-  本研究评估了ChatGPT、Google Vertex AI和ORNL检索增强生成（RAG）优化的LLaMA 2/LLaMA三种生成式大语言模型在美国危险品...
+- **[AssistanceZero: Scalably Solving Assistance Games](2025-04-10/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v1) | 时间: 2025-04-10 06:01 
+  该研究提出了一种替代人类反馈强化学习（RLHF）的新方法——辅助游戏（assistance games），通过将AI助手与用户的...
 
 - **[#仿生机器人实机视频##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度还原...](2025-04-10/#仿生机器人实机视频##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone_V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度还原....md)** | [原文](https://weibo.com/6105753431/PmAX0kvQG) | 时间: 2025-04-10 04:02 
   Clone公司发布了仿生机器人Protoclone V1的实机视频，展示其高度拟人的设计。该机器人具备人工肌肉系统（3克可拉...
