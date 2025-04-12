@@ -4,299 +4,296 @@
 
 ## 最新内容
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘系统，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+**摘要**: 这篇论文针对代码生成大型语言模型(codeLLMs)提出了CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-12 03:16
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-04-12 04:05
 
 ---
 
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、辅助阅读和科研订阅服务。它拥有3.5亿论文、0....
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-12 03:16
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-04-12 04:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，基于音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法无需中间运动表示，直接建模...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-12 03:16
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文探讨了代码生成大型语言模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试，包含397个...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-12 03:16
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety，这是一个利用大型语言模型驱动的大规模社会模拟器，能够模拟超过1万个代理及其500...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-12 03:16
+**收录时间**: 2025-04-12 04:05
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新型优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时根...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-12 03:15
-
----
-
-### [#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，...](2025-04-12/#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，....md)
-
-**摘要**: 字节推出新型推理模型Seed-Thinking-v1.5，采用MoE架构，总参数200B（激活参数20B），在数学、代码等推理任务中表现...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmM5Z90Si)
-**收录时间**: 2025-04-12 03:15
-
----
-
-### [#大脑神经元可视化##迄今最大哺乳动物大脑功能图#150多名研究人员，历时7年，画出了迄今为止最大的哺乳动物大脑功能图。科学家们把一立方毫米（比米粒还小）的老...](2025-04-12/#大脑神经元可视化##迄今最大哺乳动物大脑功能图#150多名研究人员，历时7年，画出了迄今为止最大的哺乳动物大脑功能图。科学家们把一立方毫米（比米粒还小）的老....md)
-
-**摘要**: 150多名科学家耗时7年，完成了迄今最大的哺乳动物大脑功能图谱。研究团队将1立方毫米小鼠脑组织切成2....
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmM1spPzQ)
-**收录时间**: 2025-04-12 03:15
+**收录时间**: 2025-04-12 04:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 该研究综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新进展。ALK基因是NSCLC的重要致癌驱动因子，现有...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动靶点，虽然已...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-12 03:15
+**收录时间**: 2025-04-12 04:04
 
 ---
 
-### [#ChatGPT能记住你说的所有话了# ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用...](2025-04-12/#ChatGPT能记住你说的所有话了#_ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用....md)
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: OpenAI为ChatGPT Plus/Pro用户推出了完整的记忆功能，该功能可以记住用户过去的所有对话内容，从而根据个人偏好提...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时计算...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmNUcEmwY)
-**收录时间**: 2025-04-12 03:14
-
----
-
-### [#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真...](2025-04-12/#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真....md)
-
-**摘要**: 香港科技大学团队提出HR-Align方法，通过语义对齐人类与机器人视频数据，解决"人-机器人域差异"问题。该方法在...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmOykvVWX)
-**收录时间**: 2025-04-12 03:14
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-12 04:04
 
 ---
 
-### [#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储...](2025-04-12/#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储....md)
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 墨尔本大学等机构的研究团队提出了THEMIS框架，这是首个针对移动端AI模型部署后的系统性保护方案。该框架通过...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个代理及其500万次互动。研究者用它研究了...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmOB5y01d)
-**收录时间**: 2025-04-12 03:14
-
----
-
-### [#0产品0用户公司估值100亿# #OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO Mira Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消...](2025-04-12/#0产品0用户公司估值100亿#_#OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO_Mira_Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消....md)
-
-**摘要**: OpenAI前CTO Mira Murati的初创公司Thinking Machines Lab正进行20亿美元（约146亿人民币）种子轮融资，完成后估值将超100亿...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmOtys5et)
-**收录时间**: 2025-04-12 03:14
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-04-12 04:04
 
 ---
 
-### [【倒计时5天！】#中国AIGC产业峰会# 就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI 👉 网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地...](2025-04-12/【倒计时5天！】#中国AIGC产业峰会#_就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI_👉_网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地....md)
+### [#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，...](2025-04-12/#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，....md)
 
-**摘要**: 中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，主题为"万物皆可AI"。峰会旨在推动AI技术落地应用，邀请...
+**摘要**: 字节跳动最新发布的Seed-Thinking-v1.5模型在数学、代码等推理任务中表现超越DeepSeek-R1，尽管其参数规模更小。该模...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PmN8n9kcH)
-**收录时间**: 2025-04-12 03:14
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmM5Z90Si)
+**收录时间**: 2025-04-12 04:03
 
 ---
 
 ### [#全球首个Linux开发本##全球首个算力本# 不是你以为的AI PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI PC最大的区别，那就是AIBOOK它内嵌的系统，就...](2025-04-12/#全球首个Linux开发本##全球首个算力本#_不是你以为的AI_PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI_PC最大的区别，那就是AIBOOK它内嵌的系统，就....md)
 
-**摘要**: AIBOOK是全球首款Linux开发本和算力本，由国内初创企业爱簿智能推出。它搭载50TOPS算力，支持本地断网训练和推理A...
+**摘要**: AIBOOK是全球首款Linux开发本和算力本，由爱簿智能推出，专为开发者、AI爱好者和大学生设计。其亮点包括：内置Li...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PmNDNDNpE)
-**收录时间**: 2025-04-12 03:14
+**收录时间**: 2025-04-12 04:03
 
 ---
 
-### [Reinforcing Clinical Decision Support through Multi-Agent Systems and Ethical AI Governance](2025-04-12/Reinforcing_Clinical_Decision_Support_through_Multi-Agent_Systems_and_Ethical_AI_Governance.md)
+### [#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真...](2025-04-12/#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真....md)
 
-**摘要**: 这篇论文提出了一种新型多智能体临床决策支持系统架构，通过模块化智能体分别分析实验室结果、生命体征和临...
+**摘要**: 香港科技大学团队提出HR-Align方法，通过语义对齐人类与机器人操作视频，解决两者数据域差异问题。该方法在预...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.03699v2)
-**收录时间**: 2025-04-12 03:13
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmOykvVWX)
+**收录时间**: 2025-04-12 04:03
 
 ---
 
-### [Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis](2025-04-12/Dual_Engines_of_Thoughts-_A_Depth-Breadth_Integration_Framework_for_Open-Ended_Analysis.md)
+### [#ChatGPT能记住你说的所有话了# ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用...](2025-04-12/#ChatGPT能记住你说的所有话了#_ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用....md)
 
-**摘要**: 本文提出"思维双引擎"(DEoT)框架，专为解决开放性问题而设计。该框架包含三个核心组件：优化用户查询的基础提...
+**摘要**: ChatGPT最新推出完整记忆功能，可记录用户所有对话历史，并根据个人偏好优化回复。该功能目前仅向Plus和Pro订阅...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.07872v1)
-**收录时间**: 2025-04-12 03:13
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmNUcEmwY)
+**收录时间**: 2025-04-12 04:03
+
+---
+
+### [【倒计时5天！】#中国AIGC产业峰会# 就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI 👉 网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地...](2025-04-12/【倒计时5天！】#中国AIGC产业峰会#_就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI_👉_网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地....md)
+
+**摘要**: 中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会旨在推动AI技术落地应用，邀请...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmN8n9kcH)
+**收录时间**: 2025-04-12 04:03
+
+---
+
+### [#0产品0用户公司估值100亿# #OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO Mira Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消...](2025-04-12/#0产品0用户公司估值100亿#_#OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO_Mira_Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消....md)
+
+**摘要**: OpenAI前CTO Mira Murati创立的AI初创公司Thinking Machines Lab正进行20亿美元（约146亿人民币）种子轮融资，完成后估值或...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmOtys5et)
+**收录时间**: 2025-04-12 04:03
 
 ---
 
 ### [Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures](2025-04-12/Explainable_AI-Enhanced_Deep_Learning_for_Pumpkin_Leaf_Disease_Detection-_A_Comparative_Analysis_of_CNN_Architectures.md)
 
-**摘要**: 本研究利用包含2000张高清图像的"南瓜叶病害数据集"，对比了多种深度学习模型对5类叶片（霜霉病、白粉病、花...
+**摘要**: 南瓜叶病害严重影响农业生产，传统人工检测方法效率低且易出错。本研究基于包含2000张高清图像（分为5类病害...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2501.05449v2)
-**收录时间**: 2025-04-12 03:13
+**收录时间**: 2025-04-12 04:02
 
 ---
 
 ### [MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking](2025-04-12/MONA-_Myopic_Optimization_with_Non-myopic_Approval_Can_Mitigate_Multi-step_Reward_Hacking.md)
 
-**摘要**: 该研究提出了一种名为MONA（短视优化结合非短视评估）的训练方法，旨在防止强化学习（RL）智能体通过多步计划...
+**摘要**: 该研究提出了一种名为"近视优化与非近视批准（MONA）"的训练方法，旨在防止强化学习（RL）智能体通过多步计划...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2501.13011v2)
-**收录时间**: 2025-04-12 03:13
+**收录时间**: 2025-04-12 04:02
 
 ---
 
 ### [#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m...](2025-04-12/#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier_N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m....md)
 
-**摘要**: 上海傅利叶发布首款开源人形机器人Fourier N1，高131cm、重38kg，具备23个自由度，可完成奔跑(3....
+**摘要**: 上海傅利叶推出首款开源人形机器人Fourier N1，身高131cm，重38kg，配备23个自由度，奔跑速度达3....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PmOE3ClB6)
-**收录时间**: 2025-04-12 03:13
+**收录时间**: 2025-04-12 04:02
+
+---
+
+### [#字节生图神器一键融合多主体# 字节跳动发布了最新图像生成模型UNO，最多可输入四张参考图，一键生成多角色同框画面，不仅五官不串、细节不漏，还能做到姿态切换...](2025-04-12/#字节生图神器一键融合多主体#_字节跳动发布了最新图像生成模型UNO，最多可输入四张参考图，一键生成多角色同框画面，不仅五官不串、细节不漏，还能做到姿态切换....md)
+
+**摘要**: 字节跳动发布新型图像生成模型UNO，支持最多4张参考图输入，可一键生成多角色同框图像。该模型能精准保持各...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmTNvlVBt)
+**收录时间**: 2025-04-12 04:02
+
+---
+
+### [#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还...](2025-04-12/#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还....md)
+
+**摘要**: 清华大学联合VAST团队开源了3D自动骨骼绑定框架UniRig，采用自回归模型逐关节预测骨架结构，创新性引入骨骼树Tok...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmOGzo93L)
+**收录时间**: 2025-04-12 04:02
+
+---
+
+### [#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储...](2025-04-12/#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储....md)
+
+**摘要**: 墨尔本大学等机构的研究团队开发了THEMIS框架，这是首个针对移动端AI模型部署后的系统性保护方案。该技术通过...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PmOB5y01d)
+**收录时间**: 2025-04-12 04:02
+
+---
+
+### [The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation](2025-04-12/The_Urban_Impact_of_AI-_Modeling_Feedback_Loops_in_Next-Venue_Recommendation.md)
+
+**摘要**: 这篇论文提出了一个模拟框架，研究基于位置的"下一地点推荐系统"对城市动态的系统性影响。研究发现，虽然推...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.07911v1)
+**收录时间**: 2025-04-12 04:01
 
 ---
 
 ## 历史内容
 
-### 2025-04-12 (27篇)
+### 2025-04-12 (28篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-12 03:16 
-  AMiner是一个智能科技情报挖掘系统，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-12 04:05 
+  这篇论文针对代码生成大型语言模型(codeLLMs)提出了CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-12 03:16 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-12 04:05 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、辅助阅读和科研订阅服务。它拥有3.5亿论文、0....
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-12 03:16 
-  本研究提出LatentSync框架，基于音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-12 04:05 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法无需中间运动表示，直接建模...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-12 03:16 
-  这篇论文探讨了代码生成大型语言模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试，包含397个...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-12 04:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时根...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-12 03:16 
-  这篇论文介绍了AgentSociety，这是一个利用大型语言模型驱动的大规模社会模拟器，能够模拟超过1万个代理及其500...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-12 04:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动靶点，虽然已...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-12 03:15 
-  这篇论文提出了一种名为SGD-SaI的新型优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-12 04:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时计算...
 
-- **[#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，...](2025-04-12/#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，....md)** | [原文](https://weibo.com/6105753431/PmM5Z90Si) | 时间: 2025-04-12 03:15 
-  字节推出新型推理模型Seed-Thinking-v1.5，采用MoE架构，总参数200B（激活参数20B），在数学、代码等推理任务中表现...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-12 04:04 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个代理及其500万次互动。研究者用它研究了...
+
+- **[#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，...](2025-04-12/#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，....md)** | [原文](https://weibo.com/6105753431/PmM5Z90Si) | 时间: 2025-04-12 04:03 
+  字节跳动最新发布的Seed-Thinking-v1.5模型在数学、代码等推理任务中表现超越DeepSeek-R1，尽管其参数规模更小。该模...
+
+- **[#全球首个Linux开发本##全球首个算力本# 不是你以为的AI PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI PC最大的区别，那就是AIBOOK它内嵌的系统，就...](2025-04-12/#全球首个Linux开发本##全球首个算力本#_不是你以为的AI_PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI_PC最大的区别，那就是AIBOOK它内嵌的系统，就....md)** | [原文](https://weibo.com/6105753431/PmNDNDNpE) | 时间: 2025-04-12 04:03 
+  AIBOOK是全球首款Linux开发本和算力本，由爱簿智能推出，专为开发者、AI爱好者和大学生设计。其亮点包括：内置Li...
+
+- **[#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真...](2025-04-12/#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真....md)** | [原文](https://weibo.com/6105753431/PmOykvVWX) | 时间: 2025-04-12 04:03 
+  香港科技大学团队提出HR-Align方法，通过语义对齐人类与机器人操作视频，解决两者数据域差异问题。该方法在预...
+
+- **[#ChatGPT能记住你说的所有话了# ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用...](2025-04-12/#ChatGPT能记住你说的所有话了#_ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用....md)** | [原文](https://weibo.com/6105753431/PmNUcEmwY) | 时间: 2025-04-12 04:03 
+  ChatGPT最新推出完整记忆功能，可记录用户所有对话历史，并根据个人偏好优化回复。该功能目前仅向Plus和Pro订阅...
+
+- **[【倒计时5天！】#中国AIGC产业峰会# 就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI 👉 网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地...](2025-04-12/【倒计时5天！】#中国AIGC产业峰会#_就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI_👉_网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地....md)** | [原文](https://weibo.com/6105753431/PmN8n9kcH) | 时间: 2025-04-12 04:03 
+  中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会旨在推动AI技术落地应用，邀请...
+
+- **[#0产品0用户公司估值100亿# #OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO Mira Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消...](2025-04-12/#0产品0用户公司估值100亿#_#OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO_Mira_Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消....md)** | [原文](https://weibo.com/6105753431/PmOtys5et) | 时间: 2025-04-12 04:03 
+  OpenAI前CTO Mira Murati创立的AI初创公司Thinking Machines Lab正进行20亿美元（约146亿人民币）种子轮融资，完成后估值或...
+
+- **[Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures](2025-04-12/Explainable_AI-Enhanced_Deep_Learning_for_Pumpkin_Leaf_Disease_Detection-_A_Comparative_Analysis_of_CNN_Architectures.md)** | [原文](http://arxiv.org/abs/2501.05449v2) | 时间: 2025-04-12 04:02 
+  南瓜叶病害严重影响农业生产，传统人工检测方法效率低且易出错。本研究基于包含2000张高清图像（分为5类病害...
+
+- **[MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking](2025-04-12/MONA-_Myopic_Optimization_with_Non-myopic_Approval_Can_Mitigate_Multi-step_Reward_Hacking.md)** | [原文](http://arxiv.org/abs/2501.13011v2) | 时间: 2025-04-12 04:02 
+  该研究提出了一种名为"近视优化与非近视批准（MONA）"的训练方法，旨在防止强化学习（RL）智能体通过多步计划...
+
+- **[#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m...](2025-04-12/#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier_N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m....md)** | [原文](https://weibo.com/6105753431/PmOE3ClB6) | 时间: 2025-04-12 04:02 
+  上海傅利叶推出首款开源人形机器人Fourier N1，身高131cm，重38kg，配备23个自由度，奔跑速度达3....
+
+- **[#字节生图神器一键融合多主体# 字节跳动发布了最新图像生成模型UNO，最多可输入四张参考图，一键生成多角色同框画面，不仅五官不串、细节不漏，还能做到姿态切换...](2025-04-12/#字节生图神器一键融合多主体#_字节跳动发布了最新图像生成模型UNO，最多可输入四张参考图，一键生成多角色同框画面，不仅五官不串、细节不漏，还能做到姿态切换....md)** | [原文](https://weibo.com/6105753431/PmTNvlVBt) | 时间: 2025-04-12 04:02 
+  字节跳动发布新型图像生成模型UNO，支持最多4张参考图输入，可一键生成多角色同框图像。该模型能精准保持各...
+
+- **[#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还...](2025-04-12/#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还....md)** | [原文](https://weibo.com/6105753431/PmOGzo93L) | 时间: 2025-04-12 04:02 
+  清华大学联合VAST团队开源了3D自动骨骼绑定框架UniRig，采用自回归模型逐关节预测骨架结构，创新性引入骨骼树Tok...
+
+- **[#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储...](2025-04-12/#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储....md)** | [原文](https://weibo.com/6105753431/PmOB5y01d) | 时间: 2025-04-12 04:02 
+  墨尔本大学等机构的研究团队开发了THEMIS框架，这是首个针对移动端AI模型部署后的系统性保护方案。该技术通过...
+
+- **[The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation](2025-04-12/The_Urban_Impact_of_AI-_Modeling_Feedback_Loops_in_Next-Venue_Recommendation.md)** | [原文](http://arxiv.org/abs/2504.07911v1) | 时间: 2025-04-12 04:01 
+  这篇论文提出了一个模拟框架，研究基于位置的"下一地点推荐系统"对城市动态的系统性影响。研究发现，虽然推...
+
+- **[Fast Adaptation with Behavioral Foundation Models](2025-04-12/Fast_Adaptation_with_Behavioral_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2504.07896v1) | 时间: 2025-04-12 04:01 
+  本文提出了一种快速适应策略，用于提升无监督零样本强化学习（RL）中行为基础模型（BFMs）的性能。研究发现，...
+
+- **[An LLM-Driven Multi-Agent Debate System for Mendelian Diseases](2025-04-12/An_LLM-Driven_Multi-Agent_Debate_System_for_Mendelian_Diseases.md)** | [原文](http://arxiv.org/abs/2504.07881v1) | 时间: 2025-04-12 04:01 
+  研究人员开发了一种创新的LLM驱动多智能体辩论系统(MD2GPS)，用于提高孟德尔疾病的诊断准确性。该系统通过语言...
+
+- **[Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge](2025-04-12/Benchmarking_Adversarial_Robustness_to_Bias_Elicitation_in_Large_Language_Models-_Scalable_Automated_Assessment_with_LLM-as-a-Judge.md)** | [原文](http://arxiv.org/abs/2504.07887v1) | 时间: 2025-04-12 04:01 
+  大型语言模型(LLMs)在推动AI进步的同时，其社会应用引发了关于偏见的担忧。研究者提出可扩展的评估框架，通过...
+
+- **[Reinforcing Clinical Decision Support through Multi-Agent Systems and Ethical AI Governance](2025-04-12/Reinforcing_Clinical_Decision_Support_through_Multi-Agent_Systems_and_Ethical_AI_Governance.md)** | [原文](http://arxiv.org/abs/2504.03699v2) | 时间: 2025-04-12 04:01 
+  这篇论文提出了一种新型多智能体临床决策支持系统架构，通过模块化智能体分别分析实验室结果、生命体征和临...
+
+- **[Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis](2025-04-12/Dual_Engines_of_Thoughts-_A_Depth-Breadth_Integration_Framework_for_Open-Ended_Analysis.md)** | [原文](http://arxiv.org/abs/2504.07872v1) | 时间: 2025-04-12 04:01 
+  本文提出"思维双引擎"(DEoT)框架，专为开放式问题设计，突破传统单答案推理模式。该框架包含三大核心：基础提...
+
+- **[Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation](2025-04-12/Towards_Sustainable_Creativity_Support-_An_Exploratory_Study_on_Prompt_Based_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07879v1) | 时间: 2025-04-12 04:01 
+  该研究探讨了AI图像生成工具在支持人类创造力时如何减少能耗。通过24人用户实验发现，图像生成条件显著影响...
+
+- **[We Are All Creators: Generative AI, Collective Knowledge, and the Path Towards Human-AI Synergy](2025-04-12/We_Are_All_Creators-_Generative_AI,_Collective_Knowledge,_and_the_Path_Towards_Human-AI_Synergy.md)** | [原文](http://arxiv.org/abs/2504.07936v1) | 时间: 2025-04-12 04:00 
+  生成式AI对传统人类创造力概念提出了深刻挑战，它通过神经网络基础模型展现出强大的内容生成能力，引发了关...
 
 - **[#大脑神经元可视化##迄今最大哺乳动物大脑功能图#150多名研究人员，历时7年，画出了迄今为止最大的哺乳动物大脑功能图。科学家们把一立方毫米（比米粒还小）的老...](2025-04-12/#大脑神经元可视化##迄今最大哺乳动物大脑功能图#150多名研究人员，历时7年，画出了迄今为止最大的哺乳动物大脑功能图。科学家们把一立方毫米（比米粒还小）的老....md)** | [原文](https://weibo.com/6105753431/PmM1spPzQ) | 时间: 2025-04-12 03:15 
   150多名科学家耗时7年，完成了迄今最大的哺乳动物大脑功能图谱。研究团队将1立方毫米小鼠脑组织切成2....
-
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-12 03:15 
-  该研究综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新进展。ALK基因是NSCLC的重要致癌驱动因子，现有...
-
-- **[#ChatGPT能记住你说的所有话了# ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用...](2025-04-12/#ChatGPT能记住你说的所有话了#_ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用....md)** | [原文](https://weibo.com/6105753431/PmNUcEmwY) | 时间: 2025-04-12 03:14 
-  OpenAI为ChatGPT Plus/Pro用户推出了完整的记忆功能，该功能可以记住用户过去的所有对话内容，从而根据个人偏好提...
-
-- **[#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真...](2025-04-12/#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真....md)** | [原文](https://weibo.com/6105753431/PmOykvVWX) | 时间: 2025-04-12 03:14 
-  香港科技大学团队提出HR-Align方法，通过语义对齐人类与机器人视频数据，解决"人-机器人域差异"问题。该方法在...
-
-- **[#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储...](2025-04-12/#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储....md)** | [原文](https://weibo.com/6105753431/PmOB5y01d) | 时间: 2025-04-12 03:14 
-  墨尔本大学等机构的研究团队提出了THEMIS框架，这是首个针对移动端AI模型部署后的系统性保护方案。该框架通过...
-
-- **[#0产品0用户公司估值100亿# #OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO Mira Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消...](2025-04-12/#0产品0用户公司估值100亿#_#OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO_Mira_Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消....md)** | [原文](https://weibo.com/6105753431/PmOtys5et) | 时间: 2025-04-12 03:14 
-  OpenAI前CTO Mira Murati的初创公司Thinking Machines Lab正进行20亿美元（约146亿人民币）种子轮融资，完成后估值将超100亿...
-
-- **[【倒计时5天！】#中国AIGC产业峰会# 就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI 👉 网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地...](2025-04-12/【倒计时5天！】#中国AIGC产业峰会#_就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI_👉_网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地....md)** | [原文](https://weibo.com/6105753431/PmN8n9kcH) | 时间: 2025-04-12 03:14 
-  中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，主题为"万物皆可AI"。峰会旨在推动AI技术落地应用，邀请...
-
-- **[#全球首个Linux开发本##全球首个算力本# 不是你以为的AI PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI PC最大的区别，那就是AIBOOK它内嵌的系统，就...](2025-04-12/#全球首个Linux开发本##全球首个算力本#_不是你以为的AI_PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI_PC最大的区别，那就是AIBOOK它内嵌的系统，就....md)** | [原文](https://weibo.com/6105753431/PmNDNDNpE) | 时间: 2025-04-12 03:14 
-  AIBOOK是全球首款Linux开发本和算力本，由国内初创企业爱簿智能推出。它搭载50TOPS算力，支持本地断网训练和推理A...
-
-- **[Reinforcing Clinical Decision Support through Multi-Agent Systems and Ethical AI Governance](2025-04-12/Reinforcing_Clinical_Decision_Support_through_Multi-Agent_Systems_and_Ethical_AI_Governance.md)** | [原文](http://arxiv.org/abs/2504.03699v2) | 时间: 2025-04-12 03:13 
-  这篇论文提出了一种新型多智能体临床决策支持系统架构，通过模块化智能体分别分析实验室结果、生命体征和临...
-
-- **[Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis](2025-04-12/Dual_Engines_of_Thoughts-_A_Depth-Breadth_Integration_Framework_for_Open-Ended_Analysis.md)** | [原文](http://arxiv.org/abs/2504.07872v1) | 时间: 2025-04-12 03:13 
-  本文提出"思维双引擎"(DEoT)框架，专为解决开放性问题而设计。该框架包含三个核心组件：优化用户查询的基础提...
-
-- **[Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures](2025-04-12/Explainable_AI-Enhanced_Deep_Learning_for_Pumpkin_Leaf_Disease_Detection-_A_Comparative_Analysis_of_CNN_Architectures.md)** | [原文](http://arxiv.org/abs/2501.05449v2) | 时间: 2025-04-12 03:13 
-  本研究利用包含2000张高清图像的"南瓜叶病害数据集"，对比了多种深度学习模型对5类叶片（霜霉病、白粉病、花...
-
-- **[MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking](2025-04-12/MONA-_Myopic_Optimization_with_Non-myopic_Approval_Can_Mitigate_Multi-step_Reward_Hacking.md)** | [原文](http://arxiv.org/abs/2501.13011v2) | 时间: 2025-04-12 03:13 
-  该研究提出了一种名为MONA（短视优化结合非短视评估）的训练方法，旨在防止强化学习（RL）智能体通过多步计划...
-
-- **[#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m...](2025-04-12/#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier_N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m....md)** | [原文](https://weibo.com/6105753431/PmOE3ClB6) | 时间: 2025-04-12 03:13 
-  上海傅利叶发布首款开源人形机器人Fourier N1，高131cm、重38kg，具备23个自由度，可完成奔跑(3....
-
-- **[#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还...](2025-04-12/#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还....md)** | [原文](https://weibo.com/6105753431/PmOGzo93L) | 时间: 2025-04-12 03:13 
-  清华大学联合VAST团队开源了自动骨骼绑定框架UniRig，可高效处理各类3D模型的骨骼绑定问题。该框架采用自回归模...
-
-- **[An LLM-Driven Multi-Agent Debate System for Mendelian Diseases](2025-04-12/An_LLM-Driven_Multi-Agent_Debate_System_for_Mendelian_Diseases.md)** | [原文](http://arxiv.org/abs/2504.07881v1) | 时间: 2025-04-12 03:12 
-  研究人员开发了一种新型LLM驱动的多智能体辩论系统（MD2GPS），用于提高孟德尔疾病的诊断准确性。该系统通过语...
-
-- **[Fast Adaptation with Behavioral Foundation Models](2025-04-12/Fast_Adaptation_with_Behavioral_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2504.07896v1) | 时间: 2025-04-12 03:12 
-  无监督零样本强化学习（RL）通过预训练行为基础模型（BFMs），使智能体能够零样本（无需额外学习或规划）解决...
-
-- **[The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation](2025-04-12/The_Urban_Impact_of_AI-_Modeling_Feedback_Loops_in_Next-Venue_Recommendation.md)** | [原文](http://arxiv.org/abs/2504.07911v1) | 时间: 2025-04-12 03:12 
-  该研究提出了一个模拟框架，用于分析基于AI的下一个地点推荐系统对城市动态的系统性影响。研究发现，虽然推...
-
-- **[Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation](2025-04-12/Towards_Sustainable_Creativity_Support-_An_Exploratory_Study_on_Prompt_Based_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07879v1) | 时间: 2025-04-12 03:12 
-  这篇论文探讨了生成式AI（如图像生成器）对人类创造力的辅助作用及其能耗问题。研究通过24人用户实验发现，...
-
-- **[We Are All Creators: Generative AI, Collective Knowledge, and the Path Towards Human-AI Synergy](2025-04-12/We_Are_All_Creators-_Generative_AI,_Collective_Knowledge,_and_the_Path_Towards_Human-AI_Synergy.md)** | [原文](http://arxiv.org/abs/2504.07936v1) | 时间: 2025-04-12 03:12 
-  生成式AI对传统人类独特性(尤其是创造力)提出了深刻挑战。基于神经网络的基础模型展现出强大的内容生成能力...
-
-- **[Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge](2025-04-12/Benchmarking_Adversarial_Robustness_to_Bias_Elicitation_in_Large_Language_Models-_Scalable_Automated_Assessment_with_LLM-as-a-Judge.md)** | [原文](http://arxiv.org/abs/2504.07887v1) | 时间: 2025-04-12 03:12 
-  大型语言模型(LLMs)在推动AI进步的同时，其潜在偏见问题日益引发关注。这些偏见源于训练数据中的历史不平等、...
 
 ### 2025-04-11 (56篇)
 
 - **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-11/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-11 23:05 
   这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，弥补现有评估仅关注代码正确性而忽视人类偏好的不...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-11/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-11 23:04 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，现...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-11/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-11 23:04 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、AI翻译和论文写作支...
 
 - **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-11/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-11 23:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时的高...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-11/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-11 23:04 
-  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-11/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-11 23:04 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，现...
 
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-11/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-11 23:04 
   这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-11/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-11 23:04 
-  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、AI翻译和论文写作支...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-11/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-11 23:04 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
 - **[#0产品0用户公司估值100亿# #OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO Mira Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消...](2025-04-11/#0产品0用户公司估值100亿#_#OpenAI前CTO公司拟融资20亿美元#OpenAI前CTO_Mira_Murati初创公司，正在筹集新融资。20亿美元（折合人民币146亿），还是种子轮！消....md)** | [原文](https://weibo.com/6105753431/PmOtys5et) | 时间: 2025-04-11 23:03 
   OpenAI前CTO Mira Murati的初创公司Thinking Machines Lab拟融资20亿美元（约146亿人民币）种子轮，估值或超100亿美元。这家...
-
-- **[【倒计时5天！】#中国AIGC产业峰会# 就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI 👉 网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地...](2025-04-11/【倒计时5天！】#中国AIGC产业峰会#_就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI_👉_网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地....md)** | [原文](https://weibo.com/6105753431/PmN8n9kcH) | 时间: 2025-04-11 23:03 
-  中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会旨在推动AI技术落地应用，邀请...
-
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-11/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-11 23:03 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
 
 - **[#全球首个Linux开发本##全球首个算力本# 不是你以为的AI PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI PC最大的区别，那就是AIBOOK它内嵌的系统，就...](2025-04-11/#全球首个Linux开发本##全球首个算力本#_不是你以为的AI_PC，全球首个算力本——AIBOOK，它来了！【图1】要说跟AI_PC最大的区别，那就是AIBOOK它内嵌的系统，就....md)** | [原文](https://weibo.com/6105753431/PmNDNDNpE) | 时间: 2025-04-11 23:03 
   AIBOOK是全球首款Linux开发本和算力本，由国内初创企业爱簿智能推出。它搭载50TOPS算力，支持本地断网训练和推理A...
@@ -304,23 +301,26 @@
 - **[#ChatGPT能记住你说的所有话了# ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用...](2025-04-11/#ChatGPT能记住你说的所有话了#_ChatGPT最新上线了完整记忆功能，可参考过去所有对话内容，更好地根据你的个人喜好来生成回复。目前，这项新功能已对Plus和Pro用....md)** | [原文](https://weibo.com/6105753431/PmNUcEmwY) | 时间: 2025-04-11 23:03 
   ChatGPT最新推出完整记忆功能，可记录用户所有对话内容，从而根据个人偏好提供更精准的回复。该功能目前仅向Pl...
 
+- **[【倒计时5天！】#中国AIGC产业峰会# 就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI 👉 网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地...](2025-04-11/【倒计时5天！】#中国AIGC产业峰会#_就要来啦！4月16日，北京金茂万丽酒店，来和大佬们一起AI_👉_网页链接今年峰会主题是「万物皆可AI」，希望让更多的AI落地....md)** | [原文](https://weibo.com/6105753431/PmN8n9kcH) | 时间: 2025-04-11 23:03 
+  中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会旨在推动AI技术落地应用，邀请...
+
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-11/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-11 23:03 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
+
 - **[#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，...](2025-04-11/#字节小参数模型反超DeepSeek##豆包迎来史诗级加强#字节最新深度思考模型，在数学、代码等多项推理任务中超过DeepSeek-R1了？而且参数规模更小。同样是MoE架构，....md)** | [原文](https://weibo.com/6105753431/PmM5Z90Si) | 时间: 2025-04-11 23:03 
   字节跳动最新发布的Seed-Thinking-v1.5模型在数学、代码等推理任务中表现超越DeepSeek-R1，尽管参数规模更小。该模型...
 
 - **[#大脑神经元可视化##迄今最大哺乳动物大脑功能图#150多名研究人员，历时7年，画出了迄今为止最大的哺乳动物大脑功能图。科学家们把一立方毫米（比米粒还小）的老...](2025-04-11/#大脑神经元可视化##迄今最大哺乳动物大脑功能图#150多名研究人员，历时7年，画出了迄今为止最大的哺乳动物大脑功能图。科学家们把一立方毫米（比米粒还小）的老....md)** | [原文](https://weibo.com/6105753431/PmM1spPzQ) | 时间: 2025-04-11 23:03 
   150多名研究人员历时7年，通过将1立方毫米小鼠脑组织切成2.5万片并拍摄上亿张电子显微镜图像，构建了迄今最完...
 
-- **[#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储...](2025-04-11/#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储....md)** | [原文](https://weibo.com/6105753431/PmOB5y01d) | 时间: 2025-04-11 23:02 
-  墨尔本大学等机构的研究团队开发了THEMIS框架，这是首个针对移动端AI模型的知识产权保护方案。该技术能突破加...
+- **[MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking](2025-04-11/MONA-_Myopic_Optimization_with_Non-myopic_Approval_Can_Mitigate_Multi-step_Reward_Hacking.md)** | [原文](http://arxiv.org/abs/2501.13011v2) | 时间: 2025-04-11 23:02 
+  这篇论文提出了一种名为MONA（Myopic Optimization with Non-myopic Approval）的新型强化学习训练方法，旨在防止AI系统学习...
 
 - **[Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures](2025-04-11/Explainable_AI-Enhanced_Deep_Learning_for_Pumpkin_Leaf_Disease_Detection-_A_Comparative_Analysis_of_CNN_Architectures.md)** | [原文](http://arxiv.org/abs/2501.05449v2) | 时间: 2025-04-11 23:02 
   南瓜叶病害严重影响农业生产，传统人工检测方法效率低且易出错。本研究采用包含2000张高分辨率图像的"南瓜叶...
 
-- **[MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking](2025-04-11/MONA-_Myopic_Optimization_with_Non-myopic_Approval_Can_Mitigate_Multi-step_Reward_Hacking.md)** | [原文](http://arxiv.org/abs/2501.13011v2) | 时间: 2025-04-11 23:02 
-  这篇论文提出了一种名为MONA（Myopic Optimization with Non-myopic Approval）的新型强化学习训练方法，旨在防止AI系统学习...
-
-- **[#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m...](2025-04-11/#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier_N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m....md)** | [原文](https://weibo.com/6105753431/PmOE3ClB6) | 时间: 2025-04-11 23:02 
-  上海傅利叶发布首款开源人形机器人Fourier N1，身高131cm，重38kg，具备23个自由度，运动能力出色（3....
+- **[#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储...](2025-04-11/#移动端AI有了护身符##403款AI应用用上防盗水印#随着智能手机和物联网设备普及，移动端AI成为趋势，带来离线运行、低延迟、隐私保护等优势。然而，模型本地存储....md)** | [原文](https://weibo.com/6105753431/PmOB5y01d) | 时间: 2025-04-11 23:02 
+  墨尔本大学等机构的研究团队开发了THEMIS框架，这是首个针对移动端AI模型的知识产权保护方案。该技术能突破加...
 
 - **[#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真...](2025-04-11/#港科大让机器人更像人类##机器人能学人类动作了#“让机器人看懂世界、听懂指令、动手干活”正从科幻走向现实。基于大规模人类视频数据进行视觉预训练，是开发真....md)** | [原文](https://weibo.com/6105753431/PmOykvVWX) | 时间: 2025-04-11 23:02 
   香港科技大学团队提出HR-Align方法，解决机器人模仿人类动作时的"人-机器人数据域差异"问题。该方法通过匹配的...
@@ -328,26 +328,29 @@
 - **[#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还...](2025-04-11/#清华开源3D绑骨神器##SOTA自动绑骨开源框架#面对3D内容爆发增长，“骨骼绑定”(Rigging)这个关键步骤依然卡住不少创作者。传统方式又繁琐又吃经验，不仅慢，还....md)** | [原文](https://weibo.com/6105753431/PmOGzo93L) | 时间: 2025-04-11 23:02 
   清华大学与VAST联合发布开源自动骨骼绑定框架UniRig，突破传统繁琐的3D模型骨骼绑定流程。该框架采用自回归模型...
 
-- **[Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation](2025-04-11/Towards_Sustainable_Creativity_Support-_An_Exploratory_Study_on_Prompt_Based_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07879v1) | 时间: 2025-04-11 23:01 
-  该研究探讨了AI图像生成工具在支持人类创造力时如何减少能耗。通过24人用户实验发现，图像生成条件显著影响...
-
-- **[An LLM-Driven Multi-Agent Debate System for Mendelian Diseases](2025-04-11/An_LLM-Driven_Multi-Agent_Debate_System_for_Mendelian_Diseases.md)** | [原文](http://arxiv.org/abs/2504.07881v1) | 时间: 2025-04-11 23:01 
-  研究人员开发了一种创新的LLM驱动多智能体辩论系统(MD2GPS)，用于提高孟德尔疾病的诊断准确性。该系统通过语言...
-
-- **[Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge](2025-04-11/Benchmarking_Adversarial_Robustness_to_Bias_Elicitation_in_Large_Language_Models-_Scalable_Automated_Assessment_with_LLM-as-a-Judge.md)** | [原文](http://arxiv.org/abs/2504.07887v1) | 时间: 2025-04-11 23:01 
-  大型语言模型(LLMs)在AI领域取得突破性进展，但也存在内嵌偏见问题，可能强化刻板印象并影响公平性。这些偏见...
-
-- **[Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis](2025-04-11/Dual_Engines_of_Thoughts-_A_Depth-Breadth_Integration_Framework_for_Open-Ended_Analysis.md)** | [原文](http://arxiv.org/abs/2504.07872v1) | 时间: 2025-04-11 23:01 
-  研究人员提出了"思维双引擎"(DEoT)框架，专门用于开放性问题分析。该框架包含三个核心组件：优化用户查询的基...
+- **[#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m...](2025-04-11/#131cm机器人图纸代码全部公开##傅里叶开源机器人#上海傅利叶推出首款开源人形机器人——Fourier_N1，全身23个自由度、身高131cm、体重38kg。实测奔跑速度达3.5m....md)** | [原文](https://weibo.com/6105753431/PmOE3ClB6) | 时间: 2025-04-11 23:02 
+  上海傅利叶发布首款开源人形机器人Fourier N1，身高131cm，重38kg，具备23个自由度，运动能力出色（3....
 
 - **[Fast Adaptation with Behavioral Foundation Models](2025-04-11/Fast_Adaptation_with_Behavioral_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2504.07896v1) | 时间: 2025-04-11 23:01 
   本文提出了一种快速适应策略，用于提升无监督零样本强化学习（RL）中行为基础模型（BFMs）的性能。研究发现，...
 
+- **[Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis](2025-04-11/Dual_Engines_of_Thoughts-_A_Depth-Breadth_Integration_Framework_for_Open-Ended_Analysis.md)** | [原文](http://arxiv.org/abs/2504.07872v1) | 时间: 2025-04-11 23:01 
+  研究人员提出了"思维双引擎"(DEoT)框架，专门用于开放性问题分析。该框架包含三个核心组件：优化用户查询的基...
+
+- **[Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge](2025-04-11/Benchmarking_Adversarial_Robustness_to_Bias_Elicitation_in_Large_Language_Models-_Scalable_Automated_Assessment_with_LLM-as-a-Judge.md)** | [原文](http://arxiv.org/abs/2504.07887v1) | 时间: 2025-04-11 23:01 
+  大型语言模型(LLMs)在AI领域取得突破性进展，但也存在内嵌偏见问题，可能强化刻板印象并影响公平性。这些偏见...
+
 - **[Reinforcing Clinical Decision Support through Multi-Agent Systems and Ethical AI Governance](2025-04-11/Reinforcing_Clinical_Decision_Support_through_Multi-Agent_Systems_and_Ethical_AI_Governance.md)** | [原文](http://arxiv.org/abs/2504.03699v2) | 时间: 2025-04-11 23:01 
   这篇论文提出了一种新型多智能体临床决策支持系统架构，采用模块化智能体分别分析实验室结果、生命体征和临...
 
+- **[An LLM-Driven Multi-Agent Debate System for Mendelian Diseases](2025-04-11/An_LLM-Driven_Multi-Agent_Debate_System_for_Mendelian_Diseases.md)** | [原文](http://arxiv.org/abs/2504.07881v1) | 时间: 2025-04-11 23:01 
+  研究人员开发了一种创新的LLM驱动多智能体辩论系统(MD2GPS)，用于提高孟德尔疾病的诊断准确性。该系统通过语言...
+
 - **[The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation](2025-04-11/The_Urban_Impact_of_AI-_Modeling_Feedback_Loops_in_Next-Venue_Recommendation.md)** | [原文](http://arxiv.org/abs/2504.07911v1) | 时间: 2025-04-11 23:01 
   这篇论文提出了一个模拟框架，研究基于位置的"下一地点推荐系统"对城市动态的系统性影响。研究发现，虽然推...
+
+- **[Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation](2025-04-11/Towards_Sustainable_Creativity_Support-_An_Exploratory_Study_on_Prompt_Based_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07879v1) | 时间: 2025-04-11 23:01 
+  该研究探讨了AI图像生成工具在支持人类创造力时如何减少能耗。通过24人用户实验发现，图像生成条件显著影响...
 
 - **[We Are All Creators: Generative AI, Collective Knowledge, and the Path Towards Human-AI Synergy](2025-04-11/We_Are_All_Creators-_Generative_AI,_Collective_Knowledge,_and_the_Path_Towards_Human-AI_Synergy.md)** | [原文](http://arxiv.org/abs/2504.07936v1) | 时间: 2025-04-11 23:00 
   生成式AI对传统人类独特性（尤其是创造力）概念提出深刻挑战。基于神经网络的基础模型展现出卓越的内容生成...
@@ -358,20 +361,20 @@
 - **[#7B小模型写好学术论文##AI引用论文不再胡编乱造#学术写作通常需要花费大量精力查询文献引用，而以ChatGPT、GPT-4等为代表的通用大语言模型（LLM）虽然能够生成...](2025-04-11/#7B小模型写好学术论文##AI引用论文不再胡编乱造#学术写作通常需要花费大量精力查询文献引用，而以ChatGPT、GPT-4等为代表的通用大语言模型（LLM）虽然能够生成....md)** | [原文](https://weibo.com/6105753431/PmLeF5BjY) | 时间: 2025-04-11 14:04 
   加拿大滑铁卢大学与卡内基梅隆大学团队推出ScholarCopilot框架，解决大语言模型在学术写作中的"引用幻觉"问题。...
 
-- **[#AI购物应用涉嫌欺诈##表面AI实则全程依赖人工#一个“AI神话”破灭了——据TechCrunch报道，创业公司Nate的创始人Albert Saniger，刚刚被美国司法部起诉，原因是...](2025-04-11/#AI购物应用涉嫌欺诈##表面AI实则全程依赖人工#一个“AI神话”破灭了——据TechCrunch报道，创业公司Nate的创始人Albert_Saniger，刚刚被美国司法部起诉，原因是....md)** | [原文](https://weibo.com/6105753431/PmLGPs13G) | 时间: 2025-04-11 14:03 
-  美国AI购物应用Nate创始人因欺诈被起诉。该公司宣称使用AI自动完成电商交易，但调查发现其几乎完全依赖菲律宾...
-
 - **[#宇树机器人化身铁甲拳王#宇树铁甲拳王上线！格斗技能拉满，实拍和成年男性对打不落下风，官方称机器人格斗直播已安排。 量子位的微博视频](2025-04-11/#宇树机器人化身铁甲拳王#宇树铁甲拳王上线！格斗技能拉满，实拍和成年男性对打不落下风，官方称机器人格斗直播已安排。_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PmLTl9fEH) | 时间: 2025-04-11 14:03 
   宇树机器人推出"铁甲拳王"格斗机器人，实拍显示其能与成年男性对打且不落下风。该机器人格斗技能突出，官方...
 
 - **[#arXiv上线AI音频摘要功能##几分钟听完一篇arXiv论文#arXiv能听论文的“博客”版了？是的，arXiv最新上线了AI生成的音频摘要功能，能让你在几分钟内，听完一整篇...](2025-04-11/#arXiv上线AI音频摘要功能##几分钟听完一篇arXiv论文#arXiv能听论文的“博客”版了？是的，arXiv最新上线了AI生成的音频摘要功能，能让你在几分钟内，听完一整篇....md)** | [原文](https://weibo.com/6105753431/PmLwXt3iW) | 时间: 2025-04-11 14:03 
   arXiv推出AI音频摘要功能，用户可快速收听论文核心内容。该功能基于ScienceCast算法，通过分析TeX源文件生成自然语...
 
-- **[#Canva新增一系列AI功能##Canva上传人像自动设计海报#Canva（可画）宣布推出一系列AI新功能，妥妥成了“设计界的万能助手”：从AI生成图片到互动小程序、甚至还...](2025-04-11/#Canva新增一系列AI功能##Canva上传人像自动设计海报#Canva（可画）宣布推出一系列AI新功能，妥妥成了“设计界的万能助手”：从AI生成图片到互动小程序、甚至还....md)** | [原文](https://weibo.com/6105753431/PmK560dJM) | 时间: 2025-04-11 12:04 
-  Canva推出多项AI新功能，包括自动设计海报（上传人像生成欢迎海报）、生成互动小程序（如数学卡牌游戏）、AI文...
+- **[#AI购物应用涉嫌欺诈##表面AI实则全程依赖人工#一个“AI神话”破灭了——据TechCrunch报道，创业公司Nate的创始人Albert Saniger，刚刚被美国司法部起诉，原因是...](2025-04-11/#AI购物应用涉嫌欺诈##表面AI实则全程依赖人工#一个“AI神话”破灭了——据TechCrunch报道，创业公司Nate的创始人Albert_Saniger，刚刚被美国司法部起诉，原因是....md)** | [原文](https://weibo.com/6105753431/PmLGPs13G) | 时间: 2025-04-11 14:03 
+  美国AI购物应用Nate创始人因欺诈被起诉。该公司宣称使用AI自动完成电商交易，但调查发现其几乎完全依赖菲律宾...
 
 - **[#OpenAI开源网页搜索测试基准##超难题目测试AI网页搜索能力#OpenAI开源了一个新Benchmark——BrowseComp，它是一个AI“网页搜索能力”测试基准。该基准能测试AI...](2025-04-11/#OpenAI开源网页搜索测试基准##超难题目测试AI网页搜索能力#OpenAI开源了一个新Benchmark——BrowseComp，它是一个AI“网页搜索能力”测试基准。该基准能测试AI....md)** | [原文](https://weibo.com/6105753431/PmLdVwQ0T) | 时间: 2025-04-11 12:04 
   OpenAI开源了网页搜索测试基准BrowseComp，用于评估AI模型的联网搜索和信息整合能力。该基准包含多领域高难度题目...
+
+- **[#Canva新增一系列AI功能##Canva上传人像自动设计海报#Canva（可画）宣布推出一系列AI新功能，妥妥成了“设计界的万能助手”：从AI生成图片到互动小程序、甚至还...](2025-04-11/#Canva新增一系列AI功能##Canva上传人像自动设计海报#Canva（可画）宣布推出一系列AI新功能，妥妥成了“设计界的万能助手”：从AI生成图片到互动小程序、甚至还....md)** | [原文](https://weibo.com/6105753431/PmK560dJM) | 时间: 2025-04-11 12:04 
+  Canva推出多项AI新功能，包括自动设计海报（上传人像生成欢迎海报）、生成互动小程序（如数学卡牌游戏）、AI文...
 
 - **[#ChatGPT有了完整记忆##ChatGPT可引用过去所有聊天记录#ChatGPT可以引用过去所有聊天了！刚刚，OpenAI更新了ChatGPT的记忆功能，GPT现在能参考过去所有对话内容...](2025-04-11/#ChatGPT有了完整记忆##ChatGPT可引用过去所有聊天记录#ChatGPT可以引用过去所有聊天了！刚刚，OpenAI更新了ChatGPT的记忆功能，GPT现在能参考过去所有对话内容....md)** | [原文](https://weibo.com/6105753431/PmJDap1vg) | 时间: 2025-04-11 10:04 
   OpenAI为ChatGPT推出"完整记忆"功能更新，允许AI引用用户过往所有聊天记录，包括偏好、设置等信息，提供更个性化...
@@ -382,23 +385,23 @@
 - **[#AI版猫和老鼠看呆网友# AI版《猫和老鼠》，以假乱真骗过网友！不仅一次性生成时长能长达1分钟，而且全程无后期无拼接，表情、动作、剧情、一致性全都可圈可点，...](2025-04-11/#AI版猫和老鼠看呆网友#_AI版《猫和老鼠》，以假乱真骗过网友！不仅一次性生成时长能长达1分钟，而且全程无后期无拼接，表情、动作、剧情、一致性全都可圈可点，....md)** | [原文](https://weibo.com/6105753431/PmJbXcS8v) | 时间: 2025-04-11 08:03 
   NVIDIA、斯坦福和UC伯克利团队开发的AI版《猫和老鼠》视频因高度逼真引发热议。该技术采用TTT层（Test-Time Training...
 
-- **[#谷歌发布Agent版MCP协议#“谷歌版MCP”A2A协议发布！开源，聚焦Agent与Agent间的自由协作，支持跨平台和跨厂商，部署大规模多Agent系统更方便了。 量子位的微博...](2025-04-11/#谷歌发布Agent版MCP协议#“谷歌版MCP”A2A协议发布！开源，聚焦Agent与Agent间的自由协作，支持跨平台和跨厂商，部署大规模多Agent系统更方便了。_量子位的微博....md)** | [原文](https://weibo.com/6105753431/PmDN5gEBY) | 时间: 2025-04-11 07:04 
-  谷歌发布了名为A2A的开源协议，旨在促进不同Agent（智能代理）之间的自由协作。该协议支持跨平台和跨厂商操作...
-
 - **[#商汤发布第六代大模型##AI推理韩剧# 现在的国产AI应用，一口气看好几分钟的视频，都可以直接做推理和解析了！瞧~只需“喂”上一段柯南片段，AI就摇身一变成“名...](2025-04-11/#商汤发布第六代大模型##AI推理韩剧#_现在的国产AI应用，一口气看好几分钟的视频，都可以直接做推理和解析了！瞧~只需“喂”上一段柯南片段，AI就摇身一变成“名....md)** | [原文](https://weibo.com/6105753431/PmEVyoduo) | 时间: 2025-04-11 07:04 
   商汤发布第六代大模型SenseNova V6，具备原生多模态能力，支持文本、图像和视频融合处理。该模型采用6000亿参数Mo...
+
+- **[#谷歌发布Agent版MCP协议#“谷歌版MCP”A2A协议发布！开源，聚焦Agent与Agent间的自由协作，支持跨平台和跨厂商，部署大规模多Agent系统更方便了。 量子位的微博...](2025-04-11/#谷歌发布Agent版MCP协议#“谷歌版MCP”A2A协议发布！开源，聚焦Agent与Agent间的自由协作，支持跨平台和跨厂商，部署大规模多Agent系统更方便了。_量子位的微博....md)** | [原文](https://weibo.com/6105753431/PmDN5gEBY) | 时间: 2025-04-11 07:04 
+  谷歌发布了名为A2A的开源协议，旨在促进不同Agent（智能代理）之间的自由协作。该协议支持跨平台和跨厂商操作...
 
 - **[#ChatGPT前端提及o4模型##OpenAI前端脚本被归档了#OpenAI o4模型要发布了？有网友发现，刚刚ChatGPT网页端的前端代码，提到了“o4-mini”、“o4-mini-high”和“...](2025-04-11/#ChatGPT前端提及o4模型##OpenAI前端脚本被归档了#OpenAI_o4模型要发布了？有网友发现，刚刚ChatGPT网页端的前端代码，提到了“o4-mini”、“o4-mini-high”和“....md)** | [原文](https://weibo.com/6105753431/PmCDY1fVa) | 时间: 2025-04-11 06:04 
   根据微博爆料，ChatGPT网页端前端代码中意外出现了"o4-mini"、"o4-mini-high"和"o3"等模型名称，这些信息被互联网档案...
 
-- **[#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和...](2025-04-11/#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和....md)** | [原文](https://weibo.com/6105753431/PmCYw6vPs) | 时间: 2025-04-11 06:03 
-  Kimi发布开源视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，采用MoE架构（总参数量16B，推理时激活2....
+- **[#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO...](2025-04-11/#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO....md)** | [原文](https://weibo.com/6105753431/PmCMWnzMx) | 时间: 2025-04-11 06:03 
+  字节跳动团队基于FLUX模型开发了新型图像生成模型UNO，可统一处理多种图像生成任务。该模型能实现多主体融合...
 
 - **[#汉唐L标配高阶智驾兆瓦闪充##比亚迪千匹马力只卖二十多万#1102匹马力，零百加速2.6s，电机最高每分30511转……这样的参数，燃油车时代卖千万以上，2024年卖70万...](2025-04-11/#汉唐L标配高阶智驾兆瓦闪充##比亚迪千匹马力只卖二十多万#1102匹马力，零百加速2.6s，电机最高每分30511转……这样的参数，燃油车时代卖千万以上，2024年卖70万....md)** | [原文](https://weibo.com/6105753431/PmD7Xy21Z) | 时间: 2025-04-11 06:03 
   比亚迪最新推出的汉唐L车型以颠覆性价格（27.98万元起）实现超跑级性能（1102匹马力/2.6秒破百）与全栈智能技术...
 
-- **[#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO...](2025-04-11/#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO....md)** | [原文](https://weibo.com/6105753431/PmCMWnzMx) | 时间: 2025-04-11 06:03 
-  字节跳动团队基于FLUX模型开发了新型图像生成模型UNO，可统一处理多种图像生成任务。该模型能实现多主体融合...
+- **[#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和...](2025-04-11/#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和....md)** | [原文](https://weibo.com/6105753431/PmCYw6vPs) | 时间: 2025-04-11 06:03 
+  Kimi发布开源视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，采用MoE架构（总参数量16B，推理时激活2....
 
 - **[#Llama4被实锤用特供版刷榜# 最强开源大模型Llama4在大模型竞技场登顶后，反而遭到了一众差评：编程水平拉胯、第三方测试成绩垫底……最后大模型竞技场官方下场...](2025-04-11/#Llama4被实锤用特供版刷榜#_最强开源大模型Llama4在大模型竞技场登顶后，反而遭到了一众差评：编程水平拉胯、第三方测试成绩垫底……最后大模型竞技场官方下场....md)** | [原文](https://weibo.com/6105753431/PmCyO0de3) | 时间: 2025-04-11 03:17 
   Meta的Llama4开源大模型在竞技场登顶后引发争议，被曝使用特供版本刷榜。用户反馈其编程能力差、第三方测试成...
@@ -412,6 +415,12 @@
 - **[Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](2025-04-11/Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_Evaluation.md)** | [原文](http://arxiv.org/abs/2501.03225v2) | 时间: 2025-04-11 02:29 
   该研究提出了AutoConverter框架，可将开放式视觉问答(VQA)自动转换为多选题形式，解决现有评测因回答多样性导致的...
 
+- **[A Unified Agentic Framework for Evaluating Conditional Image Generation](2025-04-11/A_Unified_Agentic_Framework_for_Evaluating_Conditional_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07046v1) | 时间: 2025-04-11 02:28 
+  本文提出了CIGEval框架，用于条件图像生成任务的自动化评估。该框架以大型多模态模型（LMMs）为核心，整合多功...
+
+- **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](2025-04-11/Evaluating_Retrieval_Augmented_Generative_Models_for_Document_Queries_in_Transportation_Safety.md)** | [原文](http://arxiv.org/abs/2504.07022v1) | 时间: 2025-04-11 02:28 
+  本研究评估了ChatGPT、Google Vertex AI和ORNL检索增强生成（RAG）优化的LLaMA 2/LLaMA三种生成式大语言模型在美国危险品...
+
 - **[Detecting AI-generated Artwork](2025-04-11/Detecting_AI-generated_Artwork.md)** | [原文](http://arxiv.org/abs/2504.07078v1) | 时间: 2025-04-11 02:28 
   随着AI生成艺术的质量和效率提升，区分人类与AI创作的艺术品成为新挑战。本研究探索了机器学习（LR、SVM、MLP）...
 
@@ -421,17 +430,11 @@
 - **[Beyond the Hype: Embeddings vs. Prompting for Multiclass Classification Tasks](2025-04-11/Beyond_the_Hype-_Embeddings_vs._Prompting_for_Multiclass_Classification_Tasks.md)** | [原文](http://arxiv.org/abs/2504.04277v2) | 时间: 2025-04-11 02:28 
   该研究表明，在家庭服务项目分类任务中，基于嵌入的softmax模型全面优于当前最先进的LLM提示方法。通过Thumbtack...
 
-- **[A Unified Agentic Framework for Evaluating Conditional Image Generation](2025-04-11/A_Unified_Agentic_Framework_for_Evaluating_Conditional_Image_Generation.md)** | [原文](http://arxiv.org/abs/2504.07046v1) | 时间: 2025-04-11 02:28 
-  本文提出了CIGEval框架，用于条件图像生成任务的自动化评估。该框架以大型多模态模型（LMMs）为核心，整合多功...
-
-- **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](2025-04-11/Evaluating_Retrieval_Augmented_Generative_Models_for_Document_Queries_in_Transportation_Safety.md)** | [原文](http://arxiv.org/abs/2504.07022v1) | 时间: 2025-04-11 02:28 
-  本研究评估了ChatGPT、Google Vertex AI和ORNL检索增强生成（RAG）优化的LLaMA 2/LLaMA三种生成式大语言模型在美国危险品...
+- **[AssistanceZero: Scalably Solving Assistance Games](2025-04-11/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v1) | 时间: 2025-04-11 02:27 
+  本文提出了一种基于辅助游戏（assistance games）的新方法AssistanceZero，用于训练AI助手，以解决传统人类反馈强化学...
 
 - **[SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](2025-04-11/SkillWeaver-_Web_Agents_can_Self-Improve_by_Discovering_and_Honing_Skills.md)** | [原文](http://arxiv.org/abs/2504.07079v1) | 时间: 2025-04-11 02:27 
   人类通过环境探索、经验分层抽象和协作构建技能库实现自我提升。然而，当前自主网络代理仍缺乏关键的自改进...
-
-- **[AssistanceZero: Scalably Solving Assistance Games](2025-04-11/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v1) | 时间: 2025-04-11 02:27 
-  本文提出了一种基于辅助游戏（assistance games）的新方法AssistanceZero，用于训练AI助手，以解决传统人类反馈强化学...
 
 - **[#大模型将如何重塑金融经济##南京大学招收斯坦福联培博士#AGI时代的金融经济将是怎样的？在对物理世界的感知、认知和建模之外，大模型如何感知、认知、理解、建...](2025-04-11/#大模型将如何重塑金融经济##南京大学招收斯坦福联培博士#AGI时代的金融经济将是怎样的？在对物理世界的感知、认知和建模之外，大模型如何感知、认知、理解、建....md)** | [原文](https://weibo.com/6105753431/PmCvMCirv) | 时间: 2025-04-11 01:31 
   南京大学FinTech大模型实验室招收AGI与AI4EconFinance方向的斯坦福联培博士生，聚焦大模型在金融经济领域的跨学科应...
@@ -441,17 +444,14 @@
 
 ### 2025-04-10 (54篇)
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-10 23:05 
-  该研究综述了针对非小细胞肺癌(NSCLC)中ALK致癌基因的双靶点抑制剂最新进展。尽管已有7种ALK抑制剂获批用于治疗A...
-
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-10 23:05 
-  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好对齐的问题。研究者创建了CodeArena基准测试(包含397个高质量样...
-
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-10 23:05 
   这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统通过1万多个AI代理模拟真实社会环...
 
 - **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-10 23:05 
   AMiner是一个智能科技情报挖掘平台，提供论文检索、翻译、分析及写作一站式服务。它支持中英文文献搜索，拥有...
+
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-10 23:05 
+  该研究综述了针对非小细胞肺癌(NSCLC)中ALK致癌基因的双靶点抑制剂最新进展。尽管已有7种ALK抑制剂获批用于治疗A...
 
 - **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-10 23:05 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
@@ -459,17 +459,23 @@
 - **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-10 23:05 
   本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
 
-- **[#Llama4被实锤用特供版刷榜# 最强开源大模型Llama4在大模型竞技场登顶后，反而遭到了一众差评：编程水平拉胯、第三方测试成绩垫底……最后大模型竞技场官方下场...](2025-04-10/#Llama4被实锤用特供版刷榜#_最强开源大模型Llama4在大模型竞技场登顶后，反而遭到了一众差评：编程水平拉胯、第三方测试成绩垫底……最后大模型竞技场官方下场....md)** | [原文](https://weibo.com/6105753431/PmCyO0de3) | 时间: 2025-04-10 23:04 
-  Meta的Llama4大模型被曝在大模型竞技场使用特供版刷榜登顶，引发争议。尽管获得榜首，但用户反馈其编程能力差...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-10 23:05 
+  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好对齐的问题。研究者创建了CodeArena基准测试(包含397个高质量样...
 
 - **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-10 23:04 
   这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
 
-- **[#谷歌版MCP协议##谷歌推出智能体协议#刚刚，“谷歌版MCP”来了！谷歌推出A2A协议，即Agent2Agent，能让AI Agent在不同生态系统间安全协作，而无需考虑框架或供应...](2025-04-10/#谷歌版MCP协议##谷歌推出智能体协议#刚刚，“谷歌版MCP”来了！谷歌推出A2A协议，即Agent2Agent，能让AI_Agent在不同生态系统间安全协作，而无需考虑框架或供应....md)** | [原文](https://weibo.com/6105753431/PmCtflREX) | 时间: 2025-04-10 23:04 
-  谷歌推出开源A2A协议（Agent2Agent），实现不同生态系统AI智能体间的安全协作。该协议基于HTTP/SSE等现有标准，支持...
+- **[#Llama4被实锤用特供版刷榜# 最强开源大模型Llama4在大模型竞技场登顶后，反而遭到了一众差评：编程水平拉胯、第三方测试成绩垫底……最后大模型竞技场官方下场...](2025-04-10/#Llama4被实锤用特供版刷榜#_最强开源大模型Llama4在大模型竞技场登顶后，反而遭到了一众差评：编程水平拉胯、第三方测试成绩垫底……最后大模型竞技场官方下场....md)** | [原文](https://weibo.com/6105753431/PmCyO0de3) | 时间: 2025-04-10 23:04 
+  Meta的Llama4大模型被曝在大模型竞技场使用特供版刷榜登顶，引发争议。尽管获得榜首，但用户反馈其编程能力差...
 
 - **[#大模型将如何重塑金融经济##南京大学招收斯坦福联培博士#AGI时代的金融经济将是怎样的？在对物理世界的感知、认知和建模之外，大模型如何感知、认知、理解、建...](2025-04-10/#大模型将如何重塑金融经济##南京大学招收斯坦福联培博士#AGI时代的金融经济将是怎样的？在对物理世界的感知、认知和建模之外，大模型如何感知、认知、理解、建....md)** | [原文](https://weibo.com/6105753431/PmCvMCirv) | 时间: 2025-04-10 23:04 
   南京大学FinTech大模型实验室招收AGI与AI4EconFinance方向斯坦福联培博士生，聚焦大模型在金融经济领域的应用研究。...
+
+- **[#谷歌版MCP协议##谷歌推出智能体协议#刚刚，“谷歌版MCP”来了！谷歌推出A2A协议，即Agent2Agent，能让AI Agent在不同生态系统间安全协作，而无需考虑框架或供应...](2025-04-10/#谷歌版MCP协议##谷歌推出智能体协议#刚刚，“谷歌版MCP”来了！谷歌推出A2A协议，即Agent2Agent，能让AI_Agent在不同生态系统间安全协作，而无需考虑框架或供应....md)** | [原文](https://weibo.com/6105753431/PmCtflREX) | 时间: 2025-04-10 23:04 
+  谷歌推出开源A2A协议（Agent2Agent），实现不同生态系统AI智能体间的安全协作。该协议基于HTTP/SSE等现有标准，支持...
+
+- **[#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和...](2025-04-10/#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和....md)** | [原文](https://weibo.com/6105753431/PmCYw6vPs) | 时间: 2025-04-10 23:03 
+  Kimi近日开源了轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，采用MoE架构（总参数16B，推理时仅激活2....
 
 - **[#宇树机器人拳击比赛##机器人会拳击了#宇树科技又整活了！这次他们的机器人秀起了拳击。而且不是普通的拳击，短短的一分半视频，官方还展示了这些动作，全程高能...](2025-04-10/#宇树机器人拳击比赛##机器人会拳击了#宇树科技又整活了！这次他们的机器人秀起了拳击。而且不是普通的拳击，短短的一分半视频，官方还展示了这些动作，全程高能....md)** | [原文](https://weibo.com/6105753431/PmGn5dnYE) | 时间: 2025-04-10 23:03 
   宇树科技展示机器人拳击能力，视频中机器人完成上勾拳、侧摆拳、肘支撑起身、自主寻敌、单脚踢腿、平衡控制...
@@ -477,23 +483,17 @@
 - **[#ChatGPT前端提及o4模型##OpenAI前端脚本被归档了#OpenAI o4模型要发布了？有网友发现，刚刚ChatGPT网页端的前端代码，提到了“o4-mini”、“o4-mini-high”和“...](2025-04-10/#ChatGPT前端提及o4模型##OpenAI前端脚本被归档了#OpenAI_o4模型要发布了？有网友发现，刚刚ChatGPT网页端的前端代码，提到了“o4-mini”、“o4-mini-high”和“....md)** | [原文](https://weibo.com/6105753431/PmCDY1fVa) | 时间: 2025-04-10 23:03 
   根据网友发现，ChatGPT网页端前端代码中意外出现了"o4-mini"、"o4-mini-high"和"o3"等模型名称的引用。这些信息是通过...
 
-- **[#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO...](2025-04-10/#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO....md)** | [原文](https://weibo.com/6105753431/PmCMWnzMx) | 时间: 2025-04-10 23:03 
-  字节跳动团队基于FLUX模型开发了新型图像生成模型UNO，实现了多主体融合生成能力。该模型采用"模型-数据共同进...
+- **[#商汤发布第六代大模型##AI推理韩剧# 现在的国产AI应用，一口气看好几分钟的视频，都可以直接做推理和解析了！瞧~只需“喂”上一段柯南片段，AI就摇身一变成“名...](2025-04-10/#商汤发布第六代大模型##AI推理韩剧#_现在的国产AI应用，一口气看好几分钟的视频，都可以直接做推理和解析了！瞧~只需“喂”上一段柯南片段，AI就摇身一变成“名....md)** | [原文](https://weibo.com/6105753431/PmEVyoduo) | 时间: 2025-04-10 23:03 
+  商汤发布第六代大模型SenseNova V6，具备原生多模态能力，支持文本、图像和视频融合处理。该模型采用6000亿参数Mo...
 
 - **[#汉唐L标配高阶智驾兆瓦闪充##比亚迪千匹马力只卖二十多万#1102匹马力，零百加速2.6s，电机最高每分30511转……这样的参数，燃油车时代卖千万以上，2024年卖70万...](2025-04-10/#汉唐L标配高阶智驾兆瓦闪充##比亚迪千匹马力只卖二十多万#1102匹马力，零百加速2.6s，电机最高每分30511转……这样的参数，燃油车时代卖千万以上，2024年卖70万....md)** | [原文](https://weibo.com/6105753431/PmD7Xy21Z) | 时间: 2025-04-10 23:03 
   比亚迪发布全新汉唐L系列，标配高阶智驾与兆瓦闪充技术，售价20.98万元起。新车搭载1102马力电机，零百加速2....
 
+- **[#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO...](2025-04-10/#字节发布多主体融合模型##一个模型统一所有生图任务#字节的模型，也能把多个参考主体，放进一张图了。【图1】字节团队以FLUX为基础模型，提出了新的生图模型UNO....md)** | [原文](https://weibo.com/6105753431/PmCMWnzMx) | 时间: 2025-04-10 23:03 
+  字节跳动团队基于FLUX模型开发了新型图像生成模型UNO，实现了多主体融合生成能力。该模型采用"模型-数据共同进...
+
 - **[#谷歌发布Agent版MCP协议#“谷歌版MCP”A2A协议发布！开源，聚焦Agent与Agent间的自由协作，支持跨平台和跨厂商，部署大规模多Agent系统更方便了。 量子位的微博...](2025-04-10/#谷歌发布Agent版MCP协议#“谷歌版MCP”A2A协议发布！开源，聚焦Agent与Agent间的自由协作，支持跨平台和跨厂商，部署大规模多Agent系统更方便了。_量子位的微博....md)** | [原文](https://weibo.com/6105753431/PmDN5gEBY) | 时间: 2025-04-10 23:03 
   谷歌发布了名为"A2A协议"的开源Agent协作框架，这是其版本的"多Agent协作协议"(MCP)。该协议专注于实现不同Agent之间...
-
-- **[#商汤发布第六代大模型##AI推理韩剧# 现在的国产AI应用，一口气看好几分钟的视频，都可以直接做推理和解析了！瞧~只需“喂”上一段柯南片段，AI就摇身一变成“名...](2025-04-10/#商汤发布第六代大模型##AI推理韩剧#_现在的国产AI应用，一口气看好几分钟的视频，都可以直接做推理和解析了！瞧~只需“喂”上一段柯南片段，AI就摇身一变成“名....md)** | [原文](https://weibo.com/6105753431/PmEVyoduo) | 时间: 2025-04-10 23:03 
-  商汤发布第六代大模型SenseNova V6，具备原生多模态能力，支持文本、图像和视频融合处理。该模型采用6000亿参数Mo...
-
-- **[#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和...](2025-04-10/#Kimi发布开源视觉推理模型##16B多模态模型媲美旗舰模型#沉寂了一个月，Kimi憋了个大的——开源轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，多模态和....md)** | [原文](https://weibo.com/6105753431/PmCYw6vPs) | 时间: 2025-04-10 23:03 
-  Kimi近日开源了轻量级视觉语言模型Kimi-VL及其推理版Kimi-VL-Thinking，采用MoE架构（总参数16B，推理时仅激活2....
-
-- **[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](2025-04-10/Dolphin-_Moving_Towards_Closed-loop_Auto-research_through_Thinking,_Practice,_and_Feedback.md)** | [原文](http://arxiv.org/abs/2501.03916v3) | 时间: 2025-04-10 23:02 
-  人工智能（AI）正在推动科研范式的变革。本文提出的"Dolphin"是一个闭环的LLM驱动框架，旨在提升科研自动化水平...
 
 - **[Countering threats to national security posed by AI systems through an incident regime](2025-04-10/Countering_threats_to_national_security_posed_by_AI_systems_through_an_incident_regime.md)** | [原文](http://arxiv.org/abs/2503.19887v2) | 时间: 2025-04-10 23:02 
   随着AI能力的快速进步，其潜在国家安全风险引发担忧，如网络攻击关键基础设施或失控的自主AI系统。为此，美...
@@ -504,14 +504,8 @@
 - **[Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](2025-04-10/Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_Evaluation.md)** | [原文](http://arxiv.org/abs/2501.03225v2) | 时间: 2025-04-10 23:02 
   当前视觉问答（VQA）评测依赖开放式问题，但自然语言回答的多样性导致评估困难。为此，研究者提出AutoConverter...
 
-- **[SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](2025-04-10/SkillWeaver-_Web_Agents_can_Self-Improve_by_Discovering_and_Honing_Skills.md)** | [原文](http://arxiv.org/abs/2504.07079v1) | 时间: 2025-04-10 23:01 
-  人类通过环境探索、经验分层抽象和协作构建技能库实现自我提升。然而，现有网络智能体仍缺乏关键的自改进能...
-
-- **[AssistanceZero: Scalably Solving Assistance Games](2025-04-10/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v1) | 时间: 2025-04-10 23:01 
-  本文提出了一种名为"协助游戏"的新方法替代基于人类反馈的强化学习(RLHF)来训练AI助手。该方法通过将人机交互...
-
-- **[Detecting AI-generated Artwork](2025-04-10/Detecting_AI-generated_Artwork.md)** | [原文](http://arxiv.org/abs/2504.07078v1) | 时间: 2025-04-10 23:01 
-  AI生成艺术的高质量引发了人类艺术家的担忧。本研究探讨了机器学习(ML)和深度学习(DL)模型在区分AI与人类创作艺...
+- **[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](2025-04-10/Dolphin-_Moving_Towards_Closed-loop_Auto-research_through_Thinking,_Practice,_and_Feedback.md)** | [原文](http://arxiv.org/abs/2501.03916v3) | 时间: 2025-04-10 23:02 
+  人工智能（AI）正在推动科研范式的变革。本文提出的"Dolphin"是一个闭环的LLM驱动框架，旨在提升科研自动化水平...
 
 - **[Beyond the Hype: Embeddings vs. Prompting for Multiclass Classification Tasks](2025-04-10/Beyond_the_Hype-_Embeddings_vs._Prompting_for_Multiclass_Classification_Tasks.md)** | [原文](http://arxiv.org/abs/2504.04277v2) | 时间: 2025-04-10 23:01 
   该研究比较了基于嵌入的softmax模型和LLM提示框架在多分类任务中的表现。使用Thumbtack的家政服务项目描述（文本+...
@@ -521,6 +515,15 @@
 
 - **[Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety](2025-04-10/Evaluating_Retrieval_Augmented_Generative_Models_for_Document_Queries_in_Transportation_Safety.md)** | [原文](http://arxiv.org/abs/2504.07022v1) | 时间: 2025-04-10 23:01 
   该研究评估了ChatGPT、Google Vertex AI和ORNL检索增强生成（RAG）优化的LLaMA 2/LLaMA在美国危险品运输法规检索中的表现...
+
+- **[Detecting AI-generated Artwork](2025-04-10/Detecting_AI-generated_Artwork.md)** | [原文](http://arxiv.org/abs/2504.07078v1) | 时间: 2025-04-10 23:01 
+  AI生成艺术的高质量引发了人类艺术家的担忧。本研究探讨了机器学习(ML)和深度学习(DL)模型在区分AI与人类创作艺...
+
+- **[AssistanceZero: Scalably Solving Assistance Games](2025-04-10/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v1) | 时间: 2025-04-10 23:01 
+  本文提出了一种名为"协助游戏"的新方法替代基于人类反馈的强化学习(RLHF)来训练AI助手。该方法通过将人机交互...
+
+- **[SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](2025-04-10/SkillWeaver-_Web_Agents_can_Self-Improve_by_Discovering_and_Honing_Skills.md)** | [原文](http://arxiv.org/abs/2504.07079v1) | 时间: 2025-04-10 23:01 
+  人类通过环境探索、经验分层抽象和协作构建技能库实现自我提升。然而，现有网络智能体仍缺乏关键的自改进能...
 
 - **[#零代码写游戏平台##文字描述就能做游戏#Astrocade，一个号称全球首个“许愿做游戏”（wish-to-game）的平台。不需要代码、美术，用户只需用自然语言描述一个想...](2025-04-10/#零代码写游戏平台##文字描述就能做游戏#Astrocade，一个号称全球首个“许愿做游戏”（wish-to-game）的平台。不需要代码、美术，用户只需用自然语言描述一个想....md)** | [原文](https://weibo.com/6105753431/PmC2gFxMK) | 时间: 2025-04-10 17:04 
   Astrocade是全球首个"许愿做游戏"平台，通过AI系统AstroBrain实现自然语言生成游戏。用户只需文字描述（如"玩红绿灯...
@@ -537,14 +540,14 @@
 - **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与 第三届#中国AIGC产业...](2025-04-10/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～微软亚洲研究院首席研究员刘炜清已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/PmAjohawM) | 时间: 2025-04-10 09:04 
   第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行，聚焦AI技术应用与发展。微软亚洲研究院首席研究员...
 
-- **[【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会# 最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如...](2025-04-10/【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会#_最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如....md)** | [原文](https://weibo.com/6105753431/PmuFPFL8G) | 时间: 2025-04-10 08:04 
-  第三届中国AIGC产业峰会将于2025年4月16日在北京举行，聚焦AI技术应用与产业发展。会议汇聚百度、华为、蚂蚁等...
+- **[一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-10/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)** | [原文](https://weibo.com/6105753431/PmuGEt6W5) | 时间: 2025-04-10 08:04 
+  中国AIGC产业峰会即将召开，20余位行业专家将探讨AI在各领域的应用，展现「万物皆可AI」的趋势。会议涵盖AI技术...
 
 - **[#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google Cloud Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El Ca...](2025-04-10/#谷歌发布新AI推理芯片##谷歌发布第七代TPU#在Google_Cloud_Next大会上，谷歌发布了第七代TPU芯片——Ironwood，这是一种AI推理加速芯片，比全球最强的超算El_Ca....md)** | [原文](https://weibo.com/6105753431/PmzTb1AN1) | 时间: 2025-04-10 08:04 
   谷歌在Google Cloud Next大会上发布第七代TPU芯片Ironwood，专为AI推理任务优化。该芯片性能达42.5ExaFLOPS，比最强超算快...
 
-- **[一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-10/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)** | [原文](https://weibo.com/6105753431/PmuGEt6W5) | 时间: 2025-04-10 08:04 
-  中国AIGC产业峰会即将召开，20余位行业专家将探讨AI在各领域的应用，展现「万物皆可AI」的趋势。会议涵盖AI技术...
+- **[【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会# 最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如...](2025-04-10/【倒计时1周！20余位行业大佬共话AI，#中国AIGC产业峰会#_最全攻略在此】百亿参数大模型，如何“瘦身”进企业？担忧AI安全？这里有全球顶尖防御方案。想了解AI如....md)** | [原文](https://weibo.com/6105753431/PmuFPFL8G) | 时间: 2025-04-10 08:04 
+  第三届中国AIGC产业峰会将于2025年4月16日在北京举行，聚焦AI技术应用与产业发展。会议汇聚百度、华为、蚂蚁等...
 
 - **[#星动纪元XHAND电竞手指速之王# 星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓...](2025-04-10/#星动纪元XHAND电竞手指速之王#_星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓....md)** | [原文](https://weibo.com/6105753431/Pmut34MEr) | 时间: 2025-04-10 07:04 
   星动纪元自主研发的XHAND1五指灵巧手实现技术突破，具备12个主动自由度，采用行业首创的关节全直驱方案，兼具...
@@ -558,26 +561,26 @@
 - **[#仿生机器人实机视频##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度还原...](2025-04-10/#仿生机器人实机视频##有肌肉能流血的机器人#Clone公司放出了仿生机器人Protoclone_V1的实机视频，画面极具科幻感。可以看到，这款机器人在外形设计上已高度还原....md)** | [原文](https://weibo.com/6105753431/PmAX0kvQG) | 时间: 2025-04-10 04:02 
   Clone公司发布了仿生机器人Protoclone V1的实机视频，展示其高度拟人的设计。该机器人具备人工肌肉系统（3克可拉...
 
-- **[#华为中科大优化芯片设计##芯片逻辑优化提效2倍多#芯片设计背后的算法——逻辑优化（LO）这一环，直接影响芯片设计的速度和成品质量。而传统逻辑优化存在一些问...](2025-04-10/#华为中科大优化芯片设计##芯片逻辑优化提效2倍多#芯片设计背后的算法——逻辑优化（LO）这一环，直接影响芯片设计的速度和成品质量。而传统逻辑优化存在一些问....md)** | [原文](https://weibo.com/6105753431/PmtGny0ie) | 时间: 2025-04-10 03:17 
-  中科大与华为联合研发的CMO框架通过结合图神经网络(GNN)和蒙特卡洛树搜索(MCTS)，显著提升了芯片逻辑优化效率。...
-
 - **[#游戏显卡训练大模型##英特尔GPU一体机# 家人们，你知道近段时间大火的各种大模型一体机，里面到底是什么卡吗？相信很多小伙伴的第一反应，或许就是N卡。但在我...](2025-04-10/#游戏显卡训练大模型##英特尔GPU一体机#_家人们，你知道近段时间大火的各种大模型一体机，里面到底是什么卡吗？相信很多小伙伴的第一反应，或许就是N卡。但在我....md)** | [原文](https://weibo.com/6105753431/PmtQstL0E) | 时间: 2025-04-10 03:17 
   英特尔锐炫™显卡(A770)正被用于大模型一体机，与N卡对比测试显示：处理相同任务时，4张A770耗时50分钟(比N卡慢20...
 
+- **[#华为中科大优化芯片设计##芯片逻辑优化提效2倍多#芯片设计背后的算法——逻辑优化（LO）这一环，直接影响芯片设计的速度和成品质量。而传统逻辑优化存在一些问...](2025-04-10/#华为中科大优化芯片设计##芯片逻辑优化提效2倍多#芯片设计背后的算法——逻辑优化（LO）这一环，直接影响芯片设计的速度和成品质量。而传统逻辑优化存在一些问....md)** | [原文](https://weibo.com/6105753431/PmtGny0ie) | 时间: 2025-04-10 03:17 
+  中科大与华为联合研发的CMO框架通过结合图神经网络(GNN)和蒙特卡洛树搜索(MCTS)，显著提升了芯片逻辑优化效率。...
+
 - **[GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis](2025-04-10/GenoTEX-_An_LLM_Agent_Benchmark_for_Automated_Gene_Expression_Data_Analysis.md)** | [原文](http://arxiv.org/abs/2406.15341v3) | 时间: 2025-04-10 02:29 
   GenoTEX是一个用于基因表达数据自动化分析的基准数据集，包含基因-性状关联问题的分析代码和结果，涵盖数据集...
+
+- **[APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](2025-04-10/APIGen-MT-_Agentic_Pipeline_for_Multi-Turn_Data_Generation_via_Simulated_Agent-Human_Interplay.md)** | [原文](http://arxiv.org/abs/2504.03601v2) | 时间: 2025-04-10 02:28 
+  APIGen-MT是一个两阶段框架，用于生成可验证且多样化的多轮AI代理训练数据。第一阶段通过LLM评审委员会和迭代反...
+
+- **[Modeling Challenging Patient Interactions: LLMs for Medical Communication Training](2025-04-10/Modeling_Challenging_Patient_Interactions-_LLMs_for_Medical_Communication_Training.md)** | [原文](http://arxiv.org/abs/2503.22250v2) | 时间: 2025-04-10 02:28 
+  本研究利用大语言模型(LLM)开发了基于Satir模型的"指责型"和"理性型"虚拟患者(VPs)，用于提升医患沟通培训。通过...
 
 - **[Evaluating the Propensity of Generative AI for Producing Harmful Disinformation During an Election Cycle](2025-04-10/Evaluating_the_Propensity_of_Generative_AI_for_Producing_Harmful_Disinformation_During_an_Election_Cycle.md)** | [原文](http://arxiv.org/abs/2411.06120v6) | 时间: 2025-04-10 02:28 
   该研究评估了不同生成式AI模型在选举周期中产生有害虚假信息的倾向及其危害。结果显示，Copilot和Gemini表现最安...
 
 - **[Differentially Private Sequential Learning](2025-04-10/Differentially_Private_Sequential_Learning.md)** | [原文](http://arxiv.org/abs/2502.19525v2) | 时间: 2025-04-10 02:28 
   在差分隐私的序贯学习中，代理通过内生噪声保护隐私。针对连续信号，本文提出基于阈值距离的自适应平滑随机...
-
-- **[Modeling Challenging Patient Interactions: LLMs for Medical Communication Training](2025-04-10/Modeling_Challenging_Patient_Interactions-_LLMs_for_Medical_Communication_Training.md)** | [原文](http://arxiv.org/abs/2503.22250v2) | 时间: 2025-04-10 02:28 
-  本研究利用大语言模型(LLM)开发了基于Satir模型的"指责型"和"理性型"虚拟患者(VPs)，用于提升医患沟通培训。通过...
-
-- **[APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](2025-04-10/APIGen-MT-_Agentic_Pipeline_for_Multi-Turn_Data_Generation_via_Simulated_Agent-Human_Interplay.md)** | [原文](http://arxiv.org/abs/2504.03601v2) | 时间: 2025-04-10 02:28 
-  APIGen-MT是一个两阶段框架，用于生成可验证且多样化的多轮AI代理训练数据。第一阶段通过LLM评审委员会和迭代反...
 
 - **[TxGemma: Efficient and Agentic LLMs for Therapeutics](2025-04-10/TxGemma-_Efficient_and_Agentic_LLMs_for_Therapeutics.md)** | [原文](http://arxiv.org/abs/2504.06196v1) | 时间: 2025-04-10 02:28 
   研究人员开发了TxGemma，这是一套高效、通用的治疗性大语言模型，能预测药物特性并进行交互推理和解释。该系...
@@ -617,17 +620,20 @@
 - **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-09 23:04 
   这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-09 23:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-09 23:04 
+  该研究提出SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法的必要性。该方法基于梯度信号噪声比(g-SNR)在...
 
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-09 23:04 
   AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个AI代理的社会互动（500万次交互）。研究者...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-09 23:04 
-  该研究提出SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法的必要性。该方法基于梯度信号噪声比(g-SNR)在...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-09 23:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#游戏显卡训练大模型##英特尔GPU一体机# 家人们，你知道近段时间大火的各种大模型一体机，里面到底是什么卡吗？相信很多小伙伴的第一反应，或许就是N卡。但在我...](2025-04-09/#游戏显卡训练大模型##英特尔GPU一体机#_家人们，你知道近段时间大火的各种大模型一体机，里面到底是什么卡吗？相信很多小伙伴的第一反应，或许就是N卡。但在我....md)** | [原文](https://weibo.com/6105753431/PmtQstL0E) | 时间: 2025-04-09 23:03 
-  英特尔锐炫™游戏显卡（如A770）正被用于大模型训练一体机，提供高性价比方案。测试显示，4张A770完成大任务耗...
+- **[#比亚迪超越特斯拉成为全球新能源销量冠军# 根据各大车企公布的销量数据显示，比亚迪今年一季度纯电动汽车销量为41.64万辆，同比增长38.74%，成为全球纯电销冠，...](2025-04-09/#比亚迪超越特斯拉成为全球新能源销量冠军#_根据各大车企公布的销量数据显示，比亚迪今年一季度纯电动汽车销量为41.64万辆，同比增长38.74%，成为全球纯电销冠，....md)** | [原文](https://weibo.com/6105753431/PmtrvgYsR) | 时间: 2025-04-09 23:03 
+  2025年第一季度，比亚迪以41.64万辆的纯电动汽车销量超越特斯拉，成为全球新能源销量冠军，同比增长38....
+
+- **[#首个统一多模态模型评测标准##多模态模型哪家强#多模态模型（U-MLLMs）这么多，一直以来没有一套标准评测体系，无法统一测评。而MME-Unify的出现可谓“及时雨”...](2025-04-09/#首个统一多模态模型评测标准##多模态模型哪家强#多模态模型（U-MLLMs）这么多，一直以来没有一套标准评测体系，无法统一测评。而MME-Unify的出现可谓“及时雨”....md)** | [原文](https://weibo.com/6105753431/PmttOF90c) | 时间: 2025-04-09 23:03 
+  MME-Unify是首个统一的多模态模型评测标准，由MME-Benchmarks团队推出，涵盖理解、生成和混合任务三大类。理解任务...
 
 - **[#华为中科大优化芯片设计##芯片逻辑优化提效2倍多#芯片设计背后的算法——逻辑优化（LO）这一环，直接影响芯片设计的速度和成品质量。而传统逻辑优化存在一些问...](2025-04-09/#华为中科大优化芯片设计##芯片逻辑优化提效2倍多#芯片设计背后的算法——逻辑优化（LO）这一环，直接影响芯片设计的速度和成品质量。而传统逻辑优化存在一些问....md)** | [原文](https://weibo.com/6105753431/PmtGny0ie) | 时间: 2025-04-09 23:03 
   中科大与华为合作开发的CMO框架创新性地结合图神经网络(GNN)和蒙特卡洛树搜索(MCTS)，通过GESD方案实现芯片逻辑优...
@@ -635,23 +641,14 @@
 - **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～无问芯穹联合创始人、CEO夏立雪已确认参与 第三届#中国AIGC产业...](2025-04-09/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～无问芯穹联合创始人、CEO夏立雪已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/Pmu7Goig1) | 时间: 2025-04-09 23:03 
   第三届中国AIGC产业峰会将于4月16日在北京举行，无问芯穹联合创始人兼CEO夏立雪确认出席。夏立雪是清华电子工...
 
+- **[#游戏显卡训练大模型##英特尔GPU一体机# 家人们，你知道近段时间大火的各种大模型一体机，里面到底是什么卡吗？相信很多小伙伴的第一反应，或许就是N卡。但在我...](2025-04-09/#游戏显卡训练大模型##英特尔GPU一体机#_家人们，你知道近段时间大火的各种大模型一体机，里面到底是什么卡吗？相信很多小伙伴的第一反应，或许就是N卡。但在我....md)** | [原文](https://weibo.com/6105753431/PmtQstL0E) | 时间: 2025-04-09 23:03 
+  英特尔锐炫™游戏显卡（如A770）正被用于大模型训练一体机，提供高性价比方案。测试显示，4张A770完成大任务耗...
+
 - **[#奥特曼新访谈回应4o和GPT套壳#奥特曼最新访谈来了！不仅回应了最近4o的吉卜力争议和大热的AI编程，还直言现在年轻人套壳GPT创业很正确。 量子位的微博视频](2025-04-09/#奥特曼新访谈回应4o和GPT套壳#奥特曼最新访谈来了！不仅回应了最近4o的吉卜力争议和大热的AI编程，还直言现在年轻人套壳GPT创业很正确。_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PmtFntJpn) | 时间: 2025-04-09 23:03 
   OpenAI CEO Sam Altman在最新访谈中回应了近期热点话题：1) 关于4o模型的吉卜力风格争议；2) AI编程的发展现状；3) 明...
 
-- **[#比亚迪超越特斯拉成为全球新能源销量冠军# 根据各大车企公布的销量数据显示，比亚迪今年一季度纯电动汽车销量为41.64万辆，同比增长38.74%，成为全球纯电销冠，...](2025-04-09/#比亚迪超越特斯拉成为全球新能源销量冠军#_根据各大车企公布的销量数据显示，比亚迪今年一季度纯电动汽车销量为41.64万辆，同比增长38.74%，成为全球纯电销冠，....md)** | [原文](https://weibo.com/6105753431/PmtrvgYsR) | 时间: 2025-04-09 23:03 
-  2025年第一季度，比亚迪以41.64万辆的纯电动汽车销量超越特斯拉，成为全球新能源销量冠军，同比增长38....
-
 - **[#高斯剪枝剪掉六成还无损##上海AI Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了...](2025-04-09/#高斯剪枝剪掉六成还无损##上海AI_Lab剪掉冗余高斯#3D渲染这块儿，有个问题：场景重建出来了，但高斯点数量爆炸，动辄几百万个。显存吃紧不说，渲染效率也被拉了....md)** | [原文](https://weibo.com/6105753431/PmtS954Zl) | 时间: 2025-04-09 23:03 
   上海AI Lab提出的MaskGaussian技术通过创新掩码机制，能在3D场景重建中剪除60%以上冗余高斯点而不损失质量。相比传...
-
-- **[#首个统一多模态模型评测标准##多模态模型哪家强#多模态模型（U-MLLMs）这么多，一直以来没有一套标准评测体系，无法统一测评。而MME-Unify的出现可谓“及时雨”...](2025-04-09/#首个统一多模态模型评测标准##多模态模型哪家强#多模态模型（U-MLLMs）这么多，一直以来没有一套标准评测体系，无法统一测评。而MME-Unify的出现可谓“及时雨”....md)** | [原文](https://weibo.com/6105753431/PmttOF90c) | 时间: 2025-04-09 23:03 
-  MME-Unify是首个统一的多模态模型评测标准，由MME-Benchmarks团队推出，涵盖理解、生成和混合任务三大类。理解任务...
-
-- **[一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-09/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)** | [原文](https://weibo.com/6105753431/PmuGEt6W5) | 时间: 2025-04-09 23:02 
-  中国AIGC产业峰会即将召开，20余位行业专家将探讨AI在各领域的应用前景，展示"万物皆可AI"的趋势。会议将涵盖AI...
-
-- **[A new framework for prognostics in decentralized industries: Enhancing fairness, security, and transparency through Blockchain and Federated Learning](2025-04-09/A_new_framework_for_prognostics_in_decentralized_industries-_Enhancing_fairness,_security,_and_transparency_through_Blockchain_and_Federated_Learning.md)** | [原文](http://arxiv.org/abs/2503.05725v2) | 时间: 2025-04-09 23:02 
-  本文探讨了在工业5.0背景下，如何通过联邦学习（FL）和区块链（BC）技术提升去中心化制造环境中机器剩余使用...
 
 - **[#星动纪元XHAND电竞手指速之王# 星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓...](2025-04-09/#星动纪元XHAND电竞手指速之王#_星动纪元全自研五指灵巧手技能再升级！星动XHAND1配备12个主动自由度，行业首创关节全直驱方案，超灵活超灵敏，对指、捏豆腐、抓....md)** | [原文](https://weibo.com/6105753431/Pmut34MEr) | 时间: 2025-04-09 23:02 
   星动纪元推出全自研XHAND1五指灵巧手，具有12个主动自由度和行业首创的关节全直驱方案，灵活性和灵敏度极高，...
@@ -662,26 +659,32 @@
 - **[GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis](2025-04-09/GenoTEX-_An_LLM_Agent_Benchmark_for_Automated_Gene_Expression_Data_Analysis.md)** | [原文](http://arxiv.org/abs/2406.15341v3) | 时间: 2025-04-09 23:02 
   GenoTEX是一个用于自动化基因表达数据分析的基准数据集，包含基因-性状关联分析的全流程代码和结果，涵盖数据...
 
+- **[A new framework for prognostics in decentralized industries: Enhancing fairness, security, and transparency through Blockchain and Federated Learning](2025-04-09/A_new_framework_for_prognostics_in_decentralized_industries-_Enhancing_fairness,_security,_and_transparency_through_Blockchain_and_Federated_Learning.md)** | [原文](http://arxiv.org/abs/2503.05725v2) | 时间: 2025-04-09 23:02 
+  本文探讨了在工业5.0背景下，如何通过联邦学习（FL）和区块链（BC）技术提升去中心化制造环境中机器剩余使用...
+
 - **[Evaluating the Propensity of Generative AI for Producing Harmful Disinformation During an Election Cycle](2025-04-09/Evaluating_the_Propensity_of_Generative_AI_for_Producing_Harmful_Disinformation_During_an_Election_Cycle.md)** | [原文](http://arxiv.org/abs/2411.06120v6) | 时间: 2025-04-09 23:02 
   这项研究评估了不同生成式AI模型在选举周期中产生有害虚假信息的倾向及其危害。结果显示，Copilot和Gemini总体表...
 
-- **[Differentially Private Sequential Learning](2025-04-09/Differentially_Private_Sequential_Learning.md)** | [原文](http://arxiv.org/abs/2502.19525v2) | 时间: 2025-04-09 23:01 
-  在差分隐私的序贯学习中，代理通过内生噪声保护隐私。针对连续信号，本文提出基于阈值距离的自适应平滑随机...
-
-- **[Modeling Challenging Patient Interactions: LLMs for Medical Communication Training](2025-04-09/Modeling_Challenging_Patient_Interactions-_LLMs_for_Medical_Communication_Training.md)** | [原文](http://arxiv.org/abs/2503.22250v2) | 时间: 2025-04-09 23:01 
-  本研究利用大语言模型（LLM）模拟基于Satir模型的"指责型"和"合理化型"患者角色，通过高级提示工程开发具有细腻...
-
-- **[Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs](2025-04-09/Can_Performant_LLMs_Be_Ethical_Quantifying_the_Impact_of_Web_Crawling_Opt-Outs.md)** | [原文](http://arxiv.org/abs/2504.06219v1) | 时间: 2025-04-09 23:01 
-  这项研究探讨了网络爬虫退出机制对大型语言模型(LLM)性能的影响，提出了"数据合规差距"(DCG)概念来量化合规与非...
-
-- **[TxGemma: Efficient and Agentic LLMs for Therapeutics](2025-04-09/TxGemma-_Efficient_and_Agentic_LLMs_for_Therapeutics.md)** | [原文](http://arxiv.org/abs/2504.06196v1) | 时间: 2025-04-09 23:01 
-  研究人员开发了TxGemma系列高效通用大语言模型（2B/9B/27B参数），专为药物研发设计。该模型在66项药物开发任务中...
+- **[一天时间，带你看尽如何「万物皆可AI」[打call] 倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此 [图片]](2025-04-09/一天时间，带你看尽如何「万物皆可AI」[打call]_倒计时1周！20余位行业大佬共话AI，中国AIGC产业峰会最全攻略在此_[图片].md)** | [原文](https://weibo.com/6105753431/PmuGEt6W5) | 时间: 2025-04-09 23:02 
+  中国AIGC产业峰会即将召开，20余位行业专家将探讨AI在各领域的应用前景，展示"万物皆可AI"的趋势。会议将涵盖AI...
 
 - **[APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](2025-04-09/APIGen-MT-_Agentic_Pipeline_for_Multi-Turn_Data_Generation_via_Simulated_Agent-Human_Interplay.md)** | [原文](http://arxiv.org/abs/2504.03601v2) | 时间: 2025-04-09 23:01 
   APIGen-MT是一个两阶段框架，用于生成可验证且多样化的多轮AI代理训练数据。第一阶段通过LLM评审委员会和迭代反...
 
+- **[Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs](2025-04-09/Can_Performant_LLMs_Be_Ethical_Quantifying_the_Impact_of_Web_Crawling_Opt-Outs.md)** | [原文](http://arxiv.org/abs/2504.06219v1) | 时间: 2025-04-09 23:01 
+  这项研究探讨了网络爬虫退出机制对大型语言模型(LLM)性能的影响，提出了"数据合规差距"(DCG)概念来量化合规与非...
+
+- **[Differentially Private Sequential Learning](2025-04-09/Differentially_Private_Sequential_Learning.md)** | [原文](http://arxiv.org/abs/2502.19525v2) | 时间: 2025-04-09 23:01 
+  在差分隐私的序贯学习中，代理通过内生噪声保护隐私。针对连续信号，本文提出基于阈值距离的自适应平滑随机...
+
+- **[TxGemma: Efficient and Agentic LLMs for Therapeutics](2025-04-09/TxGemma-_Efficient_and_Agentic_LLMs_for_Therapeutics.md)** | [原文](http://arxiv.org/abs/2504.06196v1) | 时间: 2025-04-09 23:01 
+  研究人员开发了TxGemma系列高效通用大语言模型（2B/9B/27B参数），专为药物研发设计。该模型在66项药物开发任务中...
+
 - **[The Work Capacity of Channels with Memory: Maximum Extractable Work in Percept-Action Loops](2025-04-09/The_Work_Capacity_of_Channels_with_Memory-_Maximum_Extractable_Work_in_Percept-Action_Loops.md)** | [原文](http://arxiv.org/abs/2504.06209v1) | 时间: 2025-04-09 23:01 
   这篇论文探讨了主动学习系统的热力学特性，提出了"感知-行动循环"框架来分析智能体与环境交互时的信息处理。...
+
+- **[Modeling Challenging Patient Interactions: LLMs for Medical Communication Training](2025-04-09/Modeling_Challenging_Patient_Interactions-_LLMs_for_Medical_Communication_Training.md)** | [原文](http://arxiv.org/abs/2503.22250v2) | 时间: 2025-04-09 23:01 
+  本研究利用大语言模型（LLM）模拟基于Satir模型的"指责型"和"合理化型"患者角色，通过高级提示工程开发具有细腻...
 
 - **[FEABench: Evaluating Language Models on Multiphysics Reasoning Ability](2025-04-09/FEABench-_Evaluating_Language_Models_on_Multiphysics_Reasoning_Ability.md)** | [原文](http://arxiv.org/abs/2504.06260v1) | 时间: 2025-04-09 23:00 
   FEABench是一个评估大语言模型(LLMs)和LLM代理使用有限元分析(FEA)解决物理、数学和工程问题能力的基准。该研究开...
@@ -689,11 +692,11 @@
 - **[#GPT4o图像生成架构被破解了##GPT4o图像生成全面测评来了#GPT-4o图像生成架构被“破解”了！最近一阵，“万物皆可吉卜力”让GPT-4o的图像生成功能一炮而红，人们...](2025-04-09/#GPT4o图像生成架构被破解了##GPT4o图像生成全面测评来了#GPT-4o图像生成架构被“破解”了！最近一阵，“万物皆可吉卜力”让GPT-4o的图像生成功能一炮而红，人们....md)** | [原文](https://weibo.com/6105753431/Pmtgfm1AZ) | 时间: 2025-04-09 12:04 
   北京大学、中山大学等机构联合发布的GPT-ImgEval研究揭示了GPT-4o图像生成的混合架构：采用自回归主干+扩散头的组...
 
-- **[#全程AI写的论文进顶会##首个AI科学家被顶会认可#嚯！完全由AI生成的论文，通过顶会ICLR workshop评审？！分数为6/7/6，已经超过平均人类接收门槛。论文是酱婶的...](2025-04-09/#全程AI写的论文进顶会##首个AI科学家被顶会认可#嚯！完全由AI生成的论文，通过顶会ICLR_workshop评审？！分数为6-7-6，已经超过平均人类接收门槛。论文是酱婶的....md)** | [原文](https://weibo.com/6105753431/PmtgetSop) | 时间: 2025-04-09 11:04 
-  Sakana AI开发的AI Scientist 2.0系统首次实现了完全由AI生成的论文通过顶会ICLR workshop评审（得分6/7/6，超过人类平均接...
-
 - **[#李飞飞团队定世界模型新标杆##世界生成能力迎来统一评测#世界模型领域最新进展，要比拼“世界生成”了。李飞飞吴佳俊团队提出了全面评测基准WorldScore，涵盖了...](2025-04-09/#李飞飞团队定世界模型新标杆##世界生成能力迎来统一评测#世界模型领域最新进展，要比拼“世界生成”了。李飞飞吴佳俊团队提出了全面评测基准WorldScore，涵盖了....md)** | [原文](https://weibo.com/6105753431/PmtgdCPKy) | 时间: 2025-04-09 11:04 
   李飞飞和吴佳俊团队提出世界模型评测基准WorldScore，统一评估3D/4D/视频生成模型的"世界生成"能力。该基准包含300...
+
+- **[#全程AI写的论文进顶会##首个AI科学家被顶会认可#嚯！完全由AI生成的论文，通过顶会ICLR workshop评审？！分数为6/7/6，已经超过平均人类接收门槛。论文是酱婶的...](2025-04-09/#全程AI写的论文进顶会##首个AI科学家被顶会认可#嚯！完全由AI生成的论文，通过顶会ICLR_workshop评审？！分数为6-7-6，已经超过平均人类接收门槛。论文是酱婶的....md)** | [原文](https://weibo.com/6105753431/PmtgetSop) | 时间: 2025-04-09 11:04 
+  Sakana AI开发的AI Scientist 2.0系统首次实现了完全由AI生成的论文通过顶会ICLR workshop评审（得分6/7/6，超过人类平均接...
 
 - **[#大学生如何使用AI##100万条AI用户对话分析#大学生都是怎么用AI的？Anthropic发布了一份百万级对话数据分析，揭开了Claude在校园里的使用情况：最爱用Claude的，...](2025-04-09/#大学生如何使用AI##100万条AI用户对话分析#大学生都是怎么用AI的？Anthropic发布了一份百万级对话数据分析，揭开了Claude在校园里的使用情况：最爱用Claude的，....md)** | [原文](https://weibo.com/6105753431/PmsNWaWx0) | 时间: 2025-04-09 10:05 
   Anthropic发布的百万条对话分析显示，大学生主要将AI助手Claude用于学习辅助。计算机专业学生使用占比最高（38....
@@ -704,20 +707,11 @@
 - **[#Gemini2.5Pro支持深度研究##Gemini深度研究击败OpenAI#谷歌的Gemini 2.5 Pro，现在支持深度研究功能了。效果如何？来看看沃顿商学院Ethan Mollick教授做的实测...](2025-04-09/#Gemini2.5Pro支持深度研究##Gemini深度研究击败OpenAI#谷歌的Gemini_2.5_Pro，现在支持深度研究功能了。效果如何？来看看沃顿商学院Ethan_Mollick教授做的实测....md)** | [原文](https://weibo.com/6105753431/PmrxVvJOF) | 时间: 2025-04-09 09:04 
   谷歌Gemini 2.5 Pro新增深度研究功能，沃顿商学院Ethan Mollick教授实测显示其表现优异。测试案例中，Gemini为便携式光...
 
-- **[#英伟达开源模型超越DeepSeek##英伟达新模型参数量比DeepSeek少一半#英伟达也搞了个开源模型，参数量比DeepSeek R1少一半，性能却实现了超越。这款模型基于Llama...](2025-04-09/#英伟达开源模型超越DeepSeek##英伟达新模型参数量比DeepSeek少一半#英伟达也搞了个开源模型，参数量比DeepSeek_R1少一半，性能却实现了超越。这款模型基于Llama....md)** | [原文](https://weibo.com/6105753431/PmryDi25V) | 时间: 2025-04-09 09:03 
-  英伟达发布开源大模型Llama-3.1-Nemotron-Ultra-253B-v1，基于Llama-3.1训练。该模型参数量为253B，比DeepSeek R1少一半，但性...
-
 - **[#14B开源模型比肩o3mini##开源模型DeepCoder超越o1#一个14B的开源模型，超过了OpenAI的o1，打平了o3-mini【图1】！它就是Agentica x Together AI联手打造的DeepC...](2025-04-09/#14B开源模型比肩o3mini##开源模型DeepCoder超越o1#一个14B的开源模型，超过了OpenAI的o1，打平了o3-mini【图1】！它就是Agentica_x_Together_AI联手打造的DeepC....md)** | [原文](https://weibo.com/6105753431/PmryiBUZ2) | 时间: 2025-04-09 09:03 
   DeepCoder-14B-Preview是由Agentica和Together AI联合开发的开源模型，基于Deepseek-R1-Distilled-Qwen-14B训练，并通过分布式强化...
 
-- **[#李飞飞实验室2025AI报告出炉##中美AI模型差距正在缩小#中美AI模型差距正在缩小。由李飞飞联合领导，斯坦福大学以人为本人工智能研究所（HAI）最新发布了2025 AI...](2025-04-09/#李飞飞实验室2025AI报告出炉##中美AI模型差距正在缩小#中美AI模型差距正在缩小。由李飞飞联合领导，斯坦福大学以人为本人工智能研究所（HAI）最新发布了2025_AI....md)** | [原文](https://weibo.com/6105753431/Pmklyj3fW) | 时间: 2025-04-09 08:04 
-  斯坦福大学HAI实验室发布的2025 AI报告显示，中美AI模型性能差距显著缩小，中国在基准测试（如MMLU、HumanEval）上...
-
-- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～面壁智能联合创始人、CEO李大海已确认参与 第三届#中国AIGC产业...](2025-04-09/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～面壁智能联合创始人、CEO李大海已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/PmkOQoFb6) | 时间: 2025-04-09 08:04 
-  第三届中国AIGC产业峰会将于4月16日在北京举行，面壁智能CEO李大海确认出席。作为知乎前CTO，他成功推动AI技术赋...
-
-- **[#长视频异常理解新突破##华中科大提出AI危险检测新技术#多模态视频异常理解任务，又有新突破！“异常理解”是指在视频监控、自动驾驶等场景中，利用模型发现视频...](2025-04-09/#长视频异常理解新突破##华中科大提出AI危险检测新技术#多模态视频异常理解任务，又有新突破！“异常理解”是指在视频监控、自动驾驶等场景中，利用模型发现视频....md)** | [原文](https://weibo.com/6105753431/PmkbODH6L) | 时间: 2025-04-09 08:04 
-  华中科技大学团队提出视频异常理解新模型Holmes-VAU及配套数据集HIVAU-70k。该研究通过构建包含7万条多时序尺度指...
+- **[#英伟达开源模型超越DeepSeek##英伟达新模型参数量比DeepSeek少一半#英伟达也搞了个开源模型，参数量比DeepSeek R1少一半，性能却实现了超越。这款模型基于Llama...](2025-04-09/#英伟达开源模型超越DeepSeek##英伟达新模型参数量比DeepSeek少一半#英伟达也搞了个开源模型，参数量比DeepSeek_R1少一半，性能却实现了超越。这款模型基于Llama....md)** | [原文](https://weibo.com/6105753431/PmryDi25V) | 时间: 2025-04-09 09:03 
+  英伟达发布开源大模型Llama-3.1-Nemotron-Ultra-253B-v1，基于Llama-3.1训练。该模型参数量为253B，比DeepSeek R1少一半，但性...
 
 - **[#宇树机器人又整新活了# 任何姿势、无论什么场景，宇树 G1 机器人都能稳定起身，速度不亚于人类。来自上海交通大学联合上海AI LAB等研究团队研发了HoST（Humanoi...](2025-04-09/#宇树机器人又整新活了#_任何姿势、无论什么场景，宇树_G1_机器人都能稳定起身，速度不亚于人类。来自上海交通大学联合上海AI_LAB等研究团队研发了HoST（Humanoi....md)** | [原文](https://weibo.com/6105753431/PmqkXrtLz) | 时间: 2025-04-09 08:04 
   上海交通大学与上海AI LAB联合研发的宇树G1机器人采用HoST强化学习框架，实现了类人机器人在各种姿势和场景下的...
@@ -725,38 +719,47 @@
 - **[#用2个AI把1张图变成14秒动画# 一张土耳其枪手图，生成14秒吉卜力画风的夺牌动画！一位AI动画博主分享了背后的制作过程，只用到了ChatGPT和Runway的Gen-4总共两...](2025-04-09/#用2个AI把1张图变成14秒动画#_一张土耳其枪手图，生成14秒吉卜力画风的夺牌动画！一位AI动画博主分享了背后的制作过程，只用到了ChatGPT和Runway的Gen-4总共两....md)** | [原文](https://weibo.com/6105753431/Pmkea0HIr) | 时间: 2025-04-09 08:04 
   一位AI动画博主展示了如何仅用ChatGPT和Runway Gen-2两款AI工具，将一张土耳其枪手静态图转化为14秒吉卜力风格的动...
 
+- **[#李飞飞实验室2025AI报告出炉##中美AI模型差距正在缩小#中美AI模型差距正在缩小。由李飞飞联合领导，斯坦福大学以人为本人工智能研究所（HAI）最新发布了2025 AI...](2025-04-09/#李飞飞实验室2025AI报告出炉##中美AI模型差距正在缩小#中美AI模型差距正在缩小。由李飞飞联合领导，斯坦福大学以人为本人工智能研究所（HAI）最新发布了2025_AI....md)** | [原文](https://weibo.com/6105753431/Pmklyj3fW) | 时间: 2025-04-09 08:04 
+  斯坦福大学HAI实验室发布的2025 AI报告显示，中美AI模型性能差距显著缩小，中国在基准测试（如MMLU、HumanEval）上...
+
+- **[#长视频异常理解新突破##华中科大提出AI危险检测新技术#多模态视频异常理解任务，又有新突破！“异常理解”是指在视频监控、自动驾驶等场景中，利用模型发现视频...](2025-04-09/#长视频异常理解新突破##华中科大提出AI危险检测新技术#多模态视频异常理解任务，又有新突破！“异常理解”是指在视频监控、自动驾驶等场景中，利用模型发现视频....md)** | [原文](https://weibo.com/6105753431/PmkbODH6L) | 时间: 2025-04-09 08:04 
+  华中科技大学团队提出视频异常理解新模型Holmes-VAU及配套数据集HIVAU-70k。该研究通过构建包含7万条多时序尺度指...
+
+- **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～面壁智能联合创始人、CEO李大海已确认参与 第三届#中国AIGC产业...](2025-04-09/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～面壁智能联合创始人、CEO李大海已确认参与_第三届#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/PmkOQoFb6) | 时间: 2025-04-09 08:04 
+  第三届中国AIGC产业峰会将于4月16日在北京举行，面壁智能CEO李大海确认出席。作为知乎前CTO，他成功推动AI技术赋...
+
 - **[#谁发明了第一个大模型##Kaggle前首席科学家引AI圈考古行动#论如何在技术圈争论中一句话噎到对方：哥们，是我创造了第一个大语言模型。【图1】发言者Jeremy Howa...](2025-04-09/#谁发明了第一个大模型##Kaggle前首席科学家引AI圈考古行动#论如何在技术圈争论中一句话噎到对方：哥们，是我创造了第一个大语言模型。【图1】发言者Jeremy_Howa....md)** | [原文](https://weibo.com/6105753431/PmkbCd2Qd) | 时间: 2025-04-09 07:04 
   这篇微博讨论了AI领域关于"谁发明了第一个大语言模型"的争议。Kaggle前首席科学家Jeremy Howard声称自己创造了第一...
 
 - **[4月16日，北京金茂万丽酒店，第三届中国AIGC产业峰会就要来啦！观众报名通道已开启，快来一起AI！网页链接今年峰会主题是「万物皆可AI」，我们看到随着基础模型...](2025-04-09/4月16日，北京金茂万丽酒店，第三届中国AIGC产业峰会就要来啦！观众报名通道已开启，快来一起AI！网页链接今年峰会主题是「万物皆可AI」，我们看到随着基础模型....md)** | [原文](https://weibo.com/6105753431/PmjXhEaOd) | 时间: 2025-04-09 04:05 
   第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举办，主题为"万物皆可AI"。峰会将聚焦AI算力、AI Agent、AI...
 
-- **[#AI生成猫和老鼠##视频也可以测试时训练了#《猫和老鼠》出续集了？！不，你看到的这些长达1分钟的视频，都是由AI生成的。下面让我们分别看看每个视频的提示词—...](2025-04-09/#AI生成猫和老鼠##视频也可以测试时训练了#《猫和老鼠》出续集了？！不，你看到的这些长达1分钟的视频，都是由AI生成的。下面让我们分别看看每个视频的提示词—....md)** | [原文](https://weibo.com/6105753431/Pmk5keuUw) | 时间: 2025-04-09 04:04 
-  AI通过TTT(测试时训练)技术生成了三段1分钟的《猫和老鼠》风格视频，分别展现了"奶酪和解"、"嘉年华竞赛"和"苹...
-
 - **[#Llama4遭竞技场背刺##大模型竞技场曝Llama4数据#Llama 4真要被锤爆了，这次是大模型竞技场（Chatbot Arena）官方亲自下场开怼：Arena官方表示，Meta提供给他们...](2025-04-09/#Llama4遭竞技场背刺##大模型竞技场曝Llama4数据#Llama_4真要被锤爆了，这次是大模型竞技场（Chatbot_Arena）官方亲自下场开怼：Arena官方表示，Meta提供给他们....md)** | [原文](https://weibo.com/6105753431/Pmk3Oc69N) | 时间: 2025-04-09 04:04 
   大模型竞技场（Chatbot Arena）指控Meta提供的Llama 4是经过人类偏好优化的特供版（Llama-4-Maverick-03-26-Experimental），未...
+
+- **[#AI生成猫和老鼠##视频也可以测试时训练了#《猫和老鼠》出续集了？！不，你看到的这些长达1分钟的视频，都是由AI生成的。下面让我们分别看看每个视频的提示词—...](2025-04-09/#AI生成猫和老鼠##视频也可以测试时训练了#《猫和老鼠》出续集了？！不，你看到的这些长达1分钟的视频，都是由AI生成的。下面让我们分别看看每个视频的提示词—....md)** | [原文](https://weibo.com/6105753431/Pmk5keuUw) | 时间: 2025-04-09 04:04 
+  AI通过TTT(测试时训练)技术生成了三段1分钟的《猫和老鼠》风格视频，分别展现了"奶酪和解"、"嘉年华竞赛"和"苹...
 
 - **[MA-DV2F: A Multi-Agent Navigation Framework using Dynamic Velocity Vector Field](2025-04-09/MA-DV2F-_A_Multi-Agent_Navigation_Framework_using_Dynamic_Velocity_Vector_Field.md)** | [原文](http://arxiv.org/abs/2411.06404v5) | 时间: 2025-04-09 03:15 
   本文提出MA-DV2F框架，一种用于多车辆群体控制的动态速度矢量场方法。该框架为每辆车独立生成动态更新的速度...
 
-- **[Rationalizing dynamic choices](2025-04-09/Rationalizing_dynamic_choices.md)** | [原文](http://arxiv.org/abs/2504.05251v1) | 时间: 2025-04-09 03:14 
-  本文探讨了观察者如何判断代理人的行为是否可由已知效用函数的贝叶斯理性模型解释。研究发现，当且仅当存在...
+- **[What We Do Not Know: GPT Use in Business and Management](2025-04-09/What_We_Do_Not_Know-_GPT_Use_in_Business_and_Management.md)** | [原文](http://arxiv.org/abs/2504.05273v1) | 时间: 2025-04-09 03:14 
+  这篇系统综述分析了GPT在商业管理中的应用研究，发现该领域存在显著的知识空白。尽管研究指出了最佳实践、基...
 
 - **[LLM-based Automated Grading with Human-in-the-Loop](2025-04-09/LLM-based_Automated_Grading_with_Human-in-the-Loop.md)** | [原文](http://arxiv.org/abs/2504.05239v1) | 时间: 2025-04-09 03:14 
   大型语言模型（LLMs）推动了自动短答案评分（ASAG）的发展，超越传统基于标准答案的评分方式，支持更复杂的评...
 
+- **[Rationalizing dynamic choices](2025-04-09/Rationalizing_dynamic_choices.md)** | [原文](http://arxiv.org/abs/2504.05251v1) | 时间: 2025-04-09 03:14 
+  本文探讨了观察者如何判断代理人的行为是否可由已知效用函数的贝叶斯理性模型解释。研究发现，当且仅当存在...
+
 - **[Superhuman Game AI Disclosure: Expertise and Context Moderate Effects on Trust and Fairness](2025-04-09/Superhuman_Game_AI_Disclosure-_Expertise_and_Context_Moderate_Effects_on_Trust_and_Fairness.md)** | [原文](http://arxiv.org/abs/2503.15514v2) | 时间: 2025-04-09 03:14 
   该研究探讨了AI在特定任务中超越人类表现时，披露其超强能力对用户态度和行为的影响。通过使用标准化的"角色...
 
-- **[What We Do Not Know: GPT Use in Business and Management](2025-04-09/What_We_Do_Not_Know-_GPT_Use_in_Business_and_Management.md)** | [原文](http://arxiv.org/abs/2504.05273v1) | 时间: 2025-04-09 03:14 
-  这篇系统综述分析了GPT在商业管理中的应用研究，发现该领域存在显著的知识空白。尽管研究指出了最佳实践、基...
+- **[A Complete Mental Temporal Logic for Intelligent Agent](2025-04-09/A_Complete_Mental_Temporal_Logic_for_Intelligent_Agent.md)** | [原文](http://arxiv.org/abs/2503.24078v2) | 时间: 2025-04-09 03:14 
+  本文提出了一种完整的心理时序逻辑BPICTL，通过引入心理模态扩展了CTL逻辑。研究给出了BPICTL的可靠且完备的推理...
 
 - **[How to evaluate control measures for LLM agents? A trajectory from today to superintelligence](2025-04-09/How_to_evaluate_control_measures_for_LLM_agents_A_trajectory_from_today_to_superintelligence.md)** | [原文](http://arxiv.org/abs/2504.05259v1) | 时间: 2025-04-09 03:14 
   随着AI代理能力增强，自主造成危害的风险上升，开发者需通过控制评估（由红队模拟攻击）验证防护措施的有效...
-
-- **[A Complete Mental Temporal Logic for Intelligent Agent](2025-04-09/A_Complete_Mental_Temporal_Logic_for_Intelligent_Agent.md)** | [原文](http://arxiv.org/abs/2503.24078v2) | 时间: 2025-04-09 03:14 
-  本文提出了一种完整的心理时序逻辑BPICTL，通过引入心理模态扩展了CTL逻辑。研究给出了BPICTL的可靠且完备的推理...
 
 - **[The challenge of uncertainty quantification of large language models in medicine](2025-04-09/The_challenge_of_uncertainty_quantification_of_large_language_models_in_medicine.md)** | [原文](http://arxiv.org/abs/2504.05278v1) | 时间: 2025-04-09 03:13 
   本研究探讨了大型语言模型(LLMs)在医疗应用中的不确定性量化问题，结合技术创新与哲学思考。研究提出将不确定...
@@ -781,8 +784,8 @@
 - **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-08 23:05 
   这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究收集了397...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-08 23:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-08 23:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，目...
 
 - **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-08 23:04 
   本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
@@ -793,8 +796,8 @@
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-08 23:04 
   AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。它作为...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-08 23:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，目...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-08 23:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
 
 - **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-08 23:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时计算...
@@ -898,11 +901,11 @@
 - **[#史上最划算的冲动消费##12美元意外抢购谷歌域名#这哥们花12美元，把“google. com”买回了家。故事发生在2015年，一个再普通不过的深夜，谷歌前员工Sanmay Ved...](2025-04-08/#史上最划算的冲动消费##12美元意外抢购谷歌域名#这哥们花12美元，把“google._com”买回了家。故事发生在2015年，一个再普通不过的深夜，谷歌前员工Sanmay_Ved....md)** | [原文](https://weibo.com/6105753431/PmasZ6OBt) | 时间: 2025-04-08 03:15 
   2015年，谷歌前员工Sanmay Ved意外发现"google.com"域名可购买，仅花12美元便成功购得，并获得了后台管理权限。他主...
 
-- **[#264页Agent论文##一篇论文把智能体拆成人脑模型#一篇264页的顶级机构联合综述，把AI Agent拆成了人脑复刻计划。近日，来自Google DeepMind、微软、斯坦福、Meta...](2025-04-08/#264页Agent论文##一篇论文把智能体拆成人脑模型#一篇264页的顶级机构联合综述，把AI_Agent拆成了人脑复刻计划。近日，来自Google_DeepMind、微软、斯坦福、Meta....md)** | [原文](https://weibo.com/6105753431/PmasBrcnI) | 时间: 2025-04-08 03:15 
-  这篇264页的综述论文由Google DeepMind、微软等顶级机构联合发表，提出将AI智能体（Agent）构建为仿人脑的模块化架...
-
 - **[🔝 速抢席位！在 #中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～蚂蚁集团平台智能体验技术负责人徐达峰已确认参与 第三届#中国AI...](2025-04-08/🔝_速抢席位！在_#中国AIGC产业峰会#，看AI领域创变者如何用上AI、用好AI，与AI一同加速成长～蚂蚁集团平台智能体验技术负责人徐达峰已确认参与_第三届#中国AI....md)** | [原文](https://weibo.com/6105753431/Pm9Uz0V9Z) | 时间: 2025-04-08 03:15 
   第三届中国AIGC产业峰会将于4月16日在北京金茂万丽酒店举行。蚂蚁集团平台智能体验技术负责人徐达峰确认出席...
+
+- **[#264页Agent论文##一篇论文把智能体拆成人脑模型#一篇264页的顶级机构联合综述，把AI Agent拆成了人脑复刻计划。近日，来自Google DeepMind、微软、斯坦福、Meta...](2025-04-08/#264页Agent论文##一篇论文把智能体拆成人脑模型#一篇264页的顶级机构联合综述，把AI_Agent拆成了人脑复刻计划。近日，来自Google_DeepMind、微软、斯坦福、Meta....md)** | [原文](https://weibo.com/6105753431/PmasBrcnI) | 时间: 2025-04-08 03:15 
+  这篇264页的综述论文由Google DeepMind、微软等顶级机构联合发表，提出将AI智能体（Agent）构建为仿人脑的模块化架...
 
 - **[An Open-Source Reproducible Chess Robot for Human-Robot Interaction Research](2025-04-08/An_Open-Source_Reproducible_Chess_Robot_for_Human-Robot_Interaction_Research.md)** | [原文](http://arxiv.org/abs/2405.18170v6) | 时间: 2025-04-08 03:14 
   这篇论文介绍了一个开源象棋机器人OpenChessRobot，用于研究人机交互（HRI）。该机器人通过计算机视觉识别棋子，...
