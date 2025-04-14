@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-GRPO-Zero项目从零实现了DeepSeek提出的GRPO（Group Relative Policy Optimization）强化学习算法。该算法无需价值模型或KL散度计算，通过抽样问题、生成多个回答、评分并标准化优势来更新策略模型。项目结构简单，仅需PyTorch，支持A40显卡训练，默认任务为数字表达式求解（如用1 2 3 4算出11）。奖励机制结合格式（0.1分）和答案正确性（1分），基于Qwen2.5-3B-Instruct模型，提供完整代码，适合小团队快速入门RLHF。GitHub链接：https://github.com/policy-gradient/GRPO-Zero
+GRPO-Zero项目从零实现了DeepSeek提出的GRPO（Group Relative Policy Optimization）强化学习算法。该算法无需价值模型或KL散度计算，通过抽样问题、生成回答、打分排序、标准化优势值来优化策略模型。项目结构简单，仅需PyTorch，支持单卡（如48G显存的A40）训练，默认任务为数字表达式生成（如用1 2 3 4算出11）。训练基于Qwen2.5-3B模型，奖励机制包含格式（0.1分）和答案正确性（1分）。项目开源，适合小团队快速入门RLHF研究。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-14T06:02:00Z
+- **保存时间**: 2025-04-14T07:03:31Z
 - **目录日期**: 2025-04-14
