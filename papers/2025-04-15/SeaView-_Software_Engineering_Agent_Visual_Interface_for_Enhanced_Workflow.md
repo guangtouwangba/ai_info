@@ -1,6 +1,6 @@
 # SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow
 
-**URL**: http://arxiv.org/abs/2504.08696v1
+**URL**: http://arxiv.org/abs/2504.08696v2
 
 ## 原始摘要
 
@@ -29,11 +29,11 @@ minutes to 1 hour to diagnose their experiment.
 
 ## AI 摘要
 
-基于自回归大语言模型（LLM）的软件工程代理（SWE代理）在解决真实编程问题（如GitHub issue）方面取得显著进展（SWE-Bench Verified准确率>60%），但其生成的复杂交互轨迹（可能超过128k长度）难以分析。现有研究多聚焦于提升代理性能，却缺乏分析工具。为此，研究者提出可视化工具SeaView，支持对比不同超参数/LLM的实验运行结果，快速定位LLM或环境问题。用户研究表明，使用SeaView可将资深研究者的诊断时间从10-30分钟大幅缩短，新手研究者则能从30-60分钟缩短至即时获取关键信息。
+基于自回归大语言模型（LLM）的软件工程代理（SWE代理）在解决现实编程问题（如GitHub issue修复）上取得显著进展（SWE-Bench Verified准确率>60%）。然而，分析SWE代理的复杂交互轨迹（可能超过128k tokens）和错误定位存在挑战。为此，研究者开发了可视化工具SeaView，帮助研究人员快速比较不同超参数或LLM的实验结果，识别LLM或环境问题。用户研究表明，SeaView可将资深研究者的分析时间从10-30分钟、新手的30-60分钟大幅缩短，显著提升实验诊断效率。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-15T01:28:54Z
+- **保存时间**: 2025-04-15T02:29:29Z
 - **目录日期**: 2025-04-15
