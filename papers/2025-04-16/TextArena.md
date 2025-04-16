@@ -20,11 +20,11 @@ on https://github.com/LeonGuertler/TextArena and https://www.textarena.ai/.
 
 ## AI 摘要
 
-TextArena是一个开源的文本游戏集合，用于训练和评估大语言模型（LLMs）的智能行为。它包含57+种独特环境（单/双/多玩家模式），支持在线对战（人类或模型）并实时计算TrueSkill评分。传统基准测试常忽略动态社交技能（如谈判、心理理论和欺骗），而TextArena填补了这一空白。该平台注重研究、社区和可扩展性，便于添加新游戏、适配框架、测试模型、人机对战及模型训练。详情见官网与GitHub页面：https://github.com/LeonGuertler/TextArena 和 https://www.textarena.ai/。 （100字）
+TextArena是一个开源的文本游戏集合，旨在训练和评估大语言模型（LLMs）的智能行为。它包含57+种独特环境（单/双/多玩家模式），支持在线对战（人类或模型）并实时计算TrueSkill评分。该平台填补了传统基准测试在动态社交能力（如谈判、心理理论和欺骗）评估上的空白，强调易扩展性，支持快速添加游戏、适配框架、测试模型及训练模型。详细文档和示例可在GitHub（https://github.com/LeonGuertler/TextArena）和官网（https://www.textarena.ai/）获取。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-16T12:02:29Z
+- **保存时间**: 2025-04-16T13:10:00Z
 - **目录日期**: 2025-04-16
