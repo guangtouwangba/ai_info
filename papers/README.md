@@ -6,82 +6,82 @@
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-16/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型中...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-16 06:06
+**收录时间**: 2025-04-16 07:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-16/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析及写作一站式服务。其核心功能包括：1）中英文...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和论文写作支持...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-16 06:06
+**收录时间**: 2025-04-16 07:06
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-16/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(包含397个样本，覆...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct指令集。CodeAre...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-16 06:06
+**收录时间**: 2025-04-16 07:06
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-16/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 该研究提出SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度优化器（如Adam）的传统认知。该方法通过...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-16 06:05
+**收录时间**: 2025-04-16 07:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-16 06:05
+**收录时间**: 2025-04-16 07:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-16/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+**摘要**: 该论文综述了ALK基因双靶点抑制剂在非小细胞肺癌(NSCLC)治疗中的最新进展。ALK基因是NSCLC的重要致癌驱动基因，目...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-16 06:05
+**收录时间**: 2025-04-16 07:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-16/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究了四...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次交互）。研究者用...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-16 06:05
+**收录时间**: 2025-04-16 07:05
 
 ---
 
 ### [【#中国AIGC产业峰会# 金句时间】生数科技产品副总裁，Vidu产品负责人廖谦：随着多模态模型的生成能力发展到实时、可控、可交互，内容可以完全个性化，会诞生全...](2025-04-16/【#中国AIGC产业峰会#_金句时间】生数科技产品副总裁，Vidu产品负责人廖谦：随着多模态模型的生成能力发展到实时、可控、可交互，内容可以完全个性化，会诞生全....md)
 
-**摘要**: 生数科技产品副总裁廖谦在中国AIGC产业峰会上表示，随着多模态AI生成技术实现实时性、可控性和交互性突破，未...
+**摘要**: 生数科技产品副总裁廖谦在#中国AIGC产业峰会#上指出，随着多模态模型生成能力向实时、可控、可交互方向发展，...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvF0hmAg)
-**收录时间**: 2025-04-16 06:04
+**收录时间**: 2025-04-16 07:04
 
 ---
 
 ### [【#中国AIGC产业峰会# 金句时间】数势科技联合创始人谭李：大模型来了，万物皆可Chat，大家很容易认为是Excel加Chat就完成的事。但企业级应用的规范复杂得多。 [...](2025-04-16/【#中国AIGC产业峰会#_金句时间】数势科技联合创始人谭李：大模型来了，万物皆可Chat，大家很容易认为是Excel加Chat就完成的事。但企业级应用的规范复杂得多。_[....md)
 
-**摘要**: 数势科技联合创始人谭李在#中国AIGC产业峰会#上指出，大模型技术兴起后，许多人简单认为"万物皆可Chat"，比如Exc...
+**摘要**: 数势科技联合创始人谭李在中国AIGC产业峰会上指出，虽然大模型技术兴起让"万物皆可Chat"成为可能，但企业级应...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvuNBdA1)
-**收录时间**: 2025-04-16 06:04
+**收录时间**: 2025-04-16 07:04
 
 ---
 
@@ -90,97 +90,97 @@
 **摘要**: 亚马逊云科技大中华区数据及存储产品总监Troy Cui在中国AIGC产业峰会上强调，构建生成式AI时需提前规划架构的可...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pnvs05LCI)
-**收录时间**: 2025-04-16 06:04
+**收录时间**: 2025-04-16 07:04
 
 ---
 
 ### [#端侧AI需要TypeC时刻##联发科召开天玑开发者大会# 当手机中装满智能体，下一代AI手机的雏形正在显现。天玑开发者大会上，手机芯片巨头联发科提出了全新的AGENTI...](2025-04-16/#端侧AI需要TypeC时刻##联发科召开天玑开发者大会#_当手机中装满智能体，下一代AI手机的雏形正在显现。天玑开发者大会上，手机芯片巨头联发科提出了全新的AGENTI....md)
 
-**摘要**: 联发科在天玑开发者大会上发布旗舰AI芯片天玑9400+，AI性能提升25%，支持端侧运行7B参数模型，推理准确率超越云...
+**摘要**: 联发科在天玑开发者大会上发布旗舰AI芯片天玑9400+，AI性能较9400提升25%，支持端侧运行7B参数模型，推理准确率超...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvNEuNr8)
-**收录时间**: 2025-04-16 06:04
+**收录时间**: 2025-04-16 07:04
 
 ---
 
 ### [感谢@新浪AI 的支持，欢迎大家围观～[给你小心心] - 转发 @新浪AI:&ensp;#新浪AI在现场# 4月16日，第三届 #中国AIGC产业峰会#在北京举办。本届峰会主题是「万物...](2025-04-16/感谢@新浪AI_的支持，欢迎大家围观～[给你小心心]_-_转发_@新浪AI-&ensp;#新浪AI在现场#_4月16日，第三届_#中国AIGC产业峰会#在北京举办。本届峰会主题是「万物....md)
 
-**摘要**: 第三届中国AIGC产业峰会于4月16日在北京举行，主题为"万物皆可AI"。峰会汇聚了互联网AI大厂、新兴AI企业及垂直领...
+**摘要**: 第三届中国AIGC产业峰会于4月16日在北京举办，主题为"万物皆可AI"。峰会聚集了互联网AI大厂、新兴AI企业及垂直领...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvqE9s0W)
-**收录时间**: 2025-04-16 06:04
+**收录时间**: 2025-04-16 07:04
 
 ---
 
 ### [【#中国AIGC产业峰会# 金句时间】PPIO派欧云联合创始人、CEO姚欣：2025年中国AI应用要怎么迎来爆发？背后关键是：AI时代需要提速降费。 [图片]](2025-04-16/【#中国AIGC产业峰会#_金句时间】PPIO派欧云联合创始人、CEO姚欣：2025年中国AI应用要怎么迎来爆发？背后关键是：AI时代需要提速降费。_[图片].md)
 
-**摘要**: PPIO派欧云CEO姚欣在中国AIGC产业峰会上指出，2025年中国AI应用爆发的关键在于"提速降费"。他认为AI时代需要更高效...
+**摘要**: PPIO派欧云联合创始人兼CEO姚欣在中国AIGC产业峰会上表示，中国AI应用要在2025年实现爆发式增长，关键在于"提速降...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvnL6uvz)
-**收录时间**: 2025-04-16 06:04
+**收录时间**: 2025-04-16 07:04
 
 ---
 
 ### [【#中国AIGC产业峰会# 金句时间】无问芯穹联合创始人、CEO夏立雪：用城市化来类比，旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一...](2025-04-16/【#中国AIGC产业峰会#_金句时间】无问芯穹联合创始人、CEO夏立雪：用城市化来类比，旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一....md)
 
-**摘要**: 无问芯穹联合创始人夏立雪在#中国AIGC产业峰会#提出算力供给新思路：将传统算力比作"高端毛坯房"，强调需升级...
+**摘要**: 无问芯穹联合创始人夏立雪在中国AIGC产业峰会上提出，传统算力供给模式如同建设高端毛坯房，效率不足。他强...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pnw0dufTW)
-**收录时间**: 2025-04-16 06:03
+**收录时间**: 2025-04-16 07:03
 
 ---
 
 ### [AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)
 
-**摘要**: 研究发现，大型语言模型(LLMs)在组成多智能体协作群体时，能自发形成凝聚力，其观点动态受"多数力系数"调控。...
+**摘要**: 研究发现，大型语言模型（LLM）组成的AI群体能自发形成凝聚力，其意见动态受"多数派影响力系数"调控。该系数...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2409.02822v4)
-**收录时间**: 2025-04-16 06:03
+**收录时间**: 2025-04-16 07:03
 
 ---
 
 ### [Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)
 
-**摘要**: 本文提出了一种在部分可观测环境中（gPOMDPs）通过参数化信念状态查询（BSQ）策略来表达用户约束和偏好的新框...
+**摘要**: 本文提出了一种在部分可观测环境中（gPOMDPs框架下）通过参数化信念状态查询（BSQ）策略来表达用户约束和偏好...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2405.15907v2)
-**收录时间**: 2025-04-16 06:03
+**收录时间**: 2025-04-16 07:03
 
 ---
 
 ### [#谷歌狂发钱竞业政策被炮轰#一年不工作工资照发？！谷歌DeepMind新竞业政策被炮轰，员工抱怨AI界休一年谁还签你？ 量子位的微博视频](2025-04-16/#谷歌狂发钱竞业政策被炮轰#一年不工作工资照发？！谷歌DeepMind新竞业政策被炮轰，员工抱怨AI界休一年谁还签你？_量子位的微博视频.md)
 
-**摘要**: 谷歌DeepMind因推出新竞业政策引发争议，该政策允许员工离职后一年内不工作仍可领取工资。批评者认为这种政策...
+**摘要**: 谷歌DeepMind因推出新竞业政策引发争议，该政策允许员工离职后一年内不工作仍可领取工资，但期间禁止加入竞争...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnwhoqnCp)
-**收录时间**: 2025-04-16 06:03
+**收录时间**: 2025-04-16 07:03
 
 ---
 
 ### [#国产SUV鱼钩测试成绩刷新世界纪录# 4月16日，腾势N9通过权威机构中国汽研测试认证，以180km/h的速度再次刷新全球鱼钩测试纪录，实现高速下稳定操控。腾势N9也成...](2025-04-16/#国产SUV鱼钩测试成绩刷新世界纪录#_4月16日，腾势N9通过权威机构中国汽研测试认证，以180km-h的速度再次刷新全球鱼钩测试纪录，实现高速下稳定操控。腾势N9也成....md)
 
-**摘要**: 腾势N9 SUV近日以180km/h的速度通过中国汽研鱼钩测试，刷新了保时捷卡宴保持5年的82.4km/h世界纪录，成为首款获此...
+**摘要**: 腾势N9于4月16日以180km/h的速度通过中国汽研鱼钩测试，刷新全球纪录（原纪录为保时捷卡宴82....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvOZvGkf)
-**收录时间**: 2025-04-16 06:03
+**收录时间**: 2025-04-16 07:03
 
 ---
 
 ### [【#中国AIGC产业峰会# 金句时间】瑞莱智慧首席执行官田天：类比人类社会智能的发展，古代人类个体的智慧相比现代人类并没有那么大差异，但没有强有力的组织形式...](2025-04-16/【#中国AIGC产业峰会#_金句时间】瑞莱智慧首席执行官田天：类比人类社会智能的发展，古代人类个体的智慧相比现代人类并没有那么大差异，但没有强有力的组织形式....md)
 
-**摘要**: 瑞莱智慧CEO田天在中国AIGC产业峰会上指出，大模型发展类似于人类智能演进，关键在于如何组织智能体形成强大...
+**摘要**: 瑞莱智慧CEO田天在中国AIGC产业峰会上指出，大模型发展类似于人类社会智能的演进。古代与现代人类个体智慧差...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnvSZ9cXh)
-**收录时间**: 2025-04-16 06:03
+**收录时间**: 2025-04-16 07:03
 
 ---
 
 ### [eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)
 
-**摘要**: 本文提出了一种基于逆向最优控制(IOC)的可解释AI(XAI)方法，用于分析黑盒数据驱动控制器在特定区域的行为。该方...
+**摘要**: 本文提出了一种基于逆向最优控制（IOC）的可解释AI（XAI）方法，用于分析黑盒控制器在特定区域的局部行为。该...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2504.11446v1)
-**收录时间**: 2025-04-16 06:02
+**收录时间**: 2025-04-16 07:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-04-16 (50篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-16/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-16 06:06 
-  本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型中...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-16/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-16 07:06 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-16/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-16 06:06 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析及写作一站式服务。其核心功能包括：1）中英文...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-16/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-16 07:06 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和论文写作支持...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-16/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-16 06:06 
-  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(包含397个样本，覆...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-16/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-16 07:06 
+  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct指令集。CodeAre...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-16/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-16 06:05 
-  该研究提出SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度优化器（如Adam）的传统认知。该方法通过...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-16/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-16 07:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-16 06:05 
-  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-16 07:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-16/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-16 06:05 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-16/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-16 07:05 
+  该论文综述了ALK基因双靶点抑制剂在非小细胞肺癌(NSCLC)治疗中的最新进展。ALK基因是NSCLC的重要致癌驱动基因，目...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-16/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-16 06:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究了四...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-16/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-16 07:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次交互）。研究者用...
 
-- **[【#中国AIGC产业峰会# 金句时间】生数科技产品副总裁，Vidu产品负责人廖谦：随着多模态模型的生成能力发展到实时、可控、可交互，内容可以完全个性化，会诞生全...](2025-04-16/【#中国AIGC产业峰会#_金句时间】生数科技产品副总裁，Vidu产品负责人廖谦：随着多模态模型的生成能力发展到实时、可控、可交互，内容可以完全个性化，会诞生全....md)** | [原文](https://weibo.com/6105753431/PnvF0hmAg) | 时间: 2025-04-16 06:04 
-  生数科技产品副总裁廖谦在中国AIGC产业峰会上表示，随着多模态AI生成技术实现实时性、可控性和交互性突破，未...
+- **[【#中国AIGC产业峰会# 金句时间】生数科技产品副总裁，Vidu产品负责人廖谦：随着多模态模型的生成能力发展到实时、可控、可交互，内容可以完全个性化，会诞生全...](2025-04-16/【#中国AIGC产业峰会#_金句时间】生数科技产品副总裁，Vidu产品负责人廖谦：随着多模态模型的生成能力发展到实时、可控、可交互，内容可以完全个性化，会诞生全....md)** | [原文](https://weibo.com/6105753431/PnvF0hmAg) | 时间: 2025-04-16 07:04 
+  生数科技产品副总裁廖谦在#中国AIGC产业峰会#上指出，随着多模态模型生成能力向实时、可控、可交互方向发展，...
 
-- **[【#中国AIGC产业峰会# 金句时间】数势科技联合创始人谭李：大模型来了，万物皆可Chat，大家很容易认为是Excel加Chat就完成的事。但企业级应用的规范复杂得多。 [...](2025-04-16/【#中国AIGC产业峰会#_金句时间】数势科技联合创始人谭李：大模型来了，万物皆可Chat，大家很容易认为是Excel加Chat就完成的事。但企业级应用的规范复杂得多。_[....md)** | [原文](https://weibo.com/6105753431/PnvuNBdA1) | 时间: 2025-04-16 06:04 
-  数势科技联合创始人谭李在#中国AIGC产业峰会#上指出，大模型技术兴起后，许多人简单认为"万物皆可Chat"，比如Exc...
+- **[【#中国AIGC产业峰会# 金句时间】数势科技联合创始人谭李：大模型来了，万物皆可Chat，大家很容易认为是Excel加Chat就完成的事。但企业级应用的规范复杂得多。 [...](2025-04-16/【#中国AIGC产业峰会#_金句时间】数势科技联合创始人谭李：大模型来了，万物皆可Chat，大家很容易认为是Excel加Chat就完成的事。但企业级应用的规范复杂得多。_[....md)** | [原文](https://weibo.com/6105753431/PnvuNBdA1) | 时间: 2025-04-16 07:04 
+  数势科技联合创始人谭李在中国AIGC产业峰会上指出，虽然大模型技术兴起让"万物皆可Chat"成为可能，但企业级应...
 
-- **[【#中国AIGC产业峰会# 金句时间】 亚马逊云科技大中华区数据及存储产品总监Troy Cui：今天做生成式AI，在做构建的时候就要去想，架构是不是能够支撑DAU达到十万...](2025-04-16/【#中国AIGC产业峰会#_金句时间】_亚马逊云科技大中华区数据及存储产品总监Troy_Cui：今天做生成式AI，在做构建的时候就要去想，架构是不是能够支撑DAU达到十万....md)** | [原文](https://weibo.com/6105753431/Pnvs05LCI) | 时间: 2025-04-16 06:04 
+- **[【#中国AIGC产业峰会# 金句时间】 亚马逊云科技大中华区数据及存储产品总监Troy Cui：今天做生成式AI，在做构建的时候就要去想，架构是不是能够支撑DAU达到十万...](2025-04-16/【#中国AIGC产业峰会#_金句时间】_亚马逊云科技大中华区数据及存储产品总监Troy_Cui：今天做生成式AI，在做构建的时候就要去想，架构是不是能够支撑DAU达到十万....md)** | [原文](https://weibo.com/6105753431/Pnvs05LCI) | 时间: 2025-04-16 07:04 
   亚马逊云科技大中华区数据及存储产品总监Troy Cui在中国AIGC产业峰会上强调，构建生成式AI时需提前规划架构的可...
 
-- **[#端侧AI需要TypeC时刻##联发科召开天玑开发者大会# 当手机中装满智能体，下一代AI手机的雏形正在显现。天玑开发者大会上，手机芯片巨头联发科提出了全新的AGENTI...](2025-04-16/#端侧AI需要TypeC时刻##联发科召开天玑开发者大会#_当手机中装满智能体，下一代AI手机的雏形正在显现。天玑开发者大会上，手机芯片巨头联发科提出了全新的AGENTI....md)** | [原文](https://weibo.com/6105753431/PnvNEuNr8) | 时间: 2025-04-16 06:04 
-  联发科在天玑开发者大会上发布旗舰AI芯片天玑9400+，AI性能提升25%，支持端侧运行7B参数模型，推理准确率超越云...
+- **[#端侧AI需要TypeC时刻##联发科召开天玑开发者大会# 当手机中装满智能体，下一代AI手机的雏形正在显现。天玑开发者大会上，手机芯片巨头联发科提出了全新的AGENTI...](2025-04-16/#端侧AI需要TypeC时刻##联发科召开天玑开发者大会#_当手机中装满智能体，下一代AI手机的雏形正在显现。天玑开发者大会上，手机芯片巨头联发科提出了全新的AGENTI....md)** | [原文](https://weibo.com/6105753431/PnvNEuNr8) | 时间: 2025-04-16 07:04 
+  联发科在天玑开发者大会上发布旗舰AI芯片天玑9400+，AI性能较9400提升25%，支持端侧运行7B参数模型，推理准确率超...
 
-- **[感谢@新浪AI 的支持，欢迎大家围观～[给你小心心] - 转发 @新浪AI:&ensp;#新浪AI在现场# 4月16日，第三届 #中国AIGC产业峰会#在北京举办。本届峰会主题是「万物...](2025-04-16/感谢@新浪AI_的支持，欢迎大家围观～[给你小心心]_-_转发_@新浪AI-&ensp;#新浪AI在现场#_4月16日，第三届_#中国AIGC产业峰会#在北京举办。本届峰会主题是「万物....md)** | [原文](https://weibo.com/6105753431/PnvqE9s0W) | 时间: 2025-04-16 06:04 
-  第三届中国AIGC产业峰会于4月16日在北京举行，主题为"万物皆可AI"。峰会汇聚了互联网AI大厂、新兴AI企业及垂直领...
+- **[感谢@新浪AI 的支持，欢迎大家围观～[给你小心心] - 转发 @新浪AI:&ensp;#新浪AI在现场# 4月16日，第三届 #中国AIGC产业峰会#在北京举办。本届峰会主题是「万物...](2025-04-16/感谢@新浪AI_的支持，欢迎大家围观～[给你小心心]_-_转发_@新浪AI-&ensp;#新浪AI在现场#_4月16日，第三届_#中国AIGC产业峰会#在北京举办。本届峰会主题是「万物....md)** | [原文](https://weibo.com/6105753431/PnvqE9s0W) | 时间: 2025-04-16 07:04 
+  第三届中国AIGC产业峰会于4月16日在北京举办，主题为"万物皆可AI"。峰会聚集了互联网AI大厂、新兴AI企业及垂直领...
 
-- **[【#中国AIGC产业峰会# 金句时间】PPIO派欧云联合创始人、CEO姚欣：2025年中国AI应用要怎么迎来爆发？背后关键是：AI时代需要提速降费。 [图片]](2025-04-16/【#中国AIGC产业峰会#_金句时间】PPIO派欧云联合创始人、CEO姚欣：2025年中国AI应用要怎么迎来爆发？背后关键是：AI时代需要提速降费。_[图片].md)** | [原文](https://weibo.com/6105753431/PnvnL6uvz) | 时间: 2025-04-16 06:04 
-  PPIO派欧云CEO姚欣在中国AIGC产业峰会上指出，2025年中国AI应用爆发的关键在于"提速降费"。他认为AI时代需要更高效...
+- **[【#中国AIGC产业峰会# 金句时间】PPIO派欧云联合创始人、CEO姚欣：2025年中国AI应用要怎么迎来爆发？背后关键是：AI时代需要提速降费。 [图片]](2025-04-16/【#中国AIGC产业峰会#_金句时间】PPIO派欧云联合创始人、CEO姚欣：2025年中国AI应用要怎么迎来爆发？背后关键是：AI时代需要提速降费。_[图片].md)** | [原文](https://weibo.com/6105753431/PnvnL6uvz) | 时间: 2025-04-16 07:04 
+  PPIO派欧云联合创始人兼CEO姚欣在中国AIGC产业峰会上表示，中国AI应用要在2025年实现爆发式增长，关键在于"提速降...
 
-- **[【#中国AIGC产业峰会# 金句时间】无问芯穹联合创始人、CEO夏立雪：用城市化来类比，旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一...](2025-04-16/【#中国AIGC产业峰会#_金句时间】无问芯穹联合创始人、CEO夏立雪：用城市化来类比，旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一....md)** | [原文](https://weibo.com/6105753431/Pnw0dufTW) | 时间: 2025-04-16 06:03 
-  无问芯穹联合创始人夏立雪在#中国AIGC产业峰会#提出算力供给新思路：将传统算力比作"高端毛坯房"，强调需升级...
+- **[【#中国AIGC产业峰会# 金句时间】无问芯穹联合创始人、CEO夏立雪：用城市化来类比，旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一...](2025-04-16/【#中国AIGC产业峰会#_金句时间】无问芯穹联合创始人、CEO夏立雪：用城市化来类比，旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一....md)** | [原文](https://weibo.com/6105753431/Pnw0dufTW) | 时间: 2025-04-16 07:03 
+  无问芯穹联合创始人夏立雪在中国AIGC产业峰会上提出，传统算力供给模式如同建设高端毛坯房，效率不足。他强...
 
-- **[AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)** | [原文](http://arxiv.org/abs/2409.02822v4) | 时间: 2025-04-16 06:03 
-  研究发现，大型语言模型(LLMs)在组成多智能体协作群体时，能自发形成凝聚力，其观点动态受"多数力系数"调控。...
+- **[AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)** | [原文](http://arxiv.org/abs/2409.02822v4) | 时间: 2025-04-16 07:03 
+  研究发现，大型语言模型（LLM）组成的AI群体能自发形成凝聚力，其意见动态受"多数派影响力系数"调控。该系数...
 
-- **[Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)** | [原文](http://arxiv.org/abs/2405.15907v2) | 时间: 2025-04-16 06:03 
-  本文提出了一种在部分可观测环境中（gPOMDPs）通过参数化信念状态查询（BSQ）策略来表达用户约束和偏好的新框...
+- **[Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)** | [原文](http://arxiv.org/abs/2405.15907v2) | 时间: 2025-04-16 07:03 
+  本文提出了一种在部分可观测环境中（gPOMDPs框架下）通过参数化信念状态查询（BSQ）策略来表达用户约束和偏好...
 
-- **[#谷歌狂发钱竞业政策被炮轰#一年不工作工资照发？！谷歌DeepMind新竞业政策被炮轰，员工抱怨AI界休一年谁还签你？ 量子位的微博视频](2025-04-16/#谷歌狂发钱竞业政策被炮轰#一年不工作工资照发？！谷歌DeepMind新竞业政策被炮轰，员工抱怨AI界休一年谁还签你？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnwhoqnCp) | 时间: 2025-04-16 06:03 
-  谷歌DeepMind因推出新竞业政策引发争议，该政策允许员工离职后一年内不工作仍可领取工资。批评者认为这种政策...
+- **[#谷歌狂发钱竞业政策被炮轰#一年不工作工资照发？！谷歌DeepMind新竞业政策被炮轰，员工抱怨AI界休一年谁还签你？ 量子位的微博视频](2025-04-16/#谷歌狂发钱竞业政策被炮轰#一年不工作工资照发？！谷歌DeepMind新竞业政策被炮轰，员工抱怨AI界休一年谁还签你？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnwhoqnCp) | 时间: 2025-04-16 07:03 
+  谷歌DeepMind因推出新竞业政策引发争议，该政策允许员工离职后一年内不工作仍可领取工资，但期间禁止加入竞争...
 
-- **[#国产SUV鱼钩测试成绩刷新世界纪录# 4月16日，腾势N9通过权威机构中国汽研测试认证，以180km/h的速度再次刷新全球鱼钩测试纪录，实现高速下稳定操控。腾势N9也成...](2025-04-16/#国产SUV鱼钩测试成绩刷新世界纪录#_4月16日，腾势N9通过权威机构中国汽研测试认证，以180km-h的速度再次刷新全球鱼钩测试纪录，实现高速下稳定操控。腾势N9也成....md)** | [原文](https://weibo.com/6105753431/PnvOZvGkf) | 时间: 2025-04-16 06:03 
-  腾势N9 SUV近日以180km/h的速度通过中国汽研鱼钩测试，刷新了保时捷卡宴保持5年的82.4km/h世界纪录，成为首款获此...
+- **[#国产SUV鱼钩测试成绩刷新世界纪录# 4月16日，腾势N9通过权威机构中国汽研测试认证，以180km/h的速度再次刷新全球鱼钩测试纪录，实现高速下稳定操控。腾势N9也成...](2025-04-16/#国产SUV鱼钩测试成绩刷新世界纪录#_4月16日，腾势N9通过权威机构中国汽研测试认证，以180km-h的速度再次刷新全球鱼钩测试纪录，实现高速下稳定操控。腾势N9也成....md)** | [原文](https://weibo.com/6105753431/PnvOZvGkf) | 时间: 2025-04-16 07:03 
+  腾势N9于4月16日以180km/h的速度通过中国汽研鱼钩测试，刷新全球纪录（原纪录为保时捷卡宴82....
 
-- **[【#中国AIGC产业峰会# 金句时间】瑞莱智慧首席执行官田天：类比人类社会智能的发展，古代人类个体的智慧相比现代人类并没有那么大差异，但没有强有力的组织形式...](2025-04-16/【#中国AIGC产业峰会#_金句时间】瑞莱智慧首席执行官田天：类比人类社会智能的发展，古代人类个体的智慧相比现代人类并没有那么大差异，但没有强有力的组织形式....md)** | [原文](https://weibo.com/6105753431/PnvSZ9cXh) | 时间: 2025-04-16 06:03 
-  瑞莱智慧CEO田天在中国AIGC产业峰会上指出，大模型发展类似于人类智能演进，关键在于如何组织智能体形成强大...
+- **[【#中国AIGC产业峰会# 金句时间】瑞莱智慧首席执行官田天：类比人类社会智能的发展，古代人类个体的智慧相比现代人类并没有那么大差异，但没有强有力的组织形式...](2025-04-16/【#中国AIGC产业峰会#_金句时间】瑞莱智慧首席执行官田天：类比人类社会智能的发展，古代人类个体的智慧相比现代人类并没有那么大差异，但没有强有力的组织形式....md)** | [原文](https://weibo.com/6105753431/PnvSZ9cXh) | 时间: 2025-04-16 07:03 
+  瑞莱智慧CEO田天在中国AIGC产业峰会上指出，大模型发展类似于人类社会智能的演进。古代与现代人类个体智慧差...
 
-- **[eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)** | [原文](http://arxiv.org/abs/2504.11446v1) | 时间: 2025-04-16 06:02 
-  本文提出了一种基于逆向最优控制(IOC)的可解释AI(XAI)方法，用于分析黑盒数据驱动控制器在特定区域的行为。该方...
+- **[eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)** | [原文](http://arxiv.org/abs/2504.11446v1) | 时间: 2025-04-16 07:02 
+  本文提出了一种基于逆向最优控制（IOC）的可解释AI（XAI）方法，用于分析黑盒控制器在特定区域的局部行为。该...
 
-- **[TextArena](2025-04-16/TextArena.md)** | [原文](http://arxiv.org/abs/2504.11442v1) | 时间: 2025-04-16 06:02 
-  TextArena是一个开源平台，提供57+种基于文本的竞争性游戏环境（单人、双人及多人模式），用于训练和评估大语言...
+- **[TextArena](2025-04-16/TextArena.md)** | [原文](http://arxiv.org/abs/2504.11442v1) | 时间: 2025-04-16 07:02 
+  TextArena是一个开源的文本游戏集合，用于训练和评估大语言模型（LLMs）的智能行为。它包含57+种独特环境（单人...
 
-- **[Shifting Work Patterns with Generative AI](2025-04-16/Shifting_Work_Patterns_with_Generative_AI.md)** | [原文](http://arxiv.org/abs/2504.11436v1) | 时间: 2025-04-16 06:02 
-  一项为期6个月的跨行业随机对照实验研究了生成式AI对6000名知识工作者工作模式的影响。研究发现，使用AI工具的...
+- **[Shifting Work Patterns with Generative AI](2025-04-16/Shifting_Work_Patterns_with_Generative_AI.md)** | [原文](http://arxiv.org/abs/2504.11436v1) | 时间: 2025-04-16 07:02 
+  一项为期6个月的跨行业随机对照实验研究了生成式AI对6000名知识工作者的影响。研究发现，使用AI工具的员工每周...
 
-- **[Embodied World Models Emerge from Navigational Task in Open-Ended Environments](2025-04-16/Embodied_World_Models_Emerge_from_Navigational_Task_in_Open-Ended_Environments.md)** | [原文](http://arxiv.org/abs/2504.11419v1) | 时间: 2025-04-16 06:02 
-  本研究探讨神经网络如何通过主动交互自主内化空间概念，聚焦平面导航任务。结合门控循环单元（GRU）和元强化...
+- **[Embodied World Models Emerge from Navigational Task in Open-Ended Environments](2025-04-16/Embodied_World_Models_Emerge_from_Navigational_Task_in_Open-Ended_Environments.md)** | [原文](http://arxiv.org/abs/2504.11419v1) | 时间: 2025-04-16 07:02 
+  本研究探讨神经网络如何通过主动交互自主内化空间概念，聚焦平面导航任务。结合门控循环单元(GRU)和元强化学...
 
-- **[Early Impacts of M365 Copilot](2025-04-16/Early_Impacts_of_M365_Copilot.md)** | [原文](http://arxiv.org/abs/2504.11443v1) | 时间: 2025-04-16 06:02 
-  一项针对56家公司的6000多名知识工作者的实验显示，生成式AI显著提升了工作效率。使用该技术的员工每周阅读邮...
+- **[Early Impacts of M365 Copilot](2025-04-16/Early_Impacts_of_M365_Copilot.md)** | [原文](http://arxiv.org/abs/2504.11443v1) | 时间: 2025-04-16 07:02 
+  一项针对6,000多名知识工作者的实验研究表明，生成式AI显著提升了工作效率。在为期6个月的研究中，使用AI工具...
 
-- **[Kimi-VL Technical Report](2025-04-16/Kimi-VL_Technical_Report.md)** | [原文](http://arxiv.org/abs/2504.07491v2) | 时间: 2025-04-16 06:02 
-  Kimi-VL是一款高效的开源视觉语言模型（VLM），采用混合专家（MoE）架构，仅激活28亿参数即可实现强大的多模态推...
+- **[Kimi-VL Technical Report](2025-04-16/Kimi-VL_Technical_Report.md)** | [原文](http://arxiv.org/abs/2504.07491v2) | 时间: 2025-04-16 07:02 
+  Kimi-VL是一款高效的开源视觉语言模型（VLM），采用混合专家（MoE）架构，仅激活28亿参数即可实现强大性能。它在...
 
-- **[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](2025-04-16/DeepMath-103K-_A_Large-Scale,_Challenging,_Decontaminated,_and_Verifiable_Mathematical_Dataset_for_Advancing_Reasoning.md)** | [原文](http://arxiv.org/abs/2504.11456v1) | 时间: 2025-04-16 06:01 
-  研究人员推出了DeepMath-103K数据集，包含约10.3万个高难度数学题（难度5-9级），旨在通过强化学习提升AI的复杂数...
+- **[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](2025-04-16/DeepMath-103K-_A_Large-Scale,_Challenging,_Decontaminated,_and_Verifiable_Mathematical_Dataset_for_Advancing_Reasoning.md)** | [原文](http://arxiv.org/abs/2504.11456v1) | 时间: 2025-04-16 07:01 
+  DeepMath-103K是一个专为强化学习（RL）设计的大规模数学推理数据集，包含约10.3万道高难度数学题（难度等级5-9）...
 
-- **[PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](2025-04-16/PARTFIELD-_Learning_3D_Feature_Fields_for_Part_Segmentation_and_Beyond.md)** | [原文](http://arxiv.org/abs/2504.11451v1) | 时间: 2025-04-16 06:01 
-  PartField是一种基于部件学习的3D特征提取方法，无需依赖预定义模板或文本标签即可捕捉部件及其层次结构概念，...
+- **[PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](2025-04-16/PARTFIELD-_Learning_3D_Feature_Fields_for_Part_Segmentation_and_Beyond.md)** | [原文](http://arxiv.org/abs/2504.11451v1) | 时间: 2025-04-16 07:01 
+  PartField是一种基于部件学习的3D特征提取方法，通过前馈网络自动捕捉部件及其层级结构，无需依赖预定义模板或...
 
 - **[【#中国AIGC产业峰会# 金句时间】微软亚洲研究院首席研究员刘炜清：研发自动化的设计初衷，是让每一个研究员、数据科学家都有一个Agent做科研助理。 [图片]](2025-04-16/【#中国AIGC产业峰会#_金句时间】微软亚洲研究院首席研究员刘炜清：研发自动化的设计初衷，是让每一个研究员、数据科学家都有一个Agent做科研助理。_[图片].md)** | [原文](https://weibo.com/6105753431/PnveKn9Ys) | 时间: 2025-04-16 05:03 
   微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会上表示，研发自动化的核心目标是让每位研究员和数据科学...
