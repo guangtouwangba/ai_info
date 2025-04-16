@@ -4,12 +4,93 @@
 
 ## 最新内容
 
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+### [Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+**摘要**: 本文提出了一种在部分可观测环境下（gPOMDPs）通过参数化信念状态查询（BSQ）策略来表达用户约束与偏好的新框...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-16 22:05
+**原始链接**: [查看原文](http://arxiv.org/abs/2405.15907v2)
+**收录时间**: 2025-04-16 23:02
+
+---
+
+### [Kimi-VL Technical Report](2025-04-16/Kimi-VL_Technical_Report.md)
+
+**摘要**: Kimi-VL是一款高效的开源混合专家（MoE）视觉语言模型（VLM），仅激活28亿参数，具备多模态推理、长上下文理解和...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.07491v2)
+**收录时间**: 2025-04-16 23:02
+
+---
+
+### [AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)
+
+**摘要**: 研究表明，大型语言模型（LLM）组成的AI群体能自发形成凝聚力，其意见动态受"多数力系数"调控，决定群体协调...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2409.02822v4)
+**收录时间**: 2025-04-16 23:02
+
+---
+
+### [Shifting Work Patterns with Generative AI](2025-04-16/Shifting_Work_Patterns_with_Generative_AI.md)
+
+**摘要**: 一项为期6个月的跨行业随机对照实验研究了生成式AI对6000名知识工作者的影响。研究发现，使用AI工具的员工每周...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11436v1)
+**收录时间**: 2025-04-16 23:02
+
+---
+
+### [Embodied World Models Emerge from Navigational Task in Open-Ended Environments](2025-04-16/Embodied_World_Models_Emerge_from_Navigational_Task_in_Open-Ended_Environments.md)
+
+**摘要**: 本研究探索神经网络如何通过主动交互自主内化空间概念，聚焦平面导航任务。结合门控循环单元(GRU)和元强化学...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11419v1)
+**收录时间**: 2025-04-16 23:02
+
+---
+
+### [TextArena](2025-04-16/TextArena.md)
+
+**摘要**: TextArena是一个开源的文本游戏集合，用于训练和评估大语言模型（LLMs）的智能体行为。它包含57+种独特环境（单...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11442v1)
+**收录时间**: 2025-04-16 23:02
+
+---
+
+### [eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)
+
+**摘要**: 本文提出了一种基于逆向最优控制（IOC）的可解释AI（XAI）方法，用于分析黑盒控制器在特定区域的局部行为。该...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11446v1)
+**收录时间**: 2025-04-16 23:01
+
+---
+
+### [DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](2025-04-16/DeepMath-103K-_A_Large-Scale,_Challenging,_Decontaminated,_and_Verifiable_Mathematical_Dataset_for_Advancing_Reasoning.md)
+
+**摘要**: DeepMath-103K是一个专为强化学习（RL）设计的大规模数学推理数据集，包含约10.3万道高难度数学题（难度等级5-9）...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11456v1)
+**收录时间**: 2025-04-16 23:01
+
+---
+
+### [PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](2025-04-16/PARTFIELD-_Learning_3D_Feature_Fields_for_Part_Segmentation_and_Beyond.md)
+
+**摘要**: PartField是一种前馈式学习方法，用于提取基于部件的3D特征，无需依赖预定义模板或文本标签即可捕捉部件及其层...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11451v1)
+**收录时间**: 2025-04-16 23:01
+
+---
+
+### [Early Impacts of M365 Copilot](2025-04-16/Early_Impacts_of_M365_Copilot.md)
+
+**摘要**: 一项针对56家公司的6000多名知识工作者的实验研究表明，生成式AI显著提升了工作效率。使用该技术的员工每周阅...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.11443v1)
+**收录时间**: 2025-04-16 23:01
 
 ---
 
@@ -40,6 +121,15 @@
 
 ---
 
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-16 22:05
+
+---
+
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-16/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
 **摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，直接建模音频-视觉关系而无需中间运...
@@ -49,20 +139,20 @@
 
 ---
 
+### [【#中国AIGC产业峰会# 金句时间】蚂蚁集团平台智能体验技术负责人徐达峰：AI辅助编码会带来思维方式的转变，从人产出代码AI配合优化，过渡到AI生成代码再人工进...](2025-04-16/【#中国AIGC产业峰会#_金句时间】蚂蚁集团平台智能体验技术负责人徐达峰：AI辅助编码会带来思维方式的转变，从人产出代码AI配合优化，过渡到AI生成代码再人工进....md)
+
+**摘要**: 蚂蚁集团平台智能体验技术负责人徐达峰在中国AIGC产业峰会上指出，AI辅助编码将推动开发思维的根本转变。未来...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnxvHvwnM)
+**收录时间**: 2025-04-16 22:04
+
+---
+
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-16/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
 **摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-16 22:04
-
----
-
-### [【#中国AIGC产业峰会# 金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI...](2025-04-16/【#中国AIGC产业峰会#_金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI....md)
-
-**摘要**: 在#中国AIGC产业峰会#上，华为NCE数据通信领域总裁王辉指出，AI时代的核心竞争力取决于技术迭代速度。他强调要...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxHO4I0q)
 **收录时间**: 2025-04-16 22:04
 
 ---
@@ -76,6 +166,15 @@
 
 ---
 
+### [【#中国AIGC产业峰会# 金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI...](2025-04-16/【#中国AIGC产业峰会#_金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI....md)
+
+**摘要**: 在#中国AIGC产业峰会#上，华为NCE数据通信领域总裁王辉指出，AI时代的核心竞争力取决于技术迭代速度。他强调要...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnxHO4I0q)
+**收录时间**: 2025-04-16 22:04
+
+---
+
 ### [【#中国AIGC产业峰会# 金句时间】 趣丸科技副总裁贾朔：AI对于音乐是硬币的两面，AI取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简，拥抱技术红利。同...](2025-04-16/【#中国AIGC产业峰会#_金句时间】_趣丸科技副总裁贾朔：AI对于音乐是硬币的两面，AI取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简，拥抱技术红利。同....md)
 
 **摘要**: 趣丸科技副总裁贾朔在中国AIGC产业峰会上表示，AI对音乐行业具有双重影响：一方面替代重复性工作流程，另一方...
@@ -85,111 +184,39 @@
 
 ---
 
-### [【#中国AIGC产业峰会# 金句时间】蚂蚁集团平台智能体验技术负责人徐达峰：AI辅助编码会带来思维方式的转变，从人产出代码AI配合优化，过渡到AI生成代码再人工进...](2025-04-16/【#中国AIGC产业峰会#_金句时间】蚂蚁集团平台智能体验技术负责人徐达峰：AI辅助编码会带来思维方式的转变，从人产出代码AI配合优化，过渡到AI生成代码再人工进....md)
-
-**摘要**: 蚂蚁集团平台智能体验技术负责人徐达峰在中国AIGC产业峰会上指出，AI辅助编码将推动开发思维的根本转变。未来...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxvHvwnM)
-**收录时间**: 2025-04-16 22:04
-
----
-
-### [【#中国AIGC产业峰会# 金句时间】像素绽放PixelBloom(AiPPT.com) CEO赵充：中国的AI应用正在走向全球，形成一个新的世界工厂，这是一个非常重要的趋势。 [图片]](2025-04-16/【#中国AIGC产业峰会#_金句时间】像素绽放PixelBloom(AiPPT.com)_CEO赵充：中国的AI应用正在走向全球，形成一个新的世界工厂，这是一个非常重要的趋势。_[图片].md)
-
-**摘要**: PixelBloom CEO赵充在中国AIGC产业峰会上表示，中国AI应用正加速全球化发展，形成新型"世界工厂"的重要趋势。他指...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxM0rAp4)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-16/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)
-
-**摘要**: 谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优秀。...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxO4EZpF)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [【#中国AIGC产业峰会# 金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作...](2025-04-16/【#中国AIGC产业峰会#_金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作....md)
-
-**摘要**: 狸谱App负责人一休在中国AIGC产业峰会上表示，手机摄像头推动了真实世界UGC内容的爆发，但虚拟内容（如动漫）...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxMY4FVV)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-16/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)
-
-**摘要**: 蚂蚁集团宣布入局MCP（智能体协议）领域，成为该热门赛道的新玩家。MCP作为当前最受关注的智能体协议，其发展...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnyyQ3l0L)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)
-
-**摘要**: 本文提出了一种在部分可观测环境中（gPOMDPs框架下）通过参数化信念状态查询（BSQ）策略来表达用户约束和偏好...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2405.15907v2)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [【#中国AIGC产业峰会# 金句时间】轻松健康集团技术副总裁高玉石：近两年AI技术成熟度有了明显提升，面向垂直领域和场景的小模型层出不穷，有效的填补了我们自研...](2025-04-16/【#中国AIGC产业峰会#_金句时间】轻松健康集团技术副总裁高玉石：近两年AI技术成熟度有了明显提升，面向垂直领域和场景的小模型层出不穷，有效的填补了我们自研....md)
-
-**摘要**: 轻松健康集团技术副总裁高玉石在中国AIGC产业峰会上表示，近两年AI技术成熟度显著提升，垂直领域的小模型大量...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxKsnigM)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [#中国AIGC产业峰会# 完美收官！[打call] [图片]](2025-04-16/#中国AIGC产业峰会#_完美收官！[打call]_[图片].md)
-
-**摘要**: 中国AIGC产业峰会圆满落幕，聚焦人工智能生成内容（AIGC）领域的发展与创新。会议汇集行业专家，探讨AIGC技术应...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxYN9npp)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [【#中国AIGC产业峰会# 金句时间】心影随形科技（逗逗游戏伙伴）创始人、CEO 刘斌新：移动互联网以前常用的MVP模型在AI时代不成立了，可以更多地去预测未来什么场...](2025-04-16/【#中国AIGC产业峰会#_金句时间】心影随形科技（逗逗游戏伙伴）创始人、CEO_刘斌新：移动互联网以前常用的MVP模型在AI时代不成立了，可以更多地去预测未来什么场....md)
-
-**摘要**: 心影随形科技CEO刘斌新在#中国AIGC产业峰会#上指出，移动互联网时代的MVP（最小可行产品）模型在AI时代已不再适...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxIt7ZBn)
-**收录时间**: 2025-04-16 22:03
-
----
-
-### [eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)
-
-**摘要**: 本文提出一种基于逆向最优控制（IOC）的可解释AI（XAI）方法，用于解释黑盒控制器在局部区域的行为。该方法通...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.11446v1)
-**收录时间**: 2025-04-16 22:02
-
----
-
-### [AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)
-
-**摘要**: 这项研究探讨了大型语言模型(LLMs)在群体协作中的自组织能力。研究发现，LLM智能体能够自发形成凝聚力强的群体...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2409.02822v4)
-**收录时间**: 2025-04-16 22:02
-
----
-
 ## 历史内容
 
 ### 2025-04-16 (67篇)
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-16 22:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)** | [原文](http://arxiv.org/abs/2405.15907v2) | 时间: 2025-04-16 23:02 
+  本文提出了一种在部分可观测环境下（gPOMDPs）通过参数化信念状态查询（BSQ）策略来表达用户约束与偏好的新框...
+
+- **[Kimi-VL Technical Report](2025-04-16/Kimi-VL_Technical_Report.md)** | [原文](http://arxiv.org/abs/2504.07491v2) | 时间: 2025-04-16 23:02 
+  Kimi-VL是一款高效的开源混合专家（MoE）视觉语言模型（VLM），仅激活28亿参数，具备多模态推理、长上下文理解和...
+
+- **[AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)** | [原文](http://arxiv.org/abs/2409.02822v4) | 时间: 2025-04-16 23:02 
+  研究表明，大型语言模型（LLM）组成的AI群体能自发形成凝聚力，其意见动态受"多数力系数"调控，决定群体协调...
+
+- **[Shifting Work Patterns with Generative AI](2025-04-16/Shifting_Work_Patterns_with_Generative_AI.md)** | [原文](http://arxiv.org/abs/2504.11436v1) | 时间: 2025-04-16 23:02 
+  一项为期6个月的跨行业随机对照实验研究了生成式AI对6000名知识工作者的影响。研究发现，使用AI工具的员工每周...
+
+- **[Embodied World Models Emerge from Navigational Task in Open-Ended Environments](2025-04-16/Embodied_World_Models_Emerge_from_Navigational_Task_in_Open-Ended_Environments.md)** | [原文](http://arxiv.org/abs/2504.11419v1) | 时间: 2025-04-16 23:02 
+  本研究探索神经网络如何通过主动交互自主内化空间概念，聚焦平面导航任务。结合门控循环单元(GRU)和元强化学...
+
+- **[TextArena](2025-04-16/TextArena.md)** | [原文](http://arxiv.org/abs/2504.11442v1) | 时间: 2025-04-16 23:02 
+  TextArena是一个开源的文本游戏集合，用于训练和评估大语言模型（LLMs）的智能体行为。它包含57+种独特环境（单...
+
+- **[eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)** | [原文](http://arxiv.org/abs/2504.11446v1) | 时间: 2025-04-16 23:01 
+  本文提出了一种基于逆向最优控制（IOC）的可解释AI（XAI）方法，用于分析黑盒控制器在特定区域的局部行为。该...
+
+- **[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](2025-04-16/DeepMath-103K-_A_Large-Scale,_Challenging,_Decontaminated,_and_Verifiable_Mathematical_Dataset_for_Advancing_Reasoning.md)** | [原文](http://arxiv.org/abs/2504.11456v1) | 时间: 2025-04-16 23:01 
+  DeepMath-103K是一个专为强化学习（RL）设计的大规模数学推理数据集，包含约10.3万道高难度数学题（难度等级5-9）...
+
+- **[PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](2025-04-16/PARTFIELD-_Learning_3D_Feature_Fields_for_Part_Segmentation_and_Beyond.md)** | [原文](http://arxiv.org/abs/2504.11451v1) | 时间: 2025-04-16 23:01 
+  PartField是一种前馈式学习方法，用于提取基于部件的3D特征，无需依赖预定义模板或文本标签即可捕捉部件及其层...
+
+- **[Early Impacts of M365 Copilot](2025-04-16/Early_Impacts_of_M365_Copilot.md)** | [原文](http://arxiv.org/abs/2504.11443v1) | 时间: 2025-04-16 23:01 
+  一项针对56家公司的6000多名知识工作者的实验研究表明，生成式AI显著提升了工作效率。使用该技术的员工每周阅...
 
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-16/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-16 22:05 
   这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个智能代理及其500万...
@@ -200,38 +227,29 @@
 - **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-16/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-16 22:05 
   这篇论文针对代码生成大模型（CodeLLMs）提出了CodeArena基准测试，强调评估模型输出与人类偏好的匹配度。研究收...
 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-16/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-16 22:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
 - **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-16/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-16 22:05 
   本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，直接建模音频-视觉关系而无需中间运...
-
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-16/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-16 22:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
-
-- **[【#中国AIGC产业峰会# 金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI...](2025-04-16/【#中国AIGC产业峰会#_金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI....md)** | [原文](https://weibo.com/6105753431/PnxHO4I0q) | 时间: 2025-04-16 22:04 
-  在#中国AIGC产业峰会#上，华为NCE数据通信领域总裁王辉指出，AI时代的核心竞争力取决于技术迭代速度。他强调要...
-
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-16/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-16 22:04 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
-
-- **[【#中国AIGC产业峰会# 金句时间】 趣丸科技副总裁贾朔：AI对于音乐是硬币的两面，AI取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简，拥抱技术红利。同...](2025-04-16/【#中国AIGC产业峰会#_金句时间】_趣丸科技副总裁贾朔：AI对于音乐是硬币的两面，AI取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简，拥抱技术红利。同....md)** | [原文](https://weibo.com/6105753431/PnxEuEcX4) | 时间: 2025-04-16 22:04 
-  趣丸科技副总裁贾朔在中国AIGC产业峰会上表示，AI对音乐行业具有双重影响：一方面替代重复性工作流程，另一方...
 
 - **[【#中国AIGC产业峰会# 金句时间】蚂蚁集团平台智能体验技术负责人徐达峰：AI辅助编码会带来思维方式的转变，从人产出代码AI配合优化，过渡到AI生成代码再人工进...](2025-04-16/【#中国AIGC产业峰会#_金句时间】蚂蚁集团平台智能体验技术负责人徐达峰：AI辅助编码会带来思维方式的转变，从人产出代码AI配合优化，过渡到AI生成代码再人工进....md)** | [原文](https://weibo.com/6105753431/PnxvHvwnM) | 时间: 2025-04-16 22:04 
   蚂蚁集团平台智能体验技术负责人徐达峰在中国AIGC产业峰会上指出，AI辅助编码将推动开发思维的根本转变。未来...
 
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-16/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-16 22:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-16/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-16 22:04 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
+
+- **[【#中国AIGC产业峰会# 金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI...](2025-04-16/【#中国AIGC产业峰会#_金句时间】华为NCE数据通信领域总裁王辉：在AI时代，核心竞争力取决于技术进化速度，用最先进的AI技术赋能网络，用最安全的网络技术护航AI....md)** | [原文](https://weibo.com/6105753431/PnxHO4I0q) | 时间: 2025-04-16 22:04 
+  在#中国AIGC产业峰会#上，华为NCE数据通信领域总裁王辉指出，AI时代的核心竞争力取决于技术迭代速度。他强调要...
+
+- **[【#中国AIGC产业峰会# 金句时间】 趣丸科技副总裁贾朔：AI对于音乐是硬币的两面，AI取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简，拥抱技术红利。同...](2025-04-16/【#中国AIGC产业峰会#_金句时间】_趣丸科技副总裁贾朔：AI对于音乐是硬币的两面，AI取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简，拥抱技术红利。同....md)** | [原文](https://weibo.com/6105753431/PnxEuEcX4) | 时间: 2025-04-16 22:04 
+  趣丸科技副总裁贾朔在中国AIGC产业峰会上表示，AI对音乐行业具有双重影响：一方面替代重复性工作流程，另一方...
+
 - **[【#中国AIGC产业峰会# 金句时间】像素绽放PixelBloom(AiPPT.com) CEO赵充：中国的AI应用正在走向全球，形成一个新的世界工厂，这是一个非常重要的趋势。 [图片]](2025-04-16/【#中国AIGC产业峰会#_金句时间】像素绽放PixelBloom(AiPPT.com)_CEO赵充：中国的AI应用正在走向全球，形成一个新的世界工厂，这是一个非常重要的趋势。_[图片].md)** | [原文](https://weibo.com/6105753431/PnxM0rAp4) | 时间: 2025-04-16 22:03 
   PixelBloom CEO赵充在中国AIGC产业峰会上表示，中国AI应用正加速全球化发展，形成新型"世界工厂"的重要趋势。他指...
-
-- **[#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-16/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)** | [原文](https://weibo.com/6105753431/PnxO4EZpF) | 时间: 2025-04-16 22:03 
-  谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优秀。...
-
-- **[【#中国AIGC产业峰会# 金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作...](2025-04-16/【#中国AIGC产业峰会#_金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作....md)** | [原文](https://weibo.com/6105753431/PnxMY4FVV) | 时间: 2025-04-16 22:03 
-  狸谱App负责人一休在中国AIGC产业峰会上表示，手机摄像头推动了真实世界UGC内容的爆发，但虚拟内容（如动漫）...
-
-- **[#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-16/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnyyQ3l0L) | 时间: 2025-04-16 22:03 
-  蚂蚁集团宣布入局MCP（智能体协议）领域，成为该热门赛道的新玩家。MCP作为当前最受关注的智能体协议，其发展...
-
-- **[Belief-State Query Policies for User-Aligned POMDPs](2025-04-16/Belief-State_Query_Policies_for_User-Aligned_POMDPs.md)** | [原文](http://arxiv.org/abs/2405.15907v2) | 时间: 2025-04-16 22:03 
-  本文提出了一种在部分可观测环境中（gPOMDPs框架下）通过参数化信念状态查询（BSQ）策略来表达用户约束和偏好...
 
 - **[【#中国AIGC产业峰会# 金句时间】轻松健康集团技术副总裁高玉石：近两年AI技术成熟度有了明显提升，面向垂直领域和场景的小模型层出不穷，有效的填补了我们自研...](2025-04-16/【#中国AIGC产业峰会#_金句时间】轻松健康集团技术副总裁高玉石：近两年AI技术成熟度有了明显提升，面向垂直领域和场景的小模型层出不穷，有效的填补了我们自研....md)** | [原文](https://weibo.com/6105753431/PnxKsnigM) | 时间: 2025-04-16 22:03 
   轻松健康集团技术副总裁高玉石在中国AIGC产业峰会上表示，近两年AI技术成熟度显著提升，垂直领域的小模型大量...
@@ -239,35 +257,17 @@
 - **[#中国AIGC产业峰会# 完美收官！[打call] [图片]](2025-04-16/#中国AIGC产业峰会#_完美收官！[打call]_[图片].md)** | [原文](https://weibo.com/6105753431/PnxYN9npp) | 时间: 2025-04-16 22:03 
   中国AIGC产业峰会圆满落幕，聚焦人工智能生成内容（AIGC）领域的发展与创新。会议汇集行业专家，探讨AIGC技术应...
 
+- **[#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-16/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)** | [原文](https://weibo.com/6105753431/PnxO4EZpF) | 时间: 2025-04-16 22:03 
+  谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优秀。...
+
+- **[#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-16/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnyyQ3l0L) | 时间: 2025-04-16 22:03 
+  蚂蚁集团宣布入局MCP（智能体协议）领域，成为该热门赛道的新玩家。MCP作为当前最受关注的智能体协议，其发展...
+
 - **[【#中国AIGC产业峰会# 金句时间】心影随形科技（逗逗游戏伙伴）创始人、CEO 刘斌新：移动互联网以前常用的MVP模型在AI时代不成立了，可以更多地去预测未来什么场...](2025-04-16/【#中国AIGC产业峰会#_金句时间】心影随形科技（逗逗游戏伙伴）创始人、CEO_刘斌新：移动互联网以前常用的MVP模型在AI时代不成立了，可以更多地去预测未来什么场....md)** | [原文](https://weibo.com/6105753431/PnxIt7ZBn) | 时间: 2025-04-16 22:03 
   心影随形科技CEO刘斌新在#中国AIGC产业峰会#上指出，移动互联网时代的MVP（最小可行产品）模型在AI时代已不再适...
 
-- **[eXplainable AI for data driven control: an inverse optimal control approach](2025-04-16/eXplainable_AI_for_data_driven_control-_an_inverse_optimal_control_approach.md)** | [原文](http://arxiv.org/abs/2504.11446v1) | 时间: 2025-04-16 22:02 
-  本文提出一种基于逆向最优控制（IOC）的可解释AI（XAI）方法，用于解释黑盒控制器在局部区域的行为。该方法通...
-
-- **[AI agents can coordinate beyond human scale](2025-04-16/AI_agents_can_coordinate_beyond_human_scale.md)** | [原文](http://arxiv.org/abs/2409.02822v4) | 时间: 2025-04-16 22:02 
-  这项研究探讨了大型语言模型(LLMs)在群体协作中的自组织能力。研究发现，LLM智能体能够自发形成凝聚力强的群体...
-
-- **[TextArena](2025-04-16/TextArena.md)** | [原文](http://arxiv.org/abs/2504.11442v1) | 时间: 2025-04-16 22:02 
-  TextArena是一个开源的文本游戏集合，旨在评估和训练大语言模型（LLMs）的智能行为。它包含57+种独特环境（单人...
-
-- **[Kimi-VL Technical Report](2025-04-16/Kimi-VL_Technical_Report.md)** | [原文](http://arxiv.org/abs/2504.07491v2) | 时间: 2025-04-16 22:02 
-  Kimi-VL是一款高效的开源混合专家（MoE）视觉语言模型（VLM），仅激活28亿参数即可实现强大的多模态推理、长上下...
-
-- **[Shifting Work Patterns with Generative AI](2025-04-16/Shifting_Work_Patterns_with_Generative_AI.md)** | [原文](http://arxiv.org/abs/2504.11436v1) | 时间: 2025-04-16 22:02 
-  一项为期6个月的跨行业随机对照实验研究了生成式AI对6000名知识工作者的影响。研究发现，使用AI工具的员工每周...
-
-- **[Early Impacts of M365 Copilot](2025-04-16/Early_Impacts_of_M365_Copilot.md)** | [原文](http://arxiv.org/abs/2504.11443v1) | 时间: 2025-04-16 22:02 
-  一项针对56家公司的6000多名知识工作者的实验研究表明，生成式AI能显著提升工作效率。使用该技术的员工每周处...
-
-- **[Embodied World Models Emerge from Navigational Task in Open-Ended Environments](2025-04-16/Embodied_World_Models_Emerge_from_Navigational_Task_in_Open-Ended_Environments.md)** | [原文](http://arxiv.org/abs/2504.11419v1) | 时间: 2025-04-16 22:02 
-  这项研究探讨了神经网络如何通过主动交互自主内化空间概念，聚焦于平面导航任务。结合门控循环单元(GRU)和元...
-
-- **[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](2025-04-16/DeepMath-103K-_A_Large-Scale,_Challenging,_Decontaminated,_and_Verifiable_Mathematical_Dataset_for_Advancing_Reasoning.md)** | [原文](http://arxiv.org/abs/2504.11456v1) | 时间: 2025-04-16 22:01 
-  DeepMath-103K是一个专为强化学习（RL）设计的大规模数学推理数据集，包含约10.3万道高难度（5-9级）数学题，填补...
-
-- **[PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](2025-04-16/PARTFIELD-_Learning_3D_Feature_Fields_for_Part_Segmentation_and_Beyond.md)** | [原文](http://arxiv.org/abs/2504.11451v1) | 时间: 2025-04-16 22:01 
-  PartField是一种前馈式3D部件特征学习方法，无需依赖预定义模板或文本标签即可自动捕捉部件概念及其层次结构，...
+- **[【#中国AIGC产业峰会# 金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作...](2025-04-16/【#中国AIGC产业峰会#_金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作....md)** | [原文](https://weibo.com/6105753431/PnxMY4FVV) | 时间: 2025-04-16 22:03 
+  狸谱App负责人一休在中国AIGC产业峰会上表示，手机摄像头推动了真实世界UGC内容的爆发，但虚拟内容（如动漫）...
 
 - **[【#中国AIGC产业峰会# 金句时间】网易有道智能应用事业部负责人张艺：我们关注大模型在To C领域的商业化，希望大模型能够创造更多生产力，同时用产品和会员服务...](2025-04-16/【#中国AIGC产业峰会#_金句时间】网易有道智能应用事业部负责人张艺：我们关注大模型在To_C领域的商业化，希望大模型能够创造更多生产力，同时用产品和会员服务....md)** | [原文](https://weibo.com/6105753431/Pnxte7S1t) | 时间: 2025-04-16 11:04 
   网易有道智能应用事业部负责人张艺在中国AIGC产业峰会上表示，公司重点关注大模型在C端市场的商业化应用，旨...
