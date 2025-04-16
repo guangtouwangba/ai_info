@@ -1,6 +1,6 @@
 # GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents
 
-**URL**: http://arxiv.org/abs/2504.10458v1
+**URL**: http://arxiv.org/abs/2504.10458v2
 
 ## 原始摘要
 
@@ -29,11 +29,11 @@ real-world GUI agent tasks.
 
 ## AI 摘要
 
-现有基于大视觉语言模型（LVLM）监督微调的GUI智能体方法存在数据需求大、泛化能力差的问题。为此，研究团队提出首个强化学习框架，通过统一动作空间规则建模和多平台（Windows/Linux/MacOS/Android/Web）高质量小样本数据（仅需0.02%数据量），结合GRPO等策略优化算法，显著提升了LVLM在真实GUI任务中的表现。实验表明，该框架在移动/桌面/网页三平台的8个基准测试中均超越此前最佳方法OS-Atlas，展现了强化学习在提升GUI智能体执行能力方面的巨大潜力。
+该研究提出了首个基于强化学习的框架（\name），用于提升大型视觉语言模型（LVLM）在真实GUI任务中的表现。通过统一动作空间建模和多平台（Windows、Linux、MacOS、Android、Web）高质量数据，仅用0.02%的数据量（3K vs 13M），就在8个跨平台基准测试中超越了当前最佳方法OS-Atlas。研究采用GRPO等策略优化算法，显著增强了模型对未见界面的泛化能力，证明了基于强化学习的统一动作建模在提升LVLM执行GUI任务方面的巨大潜力。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-16T00:02:03Z
+- **保存时间**: 2025-04-16T01:29:20Z
 - **目录日期**: 2025-04-16
