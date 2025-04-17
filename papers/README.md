@@ -4,66 +4,57 @@
 
 ## 最新内容
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-17/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-17/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译及科研分析等一站式服务。它覆盖42个学科的3....
+**摘要**: 这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，关注人类偏好对齐问题。研究者创建了CodeArena基准测试...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-17 08:06
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-04-17 09:06
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-17/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大型语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。该系...
+**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-17 08:06
+**收录时间**: 2025-04-17 09:06
 
 ---
 
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-17/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-17/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-17 08:06
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-17/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出现有基准过于关注代码正确性而忽视人类偏好。研究...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-17 08:06
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-04-17 09:06
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-17/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-17 08:06
+**收录时间**: 2025-04-17 09:06
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-17/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-17 09:05
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-17/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-17 08:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-17/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-17 08:05
+**收录时间**: 2025-04-17 09:05
 
 ---
 
@@ -72,43 +63,16 @@
 **摘要**: 狸谱App负责人一休在中国AIGC产业峰会上表示，手机摄像头推动了真实世界UGC内容的爆发，但虚拟内容（如动漫）...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnxMY4FVV)
-**收录时间**: 2025-04-17 08:05
+**收录时间**: 2025-04-17 09:05
 
 ---
 
-### [#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-17/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-17/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优异。...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因子，目前已...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnxO4EZpF)
-**收录时间**: 2025-04-17 08:04
-
----
-
-### [#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间...](2025-04-17/#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间....md)
-
-**摘要**: Claude AI深度集成谷歌服务（Gmail/日历/Drive等），实现智能工作流自动化。用户仅需一句话指令（如"5月休3个月假，...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnFRLgo4t)
-**收录时间**: 2025-04-17 08:04
-
----
-
-### [#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，...](2025-04-17/#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok_Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，....md)
-
-**摘要**: 马斯克的xAI推出了Grok Studio，这是一个多功能AI协作平台，支持聊天、编程、文档编辑和直接运行代码。其画布功...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnFJ6BcpS)
-**收录时间**: 2025-04-17 08:04
-
----
-
-### [#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-17/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)
-
-**摘要**: 蚂蚁集团宣布入局MCP（Multi-Agent Collaboration Protocol）智能体协议，成为该领域最新参与者。MCP作为当前最热门的智...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnyyQ3l0L)
-**收录时间**: 2025-04-17 08:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-04-17 09:05
 
 ---
 
@@ -117,70 +81,106 @@
 **摘要**: 中国AIGC产业峰会圆满落幕，聚焦人工智能生成内容（AIGC）领域的发展与创新。会议汇集行业专家、企业代表，探...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnxYN9npp)
-**收录时间**: 2025-04-17 08:04
+**收录时间**: 2025-04-17 09:04
+
+---
+
+### [#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-17/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)
+
+**摘要**: 谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优异。...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnxO4EZpF)
+**收录时间**: 2025-04-17 09:04
+
+---
+
+### [#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-17/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)
+
+**摘要**: 蚂蚁集团宣布入局MCP（多智能体协作协议）领域，引发行业关注。MCP作为当前最热门的智能体交互协议，能够实现...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnyyQ3l0L)
+**收录时间**: 2025-04-17 09:04
+
+---
+
+### [#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，...](2025-04-17/#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok_Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，....md)
+
+**摘要**: 马斯克的xAI推出Grok Studio，这是一个多功能AI协作平台，支持聊天、编程、文档编辑等功能。其画布功能类似OpenAI...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnFJ6BcpS)
+**收录时间**: 2025-04-17 09:04
 
 ---
 
 ### [#OpenAI连发o3和o4mini##ChatGPT首次带图深度思考#仅隔一天，OpenAI再次突然放大招：一口气，o3和o4 mini同步上线。【图1】 依然是最热门推理模型，并且这一次，...](2025-04-17/#OpenAI连发o3和o4mini##ChatGPT首次带图深度思考#仅隔一天，OpenAI再次突然放大招：一口气，o3和o4_mini同步上线。【图1】_依然是最热门推理模型，并且这一次，....md)
 
-**摘要**: OpenAI连续发布o3和o4-mini两款新模型，均支持图像分析与生成、网络搜索等工具调用。o3是当前最强推理模型，在编...
+**摘要**: OpenAI连续发布o3和o4-mini两款新模型，具备多模态能力，可调用网络搜索、Python、图像分析等工具。o3是当前最强推...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnERmibH7)
-**收录时间**: 2025-04-17 08:04
+**收录时间**: 2025-04-17 09:04
 
 ---
 
 ### [#OpenAI或收购Windsurf##OpenAI目前最大单笔收购#据路透社报道，OpenAI正在洽谈迄今为止最大的一笔收购——以约30亿美元收购AI编程公司Windsurf（前身为Codeium...](2025-04-17/#OpenAI或收购Windsurf##OpenAI目前最大单笔收购#据路透社报道，OpenAI正在洽谈迄今为止最大的一笔收购——以约30亿美元收购AI编程公司Windsurf（前身为Codeium....md)
 
-**摘要**: OpenAI正洽谈以约30亿美元收购AI编程公司Windsurf（前Codeium），这或成其最大单笔收购。Windsurf主打自然语言生成代码...
+**摘要**: OpenAI正洽谈以约30亿美元收购AI编程公司Windsurf（原Codeium），这或成其最大单笔收购。Windsurf主打自然语言生成代码...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnFImh8FU)
-**收录时间**: 2025-04-17 08:04
+**收录时间**: 2025-04-17 09:04
 
 ---
 
 ### [#戴盟机器人正式发布具身智能全家桶# 4月16日，戴盟机器人正式发布革命性家族产品——全球首款多维高分辨率高频率视触觉传感器 DM-Tac W、多维触觉感知五指灵巧...](2025-04-17/#戴盟机器人正式发布具身智能全家桶#_4月16日，戴盟机器人正式发布革命性家族产品——全球首款多维高分辨率高频率视触觉传感器_DM-Tac_W、多维触觉感知五指灵巧....md)
 
-**摘要**: 戴盟机器人4月16日发布了全球首款多维高分辨率视触觉传感器DM-Tac W、五指灵巧手DM-Hand1和遥操作系统DM-EXton，构建...
+**摘要**: 戴盟机器人4月16日发布全球首款具身智能全家桶产品，包括高分辨率视触觉传感器DM-Tac W、五指灵巧手DM-Hand1和遥...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnGcYdUhv)
-**收录时间**: 2025-04-17 08:03
+**收录时间**: 2025-04-17 09:03
 
 ---
 
 ### [BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](2025-04-17/BioMaze-_Benchmarking_and_Enhancing_Large_Language_Models_for_Biological_Pathway_Reasoning.md)
 
-**摘要**: 大型语言模型(LLMs)在复杂生物系统(如通路)中的推理能力仍有待探索。本研究提出BioMaze数据集，包含5....
+**摘要**: 大型语言模型(LLMs)在复杂生物系统(如通路)中的推理能力仍待探索。本研究提出BioMaze数据集，包含5....
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2502.16660v4)
-**收录时间**: 2025-04-17 08:03
+**收录时间**: 2025-04-17 09:03
+
+---
+
+### [#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间...](2025-04-17/#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间....md)
+
+**摘要**: Claude AI深度集成谷歌服务(Gmail/日历/Drive)，实现智能休假规划功能。用户只需一句话指令，系统就能自动完成：1)...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnFRLgo4t)
+**收录时间**: 2025-04-17 09:03
 
 ---
 
 ### [#腾讯启动史上最大校招计划##腾讯28000个岗位技术占六成#腾讯启动了史上最大规模的就业计划：三年新增28000个校招实习岗位，技术岗位比例超过60%，单是2025年，...](2025-04-17/#腾讯启动史上最大校招计划##腾讯28000个岗位技术占六成#腾讯启动了史上最大规模的就业计划：三年新增28000个校招实习岗位，技术岗位比例超过60%，单是2025年，....md)
 
-**摘要**: 腾讯启动史上最大规模校招计划，三年内将新增28000个岗位，其中技术类占比超60%，2025年单年开放1万个岗位。招...
+**摘要**: 腾讯启动史上最大规模校招计划，三年将新增28000个岗位，其中技术岗占比超60%，2025年单年开放1万个岗位。招聘...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnGmMzuP4)
-**收录时间**: 2025-04-17 08:03
+**收录时间**: 2025-04-17 09:03
 
 ---
 
 ### [Grassroots Platforms with Atomic Transactions: Social Networks, Cryptocurrencies, and Democratic Federations](2025-04-17/Grassroots_Platforms_with_Atomic_Transactions-_Social_Networks,_Cryptocurrencies,_and_Democratic_Federations.md)
 
-**摘要**: 本文改进了分布式过渡系统的概念，引入原子事务（atomic transactions）来重新定义草根平台（grassroots platforms），使...
+**摘要**: 本文改进了分布式过渡系统的概念，引入原子事务来重新定义草根平台。草根平台（如社交网络、加密货币和民主...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2502.11299v3)
-**收录时间**: 2025-04-17 08:03
+**收录时间**: 2025-04-17 09:03
 
 ---
 
 ### [Feedforward in Generative AI: Opportunities for a Design Space](2025-04-17/Feedforward_in_Generative_AI-_Opportunities_for_a_Design_Space.md)
 
-**摘要**: 生成式AI（GenAI）虽能提升生产力和认知能力，但用户难以预判其输出，导致需反复交互以澄清意图，造成认知负...
+**摘要**: 生成式AI（GenAI）虽能提升生产力，但用户难以预判其输出，导致频繁交互以澄清意图，增加认知负担和时间成本...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2502.14229v2)
-**收录时间**: 2025-04-17 08:03
+**收录时间**: 2025-04-17 09:03
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-04-17 (43篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-17/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-17 08:06 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译及科研分析等一站式服务。它覆盖42个学科的3....
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-17/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-17 09:06 
+  这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，关注人类偏好对齐问题。研究者创建了CodeArena基准测试...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-17/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-17 08:06 
-  AgentSociety是一个基于大型语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。该系...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-17/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-17 09:06 
+  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-17/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-17 08:06 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-17/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-17 09:06 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-17/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-17 08:06 
-  这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出现有基准过于关注代码正确性而忽视人类偏好。研究...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-17/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-17 09:06 
+  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-17/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-17 08:06 
-  本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-17/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-17 09:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-17/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-17 08:05 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-17/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-17 09:05 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-17/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-17 08:05 
-  本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
-
-- **[【#中国AIGC产业峰会# 金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作...](2025-04-17/【#中国AIGC产业峰会#_金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作....md)** | [原文](https://weibo.com/6105753431/PnxMY4FVV) | 时间: 2025-04-17 08:05 
+- **[【#中国AIGC产业峰会# 金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作...](2025-04-17/【#中国AIGC产业峰会#_金句时间】狸谱App负责人一休：手机摄像头让真实世界的UGC内容爆发出来，但动漫这样的虚拟内容制作仍有很高的门槛，AI能够弥合从产生创作....md)** | [原文](https://weibo.com/6105753431/PnxMY4FVV) | 时间: 2025-04-17 09:05 
   狸谱App负责人一休在中国AIGC产业峰会上表示，手机摄像头推动了真实世界UGC内容的爆发，但虚拟内容（如动漫）...
 
-- **[#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-17/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)** | [原文](https://weibo.com/6105753431/PnxO4EZpF) | 时间: 2025-04-17 08:04 
-  谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优异。...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-17/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-17 09:05 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因子，目前已...
 
-- **[#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间...](2025-04-17/#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间....md)** | [原文](https://weibo.com/6105753431/PnFRLgo4t) | 时间: 2025-04-17 08:04 
-  Claude AI深度集成谷歌服务（Gmail/日历/Drive等），实现智能工作流自动化。用户仅需一句话指令（如"5月休3个月假，...
-
-- **[#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，...](2025-04-17/#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok_Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，....md)** | [原文](https://weibo.com/6105753431/PnFJ6BcpS) | 时间: 2025-04-17 08:04 
-  马斯克的xAI推出了Grok Studio，这是一个多功能AI协作平台，支持聊天、编程、文档编辑和直接运行代码。其画布功...
-
-- **[#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-17/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnyyQ3l0L) | 时间: 2025-04-17 08:04 
-  蚂蚁集团宣布入局MCP（Multi-Agent Collaboration Protocol）智能体协议，成为该领域最新参与者。MCP作为当前最热门的智...
-
-- **[#中国AIGC产业峰会# 完美收官！[打call] [图片]](2025-04-17/#中国AIGC产业峰会#_完美收官！[打call]_[图片].md)** | [原文](https://weibo.com/6105753431/PnxYN9npp) | 时间: 2025-04-17 08:04 
+- **[#中国AIGC产业峰会# 完美收官！[打call] [图片]](2025-04-17/#中国AIGC产业峰会#_完美收官！[打call]_[图片].md)** | [原文](https://weibo.com/6105753431/PnxYN9npp) | 时间: 2025-04-17 09:04 
   中国AIGC产业峰会圆满落幕，聚焦人工智能生成内容（AIGC）领域的发展与创新。会议汇集行业专家、企业代表，探...
 
-- **[#OpenAI连发o3和o4mini##ChatGPT首次带图深度思考#仅隔一天，OpenAI再次突然放大招：一口气，o3和o4 mini同步上线。【图1】 依然是最热门推理模型，并且这一次，...](2025-04-17/#OpenAI连发o3和o4mini##ChatGPT首次带图深度思考#仅隔一天，OpenAI再次突然放大招：一口气，o3和o4_mini同步上线。【图1】_依然是最热门推理模型，并且这一次，....md)** | [原文](https://weibo.com/6105753431/PnERmibH7) | 时间: 2025-04-17 08:04 
-  OpenAI连续发布o3和o4-mini两款新模型，均支持图像分析与生成、网络搜索等工具调用。o3是当前最强推理模型，在编...
+- **[#Veo2全面开放却被评不如可灵# 谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水...](2025-04-17/#Veo2全面开放却被评不如可灵#_谷歌Veo2终于开放使用了！可生成8秒720P电影级视频，运镜、文本语义还原、物理模拟等方面都非常优秀，但有网友实测后却泼了盆冷水....md)** | [原文](https://weibo.com/6105753431/PnxO4EZpF) | 时间: 2025-04-17 09:04 
+  谷歌Veo2视频生成模型已全面开放，支持生成8秒720P电影级视频，在运镜、文本语义还原和物理模拟方面表现优异。...
 
-- **[#OpenAI或收购Windsurf##OpenAI目前最大单笔收购#据路透社报道，OpenAI正在洽谈迄今为止最大的一笔收购——以约30亿美元收购AI编程公司Windsurf（前身为Codeium...](2025-04-17/#OpenAI或收购Windsurf##OpenAI目前最大单笔收购#据路透社报道，OpenAI正在洽谈迄今为止最大的一笔收购——以约30亿美元收购AI编程公司Windsurf（前身为Codeium....md)** | [原文](https://weibo.com/6105753431/PnFImh8FU) | 时间: 2025-04-17 08:04 
-  OpenAI正洽谈以约30亿美元收购AI编程公司Windsurf（前Codeium），这或成其最大单笔收购。Windsurf主打自然语言生成代码...
+- **[#蚂蚁入局MCP# 最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？ 量子位的微博视频](2025-04-17/#蚂蚁入局MCP#_最火热的智能体协议MCP，又迎来新玩家，今年智能体会爆发吗？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnyyQ3l0L) | 时间: 2025-04-17 09:04 
+  蚂蚁集团宣布入局MCP（多智能体协作协议）领域，引发行业关注。MCP作为当前最热门的智能体交互协议，能够实现...
 
-- **[#戴盟机器人正式发布具身智能全家桶# 4月16日，戴盟机器人正式发布革命性家族产品——全球首款多维高分辨率高频率视触觉传感器 DM-Tac W、多维触觉感知五指灵巧...](2025-04-17/#戴盟机器人正式发布具身智能全家桶#_4月16日，戴盟机器人正式发布革命性家族产品——全球首款多维高分辨率高频率视触觉传感器_DM-Tac_W、多维触觉感知五指灵巧....md)** | [原文](https://weibo.com/6105753431/PnGcYdUhv) | 时间: 2025-04-17 08:03 
-  戴盟机器人4月16日发布了全球首款多维高分辨率视触觉传感器DM-Tac W、五指灵巧手DM-Hand1和遥操作系统DM-EXton，构建...
+- **[#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，...](2025-04-17/#马斯克发布GrokStudio##Grok推出画布和预览功能#马斯克的xAI上线了Grok_Studio：一个多功能协作空间。简单说，它能聊天、写代码、改文档，甚至还能直接跑程序，....md)** | [原文](https://weibo.com/6105753431/PnFJ6BcpS) | 时间: 2025-04-17 09:04 
+  马斯克的xAI推出Grok Studio，这是一个多功能AI协作平台，支持聊天、编程、文档编辑等功能。其画布功能类似OpenAI...
 
-- **[BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](2025-04-17/BioMaze-_Benchmarking_and_Enhancing_Large_Language_Models_for_Biological_Pathway_Reasoning.md)** | [原文](http://arxiv.org/abs/2502.16660v4) | 时间: 2025-04-17 08:03 
-  大型语言模型(LLMs)在复杂生物系统(如通路)中的推理能力仍有待探索。本研究提出BioMaze数据集，包含5....
+- **[#OpenAI连发o3和o4mini##ChatGPT首次带图深度思考#仅隔一天，OpenAI再次突然放大招：一口气，o3和o4 mini同步上线。【图1】 依然是最热门推理模型，并且这一次，...](2025-04-17/#OpenAI连发o3和o4mini##ChatGPT首次带图深度思考#仅隔一天，OpenAI再次突然放大招：一口气，o3和o4_mini同步上线。【图1】_依然是最热门推理模型，并且这一次，....md)** | [原文](https://weibo.com/6105753431/PnERmibH7) | 时间: 2025-04-17 09:04 
+  OpenAI连续发布o3和o4-mini两款新模型，具备多模态能力，可调用网络搜索、Python、图像分析等工具。o3是当前最强推...
 
-- **[#腾讯启动史上最大校招计划##腾讯28000个岗位技术占六成#腾讯启动了史上最大规模的就业计划：三年新增28000个校招实习岗位，技术岗位比例超过60%，单是2025年，...](2025-04-17/#腾讯启动史上最大校招计划##腾讯28000个岗位技术占六成#腾讯启动了史上最大规模的就业计划：三年新增28000个校招实习岗位，技术岗位比例超过60%，单是2025年，....md)** | [原文](https://weibo.com/6105753431/PnGmMzuP4) | 时间: 2025-04-17 08:03 
-  腾讯启动史上最大规模校招计划，三年内将新增28000个岗位，其中技术类占比超60%，2025年单年开放1万个岗位。招...
+- **[#OpenAI或收购Windsurf##OpenAI目前最大单笔收购#据路透社报道，OpenAI正在洽谈迄今为止最大的一笔收购——以约30亿美元收购AI编程公司Windsurf（前身为Codeium...](2025-04-17/#OpenAI或收购Windsurf##OpenAI目前最大单笔收购#据路透社报道，OpenAI正在洽谈迄今为止最大的一笔收购——以约30亿美元收购AI编程公司Windsurf（前身为Codeium....md)** | [原文](https://weibo.com/6105753431/PnFImh8FU) | 时间: 2025-04-17 09:04 
+  OpenAI正洽谈以约30亿美元收购AI编程公司Windsurf（原Codeium），这或成其最大单笔收购。Windsurf主打自然语言生成代码...
 
-- **[Grassroots Platforms with Atomic Transactions: Social Networks, Cryptocurrencies, and Democratic Federations](2025-04-17/Grassroots_Platforms_with_Atomic_Transactions-_Social_Networks,_Cryptocurrencies,_and_Democratic_Federations.md)** | [原文](http://arxiv.org/abs/2502.11299v3) | 时间: 2025-04-17 08:03 
-  本文改进了分布式过渡系统的概念，引入原子事务（atomic transactions）来重新定义草根平台（grassroots platforms），使...
+- **[#戴盟机器人正式发布具身智能全家桶# 4月16日，戴盟机器人正式发布革命性家族产品——全球首款多维高分辨率高频率视触觉传感器 DM-Tac W、多维触觉感知五指灵巧...](2025-04-17/#戴盟机器人正式发布具身智能全家桶#_4月16日，戴盟机器人正式发布革命性家族产品——全球首款多维高分辨率高频率视触觉传感器_DM-Tac_W、多维触觉感知五指灵巧....md)** | [原文](https://weibo.com/6105753431/PnGcYdUhv) | 时间: 2025-04-17 09:03 
+  戴盟机器人4月16日发布全球首款具身智能全家桶产品，包括高分辨率视触觉传感器DM-Tac W、五指灵巧手DM-Hand1和遥...
 
-- **[Feedforward in Generative AI: Opportunities for a Design Space](2025-04-17/Feedforward_in_Generative_AI-_Opportunities_for_a_Design_Space.md)** | [原文](http://arxiv.org/abs/2502.14229v2) | 时间: 2025-04-17 08:03 
-  生成式AI（GenAI）虽能提升生产力和认知能力，但用户难以预判其输出，导致需反复交互以澄清意图，造成认知负...
+- **[BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](2025-04-17/BioMaze-_Benchmarking_and_Enhancing_Large_Language_Models_for_Biological_Pathway_Reasoning.md)** | [原文](http://arxiv.org/abs/2502.16660v4) | 时间: 2025-04-17 09:03 
+  大型语言模型(LLMs)在复杂生物系统(如通路)中的推理能力仍待探索。本研究提出BioMaze数据集，包含5....
 
-- **[Advancing Arabic Speech Recognition Through Large-Scale Weakly Supervised Learning](2025-04-17/Advancing_Arabic_Speech_Recognition_Through_Large-Scale_Weakly_Supervised_Learning.md)** | [原文](http://arxiv.org/abs/2504.12254v1) | 时间: 2025-04-17 08:02 
-  该研究利用弱监督学习方法训练了一个基于Conformer架构的阿拉伯语自动语音识别(ASR)模型。通过使用15,...
+- **[#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间...](2025-04-17/#Claude集成谷歌全家桶##一句话让Claude写休假邮件#Claude集成了谷歌全家桶，现在一句话就能帮你写休假邮件，岗位交接和后续安排都一并考虑进去了。Alex休假期间....md)** | [原文](https://weibo.com/6105753431/PnFRLgo4t) | 时间: 2025-04-17 09:03 
+  Claude AI深度集成谷歌服务(Gmail/日历/Drive)，实现智能休假规划功能。用户只需一句话指令，系统就能自动完成：1)...
 
-- **[FLIP Reasoning Challenge](2025-04-17/FLIP_Reasoning_Challenge.md)** | [原文](http://arxiv.org/abs/2504.12256v1) | 时间: 2025-04-17 08:02 
-  这篇论文介绍了FLIP数据集，这是一个基于Idena区块链人类验证任务评估AI推理能力的基准测试。FLIP要求用户从两组...
+- **[#腾讯启动史上最大校招计划##腾讯28000个岗位技术占六成#腾讯启动了史上最大规模的就业计划：三年新增28000个校招实习岗位，技术岗位比例超过60%，单是2025年，...](2025-04-17/#腾讯启动史上最大校招计划##腾讯28000个岗位技术占六成#腾讯启动了史上最大规模的就业计划：三年新增28000个校招实习岗位，技术岗位比例超过60%，单是2025年，....md)** | [原文](https://weibo.com/6105753431/PnGmMzuP4) | 时间: 2025-04-17 09:03 
+  腾讯启动史上最大规模校招计划，三年将新增28000个岗位，其中技术岗占比超60%，2025年单年开放1万个岗位。招聘...
 
-- **[Data Assimilation for Robust UQ Within Agent-Based Simulation on HPC Systems](2025-04-17/Data_Assimilation_for_Robust_UQ_Within_Agent-Based_Simulation_on_HPC_Systems.md)** | [原文](http://arxiv.org/abs/2504.12228v1) | 时间: 2025-04-17 08:02 
-  本文提出了一种基于序贯蒙特卡罗采样的贝叶斯不确定性量化框架，用于解决基于智能体的模拟模型缺乏不确定性...
+- **[Grassroots Platforms with Atomic Transactions: Social Networks, Cryptocurrencies, and Democratic Federations](2025-04-17/Grassroots_Platforms_with_Atomic_Transactions-_Social_Networks,_Cryptocurrencies,_and_Democratic_Federations.md)** | [原文](http://arxiv.org/abs/2502.11299v3) | 时间: 2025-04-17 09:03 
+  本文改进了分布式过渡系统的概念，引入原子事务来重新定义草根平台。草根平台（如社交网络、加密货币和民主...
 
-- **[Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography](2025-04-17/Comparative_Evaluation_of_Radiomics_and_Deep_Learning_Models_for_Disease_Detection_in_Chest_Radiography.md)** | [原文](http://arxiv.org/abs/2504.12249v1) | 时间: 2025-04-17 08:02 
-  本研究系统评估了基于放射组学和深度学习的AI模型在胸部X光疾病检测（COVID-19、肺部混浊和病毒性肺炎）中的表...
+- **[Feedforward in Generative AI: Opportunities for a Design Space](2025-04-17/Feedforward_in_Generative_AI-_Opportunities_for_a_Design_Space.md)** | [原文](http://arxiv.org/abs/2502.14229v2) | 时间: 2025-04-17 09:03 
+  生成式AI（GenAI）虽能提升生产力，但用户难以预判其输出，导致频繁交互以澄清意图，增加认知负担和时间成本...
 
-- **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](2025-04-17/Understanding_and_Optimizing_Multi-Stage_AI_Inference_Pipelines.md)** | [原文](http://arxiv.org/abs/2504.09775v2) | 时间: 2025-04-17 08:02 
-  大语言模型(LLM)推理流程日益复杂，涉及检索增强生成(RAG)、KV缓存检索、动态路由等多阶段计算，需要整合GPU、ASI...
+- **[Advancing Arabic Speech Recognition Through Large-Scale Weakly Supervised Learning](2025-04-17/Advancing_Arabic_Speech_Recognition_Through_Large-Scale_Weakly_Supervised_Learning.md)** | [原文](http://arxiv.org/abs/2504.12254v1) | 时间: 2025-04-17 09:02 
+  本研究利用弱监督学习方法，基于Conformer架构训练阿拉伯语自动语音识别(ASR)系统。该模型完全使用15,...
 
-- **[Optimal flock formation induced by agent heterogeneity](2025-04-17/Optimal_flock_formation_induced_by_agent_heterogeneity.md)** | [原文](http://arxiv.org/abs/2504.12297v1) | 时间: 2025-04-17 08:01 
-  传统集群行为研究通常假设个体同质，但本研究探讨了异质性对集群动态的影响。研究发现，通过优化分配异质参...
+- **[Optimal flock formation induced by agent heterogeneity](2025-04-17/Optimal_flock_formation_induced_by_agent_heterogeneity.md)** | [原文](http://arxiv.org/abs/2504.12297v1) | 时间: 2025-04-17 09:02 
+  该研究打破了传统多智能体群体行为中"同质化"的假设，发现参数异质性分配的群体比同质化群体表现更优：在目...
 
-- **[Adapting a World Model for Trajectory Following in a 3D Game](2025-04-17/Adapting_a_World_Model_for_Trajectory_Following_in_a_3D_Game.md)** | [原文](http://arxiv.org/abs/2504.12299v1) | 时间: 2025-04-17 08:01 
-  模仿学习通过专家知识训练智能体，其中轨迹复现是关键环节。针对3D游戏等复杂环境中的分布偏移和随机性，本...
+- **[FLIP Reasoning Challenge](2025-04-17/FLIP_Reasoning_Challenge.md)** | [原文](http://arxiv.org/abs/2504.12256v1) | 时间: 2025-04-17 09:02 
+  这篇论文介绍了FLIP数据集，用于评估AI在基于Idena区块链人类验证任务中的推理能力。FLIP挑战要求从两组4张图片...
+
+- **[Data Assimilation for Robust UQ Within Agent-Based Simulation on HPC Systems](2025-04-17/Data_Assimilation_for_Robust_UQ_Within_Agent-Based_Simulation_on_HPC_Systems.md)** | [原文](http://arxiv.org/abs/2504.12228v1) | 时间: 2025-04-17 09:02 
+  该研究提出了一种基于序贯蒙特卡罗采样的贝叶斯不确定性量化框架，用于改进基于智能体的传染病传播模拟模型...
+
+- **[Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography](2025-04-17/Comparative_Evaluation_of_Radiomics_and_Deep_Learning_Models_for_Disease_Detection_in_Chest_Radiography.md)** | [原文](http://arxiv.org/abs/2504.12249v1) | 时间: 2025-04-17 09:02 
+  该研究系统评估了基于放射组学和深度学习的AI模型在胸部X光疾病检测（COVID-19、肺部混浊和病毒性肺炎）中的表...
+
+- **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](2025-04-17/Understanding_and_Optimizing_Multi-Stage_AI_Inference_Pipelines.md)** | [原文](http://arxiv.org/abs/2504.09775v2) | 时间: 2025-04-17 09:02 
+  随着大语言模型(LLMs)的快速发展，传统推理流程已无法满足多阶段任务(RAG、KV缓存检索、动态路由等)的异构计算...
+
+- **[Adapting a World Model for Trajectory Following in a 3D Game](2025-04-17/Adapting_a_World_Model_for_Trajectory_Following_in_a_3D_Game.md)** | [原文](http://arxiv.org/abs/2504.12299v1) | 时间: 2025-04-17 09:01 
+  模仿学习通过专家知识训练智能体，轨迹复现是其关键环节。针对3D游戏等复杂环境中的分布偏移和随机性问题，...
 
 - **[【#中国AIGC产业峰会# 金句时间】轻松健康集团技术副总裁高玉石：近两年AI技术成熟度有了明显提升，面向垂直领域和场景的小模型层出不穷，有效的填补了我们自研...](2025-04-17/【#中国AIGC产业峰会#_金句时间】轻松健康集团技术副总裁高玉石：近两年AI技术成熟度有了明显提升，面向垂直领域和场景的小模型层出不穷，有效的填补了我们自研....md)** | [原文](https://weibo.com/6105753431/PnxKsnigM) | 时间: 2025-04-17 07:05 
   轻松健康集团技术副总裁高玉石在#中国AIGC产业峰会#上表示，近两年AI技术成熟度显著提升，针对垂直领域的小模...
