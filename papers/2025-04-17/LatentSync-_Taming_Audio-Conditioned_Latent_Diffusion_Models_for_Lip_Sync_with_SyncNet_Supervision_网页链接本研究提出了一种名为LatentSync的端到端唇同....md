@@ -8,11 +8,11 @@ LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with S
 
 ## AI 摘要
 
-本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。该框架利用Stable Diffusion直接建模音视频关联，并针对扩散模型的时间一致性问题提出TREPA方法，通过自监督视频模型的时间表示对齐生成帧。研究还优化了SyncNet训练框架，改进其收敛性和准确性。实验表明，该方法在HDTF和VoxCeleb2数据集上超越现有技术。这些改进可推广至其他依赖SyncNet的唇同步和人像动画应用。
+本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。该方法通过时间表示对齐（TREPA）技术增强生成帧的时间一致性，并改进SyncNet训练框架以提升准确性。实验表明，该方法在HDTF和VoxCeleb2数据集上优于现有技术。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-17T14:06:23Z
+- **保存时间**: 2025-04-17T15:06:09Z
 - **目录日期**: 2025-04-17
