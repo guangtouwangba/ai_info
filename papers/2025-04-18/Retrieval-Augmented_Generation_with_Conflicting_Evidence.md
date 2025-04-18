@@ -33,11 +33,11 @@ the level of imbalance in supporting evidence and misinformation.
 
 ## AI 摘要
 
-该研究提出RAMDocs数据集和MADAM-RAG多智能体系统，用于处理检索增强生成(RAG)中的查询歧义、错误信息和噪声等复杂冲突场景。RAMDocs模拟了包含歧义、错误信息和噪声的冲突证据场景，而MADAM-RAG通过多轮辩论机制整合有效答案并过滤错误信息。实验表明，在AmbigDocs(需返回所有有效答案)和FaithEval(需抑制错误信息)任务上，MADAM-RAG分别比基线提升11.40%和15.80%。但RAMDocs仍具挑战性(Llama3仅得32.60分)，尤其在证据支持不平衡时表现仍有不足。
+该研究提出了RAMDocs数据集和MADAM-RAG方法，以解决大语言模型(LLM)在处理模糊查询、冲突信息和噪声时的挑战。RAMDocs模拟了包含歧义、错误信息和噪声的复杂场景。MADAM-RAG采用多代理辩论机制，通过多轮讨论整合有效答案并过滤错误信息。实验显示，在AmbigDocs任务上MADAM-RAG比基线提升11.40%，在FaithEval任务上提升15.80%。但RAMDocs对现有方法仍具挑战性(Llama3仅得32.60分)，尤其在证据支持不平衡时表现仍有显著差距。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-18T18:01:58Z
+- **保存时间**: 2025-04-18T19:01:41Z
 - **目录日期**: 2025-04-18
