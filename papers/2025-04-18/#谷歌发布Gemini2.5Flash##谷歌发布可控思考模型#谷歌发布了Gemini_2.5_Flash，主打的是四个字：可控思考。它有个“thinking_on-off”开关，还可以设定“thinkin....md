@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-谷歌发布Gemini 2.5 Flash模型，主打"可控思考"功能。该模型提供"thinking on/off"开关和"thinking budget"参数（最高24K tokens），开发者可自由控制AI的思考深度和范围：简单任务可关闭思考以提升速度，复杂任务则开启思考模式。其推理模式价格仅为$3.5/百万tokens，是同类产品的零头。在LMArena测试中表现优异，仅次于Gemini 2.5 Pro。目前已开放预览，可通过Google AI Studio和Vertex AI体验。
+谷歌发布Gemini 2.5 Flash模型，主打"可控思考"功能，通过"thinking on/off"开关和"thinking budget"参数（最高24K tokens）让开发者灵活控制模型思考深度。简单任务可关闭思考以提升速度降低成本，复杂任务则开启思考模式提升性能。其推理模式价格仅$3.5/百万tokens，远低于Claude和Grok的$15。在LMArena测试中表现优异，仅次于Gemini 2.5 Pro。目前已开放预览，可通过Google AI Studio和Vertex AI体验。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-18T05:03:21Z
+- **保存时间**: 2025-04-18T06:03:13Z
 - **目录日期**: 2025-04-18
