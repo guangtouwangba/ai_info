@@ -6,118 +6,64 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大型语言模型(codeLLMs)提出新评估方法，重点关注与人类偏好的对齐。研究者创建了CodeArena...
+**摘要**: 这篇论文探讨了代码生成大型语言模型(codeLLMs)如何与人类偏好对齐的问题。研究指出当前基准测试过于关注代码...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-20 11:06
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制在处理长文本时...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-20 11:05
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-20 11:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-20 11:05
+**收录时间**: 2025-04-20 12:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献检索、AI...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、辅助阅读、翻译、科研情报订阅等一站式服务。它收录了3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-20 11:05
+**收录时间**: 2025-04-20 12:06
 
 ---
 
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。研究者用它作...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该框架利用Stable D...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-20 11:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-04-20 12:06
 
 ---
 
-### [#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot 2（爱宝 2）。【图1】总结来看，这...](2025-04-20/#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot_2（爱宝_2）。【图1】总结来看，这....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 智平方在深圳发布了新一代通用智能机器人AlphaBot 2（爱宝2），这是全球首个全身VLA（视觉-语言-动作）机器人，...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，现有...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnQLTsoVB)
-**收录时间**: 2025-04-20 11:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-04-20 12:05
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量随机梯度下降(...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-20 11:04
+**收录时间**: 2025-04-20 12:05
 
 ---
 
-### [#3分钟搭建一个调用支付宝的智能体# 3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区...](2025-04-20/#3分钟搭建一个调用支付宝的智能体#_3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区....md)
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 蚂蚁集团推出"百宝箱"智能体开发平台，支持3分钟快速搭建可调用支付宝、高德地图等30余款服务的AI智能体。该...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnQTirTvM)
-**收录时间**: 2025-04-20 11:04
-
----
-
-### [#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“...](2025-04-20/#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“....md)
-
-**摘要**: 复旦大学与字节Seed团队合作开发的SimpleAR模型，采用纯自回归Transformer架构，在仅0.5B参数规模下实现了1024分辨率...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnZKap8Te)
-**收录时间**: 2025-04-20 11:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-20 12:05
 
 ---
 
-### [在上海街头，我体验了未来驾驶的神级操作 #软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会# 量子位的微博视频](2025-04-20/在上海街头，我体验了未来驾驶的神级操作_#软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会#_量子位的微博视频.md)
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 这段微博视频展示了在上海街头体验未来自动驾驶技术的场景，重点介绍了地平线（Horizon Robotics）的智能驾驶解...
+**摘要**: 《AgentSociety》是一个基于大语言模型的大规模社会模拟器，可模拟1万多个AI代理的社会互动（500万次）。研究者用...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnXqHtUeB)
-**收录时间**: 2025-04-20 11:03
-
----
-
-### [AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-20/AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)
-
-**摘要**: 趣丸科技副总裁贾朔在中国AIGC产业峰会上指出，AI对音乐行业具有双重影响：一方面替代了重复性音乐工作流程，...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnRHuuM3k)
-**收录时间**: 2025-04-20 11:03
-
----
-
-### [#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对...](2025-04-20/#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对....md)
-
-**摘要**: 通义万相Wan2.1首尾帧视频生成模型实测显示，该AI仅需首尾两张图片即可生成连贯过渡视频。测试涵盖写实场景（...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnZGGnLM0)
-**收录时间**: 2025-04-20 11:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-04-20 12:05
 
 ---
 
@@ -126,61 +72,115 @@
 **摘要**: 第三届中国AIGC产业峰会（2025年4月16日，北京）以“万物皆可AI”为主题，聚焦生成式AI的技术突破与产业融合。20...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PnRRHsw2g)
-**收录时间**: 2025-04-20 11:03
+**收录时间**: 2025-04-20 12:04
 
 ---
 
-### [#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，...](2025-04-20/#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，....md)
+### [#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot 2（爱宝 2）。【图1】总结来看，这...](2025-04-20/#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot_2（爱宝_2）。【图1】总结来看，这....md)
 
-**摘要**: 2024年中国AI行业经历首轮洗牌，头部产品如夸克、豆包等月活破亿，覆盖搜索、电商等50+高价值赛道。量子位智库...
+**摘要**: 智平方在深圳发布了新一代通用智能机器人AlphaBot 2（爱宝2），这是全球首个全身VLA（视觉-语言-动作）机器人。...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PnZuMgzLH)
-**收录时间**: 2025-04-20 11:03
-
----
-
-### [Contextual Agent Security: A Policy for Every Purpose](2025-04-20/Contextual_Agent_Security-_A_Policy_for_Every_Purpose.md)
-
-**摘要**: 本文探讨了智能代理在多样化情境中的安全问题，提出需要重新设计安全机制以适应通用代理的多任务能力。传统...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2501.17070v3)
-**收录时间**: 2025-04-20 11:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnQLTsoVB)
+**收录时间**: 2025-04-20 12:04
 
 ---
 
-### [Differentially Private Sequential Learning](2025-04-20/Differentially_Private_Sequential_Learning.md)
+### [AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-20/AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)
 
-**摘要**: 在差分隐私的序贯学习模型中，代理通过内生噪声保护隐私。对于连续信号，本文提出一种基于阈值距离的自适应...
+**摘要**: 趣丸科技副总裁贾朔在中国AIGC产业峰会指出，AI对音乐行业具有双重影响：一方面替代了重复性音乐工作流程，另...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.19525v3)
-**收录时间**: 2025-04-20 11:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnRHuuM3k)
+**收录时间**: 2025-04-20 12:04
+
+---
+
+### [#3分钟搭建一个调用支付宝的智能体# 3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区...](2025-04-20/#3分钟搭建一个调用支付宝的智能体#_3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区....md)
+
+**摘要**: 蚂蚁集团推出"百宝箱"智能体开发平台，支持3分钟快速搭建可调用支付宝、高德地图等30余款服务的AI智能体。该...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnQTirTvM)
+**收录时间**: 2025-04-20 12:04
+
+---
+
+### [#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对...](2025-04-20/#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对....md)
+
+**摘要**: 通义万相Wan2.1首尾帧视频生成模型实测表现亮眼。该模型仅需输入首尾两张图片，即可生成连贯的过渡视频，在人...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnZGGnLM0)
+**收录时间**: 2025-04-20 12:03
+
+---
+
+### [在上海街头，我体验了未来驾驶的神级操作 #软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会# 量子位的微博视频](2025-04-20/在上海街头，我体验了未来驾驶的神级操作_#软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会#_量子位的微博视频.md)
+
+**摘要**: 这段微博视频展示了在上海街头体验未来驾驶技术的场景，重点介绍了地平线（Horizon Robotics）的智能驾驶解决方...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnXqHtUeB)
+**收录时间**: 2025-04-20 12:03
 
 ---
 
 ### [2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪...](2025-04-20/2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪....md)
 
-**摘要**: 2025年4月19日，人形机器人马拉松首赛在北京亦庄举行，天工机器人以2小时40分钟夺冠，但成绩仍远落后于人类纪...
+**摘要**: 2025年4月19日，首届人形机器人马拉松比赛举行，天工机器人以2小时40分钟夺冠，但远落后于人类纪录。人形机器...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Po9V1ysYa)
-**收录时间**: 2025-04-20 11:02
+**收录时间**: 2025-04-20 12:03
 
 ---
 
-### [Multimodal LLMs Can Reason about Aesthetics in Zero-Shot](2025-04-20/Multimodal_LLMs_Can_Reason_about_Aesthetics_in_Zero-Shot.md)
+### [#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“...](2025-04-20/#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“....md)
 
-**摘要**: 当前生成艺术快速发展，但AI模型常忽视深层审美所需的复杂推理能力。研究发现，多模态大语言模型(MLLMs)在审美...
+**摘要**: 复旦大学与字节Seed团队合作开发的SimpleAR模型，采用纯自回归Transformer架构，在仅0.5B参数规模下实现了1024分辨率...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2501.09012v2)
-**收录时间**: 2025-04-20 11:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnZKap8Te)
+**收录时间**: 2025-04-20 12:03
 
 ---
 
 ### [关注大模型在To C领域的商业化，用产品和会员服务来反推教育大模型的发展。网易有道智能应用事业部负责人张艺在中国AIGC产业峰会分享了他的思考。#中国AIGC产业...](2025-04-20/关注大模型在To_C领域的商业化，用产品和会员服务来反推教育大模型的发展。网易有道智能应用事业部负责人张艺在中国AIGC产业峰会分享了他的思考。#中国AIGC产业....md)
 
-**摘要**: 网易有道智能应用事业部负责人张艺在中国AIGC产业峰会上提出，应通过To C端的产品和会员服务推动教育大模型商...
+**摘要**: 网易有道智能应用事业部负责人张艺在中国AIGC产业峰会提出，应通过To C商业化路径（如产品和会员服务）推动教...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Po6fpoDpS)
-**收录时间**: 2025-04-20 11:02
+**收录时间**: 2025-04-20 12:03
+
+---
+
+### [#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，...](2025-04-20/#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，....md)
+
+**摘要**: 2024年中国AI行业经历首轮洗牌，AI助手领跑50+高价值赛道，夸克月访问量破亿，豆包下载量达2....
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PnZuMgzLH)
+**收录时间**: 2025-04-20 12:03
+
+---
+
+### [Differentially Private Sequential Learning](2025-04-20/Differentially_Private_Sequential_Learning.md)
+
+**摘要**: 在差分隐私的序贯学习中，代理人通过内生噪声保护隐私。针对连续信号，研究提出了一种基于阈值距离的自适应...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2502.19525v3)
+**收录时间**: 2025-04-20 12:02
+
+---
+
+### [Contextual Agent Security: A Policy for Every Purpose](2025-04-20/Contextual_Agent_Security-_A_Policy_for_Every_Purpose.md)
+
+**摘要**: 本文探讨了在通用智能代理（如自动化个人助手）日益普及的背景下，如何重新设计安全框架以适应多任务场景。...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2501.17070v3)
+**收录时间**: 2025-04-20 12:02
+
+---
+
+### [Multimodal LLMs Can Reason about Aesthetics in Zero-Shot](2025-04-20/Multimodal_LLMs_Can_Reason_about_Aesthetics_in_Zero-Shot.md)
+
+**摘要**: 生成艺术的快速发展降低了视觉艺术创作的门槛，但当前计算模型常忽视深层次的艺术感染力所需的复杂审美推理...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2501.09012v2)
+**收录时间**: 2025-04-20 12:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-04-20 (29篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-20 11:06 
-  这篇论文针对代码生成大型语言模型(codeLLMs)提出新评估方法，重点关注与人类偏好的对齐。研究者创建了CodeArena...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-20 12:06 
+  这篇论文探讨了代码生成大型语言模型(codeLLMs)如何与人类偏好对齐的问题。研究指出当前基准测试过于关注代码...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-20 11:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制在处理长文本时...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-20 12:06 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、辅助阅读、翻译、科研情报订阅等一站式服务。它收录了3....
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-20 11:05 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-20 12:06 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该框架利用Stable D...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-20 11:05 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-20 12:05 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，现有...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-20 11:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献检索、AI...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-20 12:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量随机梯度下降(...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-20 11:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。研究者用它作...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-20 12:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
 
-- **[#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot 2（爱宝 2）。【图1】总结来看，这...](2025-04-20/#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot_2（爱宝_2）。【图1】总结来看，这....md)** | [原文](https://weibo.com/6105753431/PnQLTsoVB) | 时间: 2025-04-20 11:04 
-  智平方在深圳发布了新一代通用智能机器人AlphaBot 2（爱宝2），这是全球首个全身VLA（视觉-语言-动作）机器人，...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-20 12:05 
+  《AgentSociety》是一个基于大语言模型的大规模社会模拟器，可模拟1万多个AI代理的社会互动（500万次）。研究者用...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-20 11:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
-
-- **[#3分钟搭建一个调用支付宝的智能体# 3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区...](2025-04-20/#3分钟搭建一个调用支付宝的智能体#_3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区....md)** | [原文](https://weibo.com/6105753431/PnQTirTvM) | 时间: 2025-04-20 11:04 
-  蚂蚁集团推出"百宝箱"智能体开发平台，支持3分钟快速搭建可调用支付宝、高德地图等30余款服务的AI智能体。该...
-
-- **[#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“...](2025-04-20/#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“....md)** | [原文](https://weibo.com/6105753431/PnZKap8Te) | 时间: 2025-04-20 11:03 
-  复旦大学与字节Seed团队合作开发的SimpleAR模型，采用纯自回归Transformer架构，在仅0.5B参数规模下实现了1024分辨率...
-
-- **[在上海街头，我体验了未来驾驶的神级操作 #软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会# 量子位的微博视频](2025-04-20/在上海街头，我体验了未来驾驶的神级操作_#软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会#_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnXqHtUeB) | 时间: 2025-04-20 11:03 
-  这段微博视频展示了在上海街头体验未来自动驾驶技术的场景，重点介绍了地平线（Horizon Robotics）的智能驾驶解...
-
-- **[AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-20/AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/PnRHuuM3k) | 时间: 2025-04-20 11:03 
-  趣丸科技副总裁贾朔在中国AIGC产业峰会上指出，AI对音乐行业具有双重影响：一方面替代了重复性音乐工作流程，...
-
-- **[#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对...](2025-04-20/#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对....md)** | [原文](https://weibo.com/6105753431/PnZGGnLM0) | 时间: 2025-04-20 11:03 
-  通义万相Wan2.1首尾帧视频生成模型实测显示，该AI仅需首尾两张图片即可生成连贯过渡视频。测试涵盖写实场景（...
-
-- **[#DeepSeek引爆万物皆可AI时代##万字梳理20余位AIGC大咖分析#“DeepSeek，评价一下第三届中国AIGC产业峰会”：DeepSeek答道：第三届中国AIGC产业峰会 (2025年4月1...](2025-04-20/#DeepSeek引爆万物皆可AI时代##万字梳理20余位AIGC大咖分析#“DeepSeek，评价一下第三届中国AIGC产业峰会”：DeepSeek答道：第三届中国AIGC产业峰会_(2025年4月1....md)** | [原文](https://weibo.com/6105753431/PnRRHsw2g) | 时间: 2025-04-20 11:03 
+- **[#DeepSeek引爆万物皆可AI时代##万字梳理20余位AIGC大咖分析#“DeepSeek，评价一下第三届中国AIGC产业峰会”：DeepSeek答道：第三届中国AIGC产业峰会 (2025年4月1...](2025-04-20/#DeepSeek引爆万物皆可AI时代##万字梳理20余位AIGC大咖分析#“DeepSeek，评价一下第三届中国AIGC产业峰会”：DeepSeek答道：第三届中国AIGC产业峰会_(2025年4月1....md)** | [原文](https://weibo.com/6105753431/PnRRHsw2g) | 时间: 2025-04-20 12:04 
   第三届中国AIGC产业峰会（2025年4月16日，北京）以“万物皆可AI”为主题，聚焦生成式AI的技术突破与产业融合。20...
 
-- **[#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，...](2025-04-20/#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，....md)** | [原文](https://weibo.com/6105753431/PnZuMgzLH) | 时间: 2025-04-20 11:03 
-  2024年中国AI行业经历首轮洗牌，头部产品如夸克、豆包等月活破亿，覆盖搜索、电商等50+高价值赛道。量子位智库...
+- **[#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot 2（爱宝 2）。【图1】总结来看，这...](2025-04-20/#全球首个全身VLA机器人##DeepSeek加持智能机器人首秀#坐标深圳，又有新机器人诞生了——智平方新一代通用智能机器人AlphaBot_2（爱宝_2）。【图1】总结来看，这....md)** | [原文](https://weibo.com/6105753431/PnQLTsoVB) | 时间: 2025-04-20 12:04 
+  智平方在深圳发布了新一代通用智能机器人AlphaBot 2（爱宝2），这是全球首个全身VLA（视觉-语言-动作）机器人。...
 
-- **[Contextual Agent Security: A Policy for Every Purpose](2025-04-20/Contextual_Agent_Security-_A_Policy_for_Every_Purpose.md)** | [原文](http://arxiv.org/abs/2501.17070v3) | 时间: 2025-04-20 11:02 
-  本文探讨了智能代理在多样化情境中的安全问题，提出需要重新设计安全机制以适应通用代理的多任务能力。传统...
+- **[AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-20/AI对于音乐是硬币的两面，既取代了重复性的音乐工作流，也让真正的音乐创作者化繁为简。这是趣丸科技副总裁贾朔在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/PnRHuuM3k) | 时间: 2025-04-20 12:04 
+  趣丸科技副总裁贾朔在中国AIGC产业峰会指出，AI对音乐行业具有双重影响：一方面替代了重复性音乐工作流程，另...
 
-- **[Differentially Private Sequential Learning](2025-04-20/Differentially_Private_Sequential_Learning.md)** | [原文](http://arxiv.org/abs/2502.19525v3) | 时间: 2025-04-20 11:02 
-  在差分隐私的序贯学习模型中，代理通过内生噪声保护隐私。对于连续信号，本文提出一种基于阈值距离的自适应...
+- **[#3分钟搭建一个调用支付宝的智能体# 3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区...](2025-04-20/#3分钟搭建一个调用支付宝的智能体#_3分钟搭建一个智能体，可以调用支付宝、高德地图的那种。最近，蚂蚁宣布入局MCP，在一站式智能体开发平台“百宝箱”上线专区....md)** | [原文](https://weibo.com/6105753431/PnQTirTvM) | 时间: 2025-04-20 12:04 
+  蚂蚁集团推出"百宝箱"智能体开发平台，支持3分钟快速搭建可调用支付宝、高德地图等30余款服务的AI智能体。该...
 
-- **[2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪...](2025-04-20/2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪....md)** | [原文](https://weibo.com/6105753431/Po9V1ysYa) | 时间: 2025-04-20 11:02 
-  2025年4月19日，人形机器人马拉松首赛在北京亦庄举行，天工机器人以2小时40分钟夺冠，但成绩仍远落后于人类纪...
+- **[#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对...](2025-04-20/#实测通义Wan2.1##首尾帧视频生成模型实测#只需两张图，生成完整过渡视频的通义万相Wan2.1，我们第一时间上手实测了一波。我们提供的首尾帧分别如下：【图1】对....md)** | [原文](https://weibo.com/6105753431/PnZGGnLM0) | 时间: 2025-04-20 12:03 
+  通义万相Wan2.1首尾帧视频生成模型实测表现亮眼。该模型仅需输入首尾两张图片，即可生成连贯的过渡视频，在人...
 
-- **[Multimodal LLMs Can Reason about Aesthetics in Zero-Shot](2025-04-20/Multimodal_LLMs_Can_Reason_about_Aesthetics_in_Zero-Shot.md)** | [原文](http://arxiv.org/abs/2501.09012v2) | 时间: 2025-04-20 11:02 
-  当前生成艺术快速发展，但AI模型常忽视深层审美所需的复杂推理能力。研究发现，多模态大语言模型(MLLMs)在审美...
+- **[在上海街头，我体验了未来驾驶的神级操作 #软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会# 量子位的微博视频](2025-04-20/在上海街头，我体验了未来驾驶的神级操作_#软硬结合智驾答案##地平线HSD##2025地平线年度产品发布会#_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PnXqHtUeB) | 时间: 2025-04-20 12:03 
+  这段微博视频展示了在上海街头体验未来驾驶技术的场景，重点介绍了地平线（Horizon Robotics）的智能驾驶解决方...
 
-- **[关注大模型在To C领域的商业化，用产品和会员服务来反推教育大模型的发展。网易有道智能应用事业部负责人张艺在中国AIGC产业峰会分享了他的思考。#中国AIGC产业...](2025-04-20/关注大模型在To_C领域的商业化，用产品和会员服务来反推教育大模型的发展。网易有道智能应用事业部负责人张艺在中国AIGC产业峰会分享了他的思考。#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/Po6fpoDpS) | 时间: 2025-04-20 11:02 
-  网易有道智能应用事业部负责人张艺在中国AIGC产业峰会上提出，应通过To C端的产品和会员服务推动教育大模型商...
+- **[2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪...](2025-04-20/2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪....md)** | [原文](https://weibo.com/6105753431/Po9V1ysYa) | 时间: 2025-04-20 12:03 
+  2025年4月19日，首届人形机器人马拉松比赛举行，天工机器人以2小时40分钟夺冠，但远落后于人类纪录。人形机器...
 
-- **[Exploring Expert Failures Improves LLM Agent Tuning](2025-04-20/Exploring_Expert_Failures_Improves_LLM_Agent_Tuning.md)** | [原文](http://arxiv.org/abs/2504.13145v1) | 时间: 2025-04-20 11:01 
-  该研究提出了一种名为"探索专家失败"(EEF)的新方法，用于改进大型语言模型(LLMs)作为智能体的性能。传统拒绝采...
+- **[#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“...](2025-04-20/#自回归重出江湖##0.5B也能卷图像生成#自回归模型这条老路，在图像生成领域也能通往新世界？复旦视觉与学习实验室和字节Seed团队，推出的SimpleAR，用最传统的“....md)** | [原文](https://weibo.com/6105753431/PnZKap8Te) | 时间: 2025-04-20 12:03 
+  复旦大学与字节Seed团队合作开发的SimpleAR模型，采用纯自回归Transformer架构，在仅0.5B参数规模下实现了1024分辨率...
 
-- **[Readable Twins of Unreadable Models](2025-04-20/Readable_Twins_of_Unreadable_Models.md)** | [原文](http://arxiv.org/abs/2504.13150v1) | 时间: 2025-04-20 11:01 
-  本文提出了一种构建可解释深度学习（XDL）系统的新方法，旨在增强人工智能系统的可解释性。研究者通过为不可...
+- **[关注大模型在To C领域的商业化，用产品和会员服务来反推教育大模型的发展。网易有道智能应用事业部负责人张艺在中国AIGC产业峰会分享了他的思考。#中国AIGC产业...](2025-04-20/关注大模型在To_C领域的商业化，用产品和会员服务来反推教育大模型的发展。网易有道智能应用事业部负责人张艺在中国AIGC产业峰会分享了他的思考。#中国AIGC产业....md)** | [原文](https://weibo.com/6105753431/Po6fpoDpS) | 时间: 2025-04-20 12:03 
+  网易有道智能应用事业部负责人张艺在中国AIGC产业峰会提出，应通过To C商业化路径（如产品和会员服务）推动教...
 
-- **[Retrieval-Augmented Generation with Conflicting Evidence](2025-04-20/Retrieval-Augmented_Generation_with_Conflicting_Evidence.md)** | [原文](http://arxiv.org/abs/2504.13079v1) | 时间: 2025-04-20 11:01 
-  该研究提出了一种应对大语言模型(LLM)在检索增强生成(RAG)中面临的多重挑战的新方法。针对用户查询模糊性、多...
+- **[#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，...](2025-04-20/#2025中国AIGC应用全景图谱报告##2025中国AI应用趋势#2024年，国内AI产品完成了第一轮大洗牌。AI智能助手强势领跑50+高价值赛道，夸克等头部产品月访问量破亿，....md)** | [原文](https://weibo.com/6105753431/PnZuMgzLH) | 时间: 2025-04-20 12:03 
+  2024年中国AI行业经历首轮洗牌，AI助手领跑50+高价值赛道，夸克月访问量破亿，豆包下载量达2....
 
-- **[Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement](2025-04-20/Unlocking_LLM_Repair_Capabilities_in_Low-Resource_Programming_Languages_Through_Cross-Language_Translation_and_Multi-Agent_Refinement.md)** | [原文](http://arxiv.org/abs/2503.22512v3) | 时间: 2025-04-20 11:01 
-  当前基于LLM的自动程序修复(APR)主要针对主流语言(如Java/Python)，对新兴语言(如Rust)修复能力有限。本研究提出跨语...
+- **[Differentially Private Sequential Learning](2025-04-20/Differentially_Private_Sequential_Learning.md)** | [原文](http://arxiv.org/abs/2502.19525v3) | 时间: 2025-04-20 12:02 
+  在差分隐私的序贯学习中，代理人通过内生噪声保护隐私。针对连续信号，研究提出了一种基于阈值距离的自适应...
 
-- **[Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration](2025-04-20/Object-Driven_Narrative_in_AR-_A_Scenario-Metaphor_Framework_with_VLM_Integration.md)** | [原文](http://arxiv.org/abs/2504.13119v1) | 时间: 2025-04-20 11:01 
-  现有AR叙事系统常通过简单物体标签和空间坐标定义环境语义，导致叙事僵化且忽略物体间深层关联（如床头婚戒...
+- **[Contextual Agent Security: A Policy for Every Purpose](2025-04-20/Contextual_Agent_Security-_A_Policy_for_Every_Purpose.md)** | [原文](http://arxiv.org/abs/2501.17070v3) | 时间: 2025-04-20 12:02 
+  本文探讨了在通用智能代理（如自动化个人助手）日益普及的背景下，如何重新设计安全框架以适应多任务场景。...
 
-- **[An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research](2025-04-20/An_Empirically_Grounded_Identifiability_Theory_Will_Accelerate_Self-Supervised_Learning_Research.md)** | [原文](http://arxiv.org/abs/2504.13101v1) | 时间: 2025-04-20 11:01 
-  本文探讨了自监督学习（SSL）中柏拉图表征假说（PRH）的理论基础，指出尽管现有可辨识性理论（IT）能解释PRH现...
+- **[Multimodal LLMs Can Reason about Aesthetics in Zero-Shot](2025-04-20/Multimodal_LLMs_Can_Reason_about_Aesthetics_in_Zero-Shot.md)** | [原文](http://arxiv.org/abs/2501.09012v2) | 时间: 2025-04-20 12:02 
+  生成艺术的快速发展降低了视觉艺术创作的门槛，但当前计算模型常忽视深层次的艺术感染力所需的复杂审美推理...
 
-- **[Sleep-time Compute: Beyond Inference Scaling at Test-time](2025-04-20/Sleep-time_Compute-_Beyond_Inference_Scaling_at_Test-time.md)** | [原文](http://arxiv.org/abs/2504.13171v1) | 时间: 2025-04-20 11:00 
-  本文提出"睡眠时间计算"方法，通过让大语言模型在查询前预先处理上下文并预测可能的问题，显著降低实际查询...
+- **[Retrieval-Augmented Generation with Conflicting Evidence](2025-04-20/Retrieval-Augmented_Generation_with_Conflicting_Evidence.md)** | [原文](http://arxiv.org/abs/2504.13079v1) | 时间: 2025-04-20 12:02 
+  该研究提出了RAMDocs数据集和MADAM-RAG多智能体方法，以解决大语言模型（LLM）在处理模糊查询和冲突信息时的挑战...
+
+- **[Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement](2025-04-20/Unlocking_LLM_Repair_Capabilities_in_Low-Resource_Programming_Languages_Through_Cross-Language_Translation_and_Multi-Agent_Refinement.md)** | [原文](http://arxiv.org/abs/2503.22512v3) | 时间: 2025-04-20 12:02 
+  近期研究表明，LLMs在自动程序修复（APR）中展现出强大能力，但现有方法主要集中于主流语言（如Java、Python），...
+
+- **[Exploring Expert Failures Improves LLM Agent Tuning](2025-04-20/Exploring_Expert_Failures_Improves_LLM_Agent_Tuning.md)** | [原文](http://arxiv.org/abs/2504.13145v1) | 时间: 2025-04-20 12:01 
+  该研究提出"探索专家失败"(EEF)方法，通过分析专家模型(如GPT-4)失败轨迹中的有益行为(如关键计划和动作)来改进...
+
+- **[Sleep-time Compute: Beyond Inference Scaling at Test-time](2025-04-20/Sleep-time_Compute-_Beyond_Inference_Scaling_at_Test-time.md)** | [原文](http://arxiv.org/abs/2504.13171v1) | 时间: 2025-04-20 12:01 
+  该研究提出"睡眠时间计算"方法，通过让大语言模型在查询前离线预计算可能的问题和有用信息，显著降低实时计...
+
+- **[Readable Twins of Unreadable Models](2025-04-20/Readable_Twins_of_Unreadable_Models.md)** | [原文](http://arxiv.org/abs/2504.13150v1) | 时间: 2025-04-20 12:01 
+  本文探讨了构建可解释深度学习（XDL）系统的方法，以实现负责任的人工智能（AI）。作者提出为不可读的深度学...
+
+- **[Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration](2025-04-20/Object-Driven_Narrative_in_AR-_A_Scenario-Metaphor_Framework_with_VLM_Integration.md)** | [原文](http://arxiv.org/abs/2504.13119v1) | 时间: 2025-04-20 12:01 
+  当前自适应AR叙事系统多基于简单物体标签和空间坐标，导致叙事逻辑僵化，忽视了物体关系的语境意义（如床头...
+
+- **[An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research](2025-04-20/An_Empirically_Grounded_Identifiability_Theory_Will_Accelerate_Self-Supervised_Learning_Research.md)** | [原文](http://arxiv.org/abs/2504.13101v1) | 时间: 2025-04-20 12:01 
+  自监督学习（SSL）是当前AI系统的核心技术，其设计空间正快速扩展。根据柏拉图表示假说（PRH），不同SSL方法最...
 
 - **[#一组动画秒懂L1和L2范数##L1和L2怎么影响解形状#在优化问题中，L1范数鼓励稀疏，L2范数倾向均衡，但为什么会这样？Keenan Crane用5个短视频，从柱状图到二维几...](2025-04-20/#一组动画秒懂L1和L2范数##L1和L2怎么影响解形状#在优化问题中，L1范数鼓励稀疏，L2范数倾向均衡，但为什么会这样？Keenan_Crane用5个短视频，从柱状图到二维几....md)** | [原文](https://weibo.com/6105753431/PnQLAdQLC) | 时间: 2025-04-20 10:04 
   这组动画直观解释了L1和L2范数的特性差异：L2最小化（如min‖x‖₂²）会促使向量分量趋于均衡分布（柱状图等高...
