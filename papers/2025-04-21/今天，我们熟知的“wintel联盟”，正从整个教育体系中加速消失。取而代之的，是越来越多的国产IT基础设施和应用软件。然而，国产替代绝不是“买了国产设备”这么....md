@@ -4,15 +4,15 @@
 
 ## 原始摘要
 
-今天，我们熟知的“wintel联盟”，正从整个教育体系中加速消失。取而代之的，是越来越多的国产IT基础设施和应用软件。然而，国产替代绝不是“买了国产设备”这么简单。教育信创真正的困局，是CPU架构竖起的高墙。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%95%99%E8%82%B2%E4%BF%A1%E5%88%9B%23&amp;extparam=%23%E6%95%99%E8%82%B2%E4%BF%A1%E5%88%9B%23" data-hide=""><span class="surl-text">#教育信创#</span></a> <a href="https://video.weibo.com/show?fid=1034:5157989280317474" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1i0os7neifbj31hc0u04dx.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/Ke8flin1lx08nEyuE38c01041203fRPQ0E020.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745251365&amp;ssig=jDHh%2FbSzn4&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/RX9qAkzslx08nEytygGk01041201FITm0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745251365&amp;ssig=2Bm42qUo9q&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/7uhhtYBKlx08nEytlPa001041201390p0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745251365&amp;ssig=A1AuYyu8sp&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5157989280317474" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+今天，我们熟知的“wintel联盟”，正从整个教育体系中加速消失。取而代之的，是越来越多的国产IT基础设施和应用软件。然而，国产替代绝不是“买了国产设备”这么简单。教育信创真正的困局，是CPU架构竖起的高墙。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%95%99%E8%82%B2%E4%BF%A1%E5%88%9B%23&amp;extparam=%23%E6%95%99%E8%82%B2%E4%BF%A1%E5%88%9B%23" data-hide=""><span class="surl-text">#教育信创#</span></a> <a href="https://video.weibo.com/show?fid=1034:5157989280317474" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1i0os7neifbj31hc0u04dx.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/Ke8flin1lx08nEyuE38c01041203fRPQ0E020.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745254961&amp;ssig=bw0tisVELX&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/RX9qAkzslx08nEytygGk01041201FITm0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745254961&amp;ssig=U38cYeIkiw&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/7uhhtYBKlx08nEytlPa001041201390p0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745254961&amp;ssig=T9tU7qgD7G&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5157989280317474" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
 
 ## AI 摘要
 
-教育领域正在经历从"Wintel联盟"向国产IT基础设施的转型，但真正的挑战在于CPU架构差异带来的技术壁垒。国产化替代不仅是硬件更换，更面临不同架构间的兼容性问题。这一转变反映了中国在信息技术领域的自主化进程，但同时也凸显了技术生态重构的复杂性。#教育信创#正在推动教育体系的技术基础变革，其核心问题在于如何突破处理器架构差异造成的应用适配障碍。
+教育领域正经历从"wintel联盟"向国产IT基础设施的转型，但真正的挑战在于CPU架构差异带来的兼容性问题。国产替代不仅是硬件更换，更需要解决底层技术生态的适配难题。教育信息化创新面临的核心障碍是不同CPU架构之间的技术壁垒，这比单纯采购国产设备更为复杂。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-21T15:02:55Z
+- **保存时间**: 2025-04-21T16:02:50Z
 - **目录日期**: 2025-04-21
