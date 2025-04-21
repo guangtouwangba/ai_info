@@ -4,183 +4,183 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，重点关注模型输出与人类偏好的对齐问题。研究收集...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-21 07:05
-
----
-
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索，可...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-21 07:05
+**收录时间**: 2025-04-21 08:06
 
 ---
 
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统通过1万多个AI代理在虚拟社会中的...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，弥补现有评估仅关注代码正确性而忽视人类偏好的不...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-21 07:04
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-21 07:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-04-21 08:06
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。该框架直接建模音频-视觉关系，...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-21 07:04
+**收录时间**: 2025-04-21 08:06
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种新型稀疏注意力机制NSA（Native Sparse Attention），用于解决传统注意力机制在长文本处理中的高计...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-21 08:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因素，目前...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-21 07:04
+**收录时间**: 2025-04-21 08:05
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个AI代理的社会互动（500...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-04-21 08:05
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-21 07:04
-
----
-
-### [#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga Alon和Peter Sarnak曾就“最佳扩展图”展...](2025-04-21/#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga_Alon和Peter_Sarnak曾就“最佳扩展图”展....md)
-
-**摘要**: 这篇微博讲述了一个持续30多年的数学赌局结果。1980年代，数学家Noga Alon和Peter Sarnak就"最优扩展图"(Expander Graph)的...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pog4m8clj)
-**收录时间**: 2025-04-21 07:03
-
----
-
-### [#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表...](2025-04-21/#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表....md)
-
-**摘要**: 复旦大学周鹏、刘春森团队在《Nature》发表"破晓(PoX)"皮秒闪存器件研究成果，实现400皮秒(亚1纳秒)擦写速度，创...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PogEnwbAr)
-**收录时间**: 2025-04-21 07:03
-
----
-
-### [#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg Brockman都转发了：“我听到越来越多ChatG...](2025-04-21/#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg_Brockman都转发了：“我听到越来越多ChatG....md)
-
-**摘要**: 一名长期受背痛困扰的网友通过ChatGPT成功解决了10年顽疾。他此前咨询过7-8位医生，但治疗效果不佳。ChatGPT综合...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PogfN6SMu)
-**收录时间**: 2025-04-21 07:03
-
----
-
-### [#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，...](2025-04-21/#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy_Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，....md)
-
-**摘要**: 哥伦比亚大学学生Eddy Xu开发了一款AI面试眼镜，能克隆佩戴者的声音并实时生成完美回答。演示中，眼镜在面试官...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PofGYtdLQ)
-**收录时间**: 2025-04-21 07:03
-
----
-
-### [#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了# “史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文/图生图的可图、文/...](2025-04-21/#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了#_“史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文-图生图的可图、文-....md)
-
-**摘要**: 快手发布"可灵AI"2.0版本，包含文/图生图模型"可图2.0"和文/图生视频模型"可灵2.0"。据官方数据，可图2....
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PobPmhACe)
-**收录时间**: 2025-04-21 07:03
+**收录时间**: 2025-04-21 08:05
 
 ---
 
 ### [当多模态模型发展到实时、可控、可交互，一定会诞生新的内容平台。这是生数科技产品副总裁、Vidu产品负责人廖谦在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-21/当多模态模型发展到实时、可控、可交互，一定会诞生新的内容平台。这是生数科技产品副总裁、Vidu产品负责人廖谦在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)
 
-**摘要**: 生数科技产品副总裁廖谦在中国AIGC产业峰会上指出，当多模态AI模型实现实时、可控和可交互时，必将催生全新的...
+**摘要**: 生数科技产品副总裁廖谦在中国AIGC产业峰会上表示，随着多模态AI模型向实时、可控、可交互方向发展，必将催生...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pof4zarJN)
-**收录时间**: 2025-04-21 07:03
+**收录时间**: 2025-04-21 08:04
 
 ---
 
-### [Pitfalls of Evidence-Based AI Policy](2025-04-21/Pitfalls_of_Evidence-Based_AI_Policy.md)
+### [#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，...](2025-04-21/#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy_Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，....md)
 
-**摘要**: 各国正努力制定AI治理政策，但技术上仍存在不确定性和分歧。近期关于"基于证据的AI政策"的讨论强调高标准证据...
+**摘要**: 哥伦比亚大学学生Eddy Xu开发了一款AI面试眼镜，能实时克隆佩戴者声音并生成完美回答。演示视频显示，当面试官...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.09618v4)
-**收录时间**: 2025-04-21 07:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PofGYtdLQ)
+**收录时间**: 2025-04-21 08:04
+
+---
+
+### [#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了# “史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文/图生图的可图、文/...](2025-04-21/#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了#_“史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文-图生图的可图、文-....md)
+
+**摘要**: 快手发布最新视觉生成AI模型可图2.0和可灵2.0，号称"史上最强"。可图2.0在图像生成上表现优于MidJourney 7....
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PobPmhACe)
+**收录时间**: 2025-04-21 08:04
+
+---
+
+### [#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga Alon和Peter Sarnak曾就“最佳扩展图”展...](2025-04-21/#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga_Alon和Peter_Sarnak曾就“最佳扩展图”展....md)
+
+**摘要**: 数学界持续30年的著名赌局近日揭晓：关于"最优扩展图"(Ramanujan图)的稀有性，Alon和Sarnak两位数学家的预测均错误...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pog4m8clj)
+**收录时间**: 2025-04-21 08:04
+
+---
+
+### [#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg Brockman都转发了：“我听到越来越多ChatG...](2025-04-21/#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg_Brockman都转发了：“我听到越来越多ChatG....md)
+
+**摘要**: 一名网友因10年背痛求医未果，最终通过ChatGPT获得突破性解决方案。他将所有症状、治疗历史和LBA理论输入后，Cha...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PogfN6SMu)
+**收录时间**: 2025-04-21 08:04
 
 ---
 
 ### [#全球首个无限时长视频生成##新模型实现电影级AI生成#不是5秒，不是10秒，更不只是1分钟。AI视频生成，正式迎来无限时长的时代！来，话不多说，直接来看一部AI版...](2025-04-21/#全球首个无限时长视频生成##新模型实现电影级AI生成#不是5秒，不是10秒，更不只是1分钟。AI视频生成，正式迎来无限时长的时代！来，话不多说，直接来看一部AI版....md)
 
-**摘要**: 昆仑万维推出全球首个无限时长AI视频生成模型SkyReels-V2，通过"扩展"技术实现从单张照片和文字提示生成连续剧情...
+**摘要**: 昆仑万维推出全球首个无限时长AI视频生成模型SkyReels-V2，通过"扩展"技术实现电影级视频创作。该模型基于初始图...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PohJo8l07)
-**收录时间**: 2025-04-21 07:02
-
----
-
-### [A-MEM: Agentic Memory for LLM Agents](2025-04-21/A-MEM-_Agentic_Memory_for_LLM_Agents.md)
-
-**摘要**: 本文提出了一种新型的LLM智能体记忆系统，采用类似Zettelkasten方法的动态索引和链接机制组织记忆。系统为每个新...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.12110v5)
-**收录时间**: 2025-04-21 07:02
-
----
-
-### [垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会 量子位的微博视频](2025-04-21/垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会_量子位的微博视频.md)
-
-**摘要**: 轻松健康集团技术副总裁高玉石在中国AIGC产业峰会上指出，垂直领域的小模型能显著降低最小可行产品（MVP）的...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PohuJ7TEt)
-**收录时间**: 2025-04-21 07:02
+**收录时间**: 2025-04-21 08:03
 
 ---
 
 ### [#微软发布首个原生1bit模型##0.4G内存单CPU跑大模型#微软发布了首个开源“原生1bit”大模型：BitNet b1.58 2B4T。2B参数规模，用的是三进制权重（{-1, 0, 1}），...](2025-04-21/#微软发布首个原生1bit模型##0.4G内存单CPU跑大模型#微软发布了首个开源“原生1bit”大模型：BitNet_b1.58_2B4T。2B参数规模，用的是三进制权重（{-1,_0,_1}），....md)
 
-**摘要**: 微软发布全球首个开源原生1bit大模型BitNet b1.58 2B4T，采用三进制权重（-1,0,1），平均每个权重仅占1....
+**摘要**: 微软发布全球首个开源原生1bit大模型BitNet b1.58 2B4T，采用三进制权重（-1,0,1），仅需0.4GB内存即可在单CPU运行。该2...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PohITnfFD)
-**收录时间**: 2025-04-21 07:02
+**收录时间**: 2025-04-21 08:03
+
+---
+
+### [#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表...](2025-04-21/#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表....md)
+
+**摘要**: 复旦大学周鹏、刘春森团队在《Nature》发表"破晓(PoX)"皮秒闪存器件研究成果，创下400皮秒(0....
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PogEnwbAr)
+**收录时间**: 2025-04-21 08:03
+
+---
+
+### [垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会 量子位的微博视频](2025-04-21/垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会_量子位的微博视频.md)
+
+**摘要**: 轻松健康集团技术副总裁高玉石在中国AIGC产业峰会上指出，垂直小模型的应用显著降低了MVP（最小可行产品）验...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PohuJ7TEt)
+**收录时间**: 2025-04-21 08:03
 
 ---
 
 ### [#AI模型越聪明越爱编##OpenAI新模型幻觉暴增#AI越“聪明”，就越“会演”？OpenAI新模型发布后，大家体感都幻觉更多了。甚至有人测试后发出预警：使用它辅助编程...](2025-04-21/#AI模型越聪明越爱编##OpenAI新模型幻觉暴增#AI越“聪明”，就越“会演”？OpenAI新模型发布后，大家体感都幻觉更多了。甚至有人测试后发出预警：使用它辅助编程....md)
 
-**摘要**: OpenAI最新AI模型（如o3和o4-mini）被曝幻觉（虚构信息）问题显著增加，官方数据显示其幻觉率比前代高2-3倍。测试...
+**摘要**: OpenAI最新AI模型（o3和o4-mini）出现幻觉（编造信息）问题加剧，官方数据显示o3幻觉率是前代两倍，o4-mini达三倍。...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PohIO3ax3)
-**收录时间**: 2025-04-21 07:02
+**收录时间**: 2025-04-21 08:03
 
 ---
 
-### [Generative AI Act II: Test Time Scaling Drives Cognition Engineering](2025-04-21/Generative_AI_Act_II-_Test_Time_Scaling_Drives_Cognition_Engineering.md)
+### [Pitfalls of Evidence-Based AI Policy](2025-04-21/Pitfalls_of_Evidence-Based_AI_Policy.md)
 
-**摘要**: 第一代大语言模型（2020-2023）通过大规模参数和数据扩展取得显著成功，但仍存在知识滞后、浅层推理和认知局限...
+**摘要**: 全球各国正努力制定AI治理政策，但技术上仍存在不确定性。近期关于“循证AI政策”的讨论强调高标准证据要求...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.13828v1)
-**收录时间**: 2025-04-21 07:01
+**原始链接**: [查看原文](http://arxiv.org/abs/2502.09618v4)
+**收录时间**: 2025-04-21 08:02
+
+---
+
+### [ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents](2025-04-21/ChatNekoHacker-_Real-Time_Fan_Engagement_with_Conversational_Agents.md)
+
+**摘要**: ChatNekoHacker是一个增强音乐人粉丝互动的实时对话系统，整合了Amazon Bedrock Agents（自主对话）、Unity（沉浸式3D直播...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.13793v1)
+**收录时间**: 2025-04-21 08:02
+
+---
+
+### [Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse](2025-04-21/Reinforcement_Learning_with_Graph_Attention_for_Routing_and_Wavelength_Assignment_with_Lightpath_Reuse.md)
+
+**摘要**: 本文研究了固定栅格网络中带灵活速率转发器的路由与波长分配问题（RWA-LR），提出了一种基于图注意力网络的强...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2502.14741v2)
+**收录时间**: 2025-04-21 08:02
 
 ---
 
@@ -188,95 +188,95 @@
 
 ### 2025-04-21 (46篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-21 07:05 
-  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，重点关注模型输出与人类偏好的对齐问题。研究收集...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-21 08:06 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-21 07:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索，可...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-21 08:06 
+  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，弥补现有评估仅关注代码正确性而忽视人类偏好的不...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-21 07:04 
-  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统通过1万多个AI代理在虚拟社会中的...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-21 08:06 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-21 07:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-21 08:05 
+  该论文提出了一种新型稀疏注意力机制NSA（Native Sparse Attention），用于解决传统注意力机制在长文本处理中的高计...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-21 07:04 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。该框架直接建模音频-视觉关系，...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-21 08:05 
+  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因素，目前...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-21 07:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-21 08:05 
+  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个AI代理的社会互动（500...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-21 07:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-21 08:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
 
-- **[#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga Alon和Peter Sarnak曾就“最佳扩展图”展...](2025-04-21/#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga_Alon和Peter_Sarnak曾就“最佳扩展图”展....md)** | [原文](https://weibo.com/6105753431/Pog4m8clj) | 时间: 2025-04-21 07:03 
-  这篇微博讲述了一个持续30多年的数学赌局结果。1980年代，数学家Noga Alon和Peter Sarnak就"最优扩展图"(Expander Graph)的...
+- **[当多模态模型发展到实时、可控、可交互，一定会诞生新的内容平台。这是生数科技产品副总裁、Vidu产品负责人廖谦在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-21/当多模态模型发展到实时、可控、可交互，一定会诞生新的内容平台。这是生数科技产品副总裁、Vidu产品负责人廖谦在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/Pof4zarJN) | 时间: 2025-04-21 08:04 
+  生数科技产品副总裁廖谦在中国AIGC产业峰会上表示，随着多模态AI模型向实时、可控、可交互方向发展，必将催生...
 
-- **[#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表...](2025-04-21/#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表....md)** | [原文](https://weibo.com/6105753431/PogEnwbAr) | 时间: 2025-04-21 07:03 
-  复旦大学周鹏、刘春森团队在《Nature》发表"破晓(PoX)"皮秒闪存器件研究成果，实现400皮秒(亚1纳秒)擦写速度，创...
+- **[#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，...](2025-04-21/#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy_Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，....md)** | [原文](https://weibo.com/6105753431/PofGYtdLQ) | 时间: 2025-04-21 08:04 
+  哥伦比亚大学学生Eddy Xu开发了一款AI面试眼镜，能实时克隆佩戴者声音并生成完美回答。演示视频显示，当面试官...
 
-- **[#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg Brockman都转发了：“我听到越来越多ChatG...](2025-04-21/#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg_Brockman都转发了：“我听到越来越多ChatG....md)** | [原文](https://weibo.com/6105753431/PogfN6SMu) | 时间: 2025-04-21 07:03 
-  一名长期受背痛困扰的网友通过ChatGPT成功解决了10年顽疾。他此前咨询过7-8位医生，但治疗效果不佳。ChatGPT综合...
+- **[#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了# “史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文/图生图的可图、文/...](2025-04-21/#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了#_“史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文-图生图的可图、文-....md)** | [原文](https://weibo.com/6105753431/PobPmhACe) | 时间: 2025-04-21 08:04 
+  快手发布最新视觉生成AI模型可图2.0和可灵2.0，号称"史上最强"。可图2.0在图像生成上表现优于MidJourney 7....
 
-- **[#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，...](2025-04-21/#戴AI眼镜面试##能克隆声音的AI眼镜#面试时戴个AI眼镜，动嘴对对口型，面试就稳了？这是哥大学生Eddy_Xu的最新项目——这款AI面试眼镜能精准克隆佩戴者的声音，....md)** | [原文](https://weibo.com/6105753431/PofGYtdLQ) | 时间: 2025-04-21 07:03 
-  哥伦比亚大学学生Eddy Xu开发了一款AI面试眼镜，能克隆佩戴者的声音并实时生成完美回答。演示中，眼镜在面试官...
+- **[#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga Alon和Peter Sarnak曾就“最佳扩展图”展...](2025-04-21/#三十年数学赌局落幕##最优扩展图竟占三分之二#数学界的传奇赌局，三十多年后终于迎来了结果。1980年代末，数学家Noga_Alon和Peter_Sarnak曾就“最佳扩展图”展....md)** | [原文](https://weibo.com/6105753431/Pog4m8clj) | 时间: 2025-04-21 08:04 
+  数学界持续30年的著名赌局近日揭晓：关于"最优扩展图"(Ramanujan图)的稀有性，Alon和Sarnak两位数学家的预测均错误...
 
-- **[#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了# “史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文/图生图的可图、文/...](2025-04-21/#最强视觉生成模型获马斯克连夜关注##吉卜力风格转绘不需要GPT了#_“史上最强视觉生成模型”，现在属于快手。一基双子的可灵AI基础模型——文-图生图的可图、文-....md)** | [原文](https://weibo.com/6105753431/PobPmhACe) | 时间: 2025-04-21 07:03 
-  快手发布"可灵AI"2.0版本，包含文/图生图模型"可图2.0"和文/图生视频模型"可灵2.0"。据官方数据，可图2....
+- **[#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg Brockman都转发了：“我听到越来越多ChatG...](2025-04-21/#ChatGPT解决10年背痛顽疾##AI破解人类医生难解之迷#10年背痛求医路，ChatGPT一招就解决了！这事儿，连OpenAI总裁Greg_Brockman都转发了：“我听到越来越多ChatG....md)** | [原文](https://weibo.com/6105753431/PogfN6SMu) | 时间: 2025-04-21 08:04 
+  一名网友因10年背痛求医未果，最终通过ChatGPT获得突破性解决方案。他将所有症状、治疗历史和LBA理论输入后，Cha...
 
-- **[当多模态模型发展到实时、可控、可交互，一定会诞生新的内容平台。这是生数科技产品副总裁、Vidu产品负责人廖谦在中国AIGC产业峰会分享的思考。#中国AIGC产业峰...](2025-04-21/当多模态模型发展到实时、可控、可交互，一定会诞生新的内容平台。这是生数科技产品副总裁、Vidu产品负责人廖谦在中国AIGC产业峰会分享的思考。#中国AIGC产业峰....md)** | [原文](https://weibo.com/6105753431/Pof4zarJN) | 时间: 2025-04-21 07:03 
-  生数科技产品副总裁廖谦在中国AIGC产业峰会上指出，当多模态AI模型实现实时、可控和可交互时，必将催生全新的...
+- **[#全球首个无限时长视频生成##新模型实现电影级AI生成#不是5秒，不是10秒，更不只是1分钟。AI视频生成，正式迎来无限时长的时代！来，话不多说，直接来看一部AI版...](2025-04-21/#全球首个无限时长视频生成##新模型实现电影级AI生成#不是5秒，不是10秒，更不只是1分钟。AI视频生成，正式迎来无限时长的时代！来，话不多说，直接来看一部AI版....md)** | [原文](https://weibo.com/6105753431/PohJo8l07) | 时间: 2025-04-21 08:03 
+  昆仑万维推出全球首个无限时长AI视频生成模型SkyReels-V2，通过"扩展"技术实现电影级视频创作。该模型基于初始图...
 
-- **[Pitfalls of Evidence-Based AI Policy](2025-04-21/Pitfalls_of_Evidence-Based_AI_Policy.md)** | [原文](http://arxiv.org/abs/2502.09618v4) | 时间: 2025-04-21 07:02 
-  各国正努力制定AI治理政策，但技术上仍存在不确定性和分歧。近期关于"基于证据的AI政策"的讨论强调高标准证据...
+- **[#微软发布首个原生1bit模型##0.4G内存单CPU跑大模型#微软发布了首个开源“原生1bit”大模型：BitNet b1.58 2B4T。2B参数规模，用的是三进制权重（{-1, 0, 1}），...](2025-04-21/#微软发布首个原生1bit模型##0.4G内存单CPU跑大模型#微软发布了首个开源“原生1bit”大模型：BitNet_b1.58_2B4T。2B参数规模，用的是三进制权重（{-1,_0,_1}），....md)** | [原文](https://weibo.com/6105753431/PohITnfFD) | 时间: 2025-04-21 08:03 
+  微软发布全球首个开源原生1bit大模型BitNet b1.58 2B4T，采用三进制权重（-1,0,1），仅需0.4GB内存即可在单CPU运行。该2...
 
-- **[#全球首个无限时长视频生成##新模型实现电影级AI生成#不是5秒，不是10秒，更不只是1分钟。AI视频生成，正式迎来无限时长的时代！来，话不多说，直接来看一部AI版...](2025-04-21/#全球首个无限时长视频生成##新模型实现电影级AI生成#不是5秒，不是10秒，更不只是1分钟。AI视频生成，正式迎来无限时长的时代！来，话不多说，直接来看一部AI版....md)** | [原文](https://weibo.com/6105753431/PohJo8l07) | 时间: 2025-04-21 07:02 
-  昆仑万维推出全球首个无限时长AI视频生成模型SkyReels-V2，通过"扩展"技术实现从单张照片和文字提示生成连续剧情...
+- **[#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表...](2025-04-21/#中国研制出全球最快闪存器##史上最快闪存技术#目前人类最快电荷存储器——超高速闪存器件，被复旦大学研制成功！复旦大学周鹏、刘春森团队近期在Nature上，发表....md)** | [原文](https://weibo.com/6105753431/PogEnwbAr) | 时间: 2025-04-21 08:03 
+  复旦大学周鹏、刘春森团队在《Nature》发表"破晓(PoX)"皮秒闪存器件研究成果，创下400皮秒(0....
 
-- **[A-MEM: Agentic Memory for LLM Agents](2025-04-21/A-MEM-_Agentic_Memory_for_LLM_Agents.md)** | [原文](http://arxiv.org/abs/2502.12110v5) | 时间: 2025-04-21 07:02 
-  本文提出了一种新型的LLM智能体记忆系统，采用类似Zettelkasten方法的动态索引和链接机制组织记忆。系统为每个新...
+- **[垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会 量子位的微博视频](2025-04-21/垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PohuJ7TEt) | 时间: 2025-04-21 08:03 
+  轻松健康集团技术副总裁高玉石在中国AIGC产业峰会上指出，垂直小模型的应用显著降低了MVP（最小可行产品）验...
 
-- **[垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会 量子位的微博视频](2025-04-21/垂直小模型大大降低了MVP验证的成本。轻松健康集团技术副总裁高玉石在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PohuJ7TEt) | 时间: 2025-04-21 07:02 
-  轻松健康集团技术副总裁高玉石在中国AIGC产业峰会上指出，垂直领域的小模型能显著降低最小可行产品（MVP）的...
+- **[#AI模型越聪明越爱编##OpenAI新模型幻觉暴增#AI越“聪明”，就越“会演”？OpenAI新模型发布后，大家体感都幻觉更多了。甚至有人测试后发出预警：使用它辅助编程...](2025-04-21/#AI模型越聪明越爱编##OpenAI新模型幻觉暴增#AI越“聪明”，就越“会演”？OpenAI新模型发布后，大家体感都幻觉更多了。甚至有人测试后发出预警：使用它辅助编程....md)** | [原文](https://weibo.com/6105753431/PohIO3ax3) | 时间: 2025-04-21 08:03 
+  OpenAI最新AI模型（o3和o4-mini）出现幻觉（编造信息）问题加剧，官方数据显示o3幻觉率是前代两倍，o4-mini达三倍。...
 
-- **[#微软发布首个原生1bit模型##0.4G内存单CPU跑大模型#微软发布了首个开源“原生1bit”大模型：BitNet b1.58 2B4T。2B参数规模，用的是三进制权重（{-1, 0, 1}），...](2025-04-21/#微软发布首个原生1bit模型##0.4G内存单CPU跑大模型#微软发布了首个开源“原生1bit”大模型：BitNet_b1.58_2B4T。2B参数规模，用的是三进制权重（{-1,_0,_1}），....md)** | [原文](https://weibo.com/6105753431/PohITnfFD) | 时间: 2025-04-21 07:02 
-  微软发布全球首个开源原生1bit大模型BitNet b1.58 2B4T，采用三进制权重（-1,0,1），平均每个权重仅占1....
+- **[Pitfalls of Evidence-Based AI Policy](2025-04-21/Pitfalls_of_Evidence-Based_AI_Policy.md)** | [原文](http://arxiv.org/abs/2502.09618v4) | 时间: 2025-04-21 08:02 
+  全球各国正努力制定AI治理政策，但技术上仍存在不确定性。近期关于“循证AI政策”的讨论强调高标准证据要求...
 
-- **[#AI模型越聪明越爱编##OpenAI新模型幻觉暴增#AI越“聪明”，就越“会演”？OpenAI新模型发布后，大家体感都幻觉更多了。甚至有人测试后发出预警：使用它辅助编程...](2025-04-21/#AI模型越聪明越爱编##OpenAI新模型幻觉暴增#AI越“聪明”，就越“会演”？OpenAI新模型发布后，大家体感都幻觉更多了。甚至有人测试后发出预警：使用它辅助编程....md)** | [原文](https://weibo.com/6105753431/PohIO3ax3) | 时间: 2025-04-21 07:02 
-  OpenAI最新AI模型（如o3和o4-mini）被曝幻觉（虚构信息）问题显著增加，官方数据显示其幻觉率比前代高2-3倍。测试...
+- **[ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents](2025-04-21/ChatNekoHacker-_Real-Time_Fan_Engagement_with_Conversational_Agents.md)** | [原文](http://arxiv.org/abs/2504.13793v1) | 时间: 2025-04-21 08:02 
+  ChatNekoHacker是一个增强音乐人粉丝互动的实时对话系统，整合了Amazon Bedrock Agents（自主对话）、Unity（沉浸式3D直播...
 
-- **[Generative AI Act II: Test Time Scaling Drives Cognition Engineering](2025-04-21/Generative_AI_Act_II-_Test_Time_Scaling_Drives_Cognition_Engineering.md)** | [原文](http://arxiv.org/abs/2504.13828v1) | 时间: 2025-04-21 07:01 
-  第一代大语言模型（2020-2023）通过大规模参数和数据扩展取得显著成功，但仍存在知识滞后、浅层推理和认知局限...
+- **[Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse](2025-04-21/Reinforcement_Learning_with_Graph_Attention_for_Routing_and_Wavelength_Assignment_with_Lightpath_Reuse.md)** | [原文](http://arxiv.org/abs/2502.14741v2) | 时间: 2025-04-21 08:02 
+  本文研究了固定栅格网络中带灵活速率转发器的路由与波长分配问题（RWA-LR），提出了一种基于图注意力网络的强...
 
-- **[ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents](2025-04-21/ChatNekoHacker-_Real-Time_Fan_Engagement_with_Conversational_Agents.md)** | [原文](http://arxiv.org/abs/2504.13793v1) | 时间: 2025-04-21 07:01 
-  ChatNekoHacker是一个增强音乐人粉丝互动的实时对话系统，整合了Amazon Bedrock Agents（自主对话）、Unity（3D直播场景）...
+- **[A-MEM: Agentic Memory for LLM Agents](2025-04-21/A-MEM-_Agentic_Memory_for_LLM_Agents.md)** | [原文](http://arxiv.org/abs/2502.12110v5) | 时间: 2025-04-21 08:02 
+  本文提出了一种新型的LLM智能体记忆系统，能够动态组织记忆并建立知识网络。该系统基于Zettelkasten方法，通过动...
 
-- **[Science Hierarchography: Hierarchical Organization of Science Literature](2025-04-21/Science_Hierarchography-_Hierarchical_Organization_of_Science_Literature.md)** | [原文](http://arxiv.org/abs/2504.13834v1) | 时间: 2025-04-21 07:01 
-  该研究提出了"科学层级图谱"(SCIENCE HIERARCHOGRAPHY)，旨在将科学文献组织成多层次分类体系，从广泛领域到具体研究...
+- **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](2025-04-21/GUI-R1_-_A_Generalist_R1-Style_Vision-Language_Action_Model_For_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2504.10458v3) | 时间: 2025-04-21 08:02 
+  现有基于大视觉语言模型（LVLM）监督微调的GUI代理方法存在数据需求大、泛化能力差的问题。为此，研究者提出...
 
-- **[Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse](2025-04-21/Reinforcement_Learning_with_Graph_Attention_for_Routing_and_Wavelength_Assignment_with_Lightpath_Reuse.md)** | [原文](http://arxiv.org/abs/2502.14741v2) | 时间: 2025-04-21 07:01 
-  本文研究了固定网格网络中结合灵活速率转发器的路由和波长分配问题（RWA-LR）。通过对比启发式算法，发现按跳...
+- **[LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](2025-04-21/LearnAct-_Few-Shot_Mobile_GUI_Agent_with_a_Unified_Demonstration_Benchmark.md)** | [原文](http://arxiv.org/abs/2504.13805v1) | 时间: 2025-04-21 08:01 
+  该研究提出通过人类示范增强移动GUI代理的能力，而非依赖大规模数据集。团队开发了首个专门用于示范学习的综...
 
-- **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](2025-04-21/GUI-R1_-_A_Generalist_R1-Style_Vision-Language_Action_Model_For_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2504.10458v3) | 时间: 2025-04-21 07:01 
-  现有基于大规模视觉语言模型（LVLM）的图形用户界面（GUI）代理通常依赖监督微调方法，但存在数据需求量大、...
+- **[Audit Cards: Contextualizing AI Evaluations](2025-04-21/Audit_Cards-_Contextualizing_AI_Evaluations.md)** | [原文](http://arxiv.org/abs/2504.13839v1) | 时间: 2025-04-21 08:01 
+  当前AI治理框架依赖审计，但评估结果需要背景信息才能有效解读。现有研究多关注技术标准，而忽略了评估的社...
 
-- **[LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](2025-04-21/LearnAct-_Few-Shot_Mobile_GUI_Agent_with_a_Unified_Demonstration_Benchmark.md)** | [原文](http://arxiv.org/abs/2504.13805v1) | 时间: 2025-04-21 07:01 
-  该研究提出通过人类示范增强移动GUI代理能力的方法，以解决传统大规模数据预训练在多样化场景中的泛化难题。...
+- **[Science Hierarchography: Hierarchical Organization of Science Literature](2025-04-21/Science_Hierarchography-_Hierarchical_Organization_of_Science_Literature.md)** | [原文](http://arxiv.org/abs/2504.13834v1) | 时间: 2025-04-21 08:01 
+  该研究提出"科学层级图谱"(SCIENCE HIERARCHOGRAPHY)，旨在将科学文献组织成多层次分类体系，从宏观领域到具体研究。...
 
-- **[Parameter-Efficient Continual Fine-Tuning: A Survey](2025-04-21/Parameter-Efficient_Continual_Fine-Tuning-_A_Survey.md)** | [原文](http://arxiv.org/abs/2504.13822v1) | 时间: 2025-04-21 07:01 
-  大型预训练网络的出现为AI领域带来了革命性突破，但其仍受限于传统机器学习对独立同分布(i.i.d....
+- **[Parameter-Efficient Continual Fine-Tuning: A Survey](2025-04-21/Parameter-Efficient_Continual_Fine-Tuning-_A_Survey.md)** | [原文](http://arxiv.org/abs/2504.13822v1) | 时间: 2025-04-21 08:01 
+  这篇摘要探讨了大型预训练网络在动态学习环境中的局限性，以及持续学习(CL)和参数高效微调(PEFT)的结合潜力。...
 
-- **[Audit Cards: Contextualizing AI Evaluations](2025-04-21/Audit_Cards-_Contextualizing_AI_Evaluations.md)** | [原文](http://arxiv.org/abs/2504.13839v1) | 时间: 2025-04-21 07:00 
-  当前AI治理框架依赖审计，但评估结果需要结合背景信息才能有效解读。现有研究主要关注技术标准，却忽视了审...
+- **[Generative AI Act II: Test Time Scaling Drives Cognition Engineering](2025-04-21/Generative_AI_Act_II-_Test_Time_Scaling_Drives_Cognition_Engineering.md)** | [原文](http://arxiv.org/abs/2504.13828v1) | 时间: 2025-04-21 08:01 
+  第一代大语言模型（2020-2023）通过大规模参数和数据扩展取得显著成功，但仍存在知识滞后、浅层推理和认知受限...
+
+- **[2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪...](2025-04-21/2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪....md)** | [原文](https://weibo.com/6105753431/Po9V1ysYa) | 时间: 2025-04-21 06:03 
+  2025年4月19日，天工人形机器人在首届人形机器人马拉松比赛中以2小时40分钟夺冠，但成绩仍远落后于人类冠军。...
 
 - **[清华张亚勤：#10年后机器人将比人多##清华院长谈AI大模型五个发展方向#“10年后，机器人将可能比人都多，会陆续进入工厂、社会，最终形态是进入家庭。未来每个人...](2025-04-21/清华张亚勤：#10年后机器人将比人多##清华院长谈AI大模型五个发展方向#“10年后，机器人将可能比人都多，会陆续进入工厂、社会，最终形态是进入家庭。未来每个人....md)** | [原文](https://weibo.com/6105753431/Pob8Zm5DN) | 时间: 2025-04-21 06:03 
   清华大学智能产业研究院院长张亚勤预测，10年内机器人数量将超过人类，并进入家庭。AI大模型将朝五个方向发...
 
 - **[#天工为什么会选择全尺寸##天工机器人半马夺冠# 真·见证历史了。全球首个人形机器人半程马拉松在北京亦庄开跑，足足21公里。【图1】火爆程度，就连央视都现场直...](2025-04-21/#天工为什么会选择全尺寸##天工机器人半马夺冠#_真·见证历史了。全球首个人形机器人半程马拉松在北京亦庄开跑，足足21公里。【图1】火爆程度，就连央视都现场直....md)** | [原文](https://weibo.com/6105753431/PoaYGddp1) | 时间: 2025-04-21 06:03 
   北京人形机器人创新中心研发的全尺寸人形机器人"天工Ultra"创造了历史，成为全球首个完成半程马拉松(21公里)的...
-
-- **[2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪...](2025-04-21/2025年4月19日，人形机器人马拉松比赛首秀，天工机器人摘得了冠军——耗时2小时40分钟。不过，这个成绩跟人类冠军一比，就有点不够看了。人形机器人跑步，难在哪....md)** | [原文](https://weibo.com/6105753431/Po9V1ysYa) | 时间: 2025-04-21 06:03 
-  2025年4月19日，天工人形机器人在首届人形机器人马拉松比赛中以2小时40分钟夺冠，但成绩仍远落后于人类冠军。...
 
 - **[#具身智能数据新思路##具身空间数据技术路线#具身智能要真正“聪明”，关键不只是跑得快，而是得能“看懂”世界。问题是，采集现实数据太贵、太慢，于是，“合成...](2025-04-21/#具身智能数据新思路##具身空间数据技术路线#具身智能要真正“聪明”，关键不只是跑得快，而是得能“看懂”世界。问题是，采集现实数据太贵、太慢，于是，“合成....md)** | [原文](https://weibo.com/6105753431/PobeKjnDg) | 时间: 2025-04-21 06:03 
   具身智能发展面临现实数据采集成本高的问题，合成数据成为新方向。当前主要有两种技术路线：1）视频合成+3D...
