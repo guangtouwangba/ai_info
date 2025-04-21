@@ -32,11 +32,11 @@ memory system is available at https://github.com/agiresearch/A-mem.
 
 ## AI 摘要
 
-本文提出了一种新型的LLM智能体记忆系统，通过动态索引和链接构建互联知识网络。该系统基于Zettelkasten方法，为每条记忆生成包含上下文描述、关键词和标签的结构化笔记，并分析历史记忆建立关联。新记忆的加入会触发现有记忆的上下文更新，实现知识网络的持续优化。实验表明，该系统在六个基础模型上优于现有方法。代码已开源：评估代码见https://github.com/WujiangXu/AgenticMemory，系统代码见https://github.com/agiresearch/A-mem。该系统结合结构化组织和智能体决策，实现了更灵活的情境感知记忆管理。
+本文提出了一种新型的LLM智能体记忆系统，通过动态索引和链接构建互连知识网络。该系统基于Zettelkasten方法，在添加新记忆时生成包含上下文描述、关键词和标签的结构化笔记，并分析历史记忆建立关联。新记忆的整合会触发现有记忆的更新，实现网络持续优化。该方法结合了Zettelkasten的结构化组织和智能体驱动的灵活性，在6个基础模型上的实验显示优于现有技术。相关代码已开源：性能评估代码见https://github.com/WujiangXu/AgenticMemory，系统代码见https://github.com/agiresearch/A-mem。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-21T03:42:15Z
+- **保存时间**: 2025-04-21T04:02:38Z
 - **目录日期**: 2025-04-21
