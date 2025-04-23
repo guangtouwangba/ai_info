@@ -4,75 +4,84 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究者从真实用户查询中精...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-23 05:04
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-23 05:04
-
----
-
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译、论文写作支持...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-23 05:04
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-23 05:03
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-23 05:03
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-23 05:03
+**收录时间**: 2025-04-23 06:04
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理的社会互动（500万次）。该系统通过...
+**摘要**: 这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统。该系统通过10,000多个AI代理和500万次互...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-23 05:03
+**收录时间**: 2025-04-23 06:04
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-04-23 06:04
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct数据集。CodeAre...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-04-23 06:04
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-04-23 06:03
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练必须使用自适应梯度方法（如Adam）的传统认知。该方法通过...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-04-23 06:03
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因，...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-04-23 06:03
 
 ---
 
 ### [#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)
 
-**摘要**: 清华大学与英伟达联合研究发现，掩码扩散模型（masked diffusion models）存在性能夸大问题。该模型通过32位计算降...
+**摘要**: 清华大学与英伟达联合研究发现，掩码扩散模型存在性能包装问题。该模型通过32位计算降低温度参数使表现看似...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PoziF5gBz)
-**收录时间**: 2025-04-23 05:02
+**收录时间**: 2025-04-23 06:02
+
+---
+
+### [旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)
+
+**摘要**: 无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，需转向平台化服务以...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozpZ2gjB)
+**收录时间**: 2025-04-23 06:02
 
 ---
 
@@ -81,7 +90,70 @@
 **摘要**: 上海人工智能实验室联合高校推出LEGO-Puzzles基准，测试大模型多步空间推理能力。GPT-4o以57.7%准确率领先，但远低...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PozojxnVK)
-**收录时间**: 2025-04-23 05:02
+**收录时间**: 2025-04-23 06:02
+
+---
+
+### [#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)
+
+**摘要**: 心影随形科技创始人刘斌新提出用AI创造快乐的理念，专注于开发理解玩家情绪的游戏陪伴AI，而非抢占用户时间...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozhYydoA)
+**收录时间**: 2025-04-23 06:02
+
+---
+
+### [#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)
+
+**摘要**: OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的得分（是第二名的两倍）和1.5美元/任务的低成本成为"性价...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PoznX3Xgo)
+**收录时间**: 2025-04-23 06:02
+
+---
+
+### [#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)
+
+**摘要**: Cursor母公司Anysphere发展迅猛，营收平均每2个月翻一番，年收入约3亿美元，因此拒绝了OpenAI的收购。OpenAI转而计划...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozNUDIZV)
+**收录时间**: 2025-04-23 06:01
+
+---
+
+### [#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat ⊷ the Poet Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果...](2025-04-23/#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat_⊷_the_Poet_Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果....md)
+
+**摘要**: 网友Kat展示了Gemini 2.5大模型分析名画《宫娥》的惊艳能力。通过自然语言指令，模型不仅能识别画中人物、家具...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PoAdOpmLV)
+**收录时间**: 2025-04-23 06:01
+
+---
+
+### [#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)
+
+**摘要**: OpenAI表示若法院要求谷歌出售Chrome浏览器愿意收购，这源于美国司法部对谷歌反垄断调查。调查发现谷歌通过独占...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozNi0KE5)
+**收录时间**: 2025-04-23 06:01
+
+---
+
+### [#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)
+
+**摘要**: Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系：1）始终遵循"帮助、诚实、无害"的核心道...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozNAdeXq)
+**收录时间**: 2025-04-23 06:01
+
+---
+
+### [#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)
+
+**摘要**: 轻松健康集团技术副总裁高玉石指出，AI在健康领域落地的关键在于解决用户核心痛点。当前用户对AI接受度提高...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozSNbDwi)
+**收录时间**: 2025-04-23 06:01
 
 ---
 
@@ -94,66 +166,12 @@
 
 ---
 
-### [#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)
+### [#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项...](2025-04-23/#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项....md)
 
-**摘要**: OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的得分（是第二名的两倍）和1.5美元/任务的低成本成为当前...
+**摘要**: MIT研究人员开发了一项新技术，通过序列蒙特卡洛方法让AI并行生成多个代码候选，动态筛选最优解，确保代码结...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PoznX3Xgo)
-**收录时间**: 2025-04-23 05:02
-
----
-
-### [#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)
-
-**摘要**: 心影随形科技创始人刘斌新提出用AI创造快乐，而非仅作为效率工具。其团队聚焦游戏场景，开发能理解玩家情绪...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozhYydoA)
-**收录时间**: 2025-04-23 05:02
-
----
-
-### [旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)
-
-**摘要**: 无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，强调需提升平台化服...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozpZ2gjB)
-**收录时间**: 2025-04-23 05:01
-
----
-
-### [#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)
-
-**摘要**: Cursor母公司Anysphere营收增速惊人，平均每2个月翻倍，年收入达3亿美元，因此拒绝了OpenAI的收购。OpenAI转而计划以3...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozNUDIZV)
-**收录时间**: 2025-04-23 05:01
-
----
-
-### [#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)
-
-**摘要**: 轻松健康集团技术副总裁高玉石分享了AI在健康领域落地的关键点：用户需求是核心。当前用户对AI接受度提高但...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozSNbDwi)
-**收录时间**: 2025-04-23 05:01
-
----
-
-### [#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)
-
-**摘要**: Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系，主要基于"帮助、诚实、无害"原则运作。研...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozNAdeXq)
-**收录时间**: 2025-04-23 05:01
-
----
-
-### [#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)
-
-**摘要**: OpenAI表示若谷歌因反垄断调查被迫出售Chrome浏览器，其有意收购。美国司法部指控谷歌通过默认设置垄断搜索市场...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozNi0KE5)
-**收录时间**: 2025-04-23 05:01
+**原始链接**: [查看原文](https://weibo.com/6105753431/PosQbgE05)
+**收录时间**: 2025-04-23 04:02
 
 ---
 
@@ -166,78 +184,66 @@
 
 ---
 
-### [#一键生成超逼真语音##带语气词的文本转语音#Dia：一键生成超逼真对话的TTS文本转语音工具。有多逼真？Dia不仅能够控制语音的情感和语气，还能加入笑声、咳嗽、...](2025-04-23/#一键生成超逼真语音##带语气词的文本转语音#Dia：一键生成超逼真对话的TTS文本转语音工具。有多逼真？Dia不仅能够控制语音的情感和语气，还能加入笑声、咳嗽、....md)
-
-**摘要**: Dia是一款由Nari Labs开发的超逼真文本转语音（TTS）工具，支持生成带情感、语气和自然音效（如笑声、咳嗽）的对...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Posi69y1w)
-**收录时间**: 2025-04-23 04:02
-
----
-
-### [#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项...](2025-04-23/#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项....md)
-
-**摘要**: MIT研究人员开发了一项新技术，通过序列蒙特卡洛方法让AI并行生成多个代码候选，动态筛选最优解，确保代码结...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PosQbgE05)
-**收录时间**: 2025-04-23 04:02
-
----
-
 ## 历史内容
 
-### 2025-04-23 (36篇)
+### 2025-04-23 (37篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-23 05:04 
-  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究者从真实用户查询中精...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-23 06:04 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-23 05:04 
-  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-23 06:04 
+  这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统。该系统通过10,000多个AI代理和500万次互...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-23 05:04 
-  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译、论文写作支持...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-23 06:04 
+  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-23 05:03 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-23 06:04 
+  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct数据集。CodeAre...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-23 05:03 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-23 06:03 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-23 05:03 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-23 06:03 
+  这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练必须使用自适应梯度方法（如Adam）的传统认知。该方法通过...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-23 05:03 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理的社会互动（500万次）。该系统通过...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-23 06:03 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因，...
 
-- **[#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)** | [原文](https://weibo.com/6105753431/PoziF5gBz) | 时间: 2025-04-23 05:02 
-  清华大学与英伟达联合研究发现，掩码扩散模型（masked diffusion models）存在性能夸大问题。该模型通过32位计算降...
+- **[#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)** | [原文](https://weibo.com/6105753431/PoziF5gBz) | 时间: 2025-04-23 06:02 
+  清华大学与英伟达联合研究发现，掩码扩散模型存在性能包装问题。该模型通过32位计算降低温度参数使表现看似...
 
-- **[#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同...](2025-04-23/#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同....md)** | [原文](https://weibo.com/6105753431/PozojxnVK) | 时间: 2025-04-23 05:02 
+- **[旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)** | [原文](https://weibo.com/6105753431/PozpZ2gjB) | 时间: 2025-04-23 06:02 
+  无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，需转向平台化服务以...
+
+- **[#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同...](2025-04-23/#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同....md)** | [原文](https://weibo.com/6105753431/PozojxnVK) | 时间: 2025-04-23 06:02 
   上海人工智能实验室联合高校推出LEGO-Puzzles基准，测试大模型多步空间推理能力。GPT-4o以57.7%准确率领先，但远低...
+
+- **[#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)** | [原文](https://weibo.com/6105753431/PozhYydoA) | 时间: 2025-04-23 06:02 
+  心影随形科技创始人刘斌新提出用AI创造快乐的理念，专注于开发理解玩家情绪的游戏陪伴AI，而非抢占用户时间...
+
+- **[#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)** | [原文](https://weibo.com/6105753431/PoznX3Xgo) | 时间: 2025-04-23 06:02 
+  OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的得分（是第二名的两倍）和1.5美元/任务的低成本成为"性价...
+
+- **[#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)** | [原文](https://weibo.com/6105753431/PozNUDIZV) | 时间: 2025-04-23 06:01 
+  Cursor母公司Anysphere发展迅猛，营收平均每2个月翻一番，年收入约3亿美元，因此拒绝了OpenAI的收购。OpenAI转而计划...
+
+- **[#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat ⊷ the Poet Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果...](2025-04-23/#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat_⊷_the_Poet_Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果....md)** | [原文](https://weibo.com/6105753431/PoAdOpmLV) | 时间: 2025-04-23 06:01 
+  网友Kat展示了Gemini 2.5大模型分析名画《宫娥》的惊艳能力。通过自然语言指令，模型不仅能识别画中人物、家具...
+
+- **[#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)** | [原文](https://weibo.com/6105753431/PozNi0KE5) | 时间: 2025-04-23 06:01 
+  OpenAI表示若法院要求谷歌出售Chrome浏览器愿意收购，这源于美国司法部对谷歌反垄断调查。调查发现谷歌通过独占...
+
+- **[#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)** | [原文](https://weibo.com/6105753431/PozNAdeXq) | 时间: 2025-04-23 06:01 
+  Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系：1）始终遵循"帮助、诚实、无害"的核心道...
+
+- **[#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)** | [原文](https://weibo.com/6105753431/PozSNbDwi) | 时间: 2025-04-23 06:01 
+  轻松健康集团技术副总裁高玉石指出，AI在健康领域落地的关键在于解决用户核心痛点。当前用户对AI接受度提高...
 
 - **[开源项目RD-Agent的设计初衷，是让每一个研究员、数据科学家都有一个Agent做科研助理。这是微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会分享的思考。#中国...](2025-04-23/开源项目RD-Agent的设计初衷，是让每一个研究员、数据科学家都有一个Agent做科研助理。这是微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会分享的思考。#中国....md)** | [原文](https://weibo.com/6105753431/PoxVXyQNQ) | 时间: 2025-04-23 05:02 
   微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会上介绍了开源项目RD-Agent的设计理念。该项目旨在为研究人员...
 
-- **[#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)** | [原文](https://weibo.com/6105753431/PoznX3Xgo) | 时间: 2025-04-23 05:02 
-  OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的得分（是第二名的两倍）和1.5美元/任务的低成本成为当前...
-
-- **[#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)** | [原文](https://weibo.com/6105753431/PozhYydoA) | 时间: 2025-04-23 05:02 
-  心影随形科技创始人刘斌新提出用AI创造快乐，而非仅作为效率工具。其团队聚焦游戏场景，开发能理解玩家情绪...
-
-- **[旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)** | [原文](https://weibo.com/6105753431/PozpZ2gjB) | 时间: 2025-04-23 05:01 
-  无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，强调需提升平台化服...
-
-- **[#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)** | [原文](https://weibo.com/6105753431/PozNUDIZV) | 时间: 2025-04-23 05:01 
-  Cursor母公司Anysphere营收增速惊人，平均每2个月翻倍，年收入达3亿美元，因此拒绝了OpenAI的收购。OpenAI转而计划以3...
-
-- **[#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)** | [原文](https://weibo.com/6105753431/PozSNbDwi) | 时间: 2025-04-23 05:01 
-  轻松健康集团技术副总裁高玉石分享了AI在健康领域落地的关键点：用户需求是核心。当前用户对AI接受度提高但...
-
-- **[#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)** | [原文](https://weibo.com/6105753431/PozNAdeXq) | 时间: 2025-04-23 05:01 
-  Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系，主要基于"帮助、诚实、无害"原则运作。研...
-
-- **[#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)** | [原文](https://weibo.com/6105753431/PozNi0KE5) | 时间: 2025-04-23 05:01 
-  OpenAI表示若谷歌因反垄断调查被迫出售Chrome浏览器，其有意收购。美国司法部指控谷歌通过默认设置垄断搜索市场...
+- **[#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项...](2025-04-23/#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项....md)** | [原文](https://weibo.com/6105753431/PosQbgE05) | 时间: 2025-04-23 04:02 
+  MIT研究人员开发了一项新技术，通过序列蒙特卡洛方法让AI并行生成多个代码候选，动态筛选最优解，确保代码结...
 
 - **[#3D高斯泼溅算法漏洞曝光##数据投毒让GPU显存暴涨70GB#随着3D Gaussian Splatting（3DGS）成为新一代高效三维建模技术，它的自适应特性却悄然埋下了安全隐患。在...](2025-04-23/#3D高斯泼溅算法漏洞曝光##数据投毒让GPU显存暴涨70GB#随着3D_Gaussian_Splatting（3DGS）成为新一代高效三维建模技术，它的自适应特性却悄然埋下了安全隐患。在....md)** | [原文](https://weibo.com/6105753431/Poshhl5xw) | 时间: 2025-04-23 04:02 
   新加坡国立大学和昆仑万维的研究团队在ICLR 2025 Spotlight论文中揭示了3D高斯泼溅(3DGS)技术的安全漏洞。他们提出的...
@@ -245,35 +251,32 @@
 - **[#一键生成超逼真语音##带语气词的文本转语音#Dia：一键生成超逼真对话的TTS文本转语音工具。有多逼真？Dia不仅能够控制语音的情感和语气，还能加入笑声、咳嗽、...](2025-04-23/#一键生成超逼真语音##带语气词的文本转语音#Dia：一键生成超逼真对话的TTS文本转语音工具。有多逼真？Dia不仅能够控制语音的情感和语气，还能加入笑声、咳嗽、....md)** | [原文](https://weibo.com/6105753431/Posi69y1w) | 时间: 2025-04-23 04:02 
   Dia是一款由Nari Labs开发的超逼真文本转语音（TTS）工具，支持生成带情感、语气和自然音效（如笑声、咳嗽）的对...
 
-- **[#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项...](2025-04-23/#MIT新技术让AI生成代码更准确##AI代码生成不再跑偏#代码敲烦了？一项新技术，有望让程序员们的生活变得更加轻松！来自麻省理工学院等机构的研究人员提出了一项....md)** | [原文](https://weibo.com/6105753431/PosQbgE05) | 时间: 2025-04-23 04:02 
-  MIT研究人员开发了一项新技术，通过序列蒙特卡洛方法让AI并行生成多个代码候选，动态筛选最优解，确保代码结...
-
 - **[#全球最小最轻飞行机器人来了# 全球最小最轻的飞行机器人来了！翼展不到一厘米，自重仅21毫克，仅靠外部磁场驱动就能起飞、悬停、转弯，研究来自加州大学伯克利...](2025-04-23/#全球最小最轻飞行机器人来了#_全球最小最轻的飞行机器人来了！翼展不到一厘米，自重仅21毫克，仅靠外部磁场驱动就能起飞、悬停、转弯，研究来自加州大学伯克利....md)** | [原文](https://weibo.com/6105753431/PotC4hlhs) | 时间: 2025-04-23 04:01 
   加州大学伯克利分校研发出全球最小最轻的飞行机器人，翼展不到1厘米，重量仅21毫克。该机器人通过外部磁场驱...
-
-- **[#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂...](2025-04-23/#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo_Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂....md)** | [原文](https://weibo.com/6105753431/PorEu56az) | 时间: 2025-04-23 03:18 
-  VAST推出的Tripo Doodle工具在SIGGRAPH Asia 2024亮相，可将2D草图或文本提示实时转化为精细3D模型，大幅简化建模初期的...
-
-- **[大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会# 量...](2025-04-23/大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会#_量....md)** | [原文](https://weibo.com/6105753431/Posf8yTcG) | 时间: 2025-04-23 03:18 
-  百度副总裁阮瑜在中国AIGC产业峰会上指出，大模型的应用场景正从简单、高容错领域（如创意生成）向复杂、低...
-
-- **[#机器人与数字化转型应用解析# 最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主要还是技术实现...](2025-04-23/#机器人与数字化转型应用解析#_最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主要还是技术实现....md)** | [原文](https://weibo.com/6105753431/PosfFo2Zt) | 时间: 2025-04-23 03:18 
-  该微博宣传一场关于"机器人与数字化转型应用解析"的线上研讨会。随着大模型和机器人技术投资热度上升，许多...
 
 - **[#老旧游戏机爆改服务器##任天堂爆改成服务器#老旧游戏机——任天堂Wii极限挑战！它摇身一变，成了托管博客的服务器。爱折腾的Alex通过安装NetBSD操作系统，将这...](2025-04-23/#老旧游戏机爆改服务器##任天堂爆改成服务器#老旧游戏机——任天堂Wii极限挑战！它摇身一变，成了托管博客的服务器。爱折腾的Alex通过安装NetBSD操作系统，将这....md)** | [原文](https://weibo.com/6105753431/PorCAEFXj) | 时间: 2025-04-23 03:18 
   一位技术爱好者Alex将二手任天堂Wii游戏机改造成低功耗服务器，成功托管静态博客。通过安装NetBSD操作系统（该...
 
+- **[#机器人与数字化转型应用解析# 最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主要还是技术实现...](2025-04-23/#机器人与数字化转型应用解析#_最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主要还是技术实现....md)** | [原文](https://weibo.com/6105753431/PosfFo2Zt) | 时间: 2025-04-23 03:18 
+  该微博宣传一场关于"机器人与数字化转型应用解析"的线上研讨会。随着大模型和机器人技术投资热度上升，许多...
+
+- **[大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会# 量...](2025-04-23/大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会#_量....md)** | [原文](https://weibo.com/6105753431/Posf8yTcG) | 时间: 2025-04-23 03:18 
+  百度副总裁阮瑜在中国AIGC产业峰会上指出，大模型的应用场景正从简单、高容错领域（如创意生成）向复杂、低...
+
+- **[#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂...](2025-04-23/#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo_Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂....md)** | [原文](https://weibo.com/6105753431/PorEu56az) | 时间: 2025-04-23 03:18 
+  VAST推出的Tripo Doodle工具在SIGGRAPH Asia 2024亮相，可将2D草图或文本提示实时转化为精细3D模型，大幅简化建模初期的...
+
 - **[#AI如何助力企业决策##企业级AI应用不止ChatBI#首先，这个实验的核心是NetBSD系统。当大模型改变人类信息交互方式、算力成本不断降低，一个关键问题浮现在每一位...](2025-04-23/#AI如何助力企业决策##企业级AI应用不止ChatBI#首先，这个实验的核心是NetBSD系统。当大模型改变人类信息交互方式、算力成本不断降低，一个关键问题浮现在每一位....md)** | [原文](https://weibo.com/6105753431/Posh0serf) | 时间: 2025-04-23 03:18 
   数势科技联合创始人谭李在AIGC峰会上指出，企业级AI应用面临数据洞见获取难的挑战。AI Agent（如SwiftAgent平台）通...
-
-- **[A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing](2025-04-23/A_Genetic_Fuzzy-Enabled_Framework_on_Robotic_Manipulation_for_In-Space_Servicing.md)** | [原文](http://arxiv.org/abs/2504.15226v1) | 时间: 2025-04-23 03:16 
-  随着近地轨道卫星数量增加，地月空间机器人系统的自动化维护变得至关重要。为确保卫星维护的安全性，控制技...
 
 - **[BlendRL: A Framework for Merging Symbolic and Neural Policy Learning](2025-04-23/BlendRL-_A_Framework_for_Merging_Symbolic_and_Neural_Policy_Learning.md)** | [原文](http://arxiv.org/abs/2410.11689v2) | 时间: 2025-04-23 03:16 
   本文介绍了BlendRL，一种结合神经与符号策略的强化学习框架。与人类同时具备符号推理和直觉反应不同，传统强...
 
-- **[A Self-Improving Coding Agent](2025-04-23/A_Self-Improving_Coding_Agent.md)** | [原文](http://arxiv.org/abs/2504.15228v1) | 时间: 2025-04-23 03:16 
-  研究表明，配备基础编程工具的大语言模型（LLM）编码代理能够自主修改自身代码，从而显著提升基准任务性能。...
+- **[An experimental study of the influence of anonymous information on social media users](2025-04-23/An_experimental_study_of_the_influence_of_anonymous_information_on_social_media_users.md)** | [原文](http://arxiv.org/abs/2504.15215v1) | 时间: 2025-04-23 03:16 
+  研究表明，匿名社交媒体信息能显著影响用户观点。通过两阶段实验（美国代表性样本），参与者先对罗夏墨迹图...
+
+- **[A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing](2025-04-23/A_Genetic_Fuzzy-Enabled_Framework_on_Robotic_Manipulation_for_In-Space_Servicing.md)** | [原文](http://arxiv.org/abs/2504.15226v1) | 时间: 2025-04-23 03:16 
+  随着近地轨道卫星数量增加，地月空间机器人系统的自动化维护变得至关重要。为确保卫星维护的安全性，控制技...
 
 - **[Causal-Copilot: An Autonomous Causal Analysis Agent](2025-04-23/Causal-Copilot-_An_Autonomous_Causal_Analysis_Agent.md)** | [原文](http://arxiv.org/abs/2504.13263v2) | 时间: 2025-04-23 03:16 
   Causal-Copilot 是一个基于大语言模型的自主代理系统，旨在降低因果分析的复杂性，让领域专家无需深厚技术背景即...
@@ -281,8 +284,8 @@
 - **[RILe: Reinforced Imitation Learning](2025-04-23/RILe-_Reinforced_Imitation_Learning.md)** | [原文](http://arxiv.org/abs/2406.08472v4) | 时间: 2025-04-23 03:16 
   本文提出了一种名为RILe（强化模仿学习）的新框架，用于解决高维环境中复杂行为学习的挑战。RILe结合了模仿学...
 
-- **[An experimental study of the influence of anonymous information on social media users](2025-04-23/An_experimental_study_of_the_influence_of_anonymous_information_on_social_media_users.md)** | [原文](http://arxiv.org/abs/2504.15215v1) | 时间: 2025-04-23 03:16 
-  研究表明，匿名社交媒体信息能显著影响用户观点。通过两阶段实验（美国代表性样本），参与者先对罗夏墨迹图...
+- **[A Self-Improving Coding Agent](2025-04-23/A_Self-Improving_Coding_Agent.md)** | [原文](http://arxiv.org/abs/2504.15228v1) | 时间: 2025-04-23 03:16 
+  研究表明，配备基础编程工具的大语言模型（LLM）编码代理能够自主修改自身代码，从而显著提升基准任务性能。...
 
 - **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](2025-04-23/Seeing_from_Another_Perspective-_Evaluating_Multi-View_Understanding_in_MLLMs.md)** | [原文](http://arxiv.org/abs/2504.15280v1) | 时间: 2025-04-23 03:15 
   多模态大语言模型（MLLMs）在多视角理解（如导航、操作和3D场景理解）方面仍面临几何一致性和跨视角对应关系...
@@ -290,43 +293,37 @@
 - **[Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions](2025-04-23/Values_in_the_Wild-_Discovering_and_Analyzing_Values_in_Real-World_Language_Model_Interactions.md)** | [原文](http://arxiv.org/abs/2504.15236v1) | 时间: 2025-04-23 03:15 
   研究人员开发了一种隐私保护方法，从Claude 3/3.5模型的数十万次真实对话中提取出3,307个AI价值观。研究发现，Claud...
 
-- **[FlowReasoner: Reinforcing Query-Level Meta-Agents](2025-04-23/FlowReasoner-_Reinforcing_Query-Level_Meta-Agents.md)** | [原文](http://arxiv.org/abs/2504.15257v1) | 时间: 2025-04-23 03:15 
-  本文提出了一种名为FlowReasoner的查询级元代理，可自动设计针对每个用户查询的多代理系统。其核心思想是通过外...
-
 - **[Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning](2025-04-23/Interpretable_Locomotion_Prediction_in_Construction_Using_a_Memory-Driven_LLM_Agent_With_Chain-of-Thought_Reasoning.md)** | [原文](http://arxiv.org/abs/2504.15263v1) | 时间: 2025-04-23 03:15 
   该研究提出了一种基于大语言模型（LLM）的运动预测智能体，通过结合记忆系统提升外骨骼在动态施工环境中的辅...
 
+- **[FlowReasoner: Reinforcing Query-Level Meta-Agents](2025-04-23/FlowReasoner-_Reinforcing_Query-Level_Meta-Agents.md)** | [原文](http://arxiv.org/abs/2504.15257v1) | 时间: 2025-04-23 03:15 
+  本文提出了一种名为FlowReasoner的查询级元代理，可自动设计针对每个用户查询的多代理系统。其核心思想是通过外...
+
 ### 2025-04-22 (64篇)
-
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-22/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-22 23:05 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
-
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-22/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-22 23:05 
-  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和论文写作支持...
 
 - **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-22/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-22 23:05 
   这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试(包含397个高质量样本，覆盖4...
 
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-22/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-22 23:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和论文写作支持...
+
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-22/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-22 23:05 
+  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+
 - **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-22/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-22 23:04 
   这篇论文综述了非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目...
-
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-22/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-22 23:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-22/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-22 23:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时计算...
 
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-22/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-22 23:04 
   本文介绍了AgentSociety，这是一个基于大语言模型的大规模社会模拟器，包含1万个代理和500万次互动。研究者用它...
 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-22/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-22 23:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，旨在解决传统注意力机制在处理长文本时计算...
+
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-22/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-22 23:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度...
+
 - **[#3D高斯泼溅算法漏洞曝光##数据投毒让GPU显存暴涨70GB#随着3D Gaussian Splatting（3DGS）成为新一代高效三维建模技术，它的自适应特性却悄然埋下了安全隐患。在...](2025-04-22/#3D高斯泼溅算法漏洞曝光##数据投毒让GPU显存暴涨70GB#随着3D_Gaussian_Splatting（3DGS）成为新一代高效三维建模技术，它的自适应特性却悄然埋下了安全隐患。在....md)** | [原文](https://weibo.com/6105753431/Poshhl5xw) | 时间: 2025-04-22 23:03 
   新加坡国立大学和昆仑万维的研究者在ICLR 2025 Spotlight论文中揭示了3D高斯泼溅算法（3DGS）的安全漏洞。他们提出...
-
-- **[#老旧游戏机爆改服务器##任天堂爆改成服务器#老旧游戏机——任天堂Wii极限挑战！它摇身一变，成了托管博客的服务器。爱折腾的Alex通过安装NetBSD操作系统，将这...](2025-04-22/#老旧游戏机爆改服务器##任天堂爆改成服务器#老旧游戏机——任天堂Wii极限挑战！它摇身一变，成了托管博客的服务器。爱折腾的Alex通过安装NetBSD操作系统，将这....md)** | [原文](https://weibo.com/6105753431/PorCAEFXj) | 时间: 2025-04-22 23:03 
-  Alex将一台老旧任天堂Wii游戏机改造成博客服务器。通过安装NetBSD操作系统（该系统以跨平台兼容性著称），并利...
-
-- **[大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会# 量...](2025-04-22/大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会#_量....md)** | [原文](https://weibo.com/6105753431/Posf8yTcG) | 时间: 2025-04-22 23:03 
-  百度副总裁阮瑜在中国AIGC产业峰会上表示，大模型应用正从简单、高容错场景向复杂、低容错场景扩展，落地范...
 
 - **[#机器人与数字化转型应用解析# 最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主要还是技术实现...](2025-04-22/#机器人与数字化转型应用解析#_最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主要还是技术实现....md)** | [原文](https://weibo.com/6105753431/PosfFo2Zt) | 时间: 2025-04-22 23:03 
   该微博宣传一场关于机器人与数字化转型应用的线上研讨会。随着大模型和机器人技术投资热度上升，许多企业面...
@@ -334,20 +331,26 @@
 - **[#AI如何助力企业决策##企业级AI应用不止ChatBI#首先，这个实验的核心是NetBSD系统。当大模型改变人类信息交互方式、算力成本不断降低，一个关键问题浮现在每一位...](2025-04-22/#AI如何助力企业决策##企业级AI应用不止ChatBI#首先，这个实验的核心是NetBSD系统。当大模型改变人类信息交互方式、算力成本不断降低，一个关键问题浮现在每一位....md)** | [原文](https://weibo.com/6105753431/Posh0serf) | 时间: 2025-04-22 23:03 
   这篇演讲摘要指出，企业级AI应用正面临如何将数据转化为决策洞见的挑战。数势科技通过SwiftAgent平台打造"数据...
 
-- **[#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂...](2025-04-22/#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo_Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂....md)** | [原文](https://weibo.com/6105753431/PorEu56az) | 时间: 2025-04-22 23:03 
-  VAST推出的Tripo Doodle工具革新了3D建模流程，允许用户通过2D草图或文本提示快速生成精细3D模型。该工具简化了传...
-
 - **[#视频版DeepSeek来了##清华特奖团队开发顶级画质视频生成AI#清华特奖得主团队带来的新国产AI视频生成模型横空出世，一夜间全网刷屏。Magi-1，首个实现顶级画质输...](2025-04-22/#视频版DeepSeek来了##清华特奖团队开发顶级画质视频生成AI#清华特奖得主团队带来的新国产AI视频生成模型横空出世，一夜间全网刷屏。Magi-1，首个实现顶级画质输....md)** | [原文](https://weibo.com/6105753431/PorBVjNYN) | 时间: 2025-04-22 23:03 
   清华大学特奖得主曹越团队开发的AI视频生成模型Magi-1正式发布，凭借顶级画质和开源特性引发广泛关注。该模型...
 
-- **[Causal-Copilot: An Autonomous Causal Analysis Agent](2025-04-22/Causal-Copilot-_An_Autonomous_Causal_Analysis_Agent.md)** | [原文](http://arxiv.org/abs/2504.13263v2) | 时间: 2025-04-22 23:02 
-  这篇论文介绍了Causal-Copilot，一个基于大语言模型的自主代理系统，旨在降低因果分析的复杂性，让领域专家也能...
+- **[#老旧游戏机爆改服务器##任天堂爆改成服务器#老旧游戏机——任天堂Wii极限挑战！它摇身一变，成了托管博客的服务器。爱折腾的Alex通过安装NetBSD操作系统，将这...](2025-04-22/#老旧游戏机爆改服务器##任天堂爆改成服务器#老旧游戏机——任天堂Wii极限挑战！它摇身一变，成了托管博客的服务器。爱折腾的Alex通过安装NetBSD操作系统，将这....md)** | [原文](https://weibo.com/6105753431/PorCAEFXj) | 时间: 2025-04-22 23:03 
+  Alex将一台老旧任天堂Wii游戏机改造成博客服务器。通过安装NetBSD操作系统（该系统以跨平台兼容性著称），并利...
+
+- **[#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂...](2025-04-22/#像2D涂鸦一样玩3D建模##实时绘制3D模型#VAST推出创新工具——Tripo_Doodle，它能够将2D草图和文本提示转化为精细的3D模型，简化了3D建模初期“打形”阶段的复杂....md)** | [原文](https://weibo.com/6105753431/PorEu56az) | 时间: 2025-04-22 23:03 
+  VAST推出的Tripo Doodle工具革新了3D建模流程，允许用户通过2D草图或文本提示快速生成精细3D模型。该工具简化了传...
+
+- **[大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会# 量...](2025-04-22/大模型应用落地场景越来越广泛，正在从简单、高容错的场景向复杂、低容错的场景延伸。这是百度副总裁阮瑜在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会#_量....md)** | [原文](https://weibo.com/6105753431/Posf8yTcG) | 时间: 2025-04-22 23:03 
+  百度副总裁阮瑜在中国AIGC产业峰会上表示，大模型应用正从简单、高容错场景向复杂、低容错场景扩展，落地范...
+
+- **[#全球最小最轻飞行机器人来了# 全球最小最轻的飞行机器人来了！翼展不到一厘米，自重仅21毫克，仅靠外部磁场驱动就能起飞、悬停、转弯，研究来自加州大学伯克利...](2025-04-22/#全球最小最轻飞行机器人来了#_全球最小最轻的飞行机器人来了！翼展不到一厘米，自重仅21毫克，仅靠外部磁场驱动就能起飞、悬停、转弯，研究来自加州大学伯克利....md)** | [原文](https://weibo.com/6105753431/PotC4hlhs) | 时间: 2025-04-22 23:02 
+  加州大学伯克利分校研发出全球最小最轻的飞行机器人，翼展不足1厘米，重量仅21毫克。该机器人通过外部磁场驱...
 
 - **[RILe: Reinforced Imitation Learning](2025-04-22/RILe-_Reinforced_Imitation_Learning.md)** | [原文](http://arxiv.org/abs/2406.08472v4) | 时间: 2025-04-22 23:02 
   本文提出了一种名为RILe（强化模仿学习）的新框架，结合模仿学习(IL)和逆强化学习(IRL)的优势，用于高维任务中...
 
-- **[#全球最小最轻飞行机器人来了# 全球最小最轻的飞行机器人来了！翼展不到一厘米，自重仅21毫克，仅靠外部磁场驱动就能起飞、悬停、转弯，研究来自加州大学伯克利...](2025-04-22/#全球最小最轻飞行机器人来了#_全球最小最轻的飞行机器人来了！翼展不到一厘米，自重仅21毫克，仅靠外部磁场驱动就能起飞、悬停、转弯，研究来自加州大学伯克利....md)** | [原文](https://weibo.com/6105753431/PotC4hlhs) | 时间: 2025-04-22 23:02 
-  加州大学伯克利分校研发出全球最小最轻的飞行机器人，翼展不足1厘米，重量仅21毫克。该机器人通过外部磁场驱...
+- **[Causal-Copilot: An Autonomous Causal Analysis Agent](2025-04-22/Causal-Copilot-_An_Autonomous_Causal_Analysis_Agent.md)** | [原文](http://arxiv.org/abs/2504.13263v2) | 时间: 2025-04-22 23:02 
+  这篇论文介绍了Causal-Copilot，一个基于大语言模型的自主代理系统，旨在降低因果分析的复杂性，让领域专家也能...
 
 - **[#一键生成超逼真语音##带语气词的文本转语音#Dia：一键生成超逼真对话的TTS文本转语音工具。有多逼真？Dia不仅能够控制语音的情感和语气，还能加入笑声、咳嗽、...](2025-04-22/#一键生成超逼真语音##带语气词的文本转语音#Dia：一键生成超逼真对话的TTS文本转语音工具。有多逼真？Dia不仅能够控制语音的情感和语气，还能加入笑声、咳嗽、....md)** | [原文](https://weibo.com/6105753431/Posi69y1w) | 时间: 2025-04-22 23:02 
   Dia是一款由Nari Labs开发的超逼真TTS文本转语音工具，能生成带情感、语气和自然音效（如笑声、咳嗽）的对话。其...
@@ -358,23 +361,23 @@
 - **[BlendRL: A Framework for Merging Symbolic and Neural Policy Learning](2025-04-22/BlendRL-_A_Framework_for_Merging_Symbolic_and_Neural_Policy_Learning.md)** | [原文](http://arxiv.org/abs/2410.11689v2) | 时间: 2025-04-22 23:02 
   BlendRL是一个新型的神经符号强化学习框架，将神经网络与符号逻辑策略相结合，克服了传统强化学习代理在灵活...
 
-- **[A Self-Improving Coding Agent](2025-04-22/A_Self-Improving_Coding_Agent.md)** | [原文](http://arxiv.org/abs/2504.15228v1) | 时间: 2025-04-22 23:01 
-  研究表明，配备基本编码工具的大语言模型（LLM）编码代理能够自主修改自身代码，从而提升基准任务表现。在SWE...
-
 - **[A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing](2025-04-22/A_Genetic_Fuzzy-Enabled_Framework_on_Robotic_Manipulation_for_In-Space_Servicing.md)** | [原文](http://arxiv.org/abs/2504.15226v1) | 时间: 2025-04-22 23:01 
   随着近地轨道卫星数量增加，地月空间机器人系统的自动化维护变得至关重要。为确保卫星维护的安全性，控制技...
 
-- **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](2025-04-22/Seeing_from_Another_Perspective-_Evaluating_Multi-View_Understanding_in_MLLMs.md)** | [原文](http://arxiv.org/abs/2504.15280v1) | 时间: 2025-04-22 23:01 
-  当前多模态大语言模型(MLLMs)在高层推理和规划方面表现优异，但在多视角几何一致性和跨视角对应关系上仍存在...
-
-- **[Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions](2025-04-22/Values_in_the_Wild-_Discovering_and_Analyzing_Values_in_Real-World_Language_Model_Interactions.md)** | [原文](http://arxiv.org/abs/2504.15236v1) | 时间: 2025-04-22 23:01 
-  本研究开发了一种自下而上的隐私保护方法，通过分析Claude 3和3.5模型在数十万次真实互动中的响应，提取并分类...
+- **[A Self-Improving Coding Agent](2025-04-22/A_Self-Improving_Coding_Agent.md)** | [原文](http://arxiv.org/abs/2504.15228v1) | 时间: 2025-04-22 23:01 
+  研究表明，配备基本编码工具的大语言模型（LLM）编码代理能够自主修改自身代码，从而提升基准任务表现。在SWE...
 
 - **[FlowReasoner: Reinforcing Query-Level Meta-Agents](2025-04-22/FlowReasoner-_Reinforcing_Query-Level_Meta-Agents.md)** | [原文](http://arxiv.org/abs/2504.15257v1) | 时间: 2025-04-22 23:01 
   本文提出了一种名为FlowReasoner的查询级元代理系统，用于自动化设计针对每个用户查询的多代理系统。该系统通过...
 
 - **[An experimental study of the influence of anonymous information on social media users](2025-04-22/An_experimental_study_of_the_influence_of_anonymous_information_on_social_media_users.md)** | [原文](http://arxiv.org/abs/2504.15215v1) | 时间: 2025-04-22 23:01 
   这项研究表明，匿名社交媒体信息能显著影响人们的观点选择。通过两阶段实验（参与者先对罗夏墨迹图发表看法...
+
+- **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](2025-04-22/Seeing_from_Another_Perspective-_Evaluating_Multi-View_Understanding_in_MLLMs.md)** | [原文](http://arxiv.org/abs/2504.15280v1) | 时间: 2025-04-22 23:01 
+  当前多模态大语言模型(MLLMs)在高层推理和规划方面表现优异，但在多视角几何一致性和跨视角对应关系上仍存在...
+
+- **[Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions](2025-04-22/Values_in_the_Wild-_Discovering_and_Analyzing_Values_in_Real-World_Language_Model_Interactions.md)** | [原文](http://arxiv.org/abs/2504.15236v1) | 时间: 2025-04-22 23:01 
+  本研究开发了一种自下而上的隐私保护方法，通过分析Claude 3和3.5模型在数十万次真实互动中的响应，提取并分类...
 
 - **[Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning](2025-04-22/Interpretable_Locomotion_Prediction_in_Construction_Using_a_Memory-Driven_LLM_Agent_With_Chain-of-Thought_Reasoning.md)** | [原文](http://arxiv.org/abs/2504.15263v1) | 时间: 2025-04-22 23:01 
   该研究提出了一种基于大语言模型（LLM）的运动预测智能体，用于提升外骨骼在动态建筑环境中的辅助性能。系统...
@@ -391,26 +394,26 @@
 - **[#机器人足球踢得比人还好##机器人展示C罗电梯球#谁敢相信，机器人或许已经比你更会踢足球了！在Booster Robotics最新发布的一段视频当中，Booster T1人形机器人...](2025-04-22/#机器人足球踢得比人还好##机器人展示C罗电梯球#谁敢相信，机器人或许已经比你更会踢足球了！在Booster_Robotics最新发布的一段视频当中，Booster_T1人形机器人....md)** | [原文](https://weibo.com/6105753431/PoqADe0v9) | 时间: 2025-04-22 09:04 
   清华大学创业公司加速进化研发的Booster T1人形机器人（高1.2米/重30kg）在足球领域取得突破，不仅能精准复现C罗...
 
-- **[PPIO姚欣：#AI时代让免费成为可能##AI产业三年实现千倍降本#让免费成为可能，AI时代开启“提速降费”2025，当AIGC技术进入全面落地阶段，Agent为核心的智能应用...](2025-04-22/PPIO姚欣：#AI时代让免费成为可能##AI产业三年实现千倍降本#让免费成为可能，AI时代开启“提速降费”2025，当AIGC技术进入全面落地阶段，Agent为核心的智能应用....md)** | [原文](https://weibo.com/6105753431/Poqy5lWLM) | 时间: 2025-04-22 09:04 
-  PPIO联合创始人姚欣在AIGC产业峰会上提出，AI产业需通过"千倍降本"实现技术普及。他指出，虽然2025年AIGC技术将成...
-
 - **[#一图区分Transformer和MoE##MoE是分工协作版的Transformer#还不了解Transformer和MoE两种架构的不同之处？别怕，这张动图让一切一目了然⬇️Transformer和MoE的...](2025-04-22/#一图区分Transformer和MoE##MoE是分工协作版的Transformer#还不了解Transformer和MoE两种架构的不同之处？别怕，这张动图让一切一目了然⬇️Transformer和MoE的....md)** | [原文](https://weibo.com/6105753431/PoraBuMh4) | 时间: 2025-04-22 09:04 
   Transformer和MoE的主要区别在于解码层结构：Transformer使用全激活的前馈神经网络(FNN)，而MoE采用稀疏架构。MoE包含路...
 
 - **[传统MVP模型不成立了，AI时代要更多预测刚需场景。心影随形科技创始人、CEO刘斌新在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会# 量子位的微博视频](2025-04-22/传统MVP模型不成立了，AI时代要更多预测刚需场景。心影随形科技创始人、CEO刘斌新在中国AIGC产业峰会分享了他的思考。#中国AIGC产业峰会#_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PoraJitJ0) | 时间: 2025-04-22 09:04 
   心影随形科技CEO刘斌新在中国AIGC产业峰会上提出，传统MVP（最小可行产品）模型在AI时代已不再适用。他认为，当...
 
+- **[PPIO姚欣：#AI时代让免费成为可能##AI产业三年实现千倍降本#让免费成为可能，AI时代开启“提速降费”2025，当AIGC技术进入全面落地阶段，Agent为核心的智能应用...](2025-04-22/PPIO姚欣：#AI时代让免费成为可能##AI产业三年实现千倍降本#让免费成为可能，AI时代开启“提速降费”2025，当AIGC技术进入全面落地阶段，Agent为核心的智能应用....md)** | [原文](https://weibo.com/6105753431/Poqy5lWLM) | 时间: 2025-04-22 09:04 
+  PPIO联合创始人姚欣在AIGC产业峰会上提出，AI产业需通过"千倍降本"实现技术普及。他指出，虽然2025年AIGC技术将成...
+
 - **[#机器人与数字化转型研讨会# 本周三15:00~16:00最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主...](2025-04-22/#机器人与数字化转型研讨会#_本周三15-00~16-00最近行业里对于大模型、机器人的投资讨论又热烈了起来。很多企业既不想被新技术落下，但又怕投资打水漂，担心的主....md)** | [原文](https://weibo.com/6105753431/PorCYyACX) | 时间: 2025-04-22 09:03 
   本次机器人与数字化转型线上研讨会将探讨企业如何优化投资策略，重点包括：1）通过行业案例调研评估应用场...
+
+- **[AGI的关键在于怎样把智能体组织起来，而安全可控是非常核心的前置门槛。这是瑞莱智慧CEO田天在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会# 量子位的微博视...](2025-04-22/AGI的关键在于怎样把智能体组织起来，而安全可控是非常核心的前置门槛。这是瑞莱智慧CEO田天在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会#_量子位的微博视....md)** | [原文](https://weibo.com/6105753431/PopRhgwl2) | 时间: 2025-04-22 07:04 
+  瑞莱智慧CEO田天在中国AIGC产业峰会上指出，实现通用人工智能（AGI）的关键在于如何有效组织智能体，而安全可...
 
 - **[#魔方转图论问题##魔方最优解是数学问题#你知道吗？魔方看似只是个玩具，但它背后其实蕴藏着一个非常复杂的“网络系统”。每个魔方从完全打乱到复原的过程，可以...](2025-04-22/#魔方转图论问题##魔方最优解是数学问题#你知道吗？魔方看似只是个玩具，但它背后其实蕴藏着一个非常复杂的“网络系统”。每个魔方从完全打乱到复原的过程，可以....md)** | [原文](https://weibo.com/6105753431/PopzJfjVT) | 时间: 2025-04-22 07:04 
   魔方的最优解问题本质上是一个图论数学问题。每个魔方状态可视为图论中的节点，旋转操作则是连接节点的边，...
 
 - **[#用AI实现一切皆可作弊##因作弊被开除哥大学生获530万美元融资#还记得因为在面试中使用AI工具作弊而被哥伦比亚大学开除的Roy和Neel吗？手握Abstract Ventures和S...](2025-04-22/#用AI实现一切皆可作弊##因作弊被开除哥大学生获530万美元融资#还记得因为在面试中使用AI工具作弊而被哥伦比亚大学开除的Roy和Neel吗？手握Abstract_Ventures和S....md)** | [原文](https://weibo.com/6105753431/PopNBbAzh) | 时间: 2025-04-22 07:04 
   哥伦比亚大学两名因在面试中使用AI作弊被开除的学生Roy和Neel，近期获得530万美元融资，推出AI作弊工具Cluely。该...
-
-- **[AGI的关键在于怎样把智能体组织起来，而安全可控是非常核心的前置门槛。这是瑞莱智慧CEO田天在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会# 量子位的微博视...](2025-04-22/AGI的关键在于怎样把智能体组织起来，而安全可控是非常核心的前置门槛。这是瑞莱智慧CEO田天在中国AIGC产业峰会分享的思考。#中国AIGC产业峰会#_量子位的微博视....md)** | [原文](https://weibo.com/6105753431/PopRhgwl2) | 时间: 2025-04-22 07:04 
-  瑞莱智慧CEO田天在中国AIGC产业峰会上指出，实现通用人工智能（AGI）的关键在于如何有效组织智能体，而安全可...
 
 - **[#国产AI模型英伟达含量为零##4张华为910B部署星火X1#英伟达H20也不能用了。中国大模型还能好吗？能。就在今天，最新国产深度推理大模型升级更新，算力构成全国产...](2025-04-22/#国产AI模型英伟达含量为零##4张华为910B部署星火X1#英伟达H20也不能用了。中国大模型还能好吗？能。就在今天，最新国产深度推理大模型升级更新，算力构成全国产....md)** | [原文](https://weibo.com/6105753431/PoqxK4s0t) | 时间: 2025-04-22 07:04 
   讯飞星火X1国产AI模型实现全栈自主可控，仅需4张华为910B芯片即可部署完整版，16张完成行业定制。该模型参数规...
@@ -766,11 +769,11 @@
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-19/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-19 23:05 
   AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-19/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-19 23:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
-
 - **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-19/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-19 23:04 
   这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-19/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-19 23:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
 
 - **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-19/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-19 23:04 
   该论文提出了Native Sparse Attention (NSA)机制，通过动态分层稀疏策略解决传统注意力机制处理长文本时的高计算成本...
