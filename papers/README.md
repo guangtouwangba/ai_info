@@ -4,156 +4,156 @@
 
 ## 最新内容
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-04-23 06:04
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统。该系统通过10,000多个AI代理和500万次互...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-04-23 06:04
-
----
-
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-04-23 06:04
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct数据集。CodeAre...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-04-23 06:04
+**收录时间**: 2025-04-23 07:04
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
+**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-04-23 06:03
+**收录时间**: 2025-04-23 07:04
+
+---
+
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-04-23 07:04
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次）。它通过四个关...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-04-23 07:04
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出创新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-04-23 07:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练必须使用自适应梯度方法（如Adam）的传统认知。该方法通过...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-04-23 06:03
+**收录时间**: 2025-04-23 07:03
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因，...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-04-23 06:03
-
----
-
-### [#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)
-
-**摘要**: 清华大学与英伟达联合研究发现，掩码扩散模型存在性能包装问题。该模型通过32位计算降低温度参数使表现看似...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PoziF5gBz)
-**收录时间**: 2025-04-23 06:02
-
----
-
-### [旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)
-
-**摘要**: 无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，需转向平台化服务以...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozpZ2gjB)
-**收录时间**: 2025-04-23 06:02
-
----
-
-### [#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同...](2025-04-23/#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同....md)
-
-**摘要**: 上海人工智能实验室联合高校推出LEGO-Puzzles基准，测试大模型多步空间推理能力。GPT-4o以57.7%准确率领先，但远低...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozojxnVK)
-**收录时间**: 2025-04-23 06:02
+**收录时间**: 2025-04-23 07:03
 
 ---
 
 ### [#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)
 
-**摘要**: 心影随形科技创始人刘斌新提出用AI创造快乐的理念，专注于开发理解玩家情绪的游戏陪伴AI，而非抢占用户时间...
+**摘要**: 心影随形科技创始人刘斌新提出用AI技术解决游戏社交痛点，打造"理解玩家情绪的游戏伙伴"，产品定位为"陪伴"而...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PozhYydoA)
-**收录时间**: 2025-04-23 06:02
+**收录时间**: 2025-04-23 07:03
 
 ---
 
-### [#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)
+### [旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)
 
-**摘要**: OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的得分（是第二名的两倍）和1.5美元/任务的低成本成为"性价...
+**摘要**: 无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，存在资源利用率低的...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PoznX3Xgo)
-**收录时间**: 2025-04-23 06:02
-
----
-
-### [#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)
-
-**摘要**: Cursor母公司Anysphere发展迅猛，营收平均每2个月翻一番，年收入约3亿美元，因此拒绝了OpenAI的收购。OpenAI转而计划...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PozNUDIZV)
-**收录时间**: 2025-04-23 06:01
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozpZ2gjB)
+**收录时间**: 2025-04-23 07:02
 
 ---
 
-### [#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat ⊷ the Poet Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果...](2025-04-23/#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat_⊷_the_Poet_Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果....md)
+### [#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同...](2025-04-23/#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同....md)
 
-**摘要**: 网友Kat展示了Gemini 2.5大模型分析名画《宫娥》的惊艳能力。通过自然语言指令，模型不仅能识别画中人物、家具...
+**摘要**: 上海人工智能实验室联合高校推出LEGO-Puzzles基准，测试大模型多步空间推理能力。GPT-4o以57.7%准确率领先，但仍远...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PoAdOpmLV)
-**收录时间**: 2025-04-23 06:01
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozojxnVK)
+**收录时间**: 2025-04-23 07:02
+
+---
+
+### [#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)
+
+**摘要**: 清华大学与英伟达联合研究发现，掩码扩散模型（masked diffusion models）可能存在性能夸大问题。该模型通过32位计...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PoziF5gBz)
+**收录时间**: 2025-04-23 07:02
 
 ---
 
 ### [#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)
 
-**摘要**: OpenAI表示若法院要求谷歌出售Chrome浏览器愿意收购，这源于美国司法部对谷歌反垄断调查。调查发现谷歌通过独占...
+**摘要**: OpenAI表示若法院要求谷歌出售Chrome浏览器，愿意收购。美国司法部正调查谷歌通过默认设置垄断搜索市场。OpenAI曾...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PozNi0KE5)
-**收录时间**: 2025-04-23 06:01
+**收录时间**: 2025-04-23 07:02
+
+---
+
+### [#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)
+
+**摘要**: OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的准确率和1.5美元/任务的低成本成为当前性价比最高的模型...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PoznX3Xgo)
+**收录时间**: 2025-04-23 07:02
+
+---
+
+### [#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)
+
+**摘要**: Cursor母公司Anysphere发展迅猛，营收每两月翻倍，年收达3亿美元，因此拒绝了OpenAI收购。OpenAI转而计划以30亿美元收...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PozNUDIZV)
+**收录时间**: 2025-04-23 07:01
+
+---
+
+### [#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat ⊷ the Poet Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果...](2025-04-23/#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat_⊷_the_Poet_Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果....md)
+
+**摘要**: 网友Kat展示了Gemini 2.5大模型分析名画《宫娥》的惊艳能力：通过自然语言提问（如"识别家具""检测金属制品"），...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PoAdOpmLV)
+**收录时间**: 2025-04-23 07:01
 
 ---
 
 ### [#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)
 
-**摘要**: Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系：1）始终遵循"帮助、诚实、无害"的核心道...
+**摘要**: Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系，核心表现为"帮助、诚实、无害"原则。研究...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PozNAdeXq)
-**收录时间**: 2025-04-23 06:01
+**收录时间**: 2025-04-23 07:01
 
 ---
 
 ### [#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)
 
-**摘要**: 轻松健康集团技术副总裁高玉石指出，AI在健康领域落地的关键在于解决用户核心痛点。当前用户对AI接受度提高...
+**摘要**: 轻松健康集团技术副总裁高玉石指出，AI在健康领域落地的关键在于以用户为核心。当前用户对AI接受度提高但更...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PozSNbDwi)
-**收录时间**: 2025-04-23 06:01
+**收录时间**: 2025-04-23 07:01
 
 ---
 
@@ -188,56 +188,56 @@
 
 ### 2025-04-23 (37篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-23 06:04 
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-23 07:04 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架。该方法直接建模音频-视觉关系，无需...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-23 07:04 
+  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
+
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-04-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-04-23 07:04 
   AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-23 06:04 
-  这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统。该系统通过10,000多个AI代理和500万次互...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-04-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-04-23 07:04 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次）。它通过四个关...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-04-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-04-23 06:04 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-23 07:04 
+  这篇论文针对代码生成大模型(codeLLMs)提出创新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-04-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-04-23 06:04 
-  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct数据集。CodeAre...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-23 07:03 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-04-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-04-23 06:03 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-23 07:03 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-04-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-04-23 06:03 
-  这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练必须使用自适应梯度方法（如Adam）的传统认知。该方法通过...
+- **[#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)** | [原文](https://weibo.com/6105753431/PozhYydoA) | 时间: 2025-04-23 07:03 
+  心影随形科技创始人刘斌新提出用AI技术解决游戏社交痛点，打造"理解玩家情绪的游戏伙伴"，产品定位为"陪伴"而...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-04-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-04-23 06:03 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因，...
+- **[旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)** | [原文](https://weibo.com/6105753431/PozpZ2gjB) | 时间: 2025-04-23 07:02 
+  无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，存在资源利用率低的...
 
-- **[#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)** | [原文](https://weibo.com/6105753431/PoziF5gBz) | 时间: 2025-04-23 06:02 
-  清华大学与英伟达联合研究发现，掩码扩散模型存在性能包装问题。该模型通过32位计算降低温度参数使表现看似...
+- **[#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同...](2025-04-23/#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同....md)** | [原文](https://weibo.com/6105753431/PozojxnVK) | 时间: 2025-04-23 07:02 
+  上海人工智能实验室联合高校推出LEGO-Puzzles基准，测试大模型多步空间推理能力。GPT-4o以57.7%准确率领先，但仍远...
 
-- **[旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会...](2025-04-23/旧的算力供给模式就像是建高端毛坯房，现在我们要提升平台化服务能力，让每一份算力都真正转化为生产力。这是无问芯穹联合创始人、CEO夏立雪在中国AIGC产业峰会....md)** | [原文](https://weibo.com/6105753431/PozpZ2gjB) | 时间: 2025-04-23 06:02 
-  无问芯穹联合创始人夏立雪在中国AIGC产业峰会提出，传统算力供给模式如同"建高端毛坯房"，需转向平台化服务以...
+- **[#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”...](2025-04-23/#扩散模型或被包装过度##清华英伟达曝掩码扩散模型潜在问题#清华和英伟达联手，揭示了掩码扩散模型可能存在性能问题——掩码扩散模型利用32位计算来“降低温度”....md)** | [原文](https://weibo.com/6105753431/PoziF5gBz) | 时间: 2025-04-23 07:02 
+  清华大学与英伟达联合研究发现，掩码扩散模型（masked diffusion models）可能存在性能夸大问题。该模型通过32位计...
 
-- **[#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同...](2025-04-23/#GPT4o拼乐高##首个多步空间推理评测基准#GPT-4o能拼好乐高吗？当任务变得复杂，尤其是涉及多步空间推理时，这些模型的能力又如何？上海人工智能实验室、联合同....md)** | [原文](https://weibo.com/6105753431/PozojxnVK) | 时间: 2025-04-23 06:02 
-  上海人工智能实验室联合高校推出LEGO-Puzzles基准，测试大模型多步空间推理能力。GPT-4o以57.7%准确率领先，但远低...
+- **[#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)** | [原文](https://weibo.com/6105753431/PozNi0KE5) | 时间: 2025-04-23 07:02 
+  OpenAI表示若法院要求谷歌出售Chrome浏览器，愿意收购。美国司法部正调查谷歌通过默认设置垄断搜索市场。OpenAI曾...
 
-- **[#理解你情绪的AI游戏搭子# 心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新...](2025-04-23/#理解你情绪的AI游戏搭子#_心影随形创始人刘斌新除了用AI做效率工具之外，能不能用AI给大家带来一些快乐？两年多前的一次思考，让心影随形科技创始人、CEO刘斌新....md)** | [原文](https://weibo.com/6105753431/PozhYydoA) | 时间: 2025-04-23 06:02 
-  心影随形科技创始人刘斌新提出用AI创造快乐的理念，专注于开发理解玩家情绪的游戏陪伴AI，而非抢占用户时间...
+- **[#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)** | [原文](https://weibo.com/6105753431/PoznX3Xgo) | 时间: 2025-04-23 07:02 
+  OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的准确率和1.5美元/任务的低成本成为当前性价比最高的模型...
 
-- **[#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1/20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实...](2025-04-23/#o3中杯成OpenAI性价比之王##o3中杯得分乘二成本降20倍#o3中杯，得分是第二名两倍，成本却仅为1-20？！是的，o3中杯在ARC-AGI（超难推理任务）上的新成绩，属实....md)** | [原文](https://weibo.com/6105753431/PoznX3Xgo) | 时间: 2025-04-23 06:02 
-  OpenAI的o3中杯模型在ARC-AGI推理测试中表现突出，以57%的得分（是第二名的两倍）和1.5美元/任务的低成本成为"性价...
+- **[#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)** | [原文](https://weibo.com/6105753431/PozNUDIZV) | 时间: 2025-04-23 07:01 
+  Cursor母公司Anysphere发展迅猛，营收每两月翻倍，年收达3亿美元，因此拒绝了OpenAI收购。OpenAI转而计划以30亿美元收...
 
-- **[#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf# Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。 据TechCrunch报道，Cursor正处...](2025-04-23/#Cursor营收平均2个月翻一番##OpenAI为何放弃Cursor收购Windsurf#_Cursor所在的公司Anysphere这么猛？平均两个月，就收入翻一番。_据TechCrunch报道，Cursor正处....md)** | [原文](https://weibo.com/6105753431/PozNUDIZV) | 时间: 2025-04-23 06:01 
-  Cursor母公司Anysphere发展迅猛，营收平均每2个月翻一番，年收入约3亿美元，因此拒绝了OpenAI的收购。OpenAI转而计划...
+- **[#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat ⊷ the Poet Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果...](2025-04-23/#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat_⊷_the_Poet_Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果....md)** | [原文](https://weibo.com/6105753431/PoAdOpmLV) | 时间: 2025-04-23 07:01 
+  网友Kat展示了Gemini 2.5大模型分析名画《宫娥》的惊艳能力：通过自然语言提问（如"识别家具""检测金属制品"），...
 
-- **[#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat ⊷ the Poet Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果...](2025-04-23/#大模型也能赏画##AI能看到更多画作细节#与大模型一起赏画，会是什么画风？网友Kat_⊷_the_Poet_Engineer在X上传了一个通过大模型浏览《宫娥》的demo视频，效果....md)** | [原文](https://weibo.com/6105753431/PoAdOpmLV) | 时间: 2025-04-23 06:01 
-  网友Kat展示了Gemini 2.5大模型分析名画《宫娥》的惊艳能力。通过自然语言指令，模型不仅能识别画中人物、家具...
+- **[#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)** | [原文](https://weibo.com/6105753431/PozNAdeXq) | 时间: 2025-04-23 07:01 
+  Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系，核心表现为"帮助、诚实、无害"原则。研究...
 
-- **[#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛...](2025-04-23/#OpenAI愿收购谷歌Chrome浏览器##搜索引擎成AI时代香饽饽#OpenAI高管：反垄断调查，法院要是让谷歌卖Chrome浏览器，我们可就买了啊。美国司法部这不是在查谷歌嘛....md)** | [原文](https://weibo.com/6105753431/PozNi0KE5) | 时间: 2025-04-23 06:01 
-  OpenAI表示若法院要求谷歌出售Chrome浏览器愿意收购，这源于美国司法部对谷歌反垄断调查。调查发现谷歌通过独占...
-
-- **[#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、...](2025-04-23/#AI竟有价值观##70万条对话揭露Claude价值观#Anthropic分析了70万条AI匿名对话，发现Claude竟有着独特的价值观——Claude会根据不同的对话情境，表现出“帮助、....md)** | [原文](https://weibo.com/6105753431/PozNAdeXq) | 时间: 2025-04-23 06:01 
-  Anthropic通过分析70万条Claude对话发现，该AI展现出情境化的价值观体系：1）始终遵循"帮助、诚实、无害"的核心道...
-
-- **[#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)** | [原文](https://weibo.com/6105753431/PozSNbDwi) | 时间: 2025-04-23 06:01 
-  轻松健康集团技术副总裁高玉石指出，AI在健康领域落地的关键在于解决用户核心痛点。当前用户对AI接受度提高...
+- **[#AI如何垂直落地健康领域# 轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心...](2025-04-23/#AI如何垂直落地健康领域#_轻松健康集团高玉石当AI垂直落地健康领域，企业如何做出特色产品？在轻松健康集团技术副总裁高玉石的最新分享中，我们抓到了一个核心....md)** | [原文](https://weibo.com/6105753431/PozSNbDwi) | 时间: 2025-04-23 07:01 
+  轻松健康集团技术副总裁高玉石指出，AI在健康领域落地的关键在于以用户为核心。当前用户对AI接受度提高但更...
 
 - **[开源项目RD-Agent的设计初衷，是让每一个研究员、数据科学家都有一个Agent做科研助理。这是微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会分享的思考。#中国...](2025-04-23/开源项目RD-Agent的设计初衷，是让每一个研究员、数据科学家都有一个Agent做科研助理。这是微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会分享的思考。#中国....md)** | [原文](https://weibo.com/6105753431/PoxVXyQNQ) | 时间: 2025-04-23 05:02 
   微软亚洲研究院首席研究员刘炜清在中国AIGC产业峰会上介绍了开源项目RD-Agent的设计理念。该项目旨在为研究人员...
