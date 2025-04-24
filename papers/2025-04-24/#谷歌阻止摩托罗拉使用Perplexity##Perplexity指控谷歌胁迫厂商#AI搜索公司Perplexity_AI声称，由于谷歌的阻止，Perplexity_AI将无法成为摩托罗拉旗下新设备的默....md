@@ -1,0 +1,18 @@
+# #谷歌阻止摩托罗拉使用Perplexity##Perplexity指控谷歌胁迫厂商#AI搜索公司Perplexity AI声称，由于谷歌的阻止，Perplexity AI将无法成为摩托罗拉旗下新设备的默...
+
+**URL**: https://weibo.com/6105753431/PoJr6BIFo
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B0%B7%E6%AD%8C%E9%98%BB%E6%AD%A2%E6%91%A9%E6%89%98%E7%BD%97%E6%8B%89%E4%BD%BF%E7%94%A8Perplexity%23&amp;extparam=%23%E8%B0%B7%E6%AD%8C%E9%98%BB%E6%AD%A2%E6%91%A9%E6%89%98%E7%BD%97%E6%8B%89%E4%BD%BF%E7%94%A8Perplexity%23" data-hide=""><span class="surl-text">#谷歌阻止摩托罗拉使用Perplexity#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Perplexity%E6%8C%87%E6%8E%A7%E8%B0%B7%E6%AD%8C%E8%83%81%E8%BF%AB%E5%8E%82%E5%95%86%23&amp;extparam=%23Perplexity%E6%8C%87%E6%8E%A7%E8%B0%B7%E6%AD%8C%E8%83%81%E8%BF%AB%E5%8E%82%E5%95%86%23" data-hide=""><span class="surl-text">#Perplexity指控谷歌胁迫厂商#</span></a><br><br>AI搜索公司Perplexity AI声称，由于谷歌的阻止，Perplexity AI将无法成为摩托罗拉旗下新设备的默认助手。<br><br>作为美国司法部起诉谷歌垄断案的后续，在一场旨在确定补救措施的听证会上，Perplexity AI的首席商务官Dmitry Shevelenko表达了对谷歌的强烈不满。<br><br>他指责，受限于谷歌与摩托罗拉签订的合同，摩托罗拉在双方都有合作意愿的情况下，依旧无法更改设备默认助手设置。<br><br>Shevelenko揭露，这些合同对于手机厂商和无线运营商来说就像“抵在头上的枪”，只要做出任何违背谷歌意愿的行为，谷歌就可能切断他的重要收入来源。<br><br>去年，美国司法部发现谷歌通过向其他厂商付费的方式来确保其成为默认搜索引擎，非法垄断了搜索市场。<br><br>司法部已经要求禁止谷歌购买默认搜索引擎权限，这项拟议的禁令同样适用于谷歌旗下包括Gemini在内的人工智能产品。<br><br>美国司法部和多个州还进一步主张，谷歌应该剥离Chrome浏览器业务。<br><br>OpenAI旗下ChatGPT业务负责人曾在此前的庭审中宣称，公司有意收购Chrome浏览器。<br><br>Shevelenko特别指出，因为谷歌现在“承受着压力”，手机厂商、运营商和浏览器才“愿意进行现在的这些对话”。<br><br>他们与摩托罗拉已经达成了新的协议，Perplexity的应用仍然会预装在新的设备上，但不会出现在用户首次登录时看到的主屏幕当中。<img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0rtroenttj32800r37dt.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0rtrs5hubj32800j9aia.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+谷歌因涉嫌垄断被美国司法部起诉后，AI搜索公司Perplexity指控谷歌通过合同限制摩托罗拉等厂商更改默认助手设置，称这些条款如同"枪顶头部"的威胁。Perplexity原计划成为摩托罗拉新设备默认助手，但因谷歌合同受阻，只能预装但无法出现在主屏。司法部拟禁止谷歌购买默认搜索权限，并可能要求其剥离Chrome业务。此案揭示了科技巨头通过预装协议控制市场的争议，而反垄断压力正促使厂商重新评估与谷歌的合作关系。（99字）
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-04-24T06:02:01Z
+- **目录日期**: 2025-04-24
