@@ -4,15 +4,15 @@
 
 ## 原始摘要
 
-面对AI应用落地难题，垂类大模型是企业突围的关键。中关村科金总裁喻友平在中国AIGC产业峰会分享了他的思考。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23&amp;extparam=%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23" data-hide=""><span class="surl-text">#中国AIGC产业峰会#</span></a> <a href="https://video.weibo.com/show?fid=1034:5158945359331346" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3gy1i0rtsxrfakj30u01hcq8l.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/3OCfPrnnlx08nILifyzC010412008BLP0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745478103&amp;ssig=KHbKpV6yXX&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/i2S8ibFYlx08nILhMyHm010412004C7o0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745478103&amp;ssig=fIg%2FjchBGV&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/ejd43VvGlx08nILhK8R2010412002vlq0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745478103&amp;ssig=B7okv%2BdG3A&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5158945359331346" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+面对AI应用落地难题，垂类大模型是企业突围的关键。中关村科金总裁喻友平在中国AIGC产业峰会分享了他的思考。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23&amp;extparam=%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23" data-hide=""><span class="surl-text">#中国AIGC产业峰会#</span></a> <a href="https://video.weibo.com/show?fid=1034:5158945359331346" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3gy1i0rtsxrfakj30u01hcq8l.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/3OCfPrnnlx08nILifyzC010412008BLP0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745481715&amp;ssig=obQZ%2FhobdS&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/i2S8ibFYlx08nILhMyHm010412004C7o0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745481715&amp;ssig=XemcsJMqDw&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/ejd43VvGlx08nILhK8R2010412002vlq0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745481715&amp;ssig=bw3PJgpKvC&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5158945359331346" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
 
 ## AI 摘要
 
-中关村科金总裁喻友平在中国AIGC产业峰会上指出，面对AI落地挑战，企业需聚焦垂类大模型实现突破。他强调垂直领域专用模型能更精准解决行业痛点，是推动AI商业化的关键路径。该观点揭示了当前通用AI模型在产业应用中存在的适配性问题，为企业在激烈竞争中提供了差异化发展思路。（98字）
+中关村科金总裁喻友平在中国AIGC产业峰会上指出，当前AI应用落地的核心挑战在于通用大模型难以满足垂直领域需求。他认为，企业突破的关键在于发展垂类大模型，通过聚焦特定行业场景，实现更精准的AI技术应用。这一观点为企业在AIGC浪潮中提供了差异化竞争思路，强调垂直领域专业化模型的价值。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-24T06:01:51Z
+- **保存时间**: 2025-04-24T07:02:03Z
 - **目录日期**: 2025-04-24
