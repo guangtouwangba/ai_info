@@ -8,11 +8,11 @@ No More Adam: Learning Rate Scaling at Initialization is All You Need. <a href="
 
 ## AI 摘要
 
-这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度下降(SGDM)，通过初始化时基于梯度信号噪声比(g-SNR)调整不同参数组的学习率，无需自适应二阶动量即可防止训练不平衡，并将内存使用减半。实验显示，SGD-SaI在Transformer任务、ImageNet分类和GPT-2预训练中表现优于或媲美AdamW，解决了SGD训练Transformer的难题，并具有超参数鲁棒性。在内存效率方面，相比AdamW为GPT-2节省5.93GB，为Llama2-7B节省25.15GB内存。
+该论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认知。该方法基于带动量的随机梯度下降（SGDM），通过在初始化阶段根据各参数组的梯度信噪比（g-SNR）调整学习率，避免了训练不平衡问题。相比AdamW，SGD-SaI内存占用减半，在Transformer任务、ImageNet分类和LLM预训练（如GPT-2、Llama2-7B）中表现更优，且具有超参数鲁棒性。实验显示，其内存效率显著提升（GPT-2节省5.93GB，Llama2-7B节省25.15GB），并在LoRA微调等任务中超越现有优化器。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-24T08:30:53Z
+- **保存时间**: 2025-04-24T09:04:16Z
 - **目录日期**: 2025-04-24
