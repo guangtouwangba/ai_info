@@ -1,0 +1,18 @@
+# #始于堵车的核聚变研究##华人科学家借物理改进AI#2016年，洛杉矶。刚到美国不久的Rose正在南加州大学（USC）读博。那座城市最著名的不是好莱坞，而是堵车。学校...
+
+**URL**: https://weibo.com/6105753431/PoTYXbcut
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A7%8B%E4%BA%8E%E5%A0%B5%E8%BD%A6%E7%9A%84%E6%A0%B8%E8%81%9A%E5%8F%98%E7%A0%94%E7%A9%B6%23&amp;extparam=%23%E5%A7%8B%E4%BA%8E%E5%A0%B5%E8%BD%A6%E7%9A%84%E6%A0%B8%E8%81%9A%E5%8F%98%E7%A0%94%E7%A9%B6%23" data-hide=""><span class="surl-text">#始于堵车的核聚变研究#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%BA%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%80%9F%E7%89%A9%E7%90%86%E6%94%B9%E8%BF%9BAI%23&amp;extparam=%23%E5%8D%8E%E4%BA%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%80%9F%E7%89%A9%E7%90%86%E6%94%B9%E8%BF%9BAI%23" data-hide=""><span class="surl-text">#华人科学家借物理改进AI#</span></a><br><br>2016年，洛杉矶。刚到美国不久的Rose正在南加州大学（USC）读博。<br><br>那座城市最著名的不是好莱坞，而是堵车。学校旁边就是I-10和I-110高速交汇处，去哪儿都要先挤进车流。<br><br>有一天，她望着眼前缓慢移动的红色刹车灯，不禁思考：既然AI能识别图像中的猫，那为什么不能预测车流什么时候会缓解？<br><br>她不是第一个想让AI预测交通的人，但她的切入点不同——没有直接用现成的深度学习模型，而是引入了她从小痴迷的领域：物理。<br><br>10岁生日时，她的叔叔送她一台电脑。在当时的中国，这并不常见。<br><br>她先是用来打游戏，后来又学起了网页设计，还在中学时赢得了她人生第一个技术奖项。<br><br>她喜欢构建系统、预测结果、控制变量。与别人用数学公式解题不同，她更想知道这些公式背后的原理。<br><br>本科，她去了浙江大学，读的是计算机。但物理的思维方式始终没离开过她。<br><br>到了博士阶段，她终于将计算机与物理结合：利用物理规则训练神经网络，让AI不仅计算快，还能更贴近现实世界的运行方式。<br><br>这项跨界探索的第一个成果，直接进了谷歌Maps。<br><br>该成果把城市交通建模成一个“图”，每个传感器是一个节点，道路是连接它们的边，车流就像水一样在城市中扩散。<br><br>不同于传统图像识别，这是一个融合“物理视角”的时间建模过程。<br><br>最终，她的模型将交通预测窗口从15分钟拓展到整整1小时，并被谷歌正式部署，她本人也因此受邀成为谷歌的访问研究员。<br><br>而她的研究并未止步于交通，这第二个战场，是风暴和海洋。<br><br>2018年，在劳伦斯伯克利国家实验室的一场演讲中，一位科学家问她：能不能用你的方法来预测湍流？<br><br>湍流，是气候建模里最棘手的部分。它代表着不规则的流动，以及难以预测的变化。<br><br>传统上，物理学家使用Navier-Stokes方程(Navier-Stokes Equations）描述湍流行为，但计算代价极高，一次模拟可能耗时几天甚至几周。<br><br>而Rose的AI模型，只需几秒钟便可完成同等精度的预测。<br><br>在二维模拟中，她把预测速度提升了20倍；到了三维，是1000倍。这意味着：未来的台风路径模拟、海洋环流预测、甚至极端天气预警，一个聪明的AI就可能搞定。<br><br>但她的野心远不止于“模拟”。<br><br>在不断地训练与优化中，Rose发现AI不仅可以执行物理模型，还能从数据中“发现规律”。<br><br>她的模型能自动总结出对称性原理，比如洛伦兹对称（光速不变）和旋转对称（圆球无论转多少角度，看起来仍然一样）。这些抽象概念，过去只有物理学家通过直觉与逻辑才能提炼出来。<br><br>如果AI能自主发现自然规律，那它是否可以成为科研的参与者？<br><br>这是Rose提出“AI Scientist”概念的起点：她设想的不是一个万能AI，而是一组能够阅读文献、归纳数据、建立模型、生成假设的科研“合伙人”工具集。<br><br>说干就干，早期版本的AI Scientist系统，已可处理多模态数据：数字、图像、文本、视频。它被用于疫情预测、气候建模，甚至为核聚变模拟提供支持。<br><br>得到加州大学圣地亚哥分校（UCSD）与General Atomics的合作后，她尝试用AI预测聚变反应堆中等离子体的瞬时行为——<br><br>那是1亿度高温下、充满不确定性的“人工太阳”，需要秒级响应控制。而她的AI模型，正试图成为目前最快“看懂”这种极端系统的算法。<br><br>从洛杉矶的一场堵车，到实验室中炽热的等离子体；从10岁收到一台电脑的小女孩，到如今引领AI理解世界底层规律的科学家。<br><br>Rose Yu的研究，不是在打造下一个智能模型，而是在探索人类与AI之间最理想的协作方式。<br><br>感兴趣的小伙伴可以点击：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.quantamagazine.org%2Fimproving-deep-learning-with-a-little-help-from-physics-20250423%2F" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i0t4cks3nij30zk0k04qp.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i0t4cph68kj30zk0lz7wh.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i0t4culx4bj31b3280u11.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0t4ctznk2j31z419q1kz.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+华人科学家Rose Yu将物理学原理与AI结合，开创了创新研究。她从洛杉矶堵车现象出发，开发出基于物理规则的神经网络模型，将交通预测窗口从15分钟扩展到1小时，成果被谷歌地图采用。随后，她将方法应用于气候建模，使湍流模拟速度提升1000倍。更突破的是，她的AI能自主发现物理规律（如洛伦兹对称性），并构建"AI Scientist"系统处理多模态科研数据，应用于疫情预测、核聚变控制等领域。其研究展现了AI与人类协作探索基础科学的新范式，从日常问题延伸到"人工太阳"等尖端领域。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-04-25T09:03:29Z
+- **目录日期**: 2025-04-25
