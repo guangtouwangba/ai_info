@@ -4,15 +4,15 @@
 
 ## 原始摘要
 
-<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23create2025%E7%99%BE%E5%BA%A6%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%23&amp;extparam=%23create2025%E7%99%BE%E5%BA%A6%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%23" data-hide=""><span class="surl-text">#create2025百度开发者大会#</span></a> 百度帮助开发者全面拥抱MCP：从业务开放到生态重构 <a href="https://video.weibo.com/show?fid=1034:5159839148474385" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1i0uogdll66j30u01hcgqg.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/o3mYz7QQlx08nMGTlrWo01041200yxVA0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745694130&amp;ssig=%2BjT77zj%2FJ1&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/zP7j5y9Dlx08nMGTDHos01041200kmdj0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745694130&amp;ssig=A4U0U5sENz&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/4Wa2VDQmlx08nMGSY6n601041200bkdd0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745694130&amp;ssig=NcFa0tRgbc&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5159839148474385" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23create2025%E7%99%BE%E5%BA%A6%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%23&amp;extparam=%23create2025%E7%99%BE%E5%BA%A6%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%23" data-hide=""><span class="surl-text">#create2025百度开发者大会#</span></a> 百度帮助开发者全面拥抱MCP：从业务开放到生态重构 <a href="https://video.weibo.com/show?fid=1034:5159839148474385" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1i0uogdll66j30u01hcgqg.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/o3mYz7QQlx08nMGTlrWo01041200yxVA0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745697732&amp;ssig=OAdPlh%2BzEb&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/zP7j5y9Dlx08nMGTDHos01041200kmdj0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745697732&amp;ssig=9trj1Mo4IG&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/4Wa2VDQmlx08nMGSY6n601041200bkdd0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745697732&amp;ssig=BL3kAbqrJp&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5159839148474385" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
 
 ## AI 摘要
 
-百度在#create2025开发者大会#上宣布将帮助开发者全面拥抱MCP（移动内容平台），推动从业务开放到生态重构的转型。大会展示了百度如何通过技术赋能开发者，提供更开放的平台和工具，支持开发者创新并构建更强大的生态系统。相关视频进一步介绍了百度在开发者生态建设方面的具体举措和未来规划。
+百度在#create2025开发者大会上宣布将帮助开发者全面拥抱MCP（移动生态、云计算、人工智能），推动从业务开放到生态重构的升级。大会展示了百度如何通过技术赋能开发者，构建更开放的生态系统。相关视频介绍了百度在移动生态、云计算和AI领域的最新进展，以及为开发者提供的支持工具和平台。这一战略旨在促进技术创新，加速开发者生态的成长。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-26T18:02:21Z
+- **保存时间**: 2025-04-26T19:02:20Z
 - **目录日期**: 2025-04-26
