@@ -4,15 +4,15 @@
 
 ## 原始摘要
 
-在物理世界实现AGI一定要通过端侧智能，把“大脑”部署在终端才是最优解。面壁智能联合创始人、CEO李大海在中国AIGC产业峰会分享了他的思考。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23&amp;extparam=%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23" data-hide=""><span class="surl-text">#中国AIGC产业峰会#</span></a> <a href="https://video.weibo.com/show?fid=1034:5159353695797302" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006Fd7o3gy1i0t4p83z5oj30u01hcaft.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/5lJT6UWalx08nKyaAPFC010412005ZX20E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745629151&amp;ssig=aJkWUPFUQ%2F&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/NMU4YOqGlx08nKy9Wvmw010412003eZD0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745629151&amp;ssig=IHYTpyY9bt&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/3yRRzRyBlx08nKy9Yje0010412001Lx80E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745629151&amp;ssig=c6r8ADhLIX&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5159353695797302" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+在物理世界实现AGI一定要通过端侧智能，把“大脑”部署在终端才是最优解。面壁智能联合创始人、CEO李大海在中国AIGC产业峰会分享了他的思考。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23&amp;extparam=%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23" data-hide=""><span class="surl-text">#中国AIGC产业峰会#</span></a> <a href="https://video.weibo.com/show?fid=1034:5159353695797302" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006Fd7o3gy1i0t4p83z5oj30u01hcaft.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/5lJT6UWalx08nKyaAPFC010412005ZX20E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745634577&amp;ssig=KTFIaup1C6&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/NMU4YOqGlx08nKy9Wvmw010412003eZD0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745634577&amp;ssig=jB28mNQZkl&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/3yRRzRyBlx08nKy9Yje0010412001Lx80E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1745634577&amp;ssig=FaJWCs1UwO&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5159353695797302" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
 
 ## AI 摘要
 
-面壁智能CEO李大海在中国AIGC产业峰会提出，实现通用人工智能（AGI）需通过端侧智能，即将"大脑"部署在终端设备上。他认为这是物理世界实现AGI的最优解决方案，强调了终端本地化处理的重要性。该观点突出了边缘计算在AI发展中的关键作用，旨在减少云端依赖并提升实时响应能力。
+面壁智能CEO李大海在中国AIGC产业峰会上提出，实现物理世界的通用人工智能(AGI)必须通过端侧智能，即将"大脑"部署在终端设备上才是最优解决方案。他认为，这种本地化部署方式能更好地满足实时性和隐私需求，是AGI发展的关键路径。该观点强调了边缘计算在AI发展中的重要性，反映了当前从云端向终端转移的技术趋势。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-26T00:03:43Z
+- **保存时间**: 2025-04-26T01:30:48Z
 - **目录日期**: 2025-04-26
