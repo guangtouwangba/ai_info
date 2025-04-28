@@ -31,11 +31,11 @@ GPT-Neo125M, and 21.1% faster than DDP on TinyStories with GPT-Neo-8M.
 
 ## AI 摘要
 
-随着前沿AI模型规模和训练数据量的增长，数据并行训练中的全局通信成为瓶颈。本文提出Pseudo-Asynchronous Local SGD（PALSGD），通过伪同步机制减少通信频率，同时保持模型一致性。理论分析证明了其收敛性。实验显示，PALSGD在ImageNet-1K（ResNet-50）上比DDP快18.4%，在TinyStories（GPT-Neo125M）上快24.4%，在GPT-Neo-8M上快21.1%，显著提升训练效率。
+随着前沿AI模型规模和训练数据量的持续增长，数据并行训练中的全局通信成为效率瓶颈。本研究提出Pseudo-Asynchronous Local SGD (PALSGD)方法，通过伪同步机制扩展Local SGD和DiLoCo，在减少通信频率的同时保持模型一致性。理论分析证明了PALSGD的收敛性。实验显示，PALSGD在ImageNet-1K（ResNet-50）上比DDP快18.4%，在TinyStories（GPT-Neo125M）上快24.4%，在GPT-Neo-8M上快21.1%，实现了更高效的分布式训练。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-28T04:01:54Z
+- **保存时间**: 2025-04-28T05:02:33Z
 - **目录日期**: 2025-04-28
