@@ -1,0 +1,18 @@
+# #PPT讲解Gemini预训练过程##用有限资源实现最佳模型性能#欢迎查收，一份关于Gemini预训练的精彩PPT！【图1】DeepMind大佬Vlad Feinberg最近回到普林斯顿做了一场...
+
+**URL**: https://weibo.com/6105753431/PpmYXmgf3
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23PPT%E8%AE%B2%E8%A7%A3Gemini%E9%A2%84%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%23&amp;extparam=%23PPT%E8%AE%B2%E8%A7%A3Gemini%E9%A2%84%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%23" data-hide=""><span class="surl-text">#PPT讲解Gemini预训练过程#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%94%A8%E6%9C%89%E9%99%90%E8%B5%84%E6%BA%90%E5%AE%9E%E7%8E%B0%E6%9C%80%E4%BD%B3%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD%23&amp;extparam=%23%E7%94%A8%E6%9C%89%E9%99%90%E8%B5%84%E6%BA%90%E5%AE%9E%E7%8E%B0%E6%9C%80%E4%BD%B3%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD%23" data-hide=""><span class="surl-text">#用有限资源实现最佳模型性能#</span></a><br><br>欢迎查收，一份关于Gemini预训练的精彩PPT！【图1】<br><br>DeepMind大佬Vlad Feinberg最近回到普林斯顿做了一场超棒的演讲，演讲的主要内容包括：<br>- Scaling Law的历史讨论<br>- 面对推理限制时，如何调整扩展策略<br><br>这次演讲出现了哪些亮点？一起看看看这份PPT的总结：<br><br>一、从经典模型开始<br>- 当前LLM训练面临的挑战在于，每次新实验必须依赖历史实验的外推。<br><br>早在2020年，Kaplan等人发现：【图2】<br>- 用小模型的训练数据就能预测大模型表现<br>- 计算预算增加10倍时，模型参数应该增加5.37倍，数据只要1.86倍<br>简单说就是：应该更多地投资于扩大模型规模而不是数据规模。<br><br>Chinchilla模型对Kaplan的假设提出了挑战：【图3】<br>- 指出通过适当的优化可以实现更好的性能。<br>- 模型和数据量应以相同速率扩展<br>- 当计算预算增加10倍时，模型参数和数据量都应该增加大约7倍<br>这就意味着：给定计算预算下，模型应该更小，训练时间应该更长。<br><br>单纯依靠模型规模的改进是否已到达瓶颈？GPT-4.5以及Llama 4 Maverick都曾让人有点慌...<br><br>实际上，突破点在：更好的神经网络设计以及新数据源的引入<br><br>二、小模型客户<br>Google很多产品（如Gemini App、AIO、AIM等）需要高吞吐量和实时服务，模型需要在很短的时间内完成推理，这通常意味着需要使用较小的模型。【图4】<br><br>Chinchilla模型扩展法则的一个关键局限性在于，它没有考虑到模型在实际部署时的推理成本。【图5】<br><br>四、“推理感知扩展法则”（Inference-Aware Scaling Laws）<br><br>在此基础之上，Sardana等人提出的Inference-Aware Scaling特别关注在模型训练和推理阶段之间平衡计算资源，以实现更高效的模型部署和运行。【图6】<br><br>不过，它也同样面临一些挑战，包括：计算资源的非均匀性、Dinf难以预测、杰文斯悖论、拟合不良等。【图7】<br><br>在最后，Vlad Feinberg给出了一些未来研究方向的建议：【图8】<br>1. 开发硬件专用的内核，或者提出下一代Flash Attention<br>2. 量化技术正从向量量化迈向新阶段<br>3. 用Funsearch思路平衡搜索中LLM的推理速度和质量<br>4. 扩展法则是脆弱的，依赖于数据集<br><br>想查看完整PPT？欢迎点击链接：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fvladfeinberg.com%2F2025%2F04%2F24%2Fgemini-flash-pretraining.html" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i0wodki8wvj31du0ryadl.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0wodmmy79j31dk0rkql4.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i0wodlzvqaj31du0rywwr.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i0wodm8cqyj31dg0rmqfi.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i0wodm93z0j31dq0rsn8f.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i0wodmgndcj31dw0ryqgg.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i0wodmstz2j31e00ry7nv.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i0wodmm36vj31e60rye7y.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+DeepMind专家Vlad Feinberg在普林斯顿的演讲中，探讨了Gemini预训练的关键问题。主要内容包括：1）Scaling Law的演进，从Kaplan（2020年主张优先扩大模型规模）到Chinchilla（主张模型与数据同步扩展）的范式转变；2）针对推理限制提出"推理感知扩展法则"，平衡训练与部署效率；3）指出当前瓶颈在于神经网络设计和数据源创新；4）为小模型应用场景（如Google产品）优化性能。未来方向包括开发专用硬件内核、改进量化技术及优化搜索算法。演讲强调扩展法则需结合具体数据集灵活应用。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-04-29T00:03:20Z
+- **目录日期**: 2025-04-29
