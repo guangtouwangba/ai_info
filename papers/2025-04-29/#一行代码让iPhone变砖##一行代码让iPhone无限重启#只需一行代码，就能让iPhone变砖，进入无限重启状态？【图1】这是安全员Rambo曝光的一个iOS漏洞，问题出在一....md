@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-安全研究员Rambo发现iOS存在高危漏洞：通过Darwin Notifications进程通信机制，任何应用无需权限即可发送系统级通知。执行特定代码"notify_post("com.apple.MobileSync.BackupAgent.RestoreStarted")"会导致iPhone无限重启，必须刷机修复。该漏洞源于该API缺乏发送者验证，存在20年后在iOS 18.3终被修复，现需特殊权限才能调用。漏洞编号CVE-2025-24091，研究者获1.75万美元赏金。演示应用VeryEvilNotify可致设备持续弹出恢复提示直至瘫痪。
+安全研究员Rambo发现iOS存在高危漏洞，通过Darwin Notifications系统API（无权限验证机制），仅需一行代码"notify_post("com.apple.MobileSync.BackupAgent.RestoreStarted")"即可导致iPhone无限重启变砖。该漏洞允许任意App发送伪造系统通知，其开发的VeryEvilNotify应用可触发持续恢复提示，需刷机才能修复。苹果已在iOS 18.3修复该漏洞（CVE-2025-24091），新增权限限制，并向发现者支付1.75万美元赏金。该API此前存在三大风险点：免权限调用、无发送者验证、第三方应用可用。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-04-29T06:04:59Z
+- **保存时间**: 2025-04-29T07:03:45Z
 - **目录日期**: 2025-04-29
