@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-Ladybird是一款完全独立开发的开源浏览器，不依赖Chromium、Firefox或WebKit，所有引擎均从零开始用C++编写。该项目由非营利组织Ladybird Browser Initiative运营，完全依靠赞助和捐款维持，承诺永不商业化。目前已有7名全职工程师，支持者包括GitHub联合创始人等。浏览器已能处理基础任务，在Web Platform Tests中JS引擎合规性排名第二。代码量近50万行，贡献者超1000人。目标是打造符合现代标准的跨平台浏览器，专注于浏览器本身而非商业扩张。
+Ladybird是一款完全独立开发的开源浏览器，不依赖Chromium、Firefox或WebKit，所有引擎均从零开始用C++编写。其目标为打造符合现代Web标准、跨平台且真正独立的浏览器，由非营利组织运营，仅靠赞助和捐款维持。目前团队有7名全职工程师，支持者包括GitHub联合创始人等。浏览器已能处理日常任务，在Web Platform Tests中JS引擎合规性排名第二，代码量近50万行，贡献者超1000人。官网：ladybird.org，GitHub：github.com/LadybirdBrowser/ladybird。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-02T05:03:52Z
+- **保存时间**: 2025-05-02T06:04:42Z
 - **目录日期**: 2025-05-02
