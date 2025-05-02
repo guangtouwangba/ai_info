@@ -23,11 +23,11 @@ Our code will be released publicly at https://github.com/tiangeluo/RegionFocus.
 
 ## AI 摘要
 
-RegionFocus是一种视觉测试时缩放方法，用于提升视觉语言模型代理在网页理解任务中的性能。该方法通过动态聚焦相关区域来减少背景干扰，并引入图像地图机制可视化关键地标，提高动作选择的透明度和准确性。实验表明，在Screenspot-pro和WebVoyager基准测试中，该方法使UI-TARS和Qwen2.5-VL模型的性能分别提升28%和24%以上。结合Qwen2.5-VL-72B模型后，在ScreenSpot-Pro基准上达到了61.6%的最新最优性能。代码将开源在GitHub。
+RegionFocus是一种视觉测试时缩放方法，用于提升视觉语言模型代理处理网页的能力。该方法通过动态放大相关区域减少背景干扰，提高动作选择的准确性。结合图像地图机制，可视化关键地标以提供透明操作记录，帮助代理有效选择候选动作。实验显示，在UI-TARS和Qwen2.5-VL等先进模型基础上，Screenspot-pro和WebVoyager基准测试性能分别提升28%和24%。使用Qwen2.5-VL-72B模型时，ScreenSpot-Pro基准测试准确率达61.6%，创下新纪录。代码将开源发布。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-02T04:01:06Z
+- **保存时间**: 2025-05-02T05:01:14Z
 - **目录日期**: 2025-05-02
