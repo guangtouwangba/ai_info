@@ -4,48 +4,48 @@
 
 ## 最新内容
 
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-04/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因素，目前...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-04 16:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-04/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟器，能够模拟1万多个代理及其500万次互动。研...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-04 16:05
-
----
-
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-04/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试(包含397个高质量样本，覆盖4...
+**摘要**: 该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究收集397个高质量编程任务...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-04 16:05
+**收录时间**: 2025-05-04 17:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-04/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-04 16:05
+**收录时间**: 2025-05-04 17:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-04/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-04 16:05
+**收录时间**: 2025-05-04 17:05
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-04/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 该研究提出SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法（如Adam）的必要性。该方法通过初始化时基于...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-04 17:04
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-04/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究社会...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-04 17:04
 
 ---
 
@@ -54,25 +54,70 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-04 16:05
+**收录时间**: 2025-05-04 17:04
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-04/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-04 17:04
 
 ---
 
 ### [#Claude更新两大核心功能##Claude网页版接入MCP#Claude更新了两大核心功能，AI和应用工具的结合更紧密了：1. Claude网页版支持MCP集成- MCP是一种连接AI和外部数...](2025-05-04/#Claude更新两大核心功能##Claude网页版接入MCP#Claude更新了两大核心功能，AI和应用工具的结合更紧密了：1._Claude网页版支持MCP集成-_MCP是一种连接AI和外部数....md)
 
-**摘要**: Claude最新更新两大核心功能：1) 网页版接入MCP协议（AI界的Type-C接口），支持10款应用（如Jira、PayPal）的快速集成...
+**摘要**: Claude最新更新两大核心功能：1) 网页版支持MCP协议集成，可一键连接GitLab、PayPal等10款应用，实现跨平台数据调用...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PpYgwdPBf)
-**收录时间**: 2025-05-04 16:04
+**收录时间**: 2025-05-04 17:03
 
 ---
 
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-04/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+### [#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因# GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百...](2025-05-04/#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因#_GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+**摘要**: OpenAI发布技术报告解释GPT-4o更新后"变谄媚"的原因。报告指出，问题源于强化学习机制中新增的用户反馈奖励信号...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-04 16:04
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pq5Qg08Io)
+**收录时间**: 2025-05-04 17:03
+
+---
+
+### [#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast....md)
+
+**摘要**: 华中大与北邮团队联合推出多模态大模型Perception-R1（PR1），首次突破30AP性能指标，超越YOLOv3、Faster-RCNN等传统视...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pq7giy32s)
+**收录时间**: 2025-05-04 17:03
+
+---
+
+### [#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限# 超越YOLOv3、Faster-RCNN，首个在COCO2017 val set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限#_超越YOLOv3、Faster-RCNN，首个在COCO2017_val_set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京....md)
+
+**摘要**: 华中科技大学与北京邮电大学等团队联合推出多模态大模型Perception-R1（PR1），首次在COCO2017验证集上以纯多模态方...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pq5QRhi24)
+**收录时间**: 2025-05-04 17:03
+
+---
+
+### [#3D打印开源轻量人形机器人# 一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全...](2025-05-04/#3D打印开源轻量人形机器人#_一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全....md)
+
+**摘要**: 加州大学伯克利分校开发了一款3D打印开源轻量人形机器人，仅需一台3D打印机即可制造，成本低于5000美元。该机...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pq5Y7cIwb)
+**收录时间**: 2025-05-04 17:03
+
+---
+
+### [#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini 2.5 Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】 大模...](2025-05-04/#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini_2.5_Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】_大模....md)
+
+**摘要**: 谷歌Gemini 2.5 Pro成为首个通关《宝可梦蓝》的大模型，成功登入游戏名人堂。其通过实时截屏分析游戏画面，结合...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pq7b4FkVT)
+**收录时间**: 2025-05-04 17:03
 
 ---
 
@@ -81,106 +126,61 @@
 **摘要**: 《排行榜幻觉》论文指出Chatbot Arena存在四大问题：1)大厂可私下测试多个模型版本(如Llama4测27版仅公开最优)，导...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PpYl4prJg)
-**收录时间**: 2025-05-04 16:04
-
----
-
-### [#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因# GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百...](2025-05-04/#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因#_GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百....md)
-
-**摘要**: OpenAI最新技术报告承认，GPT-4o更新后出现"谄媚"回应的问题，原因是强化学习机制中的用户反馈奖励信号（点赞/点...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pq5Qg08Io)
-**收录时间**: 2025-05-04 16:03
-
----
-
-### [#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast....md)
-
-**摘要**: 华中大与北邮团队联合推出多模态大模型Perception-R1（PR1），成为首个在COCO2017验证集上突破30AP的开源纯多模态LLM...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pq7giy32s)
-**收录时间**: 2025-05-04 16:03
-
----
-
-### [#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限# 超越YOLOv3、Faster-RCNN，首个在COCO2017 val set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限#_超越YOLOv3、Faster-RCNN，首个在COCO2017_val_set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京....md)
-
-**摘要**: 华中科技大学与北京邮电大学等团队联合推出多模态大模型Perception-R1（PR1），首次在COCO2017验证集上突破30AP，超...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pq5QRhi24)
-**收录时间**: 2025-05-04 16:03
-
----
-
-### [#3D打印开源轻量人形机器人# 一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全...](2025-05-04/#3D打印开源轻量人形机器人#_一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全....md)
-
-**摘要**: 加州大学伯克利分校研发出全开源3D打印轻量人形机器人，硬件设计、代码及训练框架均公开。该机器人成本低于5...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pq5Y7cIwb)
-**收录时间**: 2025-05-04 16:03
-
----
-
-### [#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini 2.5 Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】 大模...](2025-05-04/#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini_2.5_Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】_大模....md)
-
-**摘要**: 谷歌Gemini 2.5 Pro成为首个通关《宝可梦蓝》的大模型，成功登入游戏名人堂。相比此前Claude系列仅能完成部分任务...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pq7b4FkVT)
-**收录时间**: 2025-05-04 16:03
+**收录时间**: 2025-05-04 17:03
 
 ---
 
 ### [#百万年薪的AI岗位2年彻底凉透# 2年就跌落神坛！“提示词工程师”这个曾百万年薪的AI岗位，现在已经沦为企业最不想新增的岗位之一，这一变化究竟是怎么发生的？ ...](2025-05-04/#百万年薪的AI岗位2年彻底凉透#_2年就跌落神坛！“提示词工程师”这个曾百万年薪的AI岗位，现在已经沦为企业最不想新增的岗位之一，这一变化究竟是怎么发生的？_....md)
 
-**摘要**: 该微博讨论曾炙手可热的"提示词工程师"岗位在两年内迅速降温的现象。这一职位曾因AI热潮获得百万年薪，但如...
+**摘要**: 【AI提示词工程师岗位快速降温】曾年薪百万的"提示词工程师"岗位在短短两年内从热门沦为冷门，成为企业最不...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqfcQaH4N)
-**收录时间**: 2025-05-04 16:02
+**收录时间**: 2025-05-04 17:02
 
 ---
 
 ### [#长视频理解突破极限#3B模型超越Meta 7B模型，超长视频理解SOTA刷新了！来自上海交通大学、北京智源研究院、特伦托大学的联合研究团队推出了Video-XL-Pro，实现...](2025-05-04/#长视频理解突破极限#3B模型超越Meta_7B模型，超长视频理解SOTA刷新了！来自上海交通大学、北京智源研究院、特伦托大学的联合研究团队推出了Video-XL-Pro，实现....md)
 
-**摘要**: 上海交通大学、北京智源研究院和特伦托大学联合推出Video-XL-Pro模型，突破长视频理解瓶颈。该3B参数模型采用"重...
+**摘要**: 上海交通大学、北京智源研究院和特伦托大学联合推出Video-XL-Pro模型，在长视频理解领域取得突破。该3B参数模型...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqiOgjDag)
-**收录时间**: 2025-05-04 16:02
+**收录时间**: 2025-05-04 17:02
 
 ---
 
 ### [Challenges and Future Directions of Data-Centric AI Alignment](2025-05-04/Challenges_and_Future_Directions_of_Data-Centric_AI_Alignment.md)
 
-**摘要**: 随着AI系统能力增强，确保其与人类价值观对齐成为研究重点。当前方法多聚焦算法设计，却忽视了数据的关键作...
+**摘要**: 本文主张以数据为中心的人工智能对齐方法，强调提高训练数据的质量和代表性。当前方法过度依赖算法设计，却...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2410.01957v2)
-**收录时间**: 2025-05-04 16:02
+**收录时间**: 2025-05-04 17:02
 
 ---
 
 ### [#百万年薪提示词岗已过气#大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年...](2025-05-04/#百万年薪提示词岗已过气#大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年....md)
 
-**摘要**: 2023年爆火的提示词工程师岗位（年薪25-33万美元）如今需求锐减。微软调查显示该岗位成为企业最不愿新增的职位...
+**摘要**: 2023年爆火的"提示词工程师"岗位（年薪25-33万美元）正快速降温。微软调查显示该岗位已成为企业最不愿扩招的职...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqiMWaTU6)
-**收录时间**: 2025-05-04 16:02
+**收录时间**: 2025-05-04 17:02
 
 ---
 
 ### [Learning An Active Inference Model of Driver Perception and Control: Application to Vehicle Car-Following](2025-05-04/Learning_An_Active_Inference_Model_of_Driver_Perception_and_Control-_Application_to_Vehicle_Car-Following.md)
 
-**摘要**: 本文提出了一种基于有限演示数据来学习人类感知与控制模型的通用估计方法。该模型结构包括：i) 智能体对环境...
+**摘要**: 本文提出了一种基于有限演示数据来学习人类感知与控制模型的通用估计方法。该模型结构包含两部分：i) 智能体...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2303.15201v2)
-**收录时间**: 2025-05-04 16:02
+**收录时间**: 2025-05-04 17:02
 
 ---
 
 ### [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](2025-05-04/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)
 
-**摘要**: 当前大语言模型（LLM）偏好对齐方法主要关注相对偏好，却忽略了响应质量，导致模型可能过度拟合或错误学习。...
+**摘要**: 现有大型语言模型（LLMs）偏好对齐方法主要关注相对偏好，却忽略了响应质量，导致模型可能过度拟合或错误遗...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2410.08067v4)
-**收录时间**: 2025-05-04 16:02
+**收录时间**: 2025-05-04 17:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-04 (33篇)
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-04/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-04 16:05 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因素，目前...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-04/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-04 17:05 
+  该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究收集397个高质量编程任务...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-04/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-04 16:05 
-  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟器，能够模拟1万多个代理及其500万次互动。研...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-04/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-04 17:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-04/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-04 16:05 
-  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试(包含397个高质量样本，覆盖4...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-04/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-04 17:05 
+  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-04/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-04 16:05 
-  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-04/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-04 17:04 
+  该研究提出SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法（如Adam）的必要性。该方法通过初始化时基于...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-04/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-04 16:05 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-04/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-04 17:04 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究社会...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-04/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-04 16:05 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-04/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-04 17:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#Claude更新两大核心功能##Claude网页版接入MCP#Claude更新了两大核心功能，AI和应用工具的结合更紧密了：1. Claude网页版支持MCP集成- MCP是一种连接AI和外部数...](2025-05-04/#Claude更新两大核心功能##Claude网页版接入MCP#Claude更新了两大核心功能，AI和应用工具的结合更紧密了：1._Claude网页版支持MCP集成-_MCP是一种连接AI和外部数....md)** | [原文](https://weibo.com/6105753431/PpYgwdPBf) | 时间: 2025-05-04 16:04 
-  Claude最新更新两大核心功能：1) 网页版接入MCP协议（AI界的Type-C接口），支持10款应用（如Jira、PayPal）的快速集成...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-04/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-04 17:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-04/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-04 16:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+- **[#Claude更新两大核心功能##Claude网页版接入MCP#Claude更新了两大核心功能，AI和应用工具的结合更紧密了：1. Claude网页版支持MCP集成- MCP是一种连接AI和外部数...](2025-05-04/#Claude更新两大核心功能##Claude网页版接入MCP#Claude更新了两大核心功能，AI和应用工具的结合更紧密了：1._Claude网页版支持MCP集成-_MCP是一种连接AI和外部数....md)** | [原文](https://weibo.com/6105753431/PpYgwdPBf) | 时间: 2025-05-04 17:03 
+  Claude最新更新两大核心功能：1) 网页版支持MCP协议集成，可一键连接GitLab、PayPal等10款应用，实现跨平台数据调用...
 
-- **[#68页论文爆锤大模型竞技场##曝Llama4曾刷大模型竞技场27次#大模型竞技场的可信度，再次被锤。最近一篇名为《排行榜幻觉》（The Leaderboard Illusion）的论文在...](2025-05-04/#68页论文爆锤大模型竞技场##曝Llama4曾刷大模型竞技场27次#大模型竞技场的可信度，再次被锤。最近一篇名为《排行榜幻觉》（The_Leaderboard_Illusion）的论文在....md)** | [原文](https://weibo.com/6105753431/PpYl4prJg) | 时间: 2025-05-04 16:04 
+- **[#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因# GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百...](2025-05-04/#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因#_GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百....md)** | [原文](https://weibo.com/6105753431/Pq5Qg08Io) | 时间: 2025-05-04 17:03 
+  OpenAI发布技术报告解释GPT-4o更新后"变谄媚"的原因。报告指出，问题源于强化学习机制中新增的用户反馈奖励信号...
+
+- **[#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast....md)** | [原文](https://weibo.com/6105753431/Pq7giy32s) | 时间: 2025-05-04 17:03 
+  华中大与北邮团队联合推出多模态大模型Perception-R1（PR1），首次突破30AP性能指标，超越YOLOv3、Faster-RCNN等传统视...
+
+- **[#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限# 超越YOLOv3、Faster-RCNN，首个在COCO2017 val set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限#_超越YOLOv3、Faster-RCNN，首个在COCO2017_val_set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京....md)** | [原文](https://weibo.com/6105753431/Pq5QRhi24) | 时间: 2025-05-04 17:03 
+  华中科技大学与北京邮电大学等团队联合推出多模态大模型Perception-R1（PR1），首次在COCO2017验证集上以纯多模态方...
+
+- **[#3D打印开源轻量人形机器人# 一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全...](2025-05-04/#3D打印开源轻量人形机器人#_一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全....md)** | [原文](https://weibo.com/6105753431/Pq5Y7cIwb) | 时间: 2025-05-04 17:03 
+  加州大学伯克利分校开发了一款3D打印开源轻量人形机器人，仅需一台3D打印机即可制造，成本低于5000美元。该机...
+
+- **[#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini 2.5 Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】 大模...](2025-05-04/#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini_2.5_Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】_大模....md)** | [原文](https://weibo.com/6105753431/Pq7b4FkVT) | 时间: 2025-05-04 17:03 
+  谷歌Gemini 2.5 Pro成为首个通关《宝可梦蓝》的大模型，成功登入游戏名人堂。其通过实时截屏分析游戏画面，结合...
+
+- **[#68页论文爆锤大模型竞技场##曝Llama4曾刷大模型竞技场27次#大模型竞技场的可信度，再次被锤。最近一篇名为《排行榜幻觉》（The Leaderboard Illusion）的论文在...](2025-05-04/#68页论文爆锤大模型竞技场##曝Llama4曾刷大模型竞技场27次#大模型竞技场的可信度，再次被锤。最近一篇名为《排行榜幻觉》（The_Leaderboard_Illusion）的论文在....md)** | [原文](https://weibo.com/6105753431/PpYl4prJg) | 时间: 2025-05-04 17:03 
   《排行榜幻觉》论文指出Chatbot Arena存在四大问题：1)大厂可私下测试多个模型版本(如Llama4测27版仅公开最优)，导...
 
-- **[#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因# GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百...](2025-05-04/#GPT4o变谄媚的原因万万没想到##OpenAI新报告揭露GPT4o变谄媚原因#_GPT-4o更新后“变谄媚”？后续技术报告来了。OpenAI一篇新鲜出炉的认错小作文，直接引来上百....md)** | [原文](https://weibo.com/6105753431/Pq5Qg08Io) | 时间: 2025-05-04 16:03 
-  OpenAI最新技术报告承认，GPT-4o更新后出现"谄媚"回应的问题，原因是强化学习机制中的用户反馈奖励信号（点赞/点...
+- **[#百万年薪的AI岗位2年彻底凉透# 2年就跌落神坛！“提示词工程师”这个曾百万年薪的AI岗位，现在已经沦为企业最不想新增的岗位之一，这一变化究竟是怎么发生的？ ...](2025-05-04/#百万年薪的AI岗位2年彻底凉透#_2年就跌落神坛！“提示词工程师”这个曾百万年薪的AI岗位，现在已经沦为企业最不想新增的岗位之一，这一变化究竟是怎么发生的？_....md)** | [原文](https://weibo.com/6105753431/PqfcQaH4N) | 时间: 2025-05-04 17:02 
+  【AI提示词工程师岗位快速降温】曾年薪百万的"提示词工程师"岗位在短短两年内从热门沦为冷门，成为企业最不...
 
-- **[#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习助力突破AI视觉感知#华中大与北邮等团队，推出了Perception-R1（PR1），这是首个突破30AP的纯多模态开源LLM，超越YOLOv3和Fast....md)** | [原文](https://weibo.com/6105753431/Pq7giy32s) | 时间: 2025-05-04 16:03 
-  华中大与北邮团队联合推出多模态大模型Perception-R1（PR1），成为首个在COCO2017验证集上突破30AP的开源纯多模态LLM...
+- **[#长视频理解突破极限#3B模型超越Meta 7B模型，超长视频理解SOTA刷新了！来自上海交通大学、北京智源研究院、特伦托大学的联合研究团队推出了Video-XL-Pro，实现...](2025-05-04/#长视频理解突破极限#3B模型超越Meta_7B模型，超长视频理解SOTA刷新了！来自上海交通大学、北京智源研究院、特伦托大学的联合研究团队推出了Video-XL-Pro，实现....md)** | [原文](https://weibo.com/6105753431/PqiOgjDag) | 时间: 2025-05-04 17:02 
+  上海交通大学、北京智源研究院和特伦托大学联合推出Video-XL-Pro模型，在长视频理解领域取得突破。该3B参数模型...
 
-- **[#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限# 超越YOLOv3、Faster-RCNN，首个在COCO2017 val set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京...](2025-05-04/#用多模态LLM超越YOLOv3##强化学习突破多模态感知极限#_超越YOLOv3、Faster-RCNN，首个在COCO2017_val_set上突破30AP的纯多模态开源LLM来啦！华中科技大学、北京....md)** | [原文](https://weibo.com/6105753431/Pq5QRhi24) | 时间: 2025-05-04 16:03 
-  华中科技大学与北京邮电大学等团队联合推出多模态大模型Perception-R1（PR1），首次在COCO2017验证集上突破30AP，超...
+- **[Challenges and Future Directions of Data-Centric AI Alignment](2025-05-04/Challenges_and_Future_Directions_of_Data-Centric_AI_Alignment.md)** | [原文](http://arxiv.org/abs/2410.01957v2) | 时间: 2025-05-04 17:02 
+  本文主张以数据为中心的人工智能对齐方法，强调提高训练数据的质量和代表性。当前方法过度依赖算法设计，却...
 
-- **[#3D打印开源轻量人形机器人# 一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全...](2025-05-04/#3D打印开源轻量人形机器人#_一台3D打印机就能造人形机器人，会拧魔方、写字、拆快递。这项研究来自加州大学伯克利分校，硬件设计、嵌入式代码和训练部署框架全....md)** | [原文](https://weibo.com/6105753431/Pq5Y7cIwb) | 时间: 2025-05-04 16:03 
-  加州大学伯克利分校研发出全开源3D打印轻量人形机器人，硬件设计、代码及训练框架均公开。该机器人成本低于5...
+- **[#百万年薪提示词岗已过气#大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年...](2025-05-04/#百万年薪提示词岗已过气#大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年....md)** | [原文](https://weibo.com/6105753431/PqiMWaTU6) | 时间: 2025-05-04 17:02 
+  2023年爆火的"提示词工程师"岗位（年薪25-33万美元）正快速降温。微软调查显示该岗位已成为企业最不愿扩招的职...
 
-- **[#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini 2.5 Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】 大模...](2025-05-04/#AI通关宝可梦##大模型终于通关宝可梦#什么？Gemini_2.5_Pro在直播中通关了《宝可梦蓝》！谷歌CEO劈柴哥第一时间兴奋官宣，放出通关时刻珍贵影像：【图1】_大模....md)** | [原文](https://weibo.com/6105753431/Pq7b4FkVT) | 时间: 2025-05-04 16:03 
-  谷歌Gemini 2.5 Pro成为首个通关《宝可梦蓝》的大模型，成功登入游戏名人堂。相比此前Claude系列仅能完成部分任务...
+- **[Learning An Active Inference Model of Driver Perception and Control: Application to Vehicle Car-Following](2025-05-04/Learning_An_Active_Inference_Model_of_Driver_Perception_and_Control-_Application_to_Vehicle_Car-Following.md)** | [原文](http://arxiv.org/abs/2303.15201v2) | 时间: 2025-05-04 17:02 
+  本文提出了一种基于有限演示数据来学习人类感知与控制模型的通用估计方法。该模型结构包含两部分：i) 智能体...
 
-- **[#百万年薪的AI岗位2年彻底凉透# 2年就跌落神坛！“提示词工程师”这个曾百万年薪的AI岗位，现在已经沦为企业最不想新增的岗位之一，这一变化究竟是怎么发生的？ ...](2025-05-04/#百万年薪的AI岗位2年彻底凉透#_2年就跌落神坛！“提示词工程师”这个曾百万年薪的AI岗位，现在已经沦为企业最不想新增的岗位之一，这一变化究竟是怎么发生的？_....md)** | [原文](https://weibo.com/6105753431/PqfcQaH4N) | 时间: 2025-05-04 16:02 
-  该微博讨论曾炙手可热的"提示词工程师"岗位在两年内迅速降温的现象。这一职位曾因AI热潮获得百万年薪，但如...
+- **[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](2025-05-04/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)** | [原文](http://arxiv.org/abs/2410.08067v4) | 时间: 2025-05-04 17:02 
+  现有大型语言模型（LLMs）偏好对齐方法主要关注相对偏好，却忽略了响应质量，导致模型可能过度拟合或错误遗...
 
-- **[#长视频理解突破极限#3B模型超越Meta 7B模型，超长视频理解SOTA刷新了！来自上海交通大学、北京智源研究院、特伦托大学的联合研究团队推出了Video-XL-Pro，实现...](2025-05-04/#长视频理解突破极限#3B模型超越Meta_7B模型，超长视频理解SOTA刷新了！来自上海交通大学、北京智源研究院、特伦托大学的联合研究团队推出了Video-XL-Pro，实现....md)** | [原文](https://weibo.com/6105753431/PqiOgjDag) | 时间: 2025-05-04 16:02 
-  上海交通大学、北京智源研究院和特伦托大学联合推出Video-XL-Pro模型，突破长视频理解瓶颈。该3B参数模型采用"重...
+- **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](2025-05-04/Open-Source_LLM-Driven_Federated_Transformer_for_Predictive_IoV_Management.md)** | [原文](http://arxiv.org/abs/2505.00651v1) | 时间: 2025-05-04 17:01 
+  本文提出了一种名为FPoTT的新型框架，用于解决车联网（IoV）中可扩展、实时且保护隐私的交通管理挑战。FPoTT利...
 
-- **[Challenges and Future Directions of Data-Centric AI Alignment](2025-05-04/Challenges_and_Future_Directions_of_Data-Centric_AI_Alignment.md)** | [原文](http://arxiv.org/abs/2410.01957v2) | 时间: 2025-05-04 16:02 
-  随着AI系统能力增强，确保其与人类价值观对齐成为研究重点。当前方法多聚焦算法设计，却忽视了数据的关键作...
+- **[Artificial Scientific Discovery](2025-05-04/Artificial_Scientific_Discovery.md)** | [原文](http://arxiv.org/abs/2411.11672v2) | 时间: 2025-05-04 17:01 
+  这篇论文探讨了实现"人工科学家"愿景所需的关键概念，从AlphaGo到ChatGPT展开实证研究。研究首先开发了类似AlphaGo ...
 
-- **[#百万年薪提示词岗已过气#大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年...](2025-05-04/#百万年薪提示词岗已过气#大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年....md)** | [原文](https://weibo.com/6105753431/PqiMWaTU6) | 时间: 2025-05-04 16:02 
-  2023年爆火的提示词工程师岗位（年薪25-33万美元）如今需求锐减。微软调查显示该岗位成为企业最不愿新增的职位...
+- **[Catastrophic Liability: Managing Systemic Risks in Frontier AI Development](2025-05-04/Catastrophic_Liability-_Managing_Systemic_Risks_in_Frontier_AI_Development.md)** | [原文](http://arxiv.org/abs/2505.00616v1) | 时间: 2025-05-04 17:01 
+  随着人工智能系统能力增强和自主性提升，前沿AI发展可能带来影响社会的系统性风险。当前许多AI实验室的开发...
 
-- **[Learning An Active Inference Model of Driver Perception and Control: Application to Vehicle Car-Following](2025-05-04/Learning_An_Active_Inference_Model_of_Driver_Perception_and_Control-_Application_to_Vehicle_Car-Following.md)** | [原文](http://arxiv.org/abs/2303.15201v2) | 时间: 2025-05-04 16:02 
-  本文提出了一种基于有限演示数据来学习人类感知与控制模型的通用估计方法。该模型结构包括：i) 智能体对环境...
+- **[Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Env...](2025-05-04/Deep_Reinforcement_Learning_for_Urban_Air_Quality_Management-_Multi-Objective_Optimization_of_Pollution_Mitigation_Booth_Placement_in_Metropolitan_Env....md)** | [原文](http://arxiv.org/abs/2505.00668v1) | 时间: 2025-05-04 17:01 
+  德里是全球空气污染最严重的城市之一，主要污染源包括交通排放、工业活动和建筑扬尘。传统静态空气净化装置...
 
-- **[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](2025-05-04/Reward-Augmented_Data_Enhances_Direct_Preference_Alignment_of_LLMs.md)** | [原文](http://arxiv.org/abs/2410.08067v4) | 时间: 2025-05-04 16:02 
-  当前大语言模型（LLM）偏好对齐方法主要关注相对偏好，却忽略了响应质量，导致模型可能过度拟合或错误学习。...
+- **[Visual Test-time Scaling for GUI Agent Grounding](2025-05-04/Visual_Test-time_Scaling_for_GUI_Agent_Grounding.md)** | [原文](http://arxiv.org/abs/2505.00684v1) | 时间: 2025-05-04 17:01 
+  本文介绍了RegionFocus，一种用于视觉语言模型代理的视觉测试时缩放方法。针对网页理解中GUI图像复杂、界面元素...
 
-- **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](2025-05-04/Open-Source_LLM-Driven_Federated_Transformer_for_Predictive_IoV_Management.md)** | [原文](http://arxiv.org/abs/2505.00651v1) | 时间: 2025-05-04 16:01 
-  本文提出了联邦提示优化交通变换器（FPoTT），一种基于开源大语言模型（LLM）的新型车联网（IoV）管理框架。FPoT...
+- **[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](2025-05-04/Rethinking_Memory_in_AI-_Taxonomy,_Operations,_Topics,_and_Future_Directions.md)** | [原文](http://arxiv.org/abs/2505.00675v1) | 时间: 2025-05-04 17:01 
+  这篇综述探讨了AI系统中的记忆机制，重点关注基于大语言模型（LLM）的智能体。作者将记忆表征分为参数化、结...
 
-- **[Artificial Scientific Discovery](2025-05-04/Artificial_Scientific_Discovery.md)** | [原文](http://arxiv.org/abs/2411.11672v2) | 时间: 2025-05-04 16:01 
-  这篇论文探讨了如何实现"人工科学家"的愿景，即机器能自主开展原创研究并扩展人类知识。研究从AlphaGo类智能体...
-
-- **[Catastrophic Liability: Managing Systemic Risks in Frontier AI Development](2025-05-04/Catastrophic_Liability-_Managing_Systemic_Risks_in_Frontier_AI_Development.md)** | [原文](http://arxiv.org/abs/2505.00616v1) | 时间: 2025-05-04 16:01 
-  随着前沿AI系统能力增强且日益自主，其发展可能带来影响社会的系统性风险。当前许多AI实验室在安全措施、测...
-
-- **[Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Env...](2025-05-04/Deep_Reinforcement_Learning_for_Urban_Air_Quality_Management-_Multi-Objective_Optimization_of_Pollution_Mitigation_Booth_Placement_in_Metropolitan_Env....md)** | [原文](http://arxiv.org/abs/2505.00668v1) | 时间: 2025-05-04 16:01 
-  德里是全球空气污染最严重的城市之一，主要受交通排放、工业活动和建筑扬尘影响。传统静态空气净化装置因布...
-
-- **[Visual Test-time Scaling for GUI Agent Grounding](2025-05-04/Visual_Test-time_Scaling_for_GUI_Agent_Grounding.md)** | [原文](http://arxiv.org/abs/2505.00684v1) | 时间: 2025-05-04 16:01 
-  本文提出RegionFocus，一种用于视觉语言模型代理的视觉测试时缩放方法。该方法通过动态放大网页相关区域，减少...
-
-- **[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](2025-05-04/Rethinking_Memory_in_AI-_Taxonomy,_Operations,_Topics,_and_Future_Directions.md)** | [原文](http://arxiv.org/abs/2505.00675v1) | 时间: 2025-05-04 16:01 
-  这篇综述探讨了AI系统中的记忆机制，特别关注基于大语言模型(LLM)的智能体。研究首先将记忆表征分为参数化、...
-
-- **[Towards Autonomous Micromobility through Scalable Urban Simulation](2025-05-04/Towards_Autonomous_Micromobility_through_Scalable_Urban_Simulation.md)** | [原文](http://arxiv.org/abs/2505.00690v1) | 时间: 2025-05-04 16:00 
-  微出行（如配送机器人、电动代步车）是城市交通的新兴替代方案，但依赖人工操作存在安全与效率问题。研究提...
+- **[Towards Autonomous Micromobility through Scalable Urban Simulation](2025-05-04/Towards_Autonomous_Micromobility_through_Scalable_Urban_Simulation.md)** | [原文](http://arxiv.org/abs/2505.00690v1) | 时间: 2025-05-04 17:00 
+  这篇论文提出了一个用于推进自主微移动技术发展的城市模拟解决方案。研究团队开发了URBAN-SIM平台，包含三个关...
 
 - **[大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年拿到25-33万美元年薪。但...](2025-05-04/大模型元年最热门的AI岗位，现在已经过气了——提示词工程师，不用写代码、不限专业、不要求学历，只需研究如何和AI聊天，就能在2023年拿到25-33万美元年薪。但....md)** | [原文](https://weibo.com/6105753431/PqiMWaTU6) | 时间: 2025-05-04 15:03 
   2023年爆火的提示词工程师岗位（年薪25-33万美元）如今需求锐减。微软调查显示该岗位成为企业最不愿新增的职位...
