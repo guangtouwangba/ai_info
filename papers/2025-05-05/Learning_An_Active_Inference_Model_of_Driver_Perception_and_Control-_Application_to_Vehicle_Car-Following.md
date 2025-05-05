@@ -1,0 +1,35 @@
+# Learning An Active Inference Model of Driver Perception and Control: Application to Vehicle Car-Following
+
+**URL**: http://arxiv.org/abs/2303.15201v2
+
+## 原始摘要
+
+In this paper we introduce a general estimation methodology for learning a
+model of human perception and control in a sensorimotor control task based upon
+a finite set of demonstrations. The model's structure consists of i the agent's
+internal representation of how the environment and associated observations
+evolve as a result of control actions and ii the agent's preferences over
+observable outcomes. We consider a model's structure specification consistent
+with active inference, a theory of human perception and behavior from cognitive
+science. According to active inference, the agent acts upon the world so as to
+minimize surprise defined as a measure of the extent to which an agent's
+current sensory observations differ from its preferred sensory observations. We
+propose a bi-level optimization approach to estimation which relies on a
+structural assumption on prior distributions that parameterize the statistical
+accuracy of the human agent's model of the environment. To illustrate the
+proposed methodology, we present the estimation of a model for car-following
+behavior based upon a naturalistic dataset. Overall, the results indicate that
+learning active inference models of human perception and control from data is a
+promising alternative to black-box models of driving.
+
+
+## AI 摘要
+
+本文提出了一种从有限演示数据中学习人类感知与控制模型的通用估计方法。该模型结构包含：i) 环境内部表征（控制行为如何影响环境与观测）；ii) 对可观测结果的偏好。基于认知科学的主动推理理论，模型假设人类行为旨在最小化"意外"（当前感官观测与偏好观测的差异）。作者采用双层优化方法进行估计，依赖先验分布的结构假设。通过自然驾驶数据建立的跟车行为模型验证表明，这种主动推理模型相比黑箱模型能更有效地描述人类驾驶行为，为理解人类感知控制机制提供了新思路。（99字）
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-05T00:02:36Z
+- **目录日期**: 2025-05-05
