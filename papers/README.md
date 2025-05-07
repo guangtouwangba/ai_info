@@ -6,46 +6,55 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的匹配度。研究收集了397个...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出创新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-07 13:14
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可以模拟1万多个智能体及其500万次社会互动。研究者用...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-07 13:13
+**收录时间**: 2025-05-07 14:06
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。该方案通过时间表...
+**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-07 13:13
+**收录时间**: 2025-05-07 14:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-07/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-07 13:13
+**收录时间**: 2025-05-07 14:06
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-07 14:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK致癌基因的双靶点抑制剂研究进展。ALK是NSCLC的重要治疗靶点，尽管已有7...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，现有...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-07 13:13
+**收录时间**: 2025-05-07 14:05
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法是对带动量的随机梯度...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-07 14:05
 
 ---
 
@@ -54,7 +63,7 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-07 13:13
+**收录时间**: 2025-05-07 14:05
 
 ---
 
@@ -63,124 +72,115 @@
 **摘要**: 英伟达宣布RTX 5060显卡将于5月19日发售，建议零售价299美元（约2158元）。该显卡拥有3840个CUDA核心，相比RTX 4060增...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJ0L5o3t)
-**收录时间**: 2025-05-07 13:12
-
----
-
-### [#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)
-
-**摘要**: Volid是一款创新的语音AI助手，能模仿名人（如马斯克、史泰龙）和虚拟角色（如辛普森）的音色，实现自然流畅...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ2z2GYb)
-**收录时间**: 2025-05-07 13:12
+**收录时间**: 2025-05-07 14:04
 
 ---
 
 ### [#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到...](2025-05-07/#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到....md)
 
-**摘要**: 腾讯推出的混元3D V2.5模型引发广泛关注，该模型支持通过单张照片生成高质量3D人物模型，并能进一步转化为动画...
+**摘要**: 腾讯推出的混元3D V2.5模型引发广泛关注，该AI工具支持通过单张照片生成高质量3D人物模型，并能转换为动画或3D...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJ0noFtf)
-**收录时间**: 2025-05-07 13:12
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-07 13:12
-
----
-
-### [#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging Face团队也在昨天...](2025-05-07/#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging_Face团队也在昨天....md)
-
-**摘要**: Hugging Face近日推出免费云端AI智能体"Computer Use"，基于网页端通过Linux虚拟机执行任务。该工具能自动启动程序完成...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqJvGgFCM)
-**收录时间**: 2025-05-07 13:11
+**收录时间**: 2025-05-07 14:04
 
 ---
 
 ### [#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领...](2025-05-07/#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领....md)
 
-**摘要**: 随着大模型加速渗透金融、医疗等关键行业，其安全可控性成为产业落地的核心前提。瑞莱智慧CEO田天博士在第三...
+**摘要**: 随着大模型在金融、医疗等关键领域的加速渗透，AI安全可控性已成为产业落地的核心前提。瑞莱智慧CEO田天博士...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJ2G5XSI)
-**收录时间**: 2025-05-07 13:11
+**收录时间**: 2025-05-07 14:04
 
 ---
 
-### [#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)
+### [#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)
 
-**摘要**: Meta FAIR团队开发的Perception Encoder (PE)通过单一对比学习目标实现了多任务视觉感知突破。该模型仅用对比学习就能...
+**摘要**: Volid是一款新型语音AI助手，能模仿名人声音（如马斯克、史泰龙）和虚拟角色（如辛普森），实现自然对话。其...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ3Df6PO)
-**收录时间**: 2025-05-07 13:11
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ2z2GYb)
+**收录时间**: 2025-05-07 14:04
 
 ---
 
 ### [#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash <...](2025-05-07/#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash_....md)
 
-**摘要**: 这是一个针对Linux系统的"一键换源脚本"工具，由LinuxMirrors项目开发维护。支持25+主流Linux发行版，提供简单的一键...
+**摘要**: Linux一键换源脚本是一款高效工具，支持25+主流Linux发行版（如Ubuntu、Debian、CentOS等），通过简单命令\`bash <(curl -sSL...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJCY45Nt)
-**收录时间**: 2025-05-07 13:11
+**收录时间**: 2025-05-07 14:03
+
+---
+
+### [#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging Face团队也在昨天...](2025-05-07/#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging_Face团队也在昨天....md)
+
+**摘要**: Hugging Face发布了一款名为Computer Use的免费云端AI智能体，基于网页端运行，通过Linux虚拟机执行任务。用户输入指...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqJvGgFCM)
+**收录时间**: 2025-05-07 14:03
+
+---
+
+### [#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)
+
+**摘要**: Meta FAIR团队最新开发的Perception Encoder（PE）通过单一对比学习目标实现了多任务视觉感知突破。该模型能识别海底...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ3Df6PO)
+**收录时间**: 2025-05-07 14:03
 
 ---
 
 ### [#资深工程师的LLM技巧##专业工程师如何使用LLM#专业的工程师都怎么使用LLM？BuzzFeed的资深数据科学家Max Woolf坦率地在博客里分享了自己的经验，量子位进行了简...](2025-05-07/#资深工程师的LLM技巧##专业工程师如何使用LLM#专业的工程师都怎么使用LLM？BuzzFeed的资深数据科学家Max_Woolf坦率地在博客里分享了自己的经验，量子位进行了简....md)
 
-**摘要**: 资深工程师Max Woolf分享使用LLM的核心经验：1）通过提示工程优化输出，直接调用API接口实现精细控制；2）LLM擅长...
+**摘要**: 资深工程师使用LLM的核心技巧包括：1）通过提示工程优化输出质量；2）直接调用API接口以获得更灵活的控制。LLM...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJuWpcA4)
-**收录时间**: 2025-05-07 13:11
-
----
-
-### [#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-07/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)
-
-**摘要**: LTX Video推出的LTXV-13B是一款开源AI视频生成模型，被赞为"AI视频的DeepSeek时刻"。该模型采用130亿参数和"多尺度渲染"...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqJQ44OqD)
-**收录时间**: 2025-05-07 13:10
+**收录时间**: 2025-05-07 14:03
 
 ---
 
 ### [#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调...](2025-05-07/#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调....md)
 
-**摘要**: WeClone是一个开源项目，可通过微信聊天记录训练AI模型，生成用户的"数字分身"，实现"数字永生"。它支持导出聊...
+**摘要**: WeClone是一个开源项目，通过分析微信聊天记录，利用LoRA微调大语言模型（如Qwen2.5-7B）和0.5B语音克隆模型，生成...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJEQur0w)
-**收录时间**: 2025-05-07 13:10
+**收录时间**: 2025-05-07 14:03
 
 ---
 
 ### [Advancing Human-Machine Teaming: Concepts, Challenges, and Applications](2025-05-07/Advancing_Human-Machine_Teaming-_Concepts,_Challenges,_and_Applications.md)
 
-**摘要**: 人机协作（HMT）通过整合AI决策、信任校准和自适应协作，正在改变国防、医疗和自主系统等领域的合作方式。该...
+**摘要**: 人机协作（HMT）通过整合AI决策、信任校准和自适应协作，正在革新国防、医疗和自主系统等领域的合作模式。本...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.16518v2)
-**收录时间**: 2025-05-07 12:02
+**收录时间**: 2025-05-07 14:02
+
+---
+
+### [Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](2025-05-07/Demonstrating_ViSafe-_Vision-enabled_Safety_for_High-speed_Detect_and_Avoid.md)
+
+**摘要**: ViSafe是一种高速纯视觉空中防撞系统，专为资源受限的飞行器设计，可在共享空域实现安全自主避障。该系统集成...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.03694v1)
+**收录时间**: 2025-05-07 14:02
+
+---
+
+### [#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-07/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)
+
+**摘要**: LTX Video推出的开源模型LTXV-13B在AI视频生成领域取得突破，速度比同类模型快30倍，并支持消费级显卡（如RTX 3090/409...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqJQ44OqD)
+**收录时间**: 2025-05-07 14:02
 
 ---
 
 ### [UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](2025-05-07/UI-Vision-_A_Desktop-centric_GUI_Benchmark_for_Visual_Perception_and_Interaction.md)
 
-**摘要**: 研究人员推出了首个综合性、许可宽松的基准测试UI-Vision，用于评估真实桌面环境中的自动化代理性能。该基准包...
+**摘要**: 研究人员推出了首个综合性、开源许可的桌面环境智能代理基准测试工具UI-Vision，用于离线评估计算机使用代理在...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.15661v2)
-**收录时间**: 2025-05-07 12:02
-
----
-
-### [Humans can learn to detect AI-generated texts, or at least learn when they can't](2025-05-07/Humans_can_learn_to_detect_AI-generated_texts,_or_at_least_learn_when_they_can't.md)
-
-**摘要**: 这项研究发现，通过即时反馈训练，人们可以有效提升区分人类写作与AI生成文本的能力，并改善自我评估的准确...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.01877v2)
-**收录时间**: 2025-05-07 12:02
+**收录时间**: 2025-05-07 14:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-07 (57篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-07 13:14 
-  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的匹配度。研究收集了397个...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-07 14:06 
+  这篇论文针对代码生成大模型(codeLLMs)提出创新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-07 13:13 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可以模拟1万多个智能体及其500万次社会互动。研究者用...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-07 14:06 
+  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-07 13:13 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。该方案通过时间表...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-07/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-07 14:06 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-07/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-07 13:13 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-07 14:05 
+  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-07 13:13 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK致癌基因的双靶点抑制剂研究进展。ALK是NSCLC的重要治疗靶点，尽管已有7...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-07 14:05 
+  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，现有...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-07/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-07 13:13 
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-07 14:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法是对带动量的随机梯度...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-07/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-07 14:05 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX 5060将于5月19日发售！英伟达今天宣布，GeForce RTX 5060显卡将在太平洋时间5月19日上午9...](2025-05-07/#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX_5060将于5月19日发售！英伟达今天宣布，GeForce_RTX_5060显卡将在太平洋时间5月19日上午9....md)** | [原文](https://weibo.com/6105753431/PqJ0L5o3t) | 时间: 2025-05-07 13:12 
+- **[#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX 5060将于5月19日发售！英伟达今天宣布，GeForce RTX 5060显卡将在太平洋时间5月19日上午9...](2025-05-07/#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX_5060将于5月19日发售！英伟达今天宣布，GeForce_RTX_5060显卡将在太平洋时间5月19日上午9....md)** | [原文](https://weibo.com/6105753431/PqJ0L5o3t) | 时间: 2025-05-07 14:04 
   英伟达宣布RTX 5060显卡将于5月19日发售，建议零售价299美元（约2158元）。该显卡拥有3840个CUDA核心，相比RTX 4060增...
 
-- **[#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)** | [原文](https://weibo.com/6105753431/PqJ2z2GYb) | 时间: 2025-05-07 13:12 
-  Volid是一款创新的语音AI助手，能模仿名人（如马斯克、史泰龙）和虚拟角色（如辛普森）的音色，实现自然流畅...
+- **[#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到...](2025-05-07/#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到....md)** | [原文](https://weibo.com/6105753431/PqJ0noFtf) | 时间: 2025-05-07 14:04 
+  腾讯推出的混元3D V2.5模型引发广泛关注，该AI工具支持通过单张照片生成高质量3D人物模型，并能转换为动画或3D...
 
-- **[#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到...](2025-05-07/#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到....md)** | [原文](https://weibo.com/6105753431/PqJ0noFtf) | 时间: 2025-05-07 13:12 
-  腾讯推出的混元3D V2.5模型引发广泛关注，该模型支持通过单张照片生成高质量3D人物模型，并能进一步转化为动画...
+- **[#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领...](2025-05-07/#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领....md)** | [原文](https://weibo.com/6105753431/PqJ2G5XSI) | 时间: 2025-05-07 14:04 
+  随着大模型在金融、医疗等关键领域的加速渗透，AI安全可控性已成为产业落地的核心前提。瑞莱智慧CEO田天博士...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-07 13:12 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+- **[#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)** | [原文](https://weibo.com/6105753431/PqJ2z2GYb) | 时间: 2025-05-07 14:04 
+  Volid是一款新型语音AI助手，能模仿名人声音（如马斯克、史泰龙）和虚拟角色（如辛普森），实现自然对话。其...
 
-- **[#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging Face团队也在昨天...](2025-05-07/#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging_Face团队也在昨天....md)** | [原文](https://weibo.com/6105753431/PqJvGgFCM) | 时间: 2025-05-07 13:11 
-  Hugging Face近日推出免费云端AI智能体"Computer Use"，基于网页端通过Linux虚拟机执行任务。该工具能自动启动程序完成...
+- **[#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash <...](2025-05-07/#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash_....md)** | [原文](https://weibo.com/6105753431/PqJCY45Nt) | 时间: 2025-05-07 14:03 
+  Linux一键换源脚本是一款高效工具，支持25+主流Linux发行版（如Ubuntu、Debian、CentOS等），通过简单命令\`bash <(curl -sSL...
 
-- **[#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领...](2025-05-07/#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领....md)** | [原文](https://weibo.com/6105753431/PqJ2G5XSI) | 时间: 2025-05-07 13:11 
-  随着大模型加速渗透金融、医疗等关键行业，其安全可控性成为产业落地的核心前提。瑞莱智慧CEO田天博士在第三...
+- **[#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging Face团队也在昨天...](2025-05-07/#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging_Face团队也在昨天....md)** | [原文](https://weibo.com/6105753431/PqJvGgFCM) | 时间: 2025-05-07 14:03 
+  Hugging Face发布了一款名为Computer Use的免费云端AI智能体，基于网页端运行，通过Linux虚拟机执行任务。用户输入指...
 
-- **[#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)** | [原文](https://weibo.com/6105753431/PqJ3Df6PO) | 时间: 2025-05-07 13:11 
-  Meta FAIR团队开发的Perception Encoder (PE)通过单一对比学习目标实现了多任务视觉感知突破。该模型仅用对比学习就能...
+- **[#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)** | [原文](https://weibo.com/6105753431/PqJ3Df6PO) | 时间: 2025-05-07 14:03 
+  Meta FAIR团队最新开发的Perception Encoder（PE）通过单一对比学习目标实现了多任务视觉感知突破。该模型能识别海底...
 
-- **[#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash <...](2025-05-07/#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash_....md)** | [原文](https://weibo.com/6105753431/PqJCY45Nt) | 时间: 2025-05-07 13:11 
-  这是一个针对Linux系统的"一键换源脚本"工具，由LinuxMirrors项目开发维护。支持25+主流Linux发行版，提供简单的一键...
+- **[#资深工程师的LLM技巧##专业工程师如何使用LLM#专业的工程师都怎么使用LLM？BuzzFeed的资深数据科学家Max Woolf坦率地在博客里分享了自己的经验，量子位进行了简...](2025-05-07/#资深工程师的LLM技巧##专业工程师如何使用LLM#专业的工程师都怎么使用LLM？BuzzFeed的资深数据科学家Max_Woolf坦率地在博客里分享了自己的经验，量子位进行了简....md)** | [原文](https://weibo.com/6105753431/PqJuWpcA4) | 时间: 2025-05-07 14:03 
+  资深工程师使用LLM的核心技巧包括：1）通过提示工程优化输出质量；2）直接调用API接口以获得更灵活的控制。LLM...
 
-- **[#资深工程师的LLM技巧##专业工程师如何使用LLM#专业的工程师都怎么使用LLM？BuzzFeed的资深数据科学家Max Woolf坦率地在博客里分享了自己的经验，量子位进行了简...](2025-05-07/#资深工程师的LLM技巧##专业工程师如何使用LLM#专业的工程师都怎么使用LLM？BuzzFeed的资深数据科学家Max_Woolf坦率地在博客里分享了自己的经验，量子位进行了简....md)** | [原文](https://weibo.com/6105753431/PqJuWpcA4) | 时间: 2025-05-07 13:11 
-  资深工程师Max Woolf分享使用LLM的核心经验：1）通过提示工程优化输出，直接调用API接口实现精细控制；2）LLM擅长...
+- **[#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调...](2025-05-07/#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调....md)** | [原文](https://weibo.com/6105753431/PqJEQur0w) | 时间: 2025-05-07 14:03 
+  WeClone是一个开源项目，通过分析微信聊天记录，利用LoRA微调大语言模型（如Qwen2.5-7B）和0.5B语音克隆模型，生成...
 
-- **[#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-07/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)** | [原文](https://weibo.com/6105753431/PqJQ44OqD) | 时间: 2025-05-07 13:10 
-  LTX Video推出的LTXV-13B是一款开源AI视频生成模型，被赞为"AI视频的DeepSeek时刻"。该模型采用130亿参数和"多尺度渲染"...
+- **[Advancing Human-Machine Teaming: Concepts, Challenges, and Applications](2025-05-07/Advancing_Human-Machine_Teaming-_Concepts,_Challenges,_and_Applications.md)** | [原文](http://arxiv.org/abs/2503.16518v2) | 时间: 2025-05-07 14:02 
+  人机协作（HMT）通过整合AI决策、信任校准和自适应协作，正在革新国防、医疗和自主系统等领域的合作模式。本...
 
-- **[#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调...](2025-05-07/#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调....md)** | [原文](https://weibo.com/6105753431/PqJEQur0w) | 时间: 2025-05-07 13:10 
-  WeClone是一个开源项目，可通过微信聊天记录训练AI模型，生成用户的"数字分身"，实现"数字永生"。它支持导出聊...
+- **[Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](2025-05-07/Demonstrating_ViSafe-_Vision-enabled_Safety_for_High-speed_Detect_and_Avoid.md)** | [原文](http://arxiv.org/abs/2505.03694v1) | 时间: 2025-05-07 14:02 
+  ViSafe是一种高速纯视觉空中防撞系统，专为资源受限的飞行器设计，可在共享空域实现安全自主避障。该系统集成...
 
-- **[Advancing Human-Machine Teaming: Concepts, Challenges, and Applications](2025-05-07/Advancing_Human-Machine_Teaming-_Concepts,_Challenges,_and_Applications.md)** | [原文](http://arxiv.org/abs/2503.16518v2) | 时间: 2025-05-07 12:02 
-  人机协作（HMT）通过整合AI决策、信任校准和自适应协作，正在改变国防、医疗和自主系统等领域的合作方式。该...
+- **[#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-07/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)** | [原文](https://weibo.com/6105753431/PqJQ44OqD) | 时间: 2025-05-07 14:02 
+  LTX Video推出的开源模型LTXV-13B在AI视频生成领域取得突破，速度比同类模型快30倍，并支持消费级显卡（如RTX 3090/409...
 
-- **[UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](2025-05-07/UI-Vision-_A_Desktop-centric_GUI_Benchmark_for_Visual_Perception_and_Interaction.md)** | [原文](http://arxiv.org/abs/2503.15661v2) | 时间: 2025-05-07 12:02 
-  研究人员推出了首个综合性、许可宽松的基准测试UI-Vision，用于评估真实桌面环境中的自动化代理性能。该基准包...
+- **[UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](2025-05-07/UI-Vision-_A_Desktop-centric_GUI_Benchmark_for_Visual_Perception_and_Interaction.md)** | [原文](http://arxiv.org/abs/2503.15661v2) | 时间: 2025-05-07 14:02 
+  研究人员推出了首个综合性、开源许可的桌面环境智能代理基准测试工具UI-Vision，用于离线评估计算机使用代理在...
 
-- **[Humans can learn to detect AI-generated texts, or at least learn when they can't](2025-05-07/Humans_can_learn_to_detect_AI-generated_texts,_or_at_least_learn_when_they_can't.md)** | [原文](http://arxiv.org/abs/2505.01877v2) | 时间: 2025-05-07 12:02 
-  这项研究发现，通过即时反馈训练，人们可以有效提升区分人类写作与AI生成文本的能力，并改善自我评估的准确...
+- **[Humans can learn to detect AI-generated texts, or at least learn when they can't](2025-05-07/Humans_can_learn_to_detect_AI-generated_texts,_or_at_least_learn_when_they_can't.md)** | [原文](http://arxiv.org/abs/2505.01877v2) | 时间: 2025-05-07 14:02 
+  这项研究探讨了人们能否通过即时反馈学习准确区分人类写作和AI生成的文本，并调整自我认知能力。实验让255名...
 
-- **[An Empirical Risk Minimization Approach for Offline Inverse RL and Dynamic Discrete Choice Model](2025-05-07/An_Empirical_Risk_Minimization_Approach_for_Offline_Inverse_RL_and_Dynamic_Discrete_Choice_Model.md)** | [原文](http://arxiv.org/abs/2502.14131v3) | 时间: 2025-05-07 12:02 
-  本文提出了一种基于梯度下降的全局收敛方法，用于解决动态离散选择（DDC）模型或离线最大熵正则化逆向强化学...
+- **[An Empirical Risk Minimization Approach for Offline Inverse RL and Dynamic Discrete Choice Model](2025-05-07/An_Empirical_Risk_Minimization_Approach_for_Offline_Inverse_RL_and_Dynamic_Discrete_Choice_Model.md)** | [原文](http://arxiv.org/abs/2502.14131v3) | 时间: 2025-05-07 14:02 
+  本文提出了一种基于梯度下降的全局收敛方法，用于解决动态离散选择(DDC)模型和离线最大熵逆向强化学习(MaxEnt-IR...
 
-- **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](2025-05-07/Meta-Optimization_and_Program_Search_using_Language_Models_for_Task_and_Motion_Planning.md)** | [原文](http://arxiv.org/abs/2505.03725v1) | 时间: 2025-05-07 12:01 
-  该研究提出了一种新颖的任务与运动规划(TAMP)方法，通过元优化技术改进高层规划与低层控制的接口。该方法采用...
+- **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](2025-05-07/Meta-Optimization_and_Program_Search_using_Language_Models_for_Task_and_Motion_Planning.md)** | [原文](http://arxiv.org/abs/2505.03725v1) | 时间: 2025-05-07 14:01 
+  该研究提出了一种新颖的任务与运动规划(TAMP)方法，通过元优化技术桥接高层规划与底层控制。该方法采用程序搜...
 
-- **[Critical habitat size of organisms diffusing with stochastic resetting](2025-05-07/Critical_habitat_size_of_organisms_diffusing_with_stochastic_resetting.md)** | [原文](http://arxiv.org/abs/2505.03727v1) | 时间: 2025-05-07 12:01 
-  该研究探讨了随机重置行为（如归巢、避难或资源导向移动）如何影响种群存活所需的最小栖息地面积（临界斑块...
+- **[Critical habitat size of organisms diffusing with stochastic resetting](2025-05-07/Critical_habitat_size_of_organisms_diffusing_with_stochastic_resetting.md)** | [原文](http://arxiv.org/abs/2505.03727v1) | 时间: 2025-05-07 14:01 
+  该研究探讨了随机重置（如归巢、避难或资源导向行为）如何影响种群生存所需的最小栖息地面积（临界斑块大小...
 
-- **[Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](2025-05-07/Demonstrating_ViSafe-_Vision-enabled_Safety_for_High-speed_Detect_and_Avoid.md)** | [原文](http://arxiv.org/abs/2505.03694v1) | 时间: 2025-05-07 12:01 
-  ViSafe是一种高速纯视觉空中防撞系统，专为资源受限的飞行器设计，可在共享空域实现安全自主避障。该系统整合...
+- **[Multi-Agent System for Comprehensive Soccer Understanding](2025-05-07/Multi-Agent_System_for_Comprehensive_Soccer_Understanding.md)** | [原文](http://arxiv.org/abs/2505.03735v1) | 时间: 2025-05-07 14:01 
+  该研究提出了一个全面的足球理解框架，包含三个主要贡献：(1) 构建首个大规模多模态足球知识库SoccerWiki，整合...
 
-- **[Multi-Agent System for Comprehensive Soccer Understanding](2025-05-07/Multi-Agent_System_for_Comprehensive_Soccer_Understanding.md)** | [原文](http://arxiv.org/abs/2505.03735v1) | 时间: 2025-05-07 12:01 
-  该研究提出了一个全面的足球理解框架，主要贡献包括：(1) 构建首个大规模多模态足球知识库SoccerWiki，整合球员...
+- **[Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach](2025-05-07/Accelerated_Decentralized_Constraint-Coupled_Optimization-_A_Dual$^2$_Approach.md)** | [原文](http://arxiv.org/abs/2505.03719v1) | 时间: 2025-05-07 14:01 
+  本文研究了一类去中心化的约束耦合优化问题，提出两种基于新型双重加速（Dual²）方法的算法：iD2A和MiD2A。相比...
 
-- **[Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach](2025-05-07/Accelerated_Decentralized_Constraint-Coupled_Optimization-_A_Dual$^2$_Approach.md)** | [原文](http://arxiv.org/abs/2505.03719v1) | 时间: 2025-05-07 12:01 
-  本文研究了一类分散式约束耦合优化问题，提出两种基于新型双重平方（Dual²）方法的加速算法：iD2A和MiD2A。相比...
-
-- **[WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](2025-05-07/WebGen-Bench-_Evaluating_LLMs_on_Generating_Interactive_and_Functional_Websites_from_Scratch.md)** | [原文](http://arxiv.org/abs/2505.03733v1) | 时间: 2025-05-07 12:01 
-  本文介绍了WebGen-Bench，一个评估基于LLM的智能体从头创建多文件网站代码库能力的新基准。该基准包含多样化的网...
+- **[WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](2025-05-07/WebGen-Bench-_Evaluating_LLMs_on_Generating_Interactive_and_Functional_Websites_from_Scratch.md)** | [原文](http://arxiv.org/abs/2505.03733v1) | 时间: 2025-05-07 14:01 
+  本文介绍了WebGen-Bench，一个评估基于LLM的智能体从零生成多文件网站代码库能力的新基准。该基准包含多样化的网...
 
 - **[#科研复现AI神器# 顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu...](2025-05-07/#科研复现AI神器#_顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu....md)** | [原文](https://weibo.com/6105753431/PqHxFiIg3) | 时间: 2025-05-07 09:04 
   韩国科学技术院和DeepAuto.ai联合开发了PaperCoder工具，能够一键复现顶会论文。该工具通过三步拆解论文，自动生成...
