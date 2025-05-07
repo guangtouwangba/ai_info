@@ -4,165 +4,165 @@
 
 ## 最新内容
 
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-07 08:06
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-05-07 09:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-07/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、辅助阅读、翻译、分析及写作等一站式服务。它拥有3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-07 08:06
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct语料库。CodeAre...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-07 08:06
+**收录时间**: 2025-05-07 09:06
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大型语言模型(LLM)的大规模社会模拟系统，可模拟10,000多个智能代理及其500万次互动。该系统...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-07 08:05
+**收录时间**: 2025-05-07 09:05
 
 ---
 
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示，直接建模音频-视...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-07 08:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-05-07 09:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-07/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-07 08:05
+**收录时间**: 2025-05-07 09:05
 
 ---
 
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认...
+**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新进展。ALK是NSCLC的重要致癌驱动基因，现有7种ALK...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-07 08:05
-
----
-
-### [#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁...](2025-05-07/#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁....md)
-
-**摘要**: 英伟达CEO黄仁勋预测中国AI市场将在3年内达500亿美元规模，强调错过将是巨大损失。他指出AI带动了旧金山经济复...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqIocdxZe)
-**收录时间**: 2025-05-07 08:04
-
----
-
-### [#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#//@量子位:#Cur...](2025-05-07/#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#--@量子位-#Cur....md)
-
-**摘要**: OpenAI以约30亿美元收购AI编程工具Windsurf，创下公司史上最大收购纪录。此前OpenAI曾试图收购增长更快的Cursor（年收...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqIorEOjJ)
-**收录时间**: 2025-05-07 08:04
-
----
-
-### [#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电...](2025-05-07/#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电....md)
-
-**摘要**: 北航、西电与ETH联合团队对Qwen3大模型进行了后训练量化(PTQ)系统评估。测试显示，Qwen3在8bit量化下性能几乎无损...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqInomJtY)
-**收录时间**: 2025-05-07 08:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-07 09:05
 
 ---
 
 ### [#科研复现AI神器# 顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu...](2025-05-07/#科研复现AI神器#_顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu....md)
 
-**摘要**: 韩国科学技术院与DeepAuto.ai联合推出PaperCoder工具，可一键复现顶会论文代码。该工具通过三步拆解论文，自动生成...
+**摘要**: 韩国科学技术院和DeepAuto.ai联合开发了PaperCoder工具，能够一键复现顶会论文。该工具通过三步拆解论文，自动生成...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqHxFiIg3)
-**收录时间**: 2025-05-07 08:04
+**收录时间**: 2025-05-07 09:04
 
 ---
 
 ### [#用基因改造生物净化环境##基因改造鱼和果蝇净化汞污染#科学家运用基因改造，创造出了能解毒汞污染的鱼和果蝇！（研究成果荣登Nature子刊）甲基汞是种麻烦的污染...](2025-05-07/#用基因改造生物净化环境##基因改造鱼和果蝇净化汞污染#科学家运用基因改造，创造出了能解毒汞污染的鱼和果蝇！（研究成果荣登Nature子刊）甲基汞是种麻烦的污染....md)
 
-**摘要**: 澳大利亚科学家通过基因改造，将大肠杆菌中的MerB和MerA两种解毒酶植入斑马鱼和果蝇体内。实验显示，转基因果...
+**摘要**: 澳大利亚科学家在《Nature Communications》发表研究，通过基因工程将大肠杆菌的MerB和MerA解毒酶植入斑马鱼和果蝇体...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqInJyJFS)
-**收录时间**: 2025-05-07 08:04
+**收录时间**: 2025-05-07 09:04
 
 ---
 
-### [#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX 5060将于5月19日发售！英伟达今天宣布，GeForce RTX 5060显卡将在太平洋时间5月19日上午9...](2025-05-07/#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX_5060将于5月19日发售！英伟达今天宣布，GeForce_RTX_5060显卡将在太平洋时间5月19日上午9....md)
+### [#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电...](2025-05-07/#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电....md)
 
-**摘要**: 英伟达宣布RTX 5060显卡将于5月19日发售，建议零售价299美元（约2158元）。该显卡拥有3840个CUDA核心，相比RTX 4060增...
+**摘要**: 北航、西电与ETH联合团队对Qwen3大模型的后训练量化(PTQ)性能进行了系统评估。测试显示，Qwen3在8bit量化下性能几...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ0L5o3t)
-**收录时间**: 2025-05-07 08:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqInomJtY)
+**收录时间**: 2025-05-07 09:04
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量随机梯度下...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-07 09:04
 
 ---
 
 ### [#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到...](2025-05-07/#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到....md)
 
-**摘要**: 腾讯最新推出的混元3D V2.5生成模型引发广泛关注，该技术可通过单张照片快速生成3D人物模型并融入虚拟场景，甚...
+**摘要**: 腾讯推出的混元3D V2.5模型引发国内外热议，该技术可通过单张照片生成高质量3D人物模型并融入虚拟场景，甚至支...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJ0noFtf)
-**收录时间**: 2025-05-07 08:03
+**收录时间**: 2025-05-07 09:03
 
 ---
 
 ### [#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领...](2025-05-07/#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领....md)
 
-**摘要**: 随着AI大模型加速渗透金融、医疗等关键领域，其安全可控性成为产业落地的核心前提。瑞莱智慧CEO田天博士在AIGC...
+**摘要**: 随着大模型在金融、医疗等关键领域的应用深化，其安全可控性成为产业落地的核心前提。瑞莱智慧CEO田天博士在...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJ2G5XSI)
-**收录时间**: 2025-05-07 08:03
+**收录时间**: 2025-05-07 09:03
+
+---
+
+### [#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX 5060将于5月19日发售！英伟达今天宣布，GeForce RTX 5060显卡将在太平洋时间5月19日上午9...](2025-05-07/#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX_5060将于5月19日发售！英伟达今天宣布，GeForce_RTX_5060显卡将在太平洋时间5月19日上午9....md)
+
+**摘要**: 英伟达宣布RTX 5060显卡将于5月19日发售，建议零售价299美元（约2158元）。该显卡拥有3840个CUDA核心，相比RTX 4060核...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ0L5o3t)
+**收录时间**: 2025-05-07 09:03
+
+---
+
+### [#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#//@量子位:#Cur...](2025-05-07/#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#--@量子位-#Cur....md)
+
+**摘要**: OpenAI以约30亿美元收购AI编程工具Windsurf，成为其史上最大收购。Windsurf由Exafunction Inc.于2021年创立，主打自然语言...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqIorEOjJ)
+**收录时间**: 2025-05-07 09:03
 
 ---
 
 ### [#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)
 
-**摘要**: Volid是一款新型语音AI助手，能模仿名人声音（如马斯克、史泰龙）和虚拟角色（如辛普森），实现自然对话。其...
+**摘要**: Volid是一款创新的语音AI助手，能模仿名人声音（如马斯克、史泰龙）和虚拟角色（如辛普森），实现自然对话。...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJ2z2GYb)
-**收录时间**: 2025-05-07 08:03
+**收录时间**: 2025-05-07 09:03
 
 ---
 
-### [#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)
+### [#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁...](2025-05-07/#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁....md)
 
-**摘要**: Meta FAIR团队开发的Perception Encoder（PE）通过单一对比学习目标，在多个视觉任务中表现卓越，包括识别海底魟鱼、...
+**摘要**: 英伟达CEO黄仁勋预测，中国AI市场未来3年将达500亿美元规模，错过将是巨大损失。他指出AI带动了旧金山经济复苏...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqJ3Df6PO)
-**收录时间**: 2025-05-07 08:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqIocdxZe)
+**收录时间**: 2025-05-07 09:03
+
+---
+
+### [Humans can learn to detect AI-generated texts, or at least learn when they can't](2025-05-07/Humans_can_learn_to_detect_AI-generated_texts,_or_at_least_learn_when_they_can't.md)
+
+**摘要**: 这项研究发现，通过即时反馈训练，人们可以有效提升区分AI生成文本与人类写作的能力，并校准自我评估的准确...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.01877v2)
+**收录时间**: 2025-05-07 09:02
 
 ---
 
 ### [Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](2025-05-07/Demonstrating_ViSafe-_Vision-enabled_Safety_for_High-speed_Detect_and_Avoid.md)
 
-**摘要**: ViSafe是一种高速纯视觉空中防撞系统，专为资源受限的飞行器设计，可在共享空域实现安全自主避障。该系统整合...
+**摘要**: ViSafe是一种高速纯视觉空中防撞系统，旨在为资源受限的飞行器提供安全关键能力。该系统通过将基于学习的边缘...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.03694v1)
-**收录时间**: 2025-05-07 08:02
+**收录时间**: 2025-05-07 09:02
 
 ---
 
@@ -171,16 +171,16 @@
 **摘要**: 本文提出了一种基于梯度下降的全局收敛方法，用于从离线行为数据中估计动态离散选择(DDC)模型或最大熵正则化...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2502.14131v3)
-**收录时间**: 2025-05-07 08:02
+**收录时间**: 2025-05-07 09:02
 
 ---
 
 ### [Advancing Human-Machine Teaming: Concepts, Challenges, and Applications](2025-05-07/Advancing_Human-Machine_Teaming-_Concepts,_Challenges,_and_Applications.md)
 
-**摘要**: 人机协作(HMT)通过整合AI决策、信任校准和自适应协作，正在改变国防、医疗和自主系统等领域的合作方式。该研...
+**摘要**: 人机协作（HMT）通过整合AI决策、信任校准和自适应组队，正在变革国防、医疗和自主系统等领域的合作模式。该...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.16518v2)
-**收录时间**: 2025-05-07 08:02
+**收录时间**: 2025-05-07 09:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-07 (52篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-07 08:06 
-  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-07 09:06 
+  这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-07/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-07 08:06 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-07/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-07 09:06 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、辅助阅读、翻译、分析及写作等一站式服务。它拥有3....
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-07/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-07 08:06 
-  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct语料库。CodeAre...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-07 09:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-07/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-07 08:05 
-  AgentSociety是一个基于大型语言模型(LLM)的大规模社会模拟系统，可模拟10,000多个智能代理及其500万次互动。该系统...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-07/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-07 09:05 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示，直接建模音频-视...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-07 08:05 
-  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-07/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-07 09:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-07/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-07 08:05 
-  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-07/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-07 09:05 
+  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新进展。ALK是NSCLC的重要致癌驱动基因，现有7种ALK...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-07 08:05 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认...
+- **[#科研复现AI神器# 顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu...](2025-05-07/#科研复现AI神器#_顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu....md)** | [原文](https://weibo.com/6105753431/PqHxFiIg3) | 时间: 2025-05-07 09:04 
+  韩国科学技术院和DeepAuto.ai联合开发了PaperCoder工具，能够一键复现顶会论文。该工具通过三步拆解论文，自动生成...
 
-- **[#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁...](2025-05-07/#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁....md)** | [原文](https://weibo.com/6105753431/PqIocdxZe) | 时间: 2025-05-07 08:04 
-  英伟达CEO黄仁勋预测中国AI市场将在3年内达500亿美元规模，强调错过将是巨大损失。他指出AI带动了旧金山经济复...
+- **[#用基因改造生物净化环境##基因改造鱼和果蝇净化汞污染#科学家运用基因改造，创造出了能解毒汞污染的鱼和果蝇！（研究成果荣登Nature子刊）甲基汞是种麻烦的污染...](2025-05-07/#用基因改造生物净化环境##基因改造鱼和果蝇净化汞污染#科学家运用基因改造，创造出了能解毒汞污染的鱼和果蝇！（研究成果荣登Nature子刊）甲基汞是种麻烦的污染....md)** | [原文](https://weibo.com/6105753431/PqInJyJFS) | 时间: 2025-05-07 09:04 
+  澳大利亚科学家在《Nature Communications》发表研究，通过基因工程将大肠杆菌的MerB和MerA解毒酶植入斑马鱼和果蝇体...
 
-- **[#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#//@量子位:#Cur...](2025-05-07/#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#--@量子位-#Cur....md)** | [原文](https://weibo.com/6105753431/PqIorEOjJ) | 时间: 2025-05-07 08:04 
-  OpenAI以约30亿美元收购AI编程工具Windsurf，创下公司史上最大收购纪录。此前OpenAI曾试图收购增长更快的Cursor（年收...
+- **[#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电...](2025-05-07/#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电....md)** | [原文](https://weibo.com/6105753431/PqInomJtY) | 时间: 2025-05-07 09:04 
+  北航、西电与ETH联合团队对Qwen3大模型的后训练量化(PTQ)性能进行了系统评估。测试显示，Qwen3在8bit量化下性能几...
 
-- **[#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电...](2025-05-07/#Qwen3实测结果出炉##Qwen3在8bit下仍保持近乎无损性能#Qwen3最近强势刷新了开源大模型性能记录，但在资源紧张的环境中，如何保持其“智商”不掉线？北航、西电....md)** | [原文](https://weibo.com/6105753431/PqInomJtY) | 时间: 2025-05-07 08:04 
-  北航、西电与ETH联合团队对Qwen3大模型进行了后训练量化(PTQ)系统评估。测试显示，Qwen3在8bit量化下性能几乎无损...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-07/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-07 09:04 
+  这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量随机梯度下...
 
-- **[#科研复现AI神器# 顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu...](2025-05-07/#科研复现AI神器#_顶会论文一键复现！韩国科学技术院和DeepAuto.ai联合打造PaperCoder，将论文三步拆解，自动生成高质量可运行代码，论文契合度高达99.5%，GitHu....md)** | [原文](https://weibo.com/6105753431/PqHxFiIg3) | 时间: 2025-05-07 08:04 
-  韩国科学技术院与DeepAuto.ai联合推出PaperCoder工具，可一键复现顶会论文代码。该工具通过三步拆解论文，自动生成...
+- **[#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到...](2025-05-07/#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到....md)** | [原文](https://weibo.com/6105753431/PqJ0noFtf) | 时间: 2025-05-07 09:03 
+  腾讯推出的混元3D V2.5模型引发国内外热议，该技术可通过单张照片生成高质量3D人物模型并融入虚拟场景，甚至支...
 
-- **[#用基因改造生物净化环境##基因改造鱼和果蝇净化汞污染#科学家运用基因改造，创造出了能解毒汞污染的鱼和果蝇！（研究成果荣登Nature子刊）甲基汞是种麻烦的污染...](2025-05-07/#用基因改造生物净化环境##基因改造鱼和果蝇净化汞污染#科学家运用基因改造，创造出了能解毒汞污染的鱼和果蝇！（研究成果荣登Nature子刊）甲基汞是种麻烦的污染....md)** | [原文](https://weibo.com/6105753431/PqInJyJFS) | 时间: 2025-05-07 08:04 
-  澳大利亚科学家通过基因改造，将大肠杆菌中的MerB和MerA两种解毒酶植入斑马鱼和果蝇体内。实验显示，转基因果...
+- **[#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领...](2025-05-07/#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领....md)** | [原文](https://weibo.com/6105753431/PqJ2G5XSI) | 时间: 2025-05-07 09:03 
+  随着大模型在金融、医疗等关键领域的应用深化，其安全可控性成为产业落地的核心前提。瑞莱智慧CEO田天博士在...
 
-- **[#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX 5060将于5月19日发售！英伟达今天宣布，GeForce RTX 5060显卡将在太平洋时间5月19日上午9...](2025-05-07/#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX_5060将于5月19日发售！英伟达今天宣布，GeForce_RTX_5060显卡将在太平洋时间5月19日上午9....md)** | [原文](https://weibo.com/6105753431/PqJ0L5o3t) | 时间: 2025-05-07 08:03 
-  英伟达宣布RTX 5060显卡将于5月19日发售，建议零售价299美元（约2158元）。该显卡拥有3840个CUDA核心，相比RTX 4060增...
+- **[#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX 5060将于5月19日发售！英伟达今天宣布，GeForce RTX 5060显卡将在太平洋时间5月19日上午9...](2025-05-07/#RTX5060将于5月19日发售##RTX5060建议零售价299美元#英伟达官宣：RTX_5060将于5月19日发售！英伟达今天宣布，GeForce_RTX_5060显卡将在太平洋时间5月19日上午9....md)** | [原文](https://weibo.com/6105753431/PqJ0L5o3t) | 时间: 2025-05-07 09:03 
+  英伟达宣布RTX 5060显卡将于5月19日发售，建议零售价299美元（约2158元）。该显卡拥有3840个CUDA核心，相比RTX 4060核...
 
-- **[#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到...](2025-05-07/#鹅厂新3D生成模型爆火##一张自拍穿越虚拟世界#鹅厂最新的3D生成模型，狠狠地圈了一波粉，甚至有人拿它来创作小游戏动画了。只要一张人物照片，就能直接把人放到....md)** | [原文](https://weibo.com/6105753431/PqJ0noFtf) | 时间: 2025-05-07 08:03 
-  腾讯最新推出的混元3D V2.5生成模型引发广泛关注，该技术可通过单张照片快速生成3D人物模型并融入虚拟场景，甚...
+- **[#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#//@量子位:#Cur...](2025-05-07/#OpenAI史上最大收购落地#OpenAI确认，将以约30亿美元收购AI编程工具Windsurf，OpenAI成立以来最大的一笔收购落地！#OpenAI30亿美元拿下Windsurf#--@量子位-#Cur....md)** | [原文](https://weibo.com/6105753431/PqIorEOjJ) | 时间: 2025-05-07 09:03 
+  OpenAI以约30亿美元收购AI编程工具Windsurf，成为其史上最大收购。Windsurf由Exafunction Inc.于2021年创立，主打自然语言...
 
-- **[#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领...](2025-05-07/#为AI应用构建防护边界##AI存在大量安全问题待解决#随着大模型加速渗透核心行业，其安全可控性正从技术议题升级为产业落地的先决条件。特别是金融、医疗等关键领....md)** | [原文](https://weibo.com/6105753431/PqJ2G5XSI) | 时间: 2025-05-07 08:03 
-  随着AI大模型加速渗透金融、医疗等关键领域，其安全可控性成为产业落地的核心前提。瑞莱智慧CEO田天博士在AIGC...
+- **[#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)** | [原文](https://weibo.com/6105753431/PqJ2z2GYb) | 时间: 2025-05-07 09:03 
+  Volid是一款创新的语音AI助手，能模仿名人声音（如马斯克、史泰龙）和虚拟角色（如辛普森），实现自然对话。...
 
-- **[#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色/人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在...](2025-05-07/#能模仿马斯克说话的AI助手##AI语音对话响应延迟仅195ms#幻想一下，一个拥有你最喜欢的角色-人物声音的的语音AI助手。这两天引发了一些关注的Volid，是一款旨在....md)** | [原文](https://weibo.com/6105753431/PqJ2z2GYb) | 时间: 2025-05-07 08:03 
-  Volid是一款新型语音AI助手，能模仿名人声音（如马斯克、史泰龙）和虚拟角色（如辛普森），实现自然对话。其...
+- **[#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁...](2025-05-07/#黄仁勋称中国AI市场3年内达500亿美元##黄仁勋称AI救了旧金山#“在未来两到三年内，中国的AI市场可能会达到约500亿美元。错过它将是一个巨大的损失。”这是黄仁....md)** | [原文](https://weibo.com/6105753431/PqIocdxZe) | 时间: 2025-05-07 09:03 
+  英伟达CEO黄仁勋预测，中国AI市场未来3年将达500亿美元规模，错过将是巨大损失。他指出AI带动了旧金山经济复苏...
 
-- **[#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)** | [原文](https://weibo.com/6105753431/PqJ3Df6PO) | 时间: 2025-05-07 08:03 
-  Meta FAIR团队开发的Perception Encoder（PE）通过单一对比学习目标，在多个视觉任务中表现卓越，包括识别海底魟鱼、...
+- **[Humans can learn to detect AI-generated texts, or at least learn when they can't](2025-05-07/Humans_can_learn_to_detect_AI-generated_texts,_or_at_least_learn_when_they_can't.md)** | [原文](http://arxiv.org/abs/2505.01877v2) | 时间: 2025-05-07 09:02 
+  这项研究发现，通过即时反馈训练，人们可以有效提升区分AI生成文本与人类写作的能力，并校准自我评估的准确...
 
-- **[Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](2025-05-07/Demonstrating_ViSafe-_Vision-enabled_Safety_for_High-speed_Detect_and_Avoid.md)** | [原文](http://arxiv.org/abs/2505.03694v1) | 时间: 2025-05-07 08:02 
-  ViSafe是一种高速纯视觉空中防撞系统，专为资源受限的飞行器设计，可在共享空域实现安全自主避障。该系统整合...
+- **[Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](2025-05-07/Demonstrating_ViSafe-_Vision-enabled_Safety_for_High-speed_Detect_and_Avoid.md)** | [原文](http://arxiv.org/abs/2505.03694v1) | 时间: 2025-05-07 09:02 
+  ViSafe是一种高速纯视觉空中防撞系统，旨在为资源受限的飞行器提供安全关键能力。该系统通过将基于学习的边缘...
 
-- **[An Empirical Risk Minimization Approach for Offline Inverse RL and Dynamic Discrete Choice Model](2025-05-07/An_Empirical_Risk_Minimization_Approach_for_Offline_Inverse_RL_and_Dynamic_Discrete_Choice_Model.md)** | [原文](http://arxiv.org/abs/2502.14131v3) | 时间: 2025-05-07 08:02 
+- **[An Empirical Risk Minimization Approach for Offline Inverse RL and Dynamic Discrete Choice Model](2025-05-07/An_Empirical_Risk_Minimization_Approach_for_Offline_Inverse_RL_and_Dynamic_Discrete_Choice_Model.md)** | [原文](http://arxiv.org/abs/2502.14131v3) | 时间: 2025-05-07 09:02 
   本文提出了一种基于梯度下降的全局收敛方法，用于从离线行为数据中估计动态离散选择(DDC)模型或最大熵正则化...
 
-- **[Advancing Human-Machine Teaming: Concepts, Challenges, and Applications](2025-05-07/Advancing_Human-Machine_Teaming-_Concepts,_Challenges,_and_Applications.md)** | [原文](http://arxiv.org/abs/2503.16518v2) | 时间: 2025-05-07 08:02 
-  人机协作(HMT)通过整合AI决策、信任校准和自适应协作，正在改变国防、医疗和自主系统等领域的合作方式。该研...
+- **[Advancing Human-Machine Teaming: Concepts, Challenges, and Applications](2025-05-07/Advancing_Human-Machine_Teaming-_Concepts,_Challenges,_and_Applications.md)** | [原文](http://arxiv.org/abs/2503.16518v2) | 时间: 2025-05-07 09:02 
+  人机协作（HMT）通过整合AI决策、信任校准和自适应组队，正在变革国防、医疗和自主系统等领域的合作模式。该...
 
-- **[Humans can learn to detect AI-generated texts, or at least learn when they can't](2025-05-07/Humans_can_learn_to_detect_AI-generated_texts,_or_at_least_learn_when_they_can't.md)** | [原文](http://arxiv.org/abs/2505.01877v2) | 时间: 2025-05-07 08:02 
-  这项研究发现，通过即时反馈训练，人们可以有效提升区分人类写作与AI生成文本的能力，并改善自我评估的准确...
+- **[#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta FAIR团队在上个月放了个大招，P...](2025-05-07/#Meta最强视觉感知编码器##Meta视觉编码器可识别海底魟鱼#在AI飞速发展的今天，如何打造出符合高阶智能期待的视觉编码器呢？Meta_FAIR团队在上个月放了个大招，P....md)** | [原文](https://weibo.com/6105753431/PqJ3Df6PO) | 时间: 2025-05-07 09:02 
+  Meta FAIR团队开发的Perception Encoder（PE）通过单一对比学习实现了多任务视觉感知能力，包括识别海底魟鱼、判断物...
 
-- **[UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](2025-05-07/UI-Vision-_A_Desktop-centric_GUI_Benchmark_for_Visual_Perception_and_Interaction.md)** | [原文](http://arxiv.org/abs/2503.15661v2) | 时间: 2025-05-07 08:02 
-  UI-Vision是首个针对桌面环境的综合性开源基准测试，用于评估GUI自动化代理的离线细粒度性能。它包含83款软件的...
+- **[UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](2025-05-07/UI-Vision-_A_Desktop-centric_GUI_Benchmark_for_Visual_Perception_and_Interaction.md)** | [原文](http://arxiv.org/abs/2503.15661v2) | 时间: 2025-05-07 09:02 
+  研究人员开发了首个综合性、开源许可的UI-Vision基准测试，用于评估桌面环境中的自动化代理性能。该基准包含83...
 
-- **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](2025-05-07/Meta-Optimization_and_Program_Search_using_Language_Models_for_Task_and_Motion_Planning.md)** | [原文](http://arxiv.org/abs/2505.03725v1) | 时间: 2025-05-07 08:01 
-  该研究提出了一种新型任务与运动规划（TAMP）方法，通过元优化技术结合高层规划与底层控制。该方法创新性地...
+- **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](2025-05-07/Meta-Optimization_and_Program_Search_using_Language_Models_for_Task_and_Motion_Planning.md)** | [原文](http://arxiv.org/abs/2505.03725v1) | 时间: 2025-05-07 09:01 
+  本文提出了一种新型任务与运动规划(TAMP)方法，通过元优化技术连接高层规划与底层控制。该方法创新性地采用：...
 
-- **[Critical habitat size of organisms diffusing with stochastic resetting](2025-05-07/Critical_habitat_size_of_organisms_diffusing_with_stochastic_resetting.md)** | [原文](http://arxiv.org/abs/2505.03727v1) | 时间: 2025-05-07 08:01 
-  这篇论文研究了种群生存所需的最小栖息地面积（临界斑块大小）如何受随机重置行为（如归巢、避难或资源搜寻...
+- **[Critical habitat size of organisms diffusing with stochastic resetting](2025-05-07/Critical_habitat_size_of_organisms_diffusing_with_stochastic_resetting.md)** | [原文](http://arxiv.org/abs/2505.03727v1) | 时间: 2025-05-07 09:01 
+  本文研究了随机重置行为（如归巢、避难或资源趋近）如何影响种群生存所需的最小栖息地面积（临界斑块大小）...
 
-- **[Multi-Agent System for Comprehensive Soccer Understanding](2025-05-07/Multi-Agent_System_for_Comprehensive_Soccer_Understanding.md)** | [原文](http://arxiv.org/abs/2505.03735v1) | 时间: 2025-05-07 08:01 
-  本文提出了一个全面的足球理解框架，包含三项核心贡献：(1) 构建首个大规模多模态足球知识库SoccerWiki，整合球...
+- **[Multi-Agent System for Comprehensive Soccer Understanding](2025-05-07/Multi-Agent_System_for_Comprehensive_Soccer_Understanding.md)** | [原文](http://arxiv.org/abs/2505.03735v1) | 时间: 2025-05-07 09:01 
+  本文提出了一套完整的足球理解框架，包含三个核心贡献：(1) 构建首个大规模多模态足球知识库SoccerWiki，整合球...
 
-- **[Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach](2025-05-07/Accelerated_Decentralized_Constraint-Coupled_Optimization-_A_Dual$^2$_Approach.md)** | [原文](http://arxiv.org/abs/2505.03719v1) | 时间: 2025-05-07 08:01 
-  本文研究了一类去中心化的约束耦合优化问题，提出两种基于新型对偶平方（Dual²）方法的加速算法：iD2A和MiD2A。...
+- **[Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach](2025-05-07/Accelerated_Decentralized_Constraint-Coupled_Optimization-_A_Dual$^2$_Approach.md)** | [原文](http://arxiv.org/abs/2505.03719v1) | 时间: 2025-05-07 09:01 
+  本文研究一类去中心化的约束耦合优化问题，提出两种基于新型双重加速方法（Dual²）的算法：iD2A和MiD2A。相比现...
 
-- **[WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](2025-05-07/WebGen-Bench-_Evaluating_LLMs_on_Generating_Interactive_and_Functional_Websites_from_Scratch.md)** | [原文](http://arxiv.org/abs/2505.03733v1) | 时间: 2025-05-07 08:01 
-  本文介绍了WebGen-Bench，这是一个评估基于LLM的智能体从零开始创建多文件网站代码库能力的新基准。该基准包含多...
+- **[WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](2025-05-07/WebGen-Bench-_Evaluating_LLMs_on_Generating_Interactive_and_Functional_Websites_from_Scratch.md)** | [原文](http://arxiv.org/abs/2505.03733v1) | 时间: 2025-05-07 09:01 
+  本文介绍了WebGen-Bench，一个评估基于LLM的智能体从零生成多文件网站代码能力的基准测试。该测试包含多样化的网...
 
 - **[#多数学生对自身AI使用情况撒谎##你会有AI羞耻吗#我有一个朋友，他常常使用AI……来自芝加哥大学的研究人员在调查了三百多名学生的AI使用情况后发现，绝大多数学...](2025-05-07/#多数学生对自身AI使用情况撒谎##你会有AI羞耻吗#我有一个朋友，他常常使用AI……来自芝加哥大学的研究人员在调查了三百多名学生的AI使用情况后发现，绝大多数学....md)** | [原文](https://weibo.com/6105753431/PqAvDhTBS) | 时间: 2025-05-07 07:04 
   芝加哥大学研究发现，60%学生承认使用AI工具，但90%认为他人使用AI。多数学生低估自身AI使用频率（自评每周0-1天...
