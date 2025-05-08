@@ -4,129 +4,129 @@
 
 ## 最新内容
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研订阅等一站式服务。它拥有3.5亿论文、0....
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-08 04:14
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究团队收集...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-08 04:14
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 该研究提出LatentSync，一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示，直接建模音频-...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-08 04:14
-
----
-
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟平台，可模拟1万多个智能代理及其500万次互动。研究者用它研...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个代理的社会互动（500万次互动）。研究者...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-08 04:06
+**收录时间**: 2025-05-08 05:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制在长文本处理中...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-08 04:06
+**收录时间**: 2025-05-08 05:05
+
+---
+
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个智能科技情报平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3.5亿论文、0....
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-05-08 05:05
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-05-08 05:05
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-05-08 05:05
 
 ---
 
 ### [#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调...](2025-05-08/#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调....md)
 
-**摘要**: WeClone是一个开源项目，通过分析微信聊天记录创建"数字分身"，实现"数字永生"。它能将聊天记录转为问答格式，...
+**摘要**: WeClone是一个开源项目，可通过微信聊天记录创建个性化AI数字分身，实现"数字永生"。它能将聊天记录处理为问答...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJEQur0w)
-**收录时间**: 2025-05-08 04:05
+**收录时间**: 2025-05-08 05:04
 
 ---
 
 ### [#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash <...](2025-05-08/#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash_....md)
 
-**摘要**: 这是一款功能强大的Linux一键换源脚本工具，由LinuxMirrors项目维护。支持25+主流及小众发行版，兼容老版本系统。...
+**摘要**: LinuxMirrors项目推出的一键换源脚本简化了Linux系统换源流程，支持25+主流发行版（包括老旧版本）。通过bash命令直...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJCY45Nt)
-**收录时间**: 2025-05-08 04:05
+**收录时间**: 2025-05-08 05:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动基因，目...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-08 04:05
+**收录时间**: 2025-05-08 05:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
+**摘要**: 这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时根据梯度...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-08 04:05
+**收录时间**: 2025-05-08 05:04
 
 ---
 
 ### [#一图总结五大智能体工作流##图解五大智能体工作流#智能体都已经不陌生，关于它的工作流，你了解多少呢？去年，Anthropic曾对这些智能体系统的工作流进行了总结...](2025-05-08/#一图总结五大智能体工作流##图解五大智能体工作流#智能体都已经不陌生，关于它的工作流，你了解多少呢？去年，Anthropic曾对这些智能体系统的工作流进行了总结....md)
 
-**摘要**: Anthropic总结了五大智能体工作流：1）提示链（Prompt Chaining）：将任务分解为串联步骤，提高准确性；2）路由（Rout...
+**摘要**: Anthropic总结了五大智能体工作流：1）提示链（Prompt Chaining）：将复杂任务分解为串联步骤，提高准确性；2）路由...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJJy5eL9)
-**收录时间**: 2025-05-08 04:04
+**收录时间**: 2025-05-08 05:03
 
 ---
 
 ### [#MistralAI发布多模态新模型##MistralAI新模型1/8成本比肩Claude3.7#用1/8成本比肩Claude 3.7，刚刚，“欧洲OpenAI”Mistral AI发布多模态新模型。Mistral Mediu...](2025-05-08/#MistralAI发布多模态新模型##MistralAI新模型1-8成本比肩Claude3.7#用1-8成本比肩Claude_3.7，刚刚，“欧洲OpenAI”Mistral_AI发布多模态新模型。Mistral_Mediu....md)
 
-**摘要**: Mistral AI发布多模态新模型Mistral Medium 3，主打编程和多模态理解，性能达Claude 3.7的90%但成本仅1/8（输入0....
+**摘要**: Mistral AI发布多模态新模型Mistral Medium 3，主打编程和多模态理解，性能达Claude 3.7的90%，成本仅1/8（输入0....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqQ2S5orG)
-**收录时间**: 2025-05-08 04:04
+**收录时间**: 2025-05-08 05:03
 
 ---
 
 ### [#ClaudeAPI可以网页搜索了##ClaudeAPI网页搜索千次十美元起#好消息！Claude API现在可以上网搜索啦！Anthropic刚刚推出了新的API，让Claude能够进行全网搜索。开...](2025-05-08/#ClaudeAPI可以网页搜索了##ClaudeAPI网页搜索千次十美元起#好消息！Claude_API现在可以上网搜索啦！Anthropic刚刚推出了新的API，让Claude能够进行全网搜索。开....md)
 
-**摘要**: Anthropic为Claude API新增网页搜索功能，支持Claude 3.5/3.7系列模型。该功能会智能判断是否需要联网查询，自动生成关...
+**摘要**: Anthropic为Claude API新增网页搜索功能，支持Claude 3.5/3.7系列模型。该功能可根据问题自动判断是否需要联网查询，智...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqQ3eurjX)
-**收录时间**: 2025-05-08 04:04
+**收录时间**: 2025-05-08 05:03
 
 ---
 
 ### [#苹果计划为Safari引入AI搜索##Safari或将支持AI搜索#苹果的Safari浏览器，要自带AI搜索了？据路透社报道，苹果近期已与OpenAI、Perplexity和Anthropic等AI公司...](2025-05-08/#苹果计划为Safari引入AI搜索##Safari或将支持AI搜索#苹果的Safari浏览器，要自带AI搜索了？据路透社报道，苹果近期已与OpenAI、Perplexity和Anthropic等AI公司....md)
 
-**摘要**: 苹果正考虑为Safari浏览器引入AI搜索功能，已与OpenAI等AI公司接触评估技术整合。受AI搜索影响，Safari搜索量首次下...
+**摘要**: 苹果正与OpenAI等AI公司洽谈，计划为Safari浏览器引入AI搜索功能。受AI搜索崛起影响，Safari上月搜索量首次下滑。目...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqQ6sfHt3)
-**收录时间**: 2025-05-08 04:04
+**收录时间**: 2025-05-08 05:03
 
 ---
 
 ### [#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-08/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)
 
-**摘要**: LTX Video推出的LTXV-13B是一款突破性AI视频生成模型，其生成速度比其他模型快30倍，并能在消费级显卡（如RTX 3090/409...
+**摘要**: LTX Video推出的开源视频生成模型LTXV-13B凭借"多尺度渲染"技术，生成速度比其他模型快30倍，可在消费级显卡（如RTX...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqJQ44OqD)
-**收录时间**: 2025-05-08 04:04
+**收录时间**: 2025-05-08 05:03
 
 ---
 
@@ -135,52 +135,52 @@
 **摘要**: 人工智能和机器学习在医疗领域的应用迅速发展，但数据隐私保护成为关键挑战。本研究提出了一种基于支持向量...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.04570v1)
-**收录时间**: 2025-05-08 04:03
+**收录时间**: 2025-05-08 05:02
 
 ---
 
 ### [#鸿蒙电脑正式亮相##华为首款鸿蒙电脑正式亮相#刚刚，华为的首款#鸿蒙电脑正式亮相#！在这背后，是5年技术积累、2700多项专利、上万名工程师的努力，也是国产操...](2025-05-08/#鸿蒙电脑正式亮相##华为首款鸿蒙电脑正式亮相#刚刚，华为的首款#鸿蒙电脑正式亮相#！在这背后，是5年技术积累、2700多项专利、上万名工程师的努力，也是国产操....md)
 
-**摘要**: 华为首款鸿蒙电脑正式发布，标志着国产操作系统在PC领域取得关键突破。该产品基于5年技术积累，拥有2700多项...
+**摘要**: 华为首款鸿蒙电脑正式发布，标志着国产操作系统在PC领域的关键突破。该产品基于5年技术积累，拥有2700多项专...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqQq9hq6i)
-**收录时间**: 2025-05-08 04:03
+**收录时间**: 2025-05-08 05:02
 
 ---
 
 ### [#鸿蒙电脑可以使用小艺了##鸿蒙电脑系统级AI能力#可以在鸿蒙电脑上使用小艺了！在刚刚举行的“鸿蒙电脑技术与生态沟通会”上，华为云EI服务产品部总经理贾永利一...](2025-05-08/#鸿蒙电脑可以使用小艺了##鸿蒙电脑系统级AI能力#可以在鸿蒙电脑上使用小艺了！在刚刚举行的“鸿蒙电脑技术与生态沟通会”上，华为云EI服务产品部总经理贾永利一....md)
 
-**摘要**: 华为在鸿蒙电脑沟通会上发布了系统级AI助手"小艺"，具备三大核心生产力功能：文档助理（快速生成PPT）、知识...
+**摘要**: 华为在鸿蒙电脑技术沟通会上发布了系统级AI助手"小艺"，具备三大核心功能：1)文档助理可快速生成PPT；2)知识空...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqQHAvRn5)
-**收录时间**: 2025-05-08 04:03
+**收录时间**: 2025-05-08 05:02
 
 ---
 
 ### [#国产PC系统实现关键突破##首个从操作系统内核重构的国产电脑#鸿蒙电脑正式亮相，作为首个从操作系统内核重构的国产电脑，该电脑都有啥特点？从现场图来看，鸿蒙...](2025-05-08/#国产PC系统实现关键突破##首个从操作系统内核重构的国产电脑#鸿蒙电脑正式亮相，作为首个从操作系统内核重构的国产电脑，该电脑都有啥特点？从现场图来看，鸿蒙....md)
 
-**摘要**: 鸿蒙电脑作为首个从操作系统内核重构的国产PC系统，采用三层架构设计：1）鸿蒙体验层提供流畅操作、AI智慧功...
+**摘要**: 鸿蒙电脑作为首个从操作系统内核重构的国产PC系统，实现了全栈自主可控。其架构分为三层：1）鸿蒙体验层提供...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqQCJzpZV)
-**收录时间**: 2025-05-08 04:03
+**收录时间**: 2025-05-08 05:02
 
 ---
 
 ### [Optimal Deterministic Rendezvous in Labeled Lines](2025-05-08/Optimal_Deterministic_Rendezvous_in_Labeled_Lines.md)
 
-**摘要**: 本文研究了无限标记线上两个异步睡眠代理的确定性会合问题。代理初始距离为D，节点具有唯一正整数标签，最...
+**摘要**: 本文研究了无限标记线上两个异步唤醒的移动代理的确定性和会问题。代理初始距离为D，节点具有唯一正整数标...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.04564v1)
-**收录时间**: 2025-05-08 04:03
+**收录时间**: 2025-05-08 05:02
 
 ---
 
 ### [Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers](2025-05-08/Somesite_I_Used_To_Crawl-_Awareness,_Agency_and_Efficacy_in_Protecting_Content_Creators_From_AI_Crawlers.md)
 
-**摘要**: 这篇研究探讨了当前网络工具（如robots.txt、NoAI标签和反向代理）在保护内容创作者免受AI爬取方面的效果。通过...
+**摘要**: 当前生成式AI依赖网络爬取数据进行训练，引发版权、隐私和伦理争议。现有工具（如robots.txt、NoAI元标签、反向...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2411.15091v2)
-**收录时间**: 2025-05-08 04:03
+**收录时间**: 2025-05-08 05:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-08 (43篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-08 04:14 
-  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研订阅等一站式服务。它拥有3.5亿论文、0....
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-08 05:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个代理的社会互动（500万次互动）。研究者...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-08 04:14 
-  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究团队收集...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-08 05:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-08 04:14 
-  该研究提出LatentSync，一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示，直接建模音频-...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-08 05:05 
+  AMiner是一个智能科技情报平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3.5亿论文、0....
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-08 04:06 
-  AgentSociety是一个基于大语言模型的大规模社会模拟平台，可模拟1万多个智能代理及其500万次互动。研究者用它研...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-08 05:05 
+  这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-08 04:06 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制在长文本处理中...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-08 05:05 
+  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
 
-- **[#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调...](2025-05-08/#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调....md)** | [原文](https://weibo.com/6105753431/PqJEQur0w) | 时间: 2025-05-08 04:05 
-  WeClone是一个开源项目，通过分析微信聊天记录创建"数字分身"，实现"数字永生"。它能将聊天记录转为问答格式，...
+- **[#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调...](2025-05-08/#用聊天记录实现数字永生##用微信聊天记录造个数字分身#开源项目WeClone：用微信聊天记录，做个“数字版的你”，某种意义上实现“数字永生”。该项目可以把AI调....md)** | [原文](https://weibo.com/6105753431/PqJEQur0w) | 时间: 2025-05-08 05:04 
+  WeClone是一个开源项目，可通过微信聊天记录创建个性化AI数字分身，实现"数字永生"。它能将聊天记录处理为问答...
 
-- **[#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash <...](2025-05-08/#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash_....md)** | [原文](https://weibo.com/6105753431/PqJCY45Nt) | 时间: 2025-05-08 04:05 
-  这是一款功能强大的Linux一键换源脚本工具，由LinuxMirrors项目维护。支持25+主流及小众发行版，兼容老版本系统。...
+- **[#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash <...](2025-05-08/#Linux一键换源脚本##Linux装机必备工具#Linux装机必备神器：一键换源脚本来了！只需一句命令，就能轻松搞定Linux换源，无需复杂操作，小白也能轻松上手：bash_....md)** | [原文](https://weibo.com/6105753431/PqJCY45Nt) | 时间: 2025-05-08 05:04 
+  LinuxMirrors项目推出的一键换源脚本简化了Linux系统换源流程，支持25+主流发行版（包括老旧版本）。通过bash命令直...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-08 04:05 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-08 05:04 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动基因，目...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-08 04:05 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-08 05:04 
+  这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时根据梯度...
 
-- **[#一图总结五大智能体工作流##图解五大智能体工作流#智能体都已经不陌生，关于它的工作流，你了解多少呢？去年，Anthropic曾对这些智能体系统的工作流进行了总结...](2025-05-08/#一图总结五大智能体工作流##图解五大智能体工作流#智能体都已经不陌生，关于它的工作流，你了解多少呢？去年，Anthropic曾对这些智能体系统的工作流进行了总结....md)** | [原文](https://weibo.com/6105753431/PqJJy5eL9) | 时间: 2025-05-08 04:04 
-  Anthropic总结了五大智能体工作流：1）提示链（Prompt Chaining）：将任务分解为串联步骤，提高准确性；2）路由（Rout...
+- **[#一图总结五大智能体工作流##图解五大智能体工作流#智能体都已经不陌生，关于它的工作流，你了解多少呢？去年，Anthropic曾对这些智能体系统的工作流进行了总结...](2025-05-08/#一图总结五大智能体工作流##图解五大智能体工作流#智能体都已经不陌生，关于它的工作流，你了解多少呢？去年，Anthropic曾对这些智能体系统的工作流进行了总结....md)** | [原文](https://weibo.com/6105753431/PqJJy5eL9) | 时间: 2025-05-08 05:03 
+  Anthropic总结了五大智能体工作流：1）提示链（Prompt Chaining）：将复杂任务分解为串联步骤，提高准确性；2）路由...
 
-- **[#MistralAI发布多模态新模型##MistralAI新模型1/8成本比肩Claude3.7#用1/8成本比肩Claude 3.7，刚刚，“欧洲OpenAI”Mistral AI发布多模态新模型。Mistral Mediu...](2025-05-08/#MistralAI发布多模态新模型##MistralAI新模型1-8成本比肩Claude3.7#用1-8成本比肩Claude_3.7，刚刚，“欧洲OpenAI”Mistral_AI发布多模态新模型。Mistral_Mediu....md)** | [原文](https://weibo.com/6105753431/PqQ2S5orG) | 时间: 2025-05-08 04:04 
-  Mistral AI发布多模态新模型Mistral Medium 3，主打编程和多模态理解，性能达Claude 3.7的90%但成本仅1/8（输入0....
+- **[#MistralAI发布多模态新模型##MistralAI新模型1/8成本比肩Claude3.7#用1/8成本比肩Claude 3.7，刚刚，“欧洲OpenAI”Mistral AI发布多模态新模型。Mistral Mediu...](2025-05-08/#MistralAI发布多模态新模型##MistralAI新模型1-8成本比肩Claude3.7#用1-8成本比肩Claude_3.7，刚刚，“欧洲OpenAI”Mistral_AI发布多模态新模型。Mistral_Mediu....md)** | [原文](https://weibo.com/6105753431/PqQ2S5orG) | 时间: 2025-05-08 05:03 
+  Mistral AI发布多模态新模型Mistral Medium 3，主打编程和多模态理解，性能达Claude 3.7的90%，成本仅1/8（输入0....
 
-- **[#ClaudeAPI可以网页搜索了##ClaudeAPI网页搜索千次十美元起#好消息！Claude API现在可以上网搜索啦！Anthropic刚刚推出了新的API，让Claude能够进行全网搜索。开...](2025-05-08/#ClaudeAPI可以网页搜索了##ClaudeAPI网页搜索千次十美元起#好消息！Claude_API现在可以上网搜索啦！Anthropic刚刚推出了新的API，让Claude能够进行全网搜索。开....md)** | [原文](https://weibo.com/6105753431/PqQ3eurjX) | 时间: 2025-05-08 04:04 
-  Anthropic为Claude API新增网页搜索功能，支持Claude 3.5/3.7系列模型。该功能会智能判断是否需要联网查询，自动生成关...
+- **[#ClaudeAPI可以网页搜索了##ClaudeAPI网页搜索千次十美元起#好消息！Claude API现在可以上网搜索啦！Anthropic刚刚推出了新的API，让Claude能够进行全网搜索。开...](2025-05-08/#ClaudeAPI可以网页搜索了##ClaudeAPI网页搜索千次十美元起#好消息！Claude_API现在可以上网搜索啦！Anthropic刚刚推出了新的API，让Claude能够进行全网搜索。开....md)** | [原文](https://weibo.com/6105753431/PqQ3eurjX) | 时间: 2025-05-08 05:03 
+  Anthropic为Claude API新增网页搜索功能，支持Claude 3.5/3.7系列模型。该功能可根据问题自动判断是否需要联网查询，智...
 
-- **[#苹果计划为Safari引入AI搜索##Safari或将支持AI搜索#苹果的Safari浏览器，要自带AI搜索了？据路透社报道，苹果近期已与OpenAI、Perplexity和Anthropic等AI公司...](2025-05-08/#苹果计划为Safari引入AI搜索##Safari或将支持AI搜索#苹果的Safari浏览器，要自带AI搜索了？据路透社报道，苹果近期已与OpenAI、Perplexity和Anthropic等AI公司....md)** | [原文](https://weibo.com/6105753431/PqQ6sfHt3) | 时间: 2025-05-08 04:04 
-  苹果正考虑为Safari浏览器引入AI搜索功能，已与OpenAI等AI公司接触评估技术整合。受AI搜索影响，Safari搜索量首次下...
+- **[#苹果计划为Safari引入AI搜索##Safari或将支持AI搜索#苹果的Safari浏览器，要自带AI搜索了？据路透社报道，苹果近期已与OpenAI、Perplexity和Anthropic等AI公司...](2025-05-08/#苹果计划为Safari引入AI搜索##Safari或将支持AI搜索#苹果的Safari浏览器，要自带AI搜索了？据路透社报道，苹果近期已与OpenAI、Perplexity和Anthropic等AI公司....md)** | [原文](https://weibo.com/6105753431/PqQ6sfHt3) | 时间: 2025-05-08 05:03 
+  苹果正与OpenAI等AI公司洽谈，计划为Safari浏览器引入AI搜索功能。受AI搜索崛起影响，Safari上月搜索量首次下滑。目...
 
-- **[#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-08/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)** | [原文](https://weibo.com/6105753431/PqJQ44OqD) | 时间: 2025-05-08 04:04 
-  LTX Video推出的LTXV-13B是一款突破性AI视频生成模型，其生成速度比其他模型快30倍，并能在消费级显卡（如RTX 3090/409...
+- **[#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX Video开...](2025-05-08/#超快AI视频生成模型##个人电脑也能部署的AI视频模型#一款视频生成模型，被海外博主盛赞：AI视频的DeepSeek时刻！【图1】它改变了游戏规则。【图2】LTX_Video开....md)** | [原文](https://weibo.com/6105753431/PqJQ44OqD) | 时间: 2025-05-08 05:03 
+  LTX Video推出的开源视频生成模型LTXV-13B凭借"多尺度渲染"技术，生成速度比其他模型快30倍，可在消费级显卡（如RTX...
 
-- **[Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications](2025-05-08/Privacy-preserving_neutral_atom-based_quantum_classifier_towards_real_healthcare_applications.md)** | [原文](http://arxiv.org/abs/2505.04570v1) | 时间: 2025-05-08 04:03 
+- **[Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications](2025-05-08/Privacy-preserving_neutral_atom-based_quantum_classifier_towards_real_healthcare_applications.md)** | [原文](http://arxiv.org/abs/2505.04570v1) | 时间: 2025-05-08 05:02 
   人工智能和机器学习在医疗领域的应用迅速发展，但数据隐私保护成为关键挑战。本研究提出了一种基于支持向量...
 
-- **[#鸿蒙电脑正式亮相##华为首款鸿蒙电脑正式亮相#刚刚，华为的首款#鸿蒙电脑正式亮相#！在这背后，是5年技术积累、2700多项专利、上万名工程师的努力，也是国产操...](2025-05-08/#鸿蒙电脑正式亮相##华为首款鸿蒙电脑正式亮相#刚刚，华为的首款#鸿蒙电脑正式亮相#！在这背后，是5年技术积累、2700多项专利、上万名工程师的努力，也是国产操....md)** | [原文](https://weibo.com/6105753431/PqQq9hq6i) | 时间: 2025-05-08 04:03 
-  华为首款鸿蒙电脑正式发布，标志着国产操作系统在PC领域取得关键突破。该产品基于5年技术积累，拥有2700多项...
+- **[#鸿蒙电脑正式亮相##华为首款鸿蒙电脑正式亮相#刚刚，华为的首款#鸿蒙电脑正式亮相#！在这背后，是5年技术积累、2700多项专利、上万名工程师的努力，也是国产操...](2025-05-08/#鸿蒙电脑正式亮相##华为首款鸿蒙电脑正式亮相#刚刚，华为的首款#鸿蒙电脑正式亮相#！在这背后，是5年技术积累、2700多项专利、上万名工程师的努力，也是国产操....md)** | [原文](https://weibo.com/6105753431/PqQq9hq6i) | 时间: 2025-05-08 05:02 
+  华为首款鸿蒙电脑正式发布，标志着国产操作系统在PC领域的关键突破。该产品基于5年技术积累，拥有2700多项专...
 
-- **[#鸿蒙电脑可以使用小艺了##鸿蒙电脑系统级AI能力#可以在鸿蒙电脑上使用小艺了！在刚刚举行的“鸿蒙电脑技术与生态沟通会”上，华为云EI服务产品部总经理贾永利一...](2025-05-08/#鸿蒙电脑可以使用小艺了##鸿蒙电脑系统级AI能力#可以在鸿蒙电脑上使用小艺了！在刚刚举行的“鸿蒙电脑技术与生态沟通会”上，华为云EI服务产品部总经理贾永利一....md)** | [原文](https://weibo.com/6105753431/PqQHAvRn5) | 时间: 2025-05-08 04:03 
-  华为在鸿蒙电脑沟通会上发布了系统级AI助手"小艺"，具备三大核心生产力功能：文档助理（快速生成PPT）、知识...
+- **[#鸿蒙电脑可以使用小艺了##鸿蒙电脑系统级AI能力#可以在鸿蒙电脑上使用小艺了！在刚刚举行的“鸿蒙电脑技术与生态沟通会”上，华为云EI服务产品部总经理贾永利一...](2025-05-08/#鸿蒙电脑可以使用小艺了##鸿蒙电脑系统级AI能力#可以在鸿蒙电脑上使用小艺了！在刚刚举行的“鸿蒙电脑技术与生态沟通会”上，华为云EI服务产品部总经理贾永利一....md)** | [原文](https://weibo.com/6105753431/PqQHAvRn5) | 时间: 2025-05-08 05:02 
+  华为在鸿蒙电脑技术沟通会上发布了系统级AI助手"小艺"，具备三大核心功能：1)文档助理可快速生成PPT；2)知识空...
 
-- **[#国产PC系统实现关键突破##首个从操作系统内核重构的国产电脑#鸿蒙电脑正式亮相，作为首个从操作系统内核重构的国产电脑，该电脑都有啥特点？从现场图来看，鸿蒙...](2025-05-08/#国产PC系统实现关键突破##首个从操作系统内核重构的国产电脑#鸿蒙电脑正式亮相，作为首个从操作系统内核重构的国产电脑，该电脑都有啥特点？从现场图来看，鸿蒙....md)** | [原文](https://weibo.com/6105753431/PqQCJzpZV) | 时间: 2025-05-08 04:03 
-  鸿蒙电脑作为首个从操作系统内核重构的国产PC系统，采用三层架构设计：1）鸿蒙体验层提供流畅操作、AI智慧功...
+- **[#国产PC系统实现关键突破##首个从操作系统内核重构的国产电脑#鸿蒙电脑正式亮相，作为首个从操作系统内核重构的国产电脑，该电脑都有啥特点？从现场图来看，鸿蒙...](2025-05-08/#国产PC系统实现关键突破##首个从操作系统内核重构的国产电脑#鸿蒙电脑正式亮相，作为首个从操作系统内核重构的国产电脑，该电脑都有啥特点？从现场图来看，鸿蒙....md)** | [原文](https://weibo.com/6105753431/PqQCJzpZV) | 时间: 2025-05-08 05:02 
+  鸿蒙电脑作为首个从操作系统内核重构的国产PC系统，实现了全栈自主可控。其架构分为三层：1）鸿蒙体验层提供...
 
-- **[Optimal Deterministic Rendezvous in Labeled Lines](2025-05-08/Optimal_Deterministic_Rendezvous_in_Labeled_Lines.md)** | [原文](http://arxiv.org/abs/2505.04564v1) | 时间: 2025-05-08 04:03 
-  本文研究了无限标记线上两个异步睡眠代理的确定性会合问题。代理初始距离为D，节点具有唯一正整数标签，最...
+- **[Optimal Deterministic Rendezvous in Labeled Lines](2025-05-08/Optimal_Deterministic_Rendezvous_in_Labeled_Lines.md)** | [原文](http://arxiv.org/abs/2505.04564v1) | 时间: 2025-05-08 05:02 
+  本文研究了无限标记线上两个异步唤醒的移动代理的确定性和会问题。代理初始距离为D，节点具有唯一正整数标...
 
-- **[Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers](2025-05-08/Somesite_I_Used_To_Crawl-_Awareness,_Agency_and_Efficacy_in_Protecting_Content_Creators_From_AI_Crawlers.md)** | [原文](http://arxiv.org/abs/2411.15091v2) | 时间: 2025-05-08 04:03 
-  这篇研究探讨了当前网络工具（如robots.txt、NoAI标签和反向代理）在保护内容创作者免受AI爬取方面的效果。通过...
+- **[Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers](2025-05-08/Somesite_I_Used_To_Crawl-_Awareness,_Agency_and_Efficacy_in_Protecting_Content_Creators_From_AI_Crawlers.md)** | [原文](http://arxiv.org/abs/2411.15091v2) | 时间: 2025-05-08 05:02 
+  当前生成式AI依赖网络爬取数据进行训练，引发版权、隐私和伦理争议。现有工具（如robots.txt、NoAI元标签、反向...
 
-- **[WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales](2025-05-08/WATCH-_Weighted_Adaptive_Testing_for_Changepoint_Hypotheses_via_Weighted-Conformal_Martingales.md)** | [原文](http://arxiv.org/abs/2505.04608v1) | 时间: 2025-05-08 04:02 
-  本文提出了一种加权泛化共形测试鞅(WCTM)方法，用于人工智能系统部署后的持续监控。该方法扩展了现有非参数变...
+- **[WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales](2025-05-08/WATCH-_Weighted_Adaptive_Testing_for_Changepoint_Hypotheses_via_Weighted-Conformal_Martingales.md)** | [原文](http://arxiv.org/abs/2505.04608v1) | 时间: 2025-05-08 05:01 
+  本文提出了一种加权泛化共形测试鞅(WCTM)方法，用于AI/ML系统部署后的持续监控。该方法突破了现有非参数变点检...
 
-- **[AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions](2025-05-08/AI_Governance_to_Avoid_Extinction-_The_Strategic_Landscape_and_Actionable_Research_Questions.md)** | [原文](http://arxiv.org/abs/2505.04592v1) | 时间: 2025-05-08 04:02 
-  这篇摘要警告，AI发展可能带来灾难性风险，包括失控、恶意滥用、大国冲突和威权锁定。作者提出四种应对情景...
+- **[AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions](2025-05-08/AI_Governance_to_Avoid_Extinction-_The_Strategic_Landscape_and_Actionable_Research_Questions.md)** | [原文](http://arxiv.org/abs/2505.04592v1) | 时间: 2025-05-08 05:01 
+  人类即将开发出在所有认知领域超越人类专家的AI系统，但这一发展轨迹可能带来灾难性风险，包括人类灭绝。风...
 
-- **[SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions](2025-05-08/SlideItRight-_Using_AI_to_Find_Relevant_Slides_and_Provide_Feedback_for_Open-Ended_Questions.md)** | [原文](http://arxiv.org/abs/2505.04584v1) | 时间: 2025-05-08 04:02 
-  该研究探讨了AI生成的多模态反馈（结合文本和幻灯片）对学生学习的影响。通过91人的在线实验（2x2设计：人工/A...
+- **[SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions](2025-05-08/SlideItRight-_Using_AI_to_Find_Relevant_Slides_and_Provide_Feedback_for_Open-Ended_Questions.md)** | [原文](http://arxiv.org/abs/2505.04584v1) | 时间: 2025-05-08 05:01 
+  研究表明，利用AI生成多模态反馈（如结合文本和幻灯片）能提升学习效果，但与传统人工反馈相比，学习增益差...
 
-- **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](2025-05-08/Perpetuating_Misogyny_with_Generative_AI-_How_Model_Personalization_Normalizes_Gendered_Harm.md)** | [原文](http://arxiv.org/abs/2505.04600v1) | 时间: 2025-05-08 04:02 
-  这项研究对开源文本生成图像平台CivitAI进行了社会技术分析，发现该平台存在大量不安全内容(NSFW)和模仿真实人...
+- **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](2025-05-08/Perpetuating_Misogyny_with_Generative_AI-_How_Model_Personalization_Normalizes_Gendered_Harm.md)** | [原文](http://arxiv.org/abs/2505.04600v1) | 时间: 2025-05-08 05:01 
+  本研究对开源文本生成图像（TTI）平台CivitAI进行了社会技术分析，发现该平台存在大量不安全内容（NSFW）和模仿...
 
-- **[On Path to Multimodal Generalist: General-Level and General-Bench](2025-05-08/On_Path_to_Multimodal_Generalist-_General-Level_and_General-Bench.md)** | [原文](http://arxiv.org/abs/2505.04620v1) | 时间: 2025-05-08 04:02 
-  多模态大语言模型(MLLM)正在向通用人工智能(AGI)方向发展，从最初仅能理解多模态发展到能跨模态生成内容。研究...
+- **[On Path to Multimodal Generalist: General-Level and General-Bench](2025-05-08/On_Path_to_Multimodal_Generalist-_General-Level_and_General-Bench.md)** | [原文](http://arxiv.org/abs/2505.04620v1) | 时间: 2025-05-08 05:01 
+  多模态大语言模型（MLLM）正快速发展，从最初仅理解多模态内容，逐步演变为能跨模态生成内容的通用型模型。...
 
-- **[Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions](2025-05-08/Implicitly_Aligning_Humans_and_Autonomous_Agents_through_Shared_Task_Abstractions.md)** | [原文](http://arxiv.org/abs/2505.04579v1) | 时间: 2025-05-08 04:02 
-  这篇论文提出了HA²框架（分层临时协作智能体），旨在解决自主智能体在新队友协作中适应性不足的问题。通过...
+- **[Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions](2025-05-08/Implicitly_Aligning_Humans_and_Autonomous_Agents_through_Shared_Task_Abstractions.md)** | [原文](http://arxiv.org/abs/2505.04579v1) | 时间: 2025-05-08 05:01 
+  HA$^^2$（Hierarchical Ad Hoc Agents）是一个基于分层强化学习的框架，旨在提升自主智能体在协作任务中与陌生队友的零...
 
-- **[Is the end of Insight in Sight ?](2025-05-08/Is_the_end_of_Insight_in_Sight_.md)** | [原文](http://arxiv.org/abs/2505.04627v1) | 时间: 2025-05-08 04:01 
-  研究表明，在基于物理信息神经网络（PINN）求解玻尔兹曼方程描述的稀薄气体动力学问题时，权重矩阵与物理问...
+- **[Is the end of Insight in Sight ?](2025-05-08/Is_the_end_of_Insight_in_Sight_.md)** | [原文](http://arxiv.org/abs/2505.04627v1) | 时间: 2025-05-08 05:00 
+  研究表明，在基于物理信息神经网络（PINN）求解玻尔兹曼方程的稀薄气体动力学问题时，神经网络的权重矩阵与...
 
 - **[#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging Face团队也在昨天...](2025-05-08/#HuggingFace免费云端AI智能体##视觉模型驱动复杂智能体工作流#AI智能体也是越来越火了，大家都忍不住进行了自己的智能体尝试。这不，Hugging_Face团队也在昨天....md)** | [原文](https://weibo.com/6105753431/PqJvGgFCM) | 时间: 2025-05-08 03:22 
   Hugging Face团队推出名为Computer Use的免费云端AI智能体，基于网页端运行，通过Linux虚拟机执行任务。用户输入指令...
