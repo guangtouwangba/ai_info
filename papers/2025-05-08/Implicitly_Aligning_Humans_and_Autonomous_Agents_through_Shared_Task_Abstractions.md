@@ -18,11 +18,11 @@ environmental shifts, and outperforming all state-of-the-art methods.
 
 ## AI 摘要
 
-在协作任务中，自主智能体难以像人类一样快速适应新队友。研究者认为，零样本协作的瓶颈在于缺乏共享任务抽象机制，而人类依赖这种机制实现隐性协作。为此，团队提出HA²框架，通过分层强化学习模拟人类结构化协作方式。在Overcooked环境测试中，HA²与未知智能体及人类配对时表现显著优于现有基线，对环境变化更具鲁棒性，且超越所有最先进方法。该研究为解决智能体快速协作问题提供了新思路。
+HA$^^2^^$ (Hierarchical Ad Hoc Agents) is a hierarchical reinforcement learning framework designed to improve zero-shot coordination in collaborative tasks by mimicking human-like shared task abstractions. Tested in the Overcooked environment, HA$^^2^^$ significantly outperforms existing baselines when paired with unseen agents and humans, demonstrating better adaptability to environmental changes and surpassing state-of-the-art methods. The approach addresses the lack of implicit alignment seen in human teamwork, offering a structured solution for autonomous agents to collaborate more effectively with unfamiliar partners. (100 words)
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-08T16:02:11Z
+- **保存时间**: 2025-05-08T17:02:08Z
 - **目录日期**: 2025-05-08

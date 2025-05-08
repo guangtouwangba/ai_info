@@ -4,120 +4,111 @@
 
 ## 最新内容
 
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-05-08 17:05
+
+---
+
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索，能...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译、科研订阅等一站式服务。它收录3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-08 16:06
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct语料库。CodeAre...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-08 16:06
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 该研究综述了针对非小细胞肺癌(NSCLC)ALK基因的双靶点抑制剂最新进展。ALK基因是NSCLC的重要致癌驱动靶点，现有7...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-08 16:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety，一个基于大型语言模型的大规模社会模拟器，能够模拟1万多个代理及其500万次互动。...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-08 16:05
+**收录时间**: 2025-05-08 17:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-08 16:05
+**收录时间**: 2025-05-08 17:05
 
 ---
 
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次互动。研究者利用该...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-08 16:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-08 17:05
 
 ---
 
-### [#用Python构建MCP协议##高效构建MCP工具#FastMCP 2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model Context Protocol）是一个为大模型设计的标准协...](2025-05-08/#用Python构建MCP协议##高效构建MCP工具#FastMCP_2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model_Context_Protocol）是一个为大模型设计的标准协....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: FastMCP 2.0 是一个基于 Python 的 MCP（Model Context Protocol）开发框架，旨在简化大模型与外部数据和功能的交互。MCP 协...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因素...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqSCS4ksD)
-**收录时间**: 2025-05-08 16:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-08 17:05
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 该论文针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，包含397个真实编程任务样本(覆盖40类/44种语言)，重点...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-05-08 17:05
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-08 16:04
+**收录时间**: 2025-05-08 17:04
 
 ---
 
 ### [#机器人看视频就能学动作##UC伯克利新方法颠覆机器人训练#不用动作捕捉，只用一段视频就能教会机器人学会人类动作，效果be like：【视频1】UC伯克利团队研发出了...](2025-05-08/#机器人看视频就能学动作##UC伯克利新方法颠覆机器人训练#不用动作捕捉，只用一段视频就能教会机器人学会人类动作，效果be_like：【视频1】UC伯克利团队研发出了....md)
 
-**摘要**: UC伯克利团队开发了名为VideoMimic的新系统，仅通过观看人类动作视频就能训练机器人模仿。该系统从视频中提取姿...
+**摘要**: UC伯克利团队开发了名为VideoMimic的机器人训练系统，仅通过观看人类动作视频就能让机器人（如宇树G1）学习并模...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqSC1aHEb)
-**收录时间**: 2025-05-08 16:04
+**收录时间**: 2025-05-08 17:04
 
 ---
 
 ### [#一站式搞定建站全流程##设计师能自己做网站了#不用懂前端、不用换工具，设计师画完图就能直接出网页了。这就是Figma最新推出的功能——Figma Sites，让网站搭建...](2025-05-08/#一站式搞定建站全流程##设计师能自己做网站了#不用懂前端、不用换工具，设计师画完图就能直接出网页了。这就是Figma最新推出的功能——Figma_Sites，让网站搭建....md)
 
-**摘要**: Figma推出全新功能Figma Sites，让设计师无需前端知识即可独立完成网站建设。该功能支持设计稿直接转为响应式网...
+**摘要**: Figma新推出的Sites功能让设计师无需前端知识即可独立建站。该工具支持将设计稿直接转换为响应式网页，提供预...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqSAM3mgd)
-**收录时间**: 2025-05-08 16:04
+**收录时间**: 2025-05-08 17:04
 
 ---
 
-### [#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表...](2025-05-08/#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表....md)
+### [#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus\_Zeeshu大胆放话，氛围编...](2025-05-08/#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe_Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus_Zeeshu大胆放话，氛围编....md)
 
-**摘要**: 中科院、清华、快手和南大联合研发的R1-Reward模型通过强化学习技术，将多模态奖励模型性能提升5%-15%。该研究将...
+**摘要**: 这篇微博介绍了Reddit网友Shanus\_Zeeshu提出的"氛围编程(Vibe Coding)"五步正确操作法：1)选择主流技术栈(如Next....
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqT2uEc3I)
-**收录时间**: 2025-05-08 16:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqSGm0dS4)
+**收录时间**: 2025-05-08 17:03
+
+---
+
+### [#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下...](2025-05-08/#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下....md)
+
+**摘要**: 最近Reddit上爆火一个价值2万美元的ChatGPT提示词模板，能替代商业分析师进行专业战略分析。用户只需填入公司信...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqT40B6sk)
+**收录时间**: 2025-05-08 17:03
 
 ---
 
 ### [#AI伴侣如何影响心理健康##AI伴侣越使用越孤独#你有属于自己的AI伴侣吗？在全球范围内，数以亿计的人正在使用AI伴侣。这些虚拟的聊天机器人通过大模型技术，能够...](2025-05-08/#AI伴侣如何影响心理健康##AI伴侣越使用越孤独#你有属于自己的AI伴侣吗？在全球范围内，数以亿计的人正在使用AI伴侣。这些虚拟的聊天机器人通过大模型技术，能够....md)
 
-**摘要**: 研究表明，AI伴侣对心理健康的影响具有两面性。一方面，它们能缓解孤独感、提升自我认同，尤其对社交障碍人...
+**摘要**: AI伴侣对心理健康的影响呈现复杂双面性。研究表明，AI伴侣能缓解孤独感、提升自我认同（尤其被当作"真人"时）...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqSEjwPUG)
-**收录时间**: 2025-05-08 16:03
-
----
-
-### [#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，...](2025-05-08/#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，....md)
-
-**摘要**: AI作弊已成为大学生普遍现象，近90%学生使用ChatGPT等工具完成作业、论文甚至编程任务。教师采取蓝皮书考试、AI...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqTefwmqj)
-**收录时间**: 2025-05-08 16:03
+**收录时间**: 2025-05-08 17:03
 
 ---
 
@@ -126,61 +117,70 @@
 **摘要**: 【AI智能体发展核心趋势】当前智能体已升级为"超级智能体"，具备感知交互、认知决策、自主演进三大核心功能...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqT08n6p6)
-**收录时间**: 2025-05-08 16:03
+**收录时间**: 2025-05-08 17:03
 
 ---
 
-### [#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus\_Zeeshu大胆放话，氛围编...](2025-05-08/#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe_Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus_Zeeshu大胆放话，氛围编....md)
+### [#用Python构建MCP协议##高效构建MCP工具#FastMCP 2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model Context Protocol）是一个为大模型设计的标准协...](2025-05-08/#用Python构建MCP协议##高效构建MCP工具#FastMCP_2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model_Context_Protocol）是一个为大模型设计的标准协....md)
 
-**摘要**: Reddit网友Shanus\_Zeeshu提出"氛围编程"五步法：1)选择主流技术栈（如Next.js+Supabase）；2)编写简洁PRD分解任务；3)使用Gi...
+**摘要**: FastMCP 2.0是一个基于Python的MCP（Model Context Protocol）协议开发框架，旨在简化大模型与外部数据和功能的交互。该框...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqSGm0dS4)
-**收录时间**: 2025-05-08 16:03
-
----
-
-### [#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下...](2025-05-08/#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下....md)
-
-**摘要**: 近日Reddit上爆火的价值2万美元ChatGPT提示词引发热议，该提示词能替代商业分析师完成专业战略分析。用户只需填...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PqT40B6sk)
-**收录时间**: 2025-05-08 16:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqSCS4ksD)
+**收录时间**: 2025-05-08 17:03
 
 ---
 
-### [Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions](2025-05-08/Implicitly_Aligning_Humans_and_Autonomous_Agents_through_Shared_Task_Abstractions.md)
+### [#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表...](2025-05-08/#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表....md)
 
-**摘要**: 在协作任务中，自主智能体难以像人类一样快速适应新队友。研究者认为，零样本协作的瓶颈在于缺乏共享任务抽...
+**摘要**: 中科院、清华、快手和南大联合研发的R1-Reward模型通过强化学习技术，将多模态奖励模型性能提升5%-15%。该研究将...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.04579v1)
-**收录时间**: 2025-05-08 16:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqT2uEc3I)
+**收录时间**: 2025-05-08 17:03
 
 ---
 
 ### [#谷歌发布最强编码模型刷爆榜单# 谷歌发布最强编码模型Gemini 2.5 Pro I/O版，代码能力超强，上线便在 LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高...](2025-05-08/#谷歌发布最强编码模型刷爆榜单#_谷歌发布最强编码模型Gemini_2.5_Pro_I-O版，代码能力超强，上线便在_LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高....md)
 
-**摘要**: 谷歌发布了最新编码模型Gemini 2.5 Pro I/O版，该模型在代码能力上表现卓越。上线后立即在LMArena榜单的文本、视觉...
+**摘要**: 谷歌发布了最新编码模型Gemini 2.5 Pro I/O版，该模型在代码能力上表现突出，上线后立即在LMArena榜单的文本、视觉...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqU3fC9A4)
-**收录时间**: 2025-05-08 16:02
+**收录时间**: 2025-05-08 17:02
+
+---
+
+### [Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions](2025-05-08/Implicitly_Aligning_Humans_and_Autonomous_Agents_through_Shared_Task_Abstractions.md)
+
+**摘要**: HA$^^2^^$ (Hierarchical Ad Hoc Agents) is a hierarchical reinforcement learning framework designed to improve zero-shot coordination in collaborative ...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.04579v1)
+**收录时间**: 2025-05-08 17:02
+
+---
+
+### [Optimal Deterministic Rendezvous in Labeled Lines](2025-05-08/Optimal_Deterministic_Rendezvous_in_Labeled_Lines.md)
+
+**摘要**: 本文研究了无限标记线上两个初始休眠的移动代理的确定性和同步会合问题。代理无法通信，初始距离为D，唤醒...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.04564v1)
+**收录时间**: 2025-05-08 17:02
+
+---
+
+### [#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，...](2025-05-08/#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，....md)
+
+**摘要**: AI作弊正在深刻改变教育生态。调查显示近90%大学生使用ChatGPT等工具完成作业，包括论文写作、编程作业和在线讨...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PqTefwmqj)
+**收录时间**: 2025-05-08 17:02
 
 ---
 
 ### [Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications](2025-05-08/Privacy-preserving_neutral_atom-based_quantum_classifier_towards_real_healthcare_applications.md)
 
-**摘要**: 人工智能和机器学习在医疗领域的应用快速发展，但数据隐私保护成为关键挑战。本文提出一种基于量子处理单元...
+**摘要**: 人工智能和机器学习在医疗领域的应用快速发展，但数据隐私保护成为关键挑战。本研究提出一种基于支持向量机...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.04570v1)
-**收录时间**: 2025-05-08 16:02
-
----
-
-### [Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers](2025-05-08/Somesite_I_Used_To_Crawl-_Awareness,_Agency_and_Efficacy_in_Protecting_Content_Creators_From_AI_Crawlers.md)
-
-**摘要**: 这篇研究探讨了当前网络工具(如robots.txt、NoAI标签和反向代理拦截)在保护内容创作者免受AI爬取方面的效果。通过...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2411.15091v2)
-**收录时间**: 2025-05-08 16:02
+**收录时间**: 2025-05-08 17:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-08 (60篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-08 16:06 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索，能...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-08 17:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-08 16:06 
-  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct语料库。CodeAre...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-08/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-08 17:05 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译、科研订阅等一站式服务。它收录3....
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-08 16:05 
-  该研究综述了针对非小细胞肺癌(NSCLC)ALK基因的双靶点抑制剂最新进展。ALK基因是NSCLC的重要致癌驱动靶点，现有7...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-08 17:05 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-08 16:05 
-  这篇论文介绍了AgentSociety，一个基于大型语言模型的大规模社会模拟器，能够模拟1万多个代理及其500万次互动。...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-08/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-08 17:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次互动。研究者利用该...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-08/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-08 16:05 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-08/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-08 17:05 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因素...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-08/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-08 16:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-08/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-08 17:05 
+  该论文针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，包含397个真实编程任务样本(覆盖40类/44种语言)，重点...
 
-- **[#用Python构建MCP协议##高效构建MCP工具#FastMCP 2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model Context Protocol）是一个为大模型设计的标准协...](2025-05-08/#用Python构建MCP协议##高效构建MCP工具#FastMCP_2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model_Context_Protocol）是一个为大模型设计的标准协....md)** | [原文](https://weibo.com/6105753431/PqSCS4ksD) | 时间: 2025-05-08 16:04 
-  FastMCP 2.0 是一个基于 Python 的 MCP（Model Context Protocol）开发框架，旨在简化大模型与外部数据和功能的交互。MCP 协...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-08 17:04 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-08/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-08 16:04 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+- **[#机器人看视频就能学动作##UC伯克利新方法颠覆机器人训练#不用动作捕捉，只用一段视频就能教会机器人学会人类动作，效果be like：【视频1】UC伯克利团队研发出了...](2025-05-08/#机器人看视频就能学动作##UC伯克利新方法颠覆机器人训练#不用动作捕捉，只用一段视频就能教会机器人学会人类动作，效果be_like：【视频1】UC伯克利团队研发出了....md)** | [原文](https://weibo.com/6105753431/PqSC1aHEb) | 时间: 2025-05-08 17:04 
+  UC伯克利团队开发了名为VideoMimic的机器人训练系统，仅通过观看人类动作视频就能让机器人（如宇树G1）学习并模...
 
-- **[#机器人看视频就能学动作##UC伯克利新方法颠覆机器人训练#不用动作捕捉，只用一段视频就能教会机器人学会人类动作，效果be like：【视频1】UC伯克利团队研发出了...](2025-05-08/#机器人看视频就能学动作##UC伯克利新方法颠覆机器人训练#不用动作捕捉，只用一段视频就能教会机器人学会人类动作，效果be_like：【视频1】UC伯克利团队研发出了....md)** | [原文](https://weibo.com/6105753431/PqSC1aHEb) | 时间: 2025-05-08 16:04 
-  UC伯克利团队开发了名为VideoMimic的新系统，仅通过观看人类动作视频就能训练机器人模仿。该系统从视频中提取姿...
+- **[#一站式搞定建站全流程##设计师能自己做网站了#不用懂前端、不用换工具，设计师画完图就能直接出网页了。这就是Figma最新推出的功能——Figma Sites，让网站搭建...](2025-05-08/#一站式搞定建站全流程##设计师能自己做网站了#不用懂前端、不用换工具，设计师画完图就能直接出网页了。这就是Figma最新推出的功能——Figma_Sites，让网站搭建....md)** | [原文](https://weibo.com/6105753431/PqSAM3mgd) | 时间: 2025-05-08 17:04 
+  Figma新推出的Sites功能让设计师无需前端知识即可独立建站。该工具支持将设计稿直接转换为响应式网页，提供预...
 
-- **[#一站式搞定建站全流程##设计师能自己做网站了#不用懂前端、不用换工具，设计师画完图就能直接出网页了。这就是Figma最新推出的功能——Figma Sites，让网站搭建...](2025-05-08/#一站式搞定建站全流程##设计师能自己做网站了#不用懂前端、不用换工具，设计师画完图就能直接出网页了。这就是Figma最新推出的功能——Figma_Sites，让网站搭建....md)** | [原文](https://weibo.com/6105753431/PqSAM3mgd) | 时间: 2025-05-08 16:04 
-  Figma推出全新功能Figma Sites，让设计师无需前端知识即可独立完成网站建设。该功能支持设计稿直接转为响应式网...
+- **[#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus\_Zeeshu大胆放话，氛围编...](2025-05-08/#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe_Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus_Zeeshu大胆放话，氛围编....md)** | [原文](https://weibo.com/6105753431/PqSGm0dS4) | 时间: 2025-05-08 17:03 
+  这篇微博介绍了Reddit网友Shanus\_Zeeshu提出的"氛围编程(Vibe Coding)"五步正确操作法：1)选择主流技术栈(如Next....
 
-- **[#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表...](2025-05-08/#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表....md)** | [原文](https://weibo.com/6105753431/PqT2uEc3I) | 时间: 2025-05-08 16:03 
-  中科院、清华、快手和南大联合研发的R1-Reward模型通过强化学习技术，将多模态奖励模型性能提升5%-15%。该研究将...
+- **[#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下...](2025-05-08/#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下....md)** | [原文](https://weibo.com/6105753431/PqT40B6sk) | 时间: 2025-05-08 17:03 
+  最近Reddit上爆火一个价值2万美元的ChatGPT提示词模板，能替代商业分析师进行专业战略分析。用户只需填入公司信...
 
-- **[#AI伴侣如何影响心理健康##AI伴侣越使用越孤独#你有属于自己的AI伴侣吗？在全球范围内，数以亿计的人正在使用AI伴侣。这些虚拟的聊天机器人通过大模型技术，能够...](2025-05-08/#AI伴侣如何影响心理健康##AI伴侣越使用越孤独#你有属于自己的AI伴侣吗？在全球范围内，数以亿计的人正在使用AI伴侣。这些虚拟的聊天机器人通过大模型技术，能够....md)** | [原文](https://weibo.com/6105753431/PqSEjwPUG) | 时间: 2025-05-08 16:03 
-  研究表明，AI伴侣对心理健康的影响具有两面性。一方面，它们能缓解孤独感、提升自我认同，尤其对社交障碍人...
+- **[#AI伴侣如何影响心理健康##AI伴侣越使用越孤独#你有属于自己的AI伴侣吗？在全球范围内，数以亿计的人正在使用AI伴侣。这些虚拟的聊天机器人通过大模型技术，能够...](2025-05-08/#AI伴侣如何影响心理健康##AI伴侣越使用越孤独#你有属于自己的AI伴侣吗？在全球范围内，数以亿计的人正在使用AI伴侣。这些虚拟的聊天机器人通过大模型技术，能够....md)** | [原文](https://weibo.com/6105753431/PqSEjwPUG) | 时间: 2025-05-08 17:03 
+  AI伴侣对心理健康的影响呈现复杂双面性。研究表明，AI伴侣能缓解孤独感、提升自我认同（尤其被当作"真人"时）...
 
-- **[#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，...](2025-05-08/#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，....md)** | [原文](https://weibo.com/6105753431/PqTefwmqj) | 时间: 2025-05-08 16:03 
-  AI作弊已成为大学生普遍现象，近90%学生使用ChatGPT等工具完成作业、论文甚至编程任务。教师采取蓝皮书考试、AI...
-
-- **[#AI智能体关键在终端##2026年端侧AI能力至少涨3倍#智能体趋势真的爆了。从年初到现在，几乎每天都有新Agent横空出世，从硅谷到国内，大厂们都在争相推出自家智能...](2025-05-08/#AI智能体关键在终端##2026年端侧AI能力至少涨3倍#智能体趋势真的爆了。从年初到现在，几乎每天都有新Agent横空出世，从硅谷到国内，大厂们都在争相推出自家智能....md)** | [原文](https://weibo.com/6105753431/PqT08n6p6) | 时间: 2025-05-08 16:03 
+- **[#AI智能体关键在终端##2026年端侧AI能力至少涨3倍#智能体趋势真的爆了。从年初到现在，几乎每天都有新Agent横空出世，从硅谷到国内，大厂们都在争相推出自家智能...](2025-05-08/#AI智能体关键在终端##2026年端侧AI能力至少涨3倍#智能体趋势真的爆了。从年初到现在，几乎每天都有新Agent横空出世，从硅谷到国内，大厂们都在争相推出自家智能....md)** | [原文](https://weibo.com/6105753431/PqT08n6p6) | 时间: 2025-05-08 17:03 
   【AI智能体发展核心趋势】当前智能体已升级为"超级智能体"，具备感知交互、认知决策、自主演进三大核心功能...
 
-- **[#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus\_Zeeshu大胆放话，氛围编...](2025-05-08/#五步搞定氛围编程##如何正确开启氛围编程#自氛围编程（Vibe_Coding）被提出以来，这个概念一直遭受着褒贬不一的评价。Reddit网友Shanus_Zeeshu大胆放话，氛围编....md)** | [原文](https://weibo.com/6105753431/PqSGm0dS4) | 时间: 2025-05-08 16:03 
-  Reddit网友Shanus\_Zeeshu提出"氛围编程"五步法：1)选择主流技术栈（如Next.js+Supabase）；2)编写简洁PRD分解任务；3)使用Gi...
+- **[#用Python构建MCP协议##高效构建MCP工具#FastMCP 2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model Context Protocol）是一个为大模型设计的标准协...](2025-05-08/#用Python构建MCP协议##高效构建MCP工具#FastMCP_2.0：基于Python的开发框架，助你轻松实现MCP协议。MCP（Model_Context_Protocol）是一个为大模型设计的标准协....md)** | [原文](https://weibo.com/6105753431/PqSCS4ksD) | 时间: 2025-05-08 17:03 
+  FastMCP 2.0是一个基于Python的MCP（Model Context Protocol）协议开发框架，旨在简化大模型与外部数据和功能的交互。该框...
 
-- **[#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下...](2025-05-08/#价值14万的ChatGPT提示词##AI变身商业分析师提示词#价值2万美元（约合人民币14万）的ChatGPT提示词，长啥样？最近在Reddit上火了一个提示词，它能直接帮你省下....md)** | [原文](https://weibo.com/6105753431/PqT40B6sk) | 时间: 2025-05-08 16:03 
-  近日Reddit上爆火的价值2万美元ChatGPT提示词引发热议，该提示词能替代商业分析师完成专业战略分析。用户只需填...
+- **[#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表...](2025-05-08/#多模态奖励瓶颈再突破##奖励模型也能学推理#奖励模型能做得多好？中科院、清华、快手和南大联合发布的R1-Reward模型，借助强化学习技巧，把多模态奖励模型的表....md)** | [原文](https://weibo.com/6105753431/PqT2uEc3I) | 时间: 2025-05-08 17:03 
+  中科院、清华、快手和南大联合研发的R1-Reward模型通过强化学习技术，将多模态奖励模型性能提升5%-15%。该研究将...
 
-- **[Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions](2025-05-08/Implicitly_Aligning_Humans_and_Autonomous_Agents_through_Shared_Task_Abstractions.md)** | [原文](http://arxiv.org/abs/2505.04579v1) | 时间: 2025-05-08 16:02 
-  在协作任务中，自主智能体难以像人类一样快速适应新队友。研究者认为，零样本协作的瓶颈在于缺乏共享任务抽...
+- **[#谷歌发布最强编码模型刷爆榜单# 谷歌发布最强编码模型Gemini 2.5 Pro I/O版，代码能力超强，上线便在 LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高...](2025-05-08/#谷歌发布最强编码模型刷爆榜单#_谷歌发布最强编码模型Gemini_2.5_Pro_I-O版，代码能力超强，上线便在_LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高....md)** | [原文](https://weibo.com/6105753431/PqU3fC9A4) | 时间: 2025-05-08 17:02 
+  谷歌发布了最新编码模型Gemini 2.5 Pro I/O版，该模型在代码能力上表现突出，上线后立即在LMArena榜单的文本、视觉...
 
-- **[#谷歌发布最强编码模型刷爆榜单# 谷歌发布最强编码模型Gemini 2.5 Pro I/O版，代码能力超强，上线便在 LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高...](2025-05-08/#谷歌发布最强编码模型刷爆榜单#_谷歌发布最强编码模型Gemini_2.5_Pro_I-O版，代码能力超强，上线便在_LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高....md)** | [原文](https://weibo.com/6105753431/PqU3fC9A4) | 时间: 2025-05-08 16:02 
-  谷歌发布了最新编码模型Gemini 2.5 Pro I/O版，该模型在代码能力上表现卓越。上线后立即在LMArena榜单的文本、视觉...
+- **[Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions](2025-05-08/Implicitly_Aligning_Humans_and_Autonomous_Agents_through_Shared_Task_Abstractions.md)** | [原文](http://arxiv.org/abs/2505.04579v1) | 时间: 2025-05-08 17:02 
+  HA$^^2^^$ (Hierarchical Ad Hoc Agents) is a hierarchical reinforcement learning framework designed to improve zero-shot coordination in collaborative ...
 
-- **[Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications](2025-05-08/Privacy-preserving_neutral_atom-based_quantum_classifier_towards_real_healthcare_applications.md)** | [原文](http://arxiv.org/abs/2505.04570v1) | 时间: 2025-05-08 16:02 
-  人工智能和机器学习在医疗领域的应用快速发展，但数据隐私保护成为关键挑战。本文提出一种基于量子处理单元...
+- **[Optimal Deterministic Rendezvous in Labeled Lines](2025-05-08/Optimal_Deterministic_Rendezvous_in_Labeled_Lines.md)** | [原文](http://arxiv.org/abs/2505.04564v1) | 时间: 2025-05-08 17:02 
+  本文研究了无限标记线上两个初始休眠的移动代理的确定性和同步会合问题。代理无法通信，初始距离为D，唤醒...
 
-- **[Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers](2025-05-08/Somesite_I_Used_To_Crawl-_Awareness,_Agency_and_Efficacy_in_Protecting_Content_Creators_From_AI_Crawlers.md)** | [原文](http://arxiv.org/abs/2411.15091v2) | 时间: 2025-05-08 16:02 
-  这篇研究探讨了当前网络工具(如robots.txt、NoAI标签和反向代理拦截)在保护内容创作者免受AI爬取方面的效果。通过...
+- **[#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，...](2025-05-08/#大学生几乎都在使用AI作弊##AI正在改变教育本质#你用过AI工具写作业或考试吗？如今，使用AI作弊在学生中很常见，就在OpenAI推出ChatGPT两个月后的一项调查中，....md)** | [原文](https://weibo.com/6105753431/PqTefwmqj) | 时间: 2025-05-08 17:02 
+  AI作弊正在深刻改变教育生态。调查显示近90%大学生使用ChatGPT等工具完成作业，包括论文写作、编程作业和在线讨...
 
-- **[SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions](2025-05-08/SlideItRight-_Using_AI_to_Find_Relevant_Slides_and_Provide_Feedback_for_Open-Ended_Questions.md)** | [原文](http://arxiv.org/abs/2505.04584v1) | 时间: 2025-05-08 16:02 
-  该研究探讨了AI生成多模态反馈（文本+幻灯片）对学生学习的影响。通过91人的在线实验（2x2设计：人工/AI反馈×...
+- **[Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications](2025-05-08/Privacy-preserving_neutral_atom-based_quantum_classifier_towards_real_healthcare_applications.md)** | [原文](http://arxiv.org/abs/2505.04570v1) | 时间: 2025-05-08 17:02 
+  人工智能和机器学习在医疗领域的应用快速发展，但数据隐私保护成为关键挑战。本研究提出一种基于支持向量机...
 
-- **[Optimal Deterministic Rendezvous in Labeled Lines](2025-05-08/Optimal_Deterministic_Rendezvous_in_Labeled_Lines.md)** | [原文](http://arxiv.org/abs/2505.04564v1) | 时间: 2025-05-08 16:02 
-  本文研究了无限标记线上两个初始休眠的移动代理的确定性和同步会合问题。代理初始距离为D，唤醒时间差为τ，...
+- **[Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers](2025-05-08/Somesite_I_Used_To_Crawl-_Awareness,_Agency_and_Efficacy_in_Protecting_Content_Creators_From_AI_Crawlers.md)** | [原文](http://arxiv.org/abs/2411.15091v2) | 时间: 2025-05-08 17:02 
+  当前生成式AI依赖网络爬取数据训练，但引发了版权、隐私和伦理争议。虽然robots.txt、NoAI元标签和反向代理拦截...
 
-- **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](2025-05-08/Perpetuating_Misogyny_with_Generative_AI-_How_Model_Personalization_Normalizes_Gendered_Harm.md)** | [原文](http://arxiv.org/abs/2505.04600v1) | 时间: 2025-05-08 16:01 
-  开源文本生成图像(TTI)技术快速发展，使CivitAI等平台成为个性化AI模型分享中心。研究分析该平台4000万用户生成图...
+- **[Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm](2025-05-08/Perpetuating_Misogyny_with_Generative_AI-_How_Model_Personalization_Normalizes_Gendered_Harm.md)** | [原文](http://arxiv.org/abs/2505.04600v1) | 时间: 2025-05-08 17:01 
+  开源文本生成图像（TTI）技术因个性化适配器的普及而快速发展，但同时也助长了非自愿深度伪造和性别歧视等有...
 
-- **[Is the end of Insight in Sight ?](2025-05-08/Is_the_end_of_Insight_in_Sight_.md)** | [原文](http://arxiv.org/abs/2505.04627v1) | 时间: 2025-05-08 16:01 
-  研究表明，在基于物理信息神经网络（PINN）求解玻尔兹曼方程的稀薄气体动力学问题时，权重矩阵与物理问题的...
+- **[Is the end of Insight in Sight ?](2025-05-08/Is_the_end_of_Insight_in_Sight_.md)** | [原文](http://arxiv.org/abs/2505.04627v1) | 时间: 2025-05-08 17:01 
+  研究表明，在基于物理信息神经网络（PINN）求解玻尔兹曼方程的稀薄气体动力学问题中，权重矩阵与物理问题的...
 
-- **[WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales](2025-05-08/WATCH-_Weighted_Adaptive_Testing_for_Changepoint_Hypotheses_via_Weighted-Conformal_Martingales.md)** | [原文](http://arxiv.org/abs/2505.04608v1) | 时间: 2025-05-08 16:01 
-  本文提出了一种加权广义符合性测试鞅(WCTMs)方法，用于在高风险AI/ML系统中持续监测数据分布的任何意外变化，同...
+- **[WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales](2025-05-08/WATCH-_Weighted_Adaptive_Testing_for_Changepoint_Hypotheses_via_Weighted-Conformal_Martingales.md)** | [原文](http://arxiv.org/abs/2505.04608v1) | 时间: 2025-05-08 17:01 
+  本文提出了一种加权广义共形测试鞅(WCTM)方法，用于AI/ML系统部署后的持续监控。该方法扩展了现有非参数变化点...
 
-- **[On Path to Multimodal Generalist: General-Level and General-Bench](2025-05-08/On_Path_to_Multimodal_Generalist-_General-Level_and_General-Bench.md)** | [原文](http://arxiv.org/abs/2505.04620v1) | 时间: 2025-05-08 16:01 
-  多模态大语言模型（MLLM）正快速发展，从最初的多模态理解能力扩展到跨模态生成，并支持更细粒度和任意模态...
+- **[SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions](2025-05-08/SlideItRight-_Using_AI_to_Find_Relevant_Slides_and_Provide_Feedback_for_Open-Ended_Questions.md)** | [原文](http://arxiv.org/abs/2505.04584v1) | 时间: 2025-05-08 17:01 
+  研究表明，人工智能（AI）结合多模态反馈（如文本+幻灯片）能提升学习效果。通过91人的实验发现，AI生成的多...
 
-- **[AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions](2025-05-08/AI_Governance_to_Avoid_Extinction-_The_Strategic_Landscape_and_Actionable_Research_Questions.md)** | [原文](http://arxiv.org/abs/2505.04592v1) | 时间: 2025-05-08 16:01 
-  这篇摘要警告，AI的快速发展可能导致灾难性风险，包括人类灭绝。风险来自失控的AI系统、恶意滥用、大国冲突...
+- **[On Path to Multimodal Generalist: General-Level and General-Bench](2025-05-08/On_Path_to_Multimodal_Generalist-_General-Level_and_General-Bench.md)** | [原文](http://arxiv.org/abs/2505.04620v1) | 时间: 2025-05-08 17:01 
+  多模态大语言模型(MLLM)正快速发展，从最初仅能理解多模态内容，逐步演变为能理解和生成跨模态内容的通用型AI...
+
+- **[AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions](2025-05-08/AI_Governance_to_Avoid_Extinction-_The_Strategic_Landscape_and_Actionable_Research_Questions.md)** | [原文](http://arxiv.org/abs/2505.04592v1) | 时间: 2025-05-08 17:01 
+  人类即将开发出全面超越人类专家的AI系统，但默认发展路径可能导致灾难性风险，包括人类灭绝。风险源于失控...
 
 - **[#谷歌Gemini原生AI图像功能升级##Gemini新生图功能实测#谷歌Gemini原生图像生成功能又双叒升级了！据谷歌AI Studio开发者平台产品负责人透露， 本次升级主要体现...](2025-05-08/#谷歌Gemini原生AI图像功能升级##Gemini新生图功能实测#谷歌Gemini原生图像生成功能又双叒升级了！据谷歌AI_Studio开发者平台产品负责人透露，_本次升级主要体现....md)** | [原文](https://weibo.com/6105753431/PqSk91IW6) | 时间: 2025-05-08 12:05 
   谷歌Gemini AI图像生成功能迎来重大升级，主要提升包括：更高的视觉质量、更精准的文本渲染、更低延迟（滤波器...
