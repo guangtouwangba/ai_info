@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-OpenAI任命Fidji Simo为新任应用业务CEO，直接向Sam Altman汇报。Simo将负责整合应用部门，推动技术规模化应用，助力公司进入下一增长阶段。她此前担任Instacart CEO并成功带领公司上市，拥有Facebook十年工作经验，2024年起担任OpenAI董事。Altman称赞其领导力，期待实现十倍乃至百倍增长。Simo表示将确保技术应用造福公众。她将于数月后正式入职，Altman仍专注研究、计算与安全领域。此次任命旨在强化OpenAI的执行力与商业化能力。
+OpenAI宣布任命Fidji Simo为应用业务首席执行官（CEO of Applications），直接向Sam Altman汇报。Simo将负责整合应用部门，推动技术规模化应用，助力公司进入下一增长阶段。她此前担任Instacart CEO并带领公司上市，曾在Facebook工作近十年，2024年起担任OpenAI董事。Altman称赞其领导力，Simo表示将致力于确保技术应用造福公众。她将于2024年晚些时候正式入职，目前正逐步交接Instacart工作。Altman仍任OpenAI CEO，专注研究、计算和安全领域。（99字）
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-08T08:02:55Z
+- **保存时间**: 2025-05-08T09:04:07Z
 - **目录日期**: 2025-05-08
