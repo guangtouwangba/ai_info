@@ -8,11 +8,11 @@ Evaluating and Aligning CodeLLMs on Human Preference<a href="https://weibo.cn/si
 
 ## AI 摘要
 
-这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于侧重代码正确性而忽视人类偏好。研究者构建了CodeArena基准(包含397个高质量样本，覆盖40类44种语言)和SynCode-Instruct语料库(近200亿标记)。实验发现执行基准与CodeArena存在性能差异，开源模型(如Qwen2.5-Coder)与商业模型(如OpenAI o1)表现差距显著，凸显对齐人类偏好的重要性。研究证实大规模合成指令微调的有效性，为提升代码LLMs的实际应用价值提供了新方向。
+这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准和SynCode-Instruct数据集，解决现有评估忽视人类偏好的问题。CodeArena包含397个真实编程任务样本，覆盖40类44种语言；SynCode-Instruct则提供近200亿标记的合成指令数据。实验发现：1)传统执行测试与人类偏好存在偏差；2)开源模型(如Qwen2.5-Coder)与商业模型(如OpenAI)性能差距显著。研究强调代码LLMs需同时满足功能正确性和人类偏好，为模型优化提供了新方向。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-08T13:16:20Z
+- **保存时间**: 2025-05-08T14:06:49Z
 - **目录日期**: 2025-05-08
