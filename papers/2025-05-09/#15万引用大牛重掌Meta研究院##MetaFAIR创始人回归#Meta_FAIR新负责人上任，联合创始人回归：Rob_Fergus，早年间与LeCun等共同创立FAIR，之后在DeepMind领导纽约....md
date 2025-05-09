@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-Meta FAIR研究院迎来新负责人Rob Fergus回归，这位联合创始人曾与LeCun共同创立FAIR，后任职DeepMind纽约团队负责人。作为AI领域高引学者（15万次引用），其代表作包括ZFNet、对抗样本开山论文及多模态模型Cambrian-1。此次回归标志着FAIR战略转向高级机器智能（AGI）研究，Fergus将致力于开发人性化AI交互体验。其学术工业双栖背景（牛津博士、NYU教授、DeepMind经历）和视觉/生成模型专长，为Meta在生成式AI（如Llama记忆优化）领域注入强大学术领导力。
+Meta FAIR实验室迎来新负责人Rob Fergus回归。作为FAIR联合创始人，这位学术引用量近15万的AI大牛曾与LeCun共同创立纽约大学CILVR实验室，后任职DeepMind纽约团队负责人。其代表作包括开创性的ZFNet（可视化CNN技术）和对抗样本研究。此次回归接替离职的Joelle Pineau，FAIR将聚焦高级机器智能（AGI）研发。Fergus表示将致力于构建人性化AI交互体验。他此前已参与Meta的Llama模型记忆优化工作，最新研究包括与LeCun合作的多模态模型Cambrian-1系列。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-09T13:11:04Z
+- **保存时间**: 2025-05-09T14:03:24Z
 - **目录日期**: 2025-05-09
