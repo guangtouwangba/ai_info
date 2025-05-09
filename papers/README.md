@@ -6,28 +6,28 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题，指出当前基准测试过于关注代码正确性而忽视用...
+**摘要**: 该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究选取397个高质量样本覆盖40...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-09 06:05
+**收录时间**: 2025-05-09 07:06
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理及其500万次互动。它通过真实社会环...
+**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个智能代理及其500万次...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-09 06:05
+**收录时间**: 2025-05-09 07:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一款智能科技情报挖掘系统，提供论文检索、阅读、分析与写作的一站式服务。其核心功能包括：1）中英...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和论文写作支持...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-09 06:05
+**收录时间**: 2025-05-09 07:05
 
 ---
 
@@ -36,97 +36,97 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-09 06:05
+**收录时间**: 2025-05-09 07:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该框架利用Stable D...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-09 06:05
+**收录时间**: 2025-05-09 07:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，现...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-09 06:04
+**收录时间**: 2025-05-09 07:04
 
 ---
 
 ### [#ChatGPT深度研究可以连接GitHub了##ChatGPT深度研究联动GitHub# ChatGPT在深夜又更新了一波大的——深度研究（Deep Research）功能，现在可以直接连接到GitHub...](2025-05-09/#ChatGPT深度研究可以连接GitHub了##ChatGPT深度研究联动GitHub#_ChatGPT在深夜又更新了一波大的——深度研究（Deep_Research）功能，现在可以直接连接到GitHub....md)
 
-**摘要**: ChatGPT最新推出"深度研究"功能，现已支持直接连接GitHub代码库。该功能允许用户通过输入需求（如分析项目架构、...
+**摘要**: ChatGPT最新推出深度研究(Deep Research)功能，现已支持直接连接GitHub仓库。用户可通过该功能获取指定代码库的项目...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqYZD1Xqe)
-**收录时间**: 2025-05-09 06:04
+**收录时间**: 2025-05-09 07:04
 
 ---
 
 ### [#全球最大AI计算机投入使用##马斯克超级计算机全面投用#全球最大的AI超级计算机集群——马斯克的超超超级计算机Colossus，历经122天建设，现已投入使用！据Tom's...](2025-05-09/#全球最大AI计算机投入使用##马斯克超级计算机全面投用#全球最大的AI超级计算机集群——马斯克的超超超级计算机Colossus，历经122天建设，现已投入使用！据Tom's....md)
 
-**摘要**: 马斯克的xAI公司投入使用了全球最大的AI超级计算机集群Colossus，目前配备20万颗GPU，计划扩展至100万颗。该计算机...
+**摘要**: 马斯克的xAI公司建成全球最大AI超级计算机Colossus，首期搭载20万颗GPU（未来计划扩展至100万颗），电力消耗达150兆...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqZwF5gt1)
-**收录时间**: 2025-05-09 06:04
+**收录时间**: 2025-05-09 07:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统观...
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。该...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-09 06:04
+**收录时间**: 2025-05-09 07:04
 
 ---
 
 ### [#通义强化学习框架突破搜索引擎依赖##LLM搜索训练告别搜索引擎#利用强化学习提升LLMs的搜索能力，一定需要与真实搜索引擎交互吗？阿里巴巴通义实验室最新论文表...](2025-05-09/#通义强化学习框架突破搜索引擎依赖##LLM搜索训练告别搜索引擎#利用强化学习提升LLMs的搜索能力，一定需要与真实搜索引擎交互吗？阿里巴巴通义实验室最新论文表....md)
 
-**摘要**: 阿里巴巴通义实验室提出新型强化学习框架ZeroSearch，使大语言模型(LLM)无需依赖真实搜索引擎即可提升搜索能力。...
+**摘要**: 阿里巴巴通义实验室提出新型强化学习框架ZeroSearch，突破传统LLM搜索训练对搜索引擎的依赖。该框架通过轻量级...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqZYRd3BM)
-**收录时间**: 2025-05-09 06:03
+**收录时间**: 2025-05-09 07:03
 
 ---
 
 ### [#让AI简单回答更易产生幻觉##向LLM输入简要回答会增加幻觉#最新研究显示：要求AI“请简要回答”，会更容易让AI产生幻觉。AI测试公司Giskard联合DeepMind发现，用...](2025-05-09/#让AI简单回答更易产生幻觉##向LLM输入简要回答会增加幻觉#最新研究显示：要求AI“请简要回答”，会更容易让AI产生幻觉。AI测试公司Giskard联合DeepMind发现，用....md)
 
-**摘要**: 最新研究表明，要求AI"简要回答"会显著增加其产生幻觉(错误信息)的概率。Giskard和DeepMind发现，简洁指令会使主流...
+**摘要**: 最新研究发现，要求AI"简要回答"会显著增加其产生幻觉的概率。Giskard和DeepMind测试显示，简洁指令会使主流AI模型...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pr0t1CysW)
-**收录时间**: 2025-05-09 06:03
+**收录时间**: 2025-05-09 07:03
 
 ---
 
 ### [#央视阿里云共同发布《赢在AI+》宣传片# AI驱动未来无限可能！央视和阿里云共同发布《赢在AI+》宣传片。AI时代用阿里云，阿里云以先进云计算和AI能力支持企业赢...](2025-05-09/#央视阿里云共同发布《赢在AI+》宣传片#_AI驱动未来无限可能！央视和阿里云共同发布《赢在AI+》宣传片。AI时代用阿里云，阿里云以先进云计算和AI能力支持企业赢....md)
 
-**摘要**: 央视与阿里云联合发布《赢在AI+》宣传片，展示AI驱动未来的潜力。阿里云凭借先进的云计算和AI技术，助力企业...
+**摘要**: 央视与阿里云联合发布《赢在AI+》宣传片，展示AI驱动的未来潜力。宣传片强调阿里云凭借先进的云计算和AI技术...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqZEipAWo)
-**收录时间**: 2025-05-09 06:03
+**收录时间**: 2025-05-09 07:03
 
 ---
 
 ### [#央企通信巨头建起AI开源社区##国产开源社区整合AI产业链#央企通信巨头，牵头搞起了一个开源社区？而且模型、数据等各种资源应有尽有，还有学习资料和交流空间。...](2025-05-09/#央企通信巨头建起AI开源社区##国产开源社区整合AI产业链#央企通信巨头，牵头搞起了一个开源社区？而且模型、数据等各种资源应有尽有，还有学习资料和交流空间。....md)
 
-**摘要**: 中国电信天翼云牵头发起"魔乐社区"AI开源平台，提供模型、数据等资源及学习交流空间。该社区采用线上线下结...
+**摘要**: 中国电信天翼云牵头发起"魔乐社区"AI开源平台，提供模型、数据等资源及学习交流空间。该社区已成立线下理事...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqZYjxYt5)
-**收录时间**: 2025-05-09 06:03
+**收录时间**: 2025-05-09 07:03
 
 ---
 
 ### [#贝索斯重金押注监督微调技术##贝索斯7200万领投AI数据公司#据路透社报道，贝索斯的家族基金，领投了7200万美元，重金押注AI数据公司Toloka。Toloka专注于为AI模...](2025-05-09/#贝索斯重金押注监督微调技术##贝索斯7200万领投AI数据公司#据路透社报道，贝索斯的家族基金，领投了7200万美元，重金押注AI数据公司Toloka。Toloka专注于为AI模....md)
 
-**摘要**: 亚马逊创始人贝索斯通过家族基金领投7200万美元，押注AI数据公司Toloka。该公司专注于AI模型全流程数据服务，核...
+**摘要**: 贝索斯家族基金领投7200万美元押注AI数据公司Toloka。该公司专注于AI模型微调服务，包括监督微调(SFT)、直接偏好...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqZVYv0xc)
-**收录时间**: 2025-05-09 06:03
+**收录时间**: 2025-05-09 07:03
 
 ---
 
@@ -135,43 +135,43 @@
 **摘要**: 谷歌在Gemini API中推出"隐式缓存"功能，适用于Gemini 2.5 Pro和2.5 Flash模型，可自动识别重复请求并节省75%成本。该功...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PqZZYCdrx)
-**收录时间**: 2025-05-09 06:03
+**收录时间**: 2025-05-09 07:03
 
 ---
 
 ### [Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-09/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)
 
-**摘要**: 本文提出了一种基于扩散策略的人机协同机器人部署方法，通过计算不确定性指标让机器人仅在必要时主动寻求人...
+**摘要**: 本文提出了一种基于扩散策略（diffusion policies）的人机协作方法，旨在减少机器人部署时对人类持续监控的依赖。...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.01876v2)
-**收录时间**: 2025-05-09 06:02
+**收录时间**: 2025-05-09 07:02
 
 ---
 
 ### [#国内大模型人才大战打响# 薪资不设上限、CTO亲自参与指导、无需实习经验眼花缭乱了。为争夺AI人才，大厂们齐齐放大招！各种天才、顶尖人才计划简直看不过来。【...](2025-05-09/#国内大模型人才大战打响#_薪资不设上限、CTO亲自参与指导、无需实习经验眼花缭乱了。为争夺AI人才，大厂们齐齐放大招！各种天才、顶尖人才计划简直看不过来。【....md)
 
-**摘要**: 国内AI大模型领域正爆发激烈人才争夺战，科技大厂推出"薪资不设上限""CTO亲自指导""免实习经验"等诱人条件，并...
+**摘要**: 国内AI大模型领域正爆发激烈人才争夺战，头部企业通过"薪资不设上限""CTO亲自指导""免实习经验"等优厚条件吸引...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pr0SlldN4)
-**收录时间**: 2025-05-09 06:02
+**收录时间**: 2025-05-09 07:02
 
 ---
 
 ### [MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](2025-05-09/MultiMind-_Enhancing_Werewolf_Agents_with_Multimodal_Reasoning_and_Theory_of_Mind.md)
 
-**摘要**: 本研究提出了MultiMind框架，首次将多模态信息整合到社交推理游戏（如"狼人杀"）的LLM智能体中。该框架通过分析...
+**摘要**: 该研究提出了首个多模态社交推理框架MultiMind，用于提升AI在"一夜终极狼人杀"游戏中的表现。传统方法仅依赖文...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2504.18039v2)
-**收录时间**: 2025-05-09 06:02
+**收录时间**: 2025-05-09 07:02
 
 ---
 
 ### [Robustly optimal dynamics for active matter reservoir computing](2025-05-09/Robustly_optimal_dynamics_for_active_matter_reservoir_computing.md)
 
-**摘要**: 这项研究探讨了活性物质在储层计算（RC）范式中的信息处理能力，通过模拟外部驱动的混沌信号预测模型，发现...
+**摘要**: 该研究探讨了活性物质在储层计算（RC）范式中的信息处理能力，通过模拟系统预测混沌信号的未来状态。研究发...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.05420v1)
-**收录时间**: 2025-05-09 06:02
+**收录时间**: 2025-05-09 07:02
 
 ---
 
@@ -180,7 +180,7 @@
 **摘要**: 本文介绍了Academy，一种模块化、可扩展的中间件，旨在将自主智能体部署到联邦研究生态系统中，包括高性能计...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.05428v1)
-**收录时间**: 2025-05-09 06:02
+**收录时间**: 2025-05-09 07:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-09 (49篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-09 06:05 
-  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题，指出当前基准测试过于关注代码正确性而忽视用...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-09 07:06 
+  该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究选取397个高质量样本覆盖40...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-09 06:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理及其500万次互动。它通过真实社会环...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-09 07:05 
+  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个智能代理及其500万次...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-09 06:05 
-  AMiner是一款智能科技情报挖掘系统，提供论文检索、阅读、分析与写作的一站式服务。其核心功能包括：1）中英...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-09 07:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和论文写作支持...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-09 06:05 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-09 07:05 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-09 06:05 
-  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-09 07:05 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该框架利用Stable D...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-09 06:04 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-09 07:04 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，现...
 
-- **[#ChatGPT深度研究可以连接GitHub了##ChatGPT深度研究联动GitHub# ChatGPT在深夜又更新了一波大的——深度研究（Deep Research）功能，现在可以直接连接到GitHub...](2025-05-09/#ChatGPT深度研究可以连接GitHub了##ChatGPT深度研究联动GitHub#_ChatGPT在深夜又更新了一波大的——深度研究（Deep_Research）功能，现在可以直接连接到GitHub....md)** | [原文](https://weibo.com/6105753431/PqYZD1Xqe) | 时间: 2025-05-09 06:04 
-  ChatGPT最新推出"深度研究"功能，现已支持直接连接GitHub代码库。该功能允许用户通过输入需求（如分析项目架构、...
+- **[#ChatGPT深度研究可以连接GitHub了##ChatGPT深度研究联动GitHub# ChatGPT在深夜又更新了一波大的——深度研究（Deep Research）功能，现在可以直接连接到GitHub...](2025-05-09/#ChatGPT深度研究可以连接GitHub了##ChatGPT深度研究联动GitHub#_ChatGPT在深夜又更新了一波大的——深度研究（Deep_Research）功能，现在可以直接连接到GitHub....md)** | [原文](https://weibo.com/6105753431/PqYZD1Xqe) | 时间: 2025-05-09 07:04 
+  ChatGPT最新推出深度研究(Deep Research)功能，现已支持直接连接GitHub仓库。用户可通过该功能获取指定代码库的项目...
 
-- **[#全球最大AI计算机投入使用##马斯克超级计算机全面投用#全球最大的AI超级计算机集群——马斯克的超超超级计算机Colossus，历经122天建设，现已投入使用！据Tom's...](2025-05-09/#全球最大AI计算机投入使用##马斯克超级计算机全面投用#全球最大的AI超级计算机集群——马斯克的超超超级计算机Colossus，历经122天建设，现已投入使用！据Tom's....md)** | [原文](https://weibo.com/6105753431/PqZwF5gt1) | 时间: 2025-05-09 06:04 
-  马斯克的xAI公司投入使用了全球最大的AI超级计算机集群Colossus，目前配备20万颗GPU，计划扩展至100万颗。该计算机...
+- **[#全球最大AI计算机投入使用##马斯克超级计算机全面投用#全球最大的AI超级计算机集群——马斯克的超超超级计算机Colossus，历经122天建设，现已投入使用！据Tom's...](2025-05-09/#全球最大AI计算机投入使用##马斯克超级计算机全面投用#全球最大的AI超级计算机集群——马斯克的超超超级计算机Colossus，历经122天建设，现已投入使用！据Tom's....md)** | [原文](https://weibo.com/6105753431/PqZwF5gt1) | 时间: 2025-05-09 07:04 
+  马斯克的xAI公司建成全球最大AI超级计算机Colossus，首期搭载20万颗GPU（未来计划扩展至100万颗），电力消耗达150兆...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-09 06:04 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统观...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-09 07:04 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。该...
 
-- **[#通义强化学习框架突破搜索引擎依赖##LLM搜索训练告别搜索引擎#利用强化学习提升LLMs的搜索能力，一定需要与真实搜索引擎交互吗？阿里巴巴通义实验室最新论文表...](2025-05-09/#通义强化学习框架突破搜索引擎依赖##LLM搜索训练告别搜索引擎#利用强化学习提升LLMs的搜索能力，一定需要与真实搜索引擎交互吗？阿里巴巴通义实验室最新论文表....md)** | [原文](https://weibo.com/6105753431/PqZYRd3BM) | 时间: 2025-05-09 06:03 
-  阿里巴巴通义实验室提出新型强化学习框架ZeroSearch，使大语言模型(LLM)无需依赖真实搜索引擎即可提升搜索能力。...
+- **[#通义强化学习框架突破搜索引擎依赖##LLM搜索训练告别搜索引擎#利用强化学习提升LLMs的搜索能力，一定需要与真实搜索引擎交互吗？阿里巴巴通义实验室最新论文表...](2025-05-09/#通义强化学习框架突破搜索引擎依赖##LLM搜索训练告别搜索引擎#利用强化学习提升LLMs的搜索能力，一定需要与真实搜索引擎交互吗？阿里巴巴通义实验室最新论文表....md)** | [原文](https://weibo.com/6105753431/PqZYRd3BM) | 时间: 2025-05-09 07:03 
+  阿里巴巴通义实验室提出新型强化学习框架ZeroSearch，突破传统LLM搜索训练对搜索引擎的依赖。该框架通过轻量级...
 
-- **[#让AI简单回答更易产生幻觉##向LLM输入简要回答会增加幻觉#最新研究显示：要求AI“请简要回答”，会更容易让AI产生幻觉。AI测试公司Giskard联合DeepMind发现，用...](2025-05-09/#让AI简单回答更易产生幻觉##向LLM输入简要回答会增加幻觉#最新研究显示：要求AI“请简要回答”，会更容易让AI产生幻觉。AI测试公司Giskard联合DeepMind发现，用....md)** | [原文](https://weibo.com/6105753431/Pr0t1CysW) | 时间: 2025-05-09 06:03 
-  最新研究表明，要求AI"简要回答"会显著增加其产生幻觉(错误信息)的概率。Giskard和DeepMind发现，简洁指令会使主流...
+- **[#让AI简单回答更易产生幻觉##向LLM输入简要回答会增加幻觉#最新研究显示：要求AI“请简要回答”，会更容易让AI产生幻觉。AI测试公司Giskard联合DeepMind发现，用...](2025-05-09/#让AI简单回答更易产生幻觉##向LLM输入简要回答会增加幻觉#最新研究显示：要求AI“请简要回答”，会更容易让AI产生幻觉。AI测试公司Giskard联合DeepMind发现，用....md)** | [原文](https://weibo.com/6105753431/Pr0t1CysW) | 时间: 2025-05-09 07:03 
+  最新研究发现，要求AI"简要回答"会显著增加其产生幻觉的概率。Giskard和DeepMind测试显示，简洁指令会使主流AI模型...
 
-- **[#央视阿里云共同发布《赢在AI+》宣传片# AI驱动未来无限可能！央视和阿里云共同发布《赢在AI+》宣传片。AI时代用阿里云，阿里云以先进云计算和AI能力支持企业赢...](2025-05-09/#央视阿里云共同发布《赢在AI+》宣传片#_AI驱动未来无限可能！央视和阿里云共同发布《赢在AI+》宣传片。AI时代用阿里云，阿里云以先进云计算和AI能力支持企业赢....md)** | [原文](https://weibo.com/6105753431/PqZEipAWo) | 时间: 2025-05-09 06:03 
-  央视与阿里云联合发布《赢在AI+》宣传片，展示AI驱动未来的潜力。阿里云凭借先进的云计算和AI技术，助力企业...
+- **[#央视阿里云共同发布《赢在AI+》宣传片# AI驱动未来无限可能！央视和阿里云共同发布《赢在AI+》宣传片。AI时代用阿里云，阿里云以先进云计算和AI能力支持企业赢...](2025-05-09/#央视阿里云共同发布《赢在AI+》宣传片#_AI驱动未来无限可能！央视和阿里云共同发布《赢在AI+》宣传片。AI时代用阿里云，阿里云以先进云计算和AI能力支持企业赢....md)** | [原文](https://weibo.com/6105753431/PqZEipAWo) | 时间: 2025-05-09 07:03 
+  央视与阿里云联合发布《赢在AI+》宣传片，展示AI驱动的未来潜力。宣传片强调阿里云凭借先进的云计算和AI技术...
 
-- **[#央企通信巨头建起AI开源社区##国产开源社区整合AI产业链#央企通信巨头，牵头搞起了一个开源社区？而且模型、数据等各种资源应有尽有，还有学习资料和交流空间。...](2025-05-09/#央企通信巨头建起AI开源社区##国产开源社区整合AI产业链#央企通信巨头，牵头搞起了一个开源社区？而且模型、数据等各种资源应有尽有，还有学习资料和交流空间。....md)** | [原文](https://weibo.com/6105753431/PqZYjxYt5) | 时间: 2025-05-09 06:03 
-  中国电信天翼云牵头发起"魔乐社区"AI开源平台，提供模型、数据等资源及学习交流空间。该社区采用线上线下结...
+- **[#央企通信巨头建起AI开源社区##国产开源社区整合AI产业链#央企通信巨头，牵头搞起了一个开源社区？而且模型、数据等各种资源应有尽有，还有学习资料和交流空间。...](2025-05-09/#央企通信巨头建起AI开源社区##国产开源社区整合AI产业链#央企通信巨头，牵头搞起了一个开源社区？而且模型、数据等各种资源应有尽有，还有学习资料和交流空间。....md)** | [原文](https://weibo.com/6105753431/PqZYjxYt5) | 时间: 2025-05-09 07:03 
+  中国电信天翼云牵头发起"魔乐社区"AI开源平台，提供模型、数据等资源及学习交流空间。该社区已成立线下理事...
 
-- **[#贝索斯重金押注监督微调技术##贝索斯7200万领投AI数据公司#据路透社报道，贝索斯的家族基金，领投了7200万美元，重金押注AI数据公司Toloka。Toloka专注于为AI模...](2025-05-09/#贝索斯重金押注监督微调技术##贝索斯7200万领投AI数据公司#据路透社报道，贝索斯的家族基金，领投了7200万美元，重金押注AI数据公司Toloka。Toloka专注于为AI模....md)** | [原文](https://weibo.com/6105753431/PqZVYv0xc) | 时间: 2025-05-09 06:03 
-  亚马逊创始人贝索斯通过家族基金领投7200万美元，押注AI数据公司Toloka。该公司专注于AI模型全流程数据服务，核...
+- **[#贝索斯重金押注监督微调技术##贝索斯7200万领投AI数据公司#据路透社报道，贝索斯的家族基金，领投了7200万美元，重金押注AI数据公司Toloka。Toloka专注于为AI模...](2025-05-09/#贝索斯重金押注监督微调技术##贝索斯7200万领投AI数据公司#据路透社报道，贝索斯的家族基金，领投了7200万美元，重金押注AI数据公司Toloka。Toloka专注于为AI模....md)** | [原文](https://weibo.com/6105753431/PqZVYv0xc) | 时间: 2025-05-09 07:03 
+  贝索斯家族基金领投7200万美元押注AI数据公司Toloka。该公司专注于AI模型微调服务，包括监督微调(SFT)、直接偏好...
 
-- **[#谷歌隐式缓存降低四分之三AI使用成本##GeminiAPI用自动缓存让AI更省钱#被吐槽显式缓存成本太高之后，谷歌决定推出“隐式缓存”功能。谷歌在Gemini API中推出的...](2025-05-09/#谷歌隐式缓存降低四分之三AI使用成本##GeminiAPI用自动缓存让AI更省钱#被吐槽显式缓存成本太高之后，谷歌决定推出“隐式缓存”功能。谷歌在Gemini_API中推出的....md)** | [原文](https://weibo.com/6105753431/PqZZYCdrx) | 时间: 2025-05-09 06:03 
+- **[#谷歌隐式缓存降低四分之三AI使用成本##GeminiAPI用自动缓存让AI更省钱#被吐槽显式缓存成本太高之后，谷歌决定推出“隐式缓存”功能。谷歌在Gemini API中推出的...](2025-05-09/#谷歌隐式缓存降低四分之三AI使用成本##GeminiAPI用自动缓存让AI更省钱#被吐槽显式缓存成本太高之后，谷歌决定推出“隐式缓存”功能。谷歌在Gemini_API中推出的....md)** | [原文](https://weibo.com/6105753431/PqZZYCdrx) | 时间: 2025-05-09 07:03 
   谷歌在Gemini API中推出"隐式缓存"功能，适用于Gemini 2.5 Pro和2.5 Flash模型，可自动识别重复请求并节省75%成本。该功...
 
-- **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-09/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)** | [原文](http://arxiv.org/abs/2503.01876v2) | 时间: 2025-05-09 06:02 
-  本文提出了一种基于扩散策略的人机协同机器人部署方法，通过计算不确定性指标让机器人仅在必要时主动寻求人...
+- **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-09/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)** | [原文](http://arxiv.org/abs/2503.01876v2) | 时间: 2025-05-09 07:02 
+  本文提出了一种基于扩散策略（diffusion policies）的人机协作方法，旨在减少机器人部署时对人类持续监控的依赖。...
 
-- **[#国内大模型人才大战打响# 薪资不设上限、CTO亲自参与指导、无需实习经验眼花缭乱了。为争夺AI人才，大厂们齐齐放大招！各种天才、顶尖人才计划简直看不过来。【...](2025-05-09/#国内大模型人才大战打响#_薪资不设上限、CTO亲自参与指导、无需实习经验眼花缭乱了。为争夺AI人才，大厂们齐齐放大招！各种天才、顶尖人才计划简直看不过来。【....md)** | [原文](https://weibo.com/6105753431/Pr0SlldN4) | 时间: 2025-05-09 06:02 
-  国内AI大模型领域正爆发激烈人才争夺战，科技大厂推出"薪资不设上限""CTO亲自指导""免实习经验"等诱人条件，并...
+- **[#国内大模型人才大战打响# 薪资不设上限、CTO亲自参与指导、无需实习经验眼花缭乱了。为争夺AI人才，大厂们齐齐放大招！各种天才、顶尖人才计划简直看不过来。【...](2025-05-09/#国内大模型人才大战打响#_薪资不设上限、CTO亲自参与指导、无需实习经验眼花缭乱了。为争夺AI人才，大厂们齐齐放大招！各种天才、顶尖人才计划简直看不过来。【....md)** | [原文](https://weibo.com/6105753431/Pr0SlldN4) | 时间: 2025-05-09 07:02 
+  国内AI大模型领域正爆发激烈人才争夺战，头部企业通过"薪资不设上限""CTO亲自指导""免实习经验"等优厚条件吸引...
 
-- **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](2025-05-09/MultiMind-_Enhancing_Werewolf_Agents_with_Multimodal_Reasoning_and_Theory_of_Mind.md)** | [原文](http://arxiv.org/abs/2504.18039v2) | 时间: 2025-05-09 06:02 
-  本研究提出了MultiMind框架，首次将多模态信息整合到社交推理游戏（如"狼人杀"）的LLM智能体中。该框架通过分析...
+- **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](2025-05-09/MultiMind-_Enhancing_Werewolf_Agents_with_Multimodal_Reasoning_and_Theory_of_Mind.md)** | [原文](http://arxiv.org/abs/2504.18039v2) | 时间: 2025-05-09 07:02 
+  该研究提出了首个多模态社交推理框架MultiMind，用于提升AI在"一夜终极狼人杀"游戏中的表现。传统方法仅依赖文...
 
-- **[Robustly optimal dynamics for active matter reservoir computing](2025-05-09/Robustly_optimal_dynamics_for_active_matter_reservoir_computing.md)** | [原文](http://arxiv.org/abs/2505.05420v1) | 时间: 2025-05-09 06:02 
-  这项研究探讨了活性物质在储层计算（RC）范式中的信息处理能力，通过模拟外部驱动的混沌信号预测模型，发现...
+- **[Robustly optimal dynamics for active matter reservoir computing](2025-05-09/Robustly_optimal_dynamics_for_active_matter_reservoir_computing.md)** | [原文](http://arxiv.org/abs/2505.05420v1) | 时间: 2025-05-09 07:02 
+  该研究探讨了活性物质在储层计算（RC）范式中的信息处理能力，通过模拟系统预测混沌信号的未来状态。研究发...
 
-- **[Empowering Scientific Workflows with Federated Agents](2025-05-09/Empowering_Scientific_Workflows_with_Federated_Agents.md)** | [原文](http://arxiv.org/abs/2505.05428v1) | 时间: 2025-05-09 06:02 
+- **[Empowering Scientific Workflows with Federated Agents](2025-05-09/Empowering_Scientific_Workflows_with_Federated_Agents.md)** | [原文](http://arxiv.org/abs/2505.05428v1) | 时间: 2025-05-09 07:02 
   本文介绍了Academy，一种模块化、可扩展的中间件，旨在将自主智能体部署到联邦研究生态系统中，包括高性能计...
 
-- **[#比尔盖茨捐出全部身家##比尔盖茨指责马斯克削减支出#昨晚有个重磅消息！比尔·盖茨宣布要在未来20年内捐出几乎全部财富，金额高达2000亿美元（约合1.4万亿人民...](2025-05-09/#比尔盖茨捐出全部身家##比尔盖茨指责马斯克削减支出#昨晚有个重磅消息！比尔·盖茨宣布要在未来20年内捐出几乎全部财富，金额高达2000亿美元（约合1.4万亿人民....md)** | [原文](https://weibo.com/6105753431/Pr0uc6X4g) | 时间: 2025-05-09 06:02 
-  比尔·盖茨宣布将在未来20年内捐出全部2000亿美元身家，通过盖茨基金会用于全球健康、教育、扶贫等领域，目标...
+- **[#比尔盖茨捐出全部身家##比尔盖茨指责马斯克削减支出#昨晚有个重磅消息！比尔·盖茨宣布要在未来20年内捐出几乎全部财富，金额高达2000亿美元（约合1.4万亿人民...](2025-05-09/#比尔盖茨捐出全部身家##比尔盖茨指责马斯克削减支出#昨晚有个重磅消息！比尔·盖茨宣布要在未来20年内捐出几乎全部财富，金额高达2000亿美元（约合1.4万亿人民....md)** | [原文](https://weibo.com/6105753431/Pr0uc6X4g) | 时间: 2025-05-09 07:02 
+  比尔·盖茨宣布将在20年内捐出全部2000亿美元财富，通过盖茨基金会用于全球健康、教育和扶贫，目标包括降低母...
 
-- **[RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](2025-05-09/RL-DAUNCE-_Reinforcement_Learning-Driven_Data_Assimilation_with_Uncertainty-Aware_Constrained_Ensembles.md)** | [原文](http://arxiv.org/abs/2505.05452v1) | 时间: 2025-05-09 06:01 
-  研究人员开发了一种名为RL-DAUNCE的新型强化学习方法，用于改进数据同化过程。该方法通过三个关键创新：1）采...
+- **[RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](2025-05-09/RL-DAUNCE-_Reinforcement_Learning-Driven_Data_Assimilation_with_Uncertainty-Aware_Constrained_Ensembles.md)** | [原文](http://arxiv.org/abs/2505.05452v1) | 时间: 2025-05-09 07:01 
+  研究人员开发了一种基于强化学习的新型数据同化方法RL-DAUNCE，通过三个关键创新提升传统方法：1) 采用类似集合...
 
-- **[3D Scene Generation: A Survey](2025-05-09/3D_Scene_Generation-_A_Survey.md)** | [原文](http://arxiv.org/abs/2505.05474v1) | 时间: 2025-05-09 06:01 
-  3D场景生成旨在创建具有空间结构、语义信息和真实感的环境，应用于沉浸式媒体、机器人、自动驾驶和具身AI等...
+- **[3D Scene Generation: A Survey](2025-05-09/3D_Scene_Generation-_A_Survey.md)** | [原文](http://arxiv.org/abs/2505.05474v1) | 时间: 2025-05-09 07:01 
+  3D场景生成旨在创建空间结构化、语义丰富且逼真的环境，用于沉浸式媒体、机器人、自动驾驶和具身AI等领域。...
 
-- **[SITE: towards Spatial Intelligence Thorough Evaluation](2025-05-09/SITE-_towards_Spatial_Intelligence_Thorough_Evaluation.md)** | [原文](http://arxiv.org/abs/2505.05456v1) | 时间: 2025-05-09 06:01 
-  研究人员提出了SITE基准数据集，用于全面评估大型视觉语言模型的空间智能（SI）。该数据集采用多选题形式，涵...
+- **[SITE: towards Spatial Intelligence Thorough Evaluation](2025-05-09/SITE-_towards_Spatial_Intelligence_Thorough_Evaluation.md)** | [原文](http://arxiv.org/abs/2505.05456v1) | 时间: 2025-05-09 07:01 
+  研究人员提出了SITE基准数据集，用于全面评估大型视觉语言模型的空间智能(SI)。该数据集采用多选题形式，涵盖...
 
-- **[Conversational Process Model Redesign](2025-05-09/Conversational_Process_Model_Redesign.md)** | [原文](http://arxiv.org/abs/2505.05453v1) | 时间: 2025-05-09 06:01 
-  随着大语言模型(LLM)的发展，AI增强的业务流程管理系统(BPM)变得可行。本文提出了一种对话式流程模型重构(CPD)方...
+- **[Conversational Process Model Redesign](2025-05-09/Conversational_Process_Model_Redesign.md)** | [原文](http://arxiv.org/abs/2505.05453v1) | 时间: 2025-05-09 07:01 
+  随着大语言模型(LLMs)的成功，AI增强的业务流程管理系统变得可行。当前研究多关注单次提示执行，而本文提出对...
 
-- **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](2025-05-09/EcoAgent-_An_Efficient_Edge-Cloud_Collaborative_Multi-Agent_Framework_for_Mobile_Automation.md)** | [原文](http://arxiv.org/abs/2505.05440v1) | 时间: 2025-05-09 06:01 
-  EcoAgent是一个边缘-云协作的多智能体框架，旨在解决基于云的大型语言模型（LLM）的高延迟和高成本问题。它包含...
+- **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](2025-05-09/EcoAgent-_An_Efficient_Edge-Cloud_Collaborative_Multi-Agent_Framework_for_Mobile_Automation.md)** | [原文](http://arxiv.org/abs/2505.05440v1) | 时间: 2025-05-09 07:01 
+  EcoAgent是一种边缘-云协作的多智能体框架，旨在解决基于云的大型语言模型（M）LLMs的高延迟和高成本问题。它通...
 
-- **[clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](2025-05-09/clem-todd-_A_Framework_for_the_Systematic_Benchmarking_of_LLM-Based_Task-Oriented_Dialogue_System_Realisations.md)** | [原文](http://arxiv.org/abs/2505.05445v1) | 时间: 2025-05-09 06:01 
-  本文介绍了clem todd框架，用于在统一条件下系统评估任务型对话系统。该框架支持灵活集成不同用户模拟器和对话...
+- **[clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](2025-05-09/clem-todd-_A_Framework_for_the_Systematic_Benchmarking_of_LLM-Based_Task-Oriented_Dialogue_System_Realisations.md)** | [原文](http://arxiv.org/abs/2505.05445v1) | 时间: 2025-05-09 07:01 
+  本文提出了clem todd框架，用于在统一条件下系统评估对话系统。该框架支持灵活组合用户模拟器和对话系统进行基...
 
 - **[#谷歌发布最强编码模型刷爆榜单# 谷歌发布最强编码模型Gemini 2.5 Pro I/O版，代码能力超强，上线便在 LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高...](2025-05-09/#谷歌发布最强编码模型刷爆榜单#_谷歌发布最强编码模型Gemini_2.5_Pro_I-O版，代码能力超强，上线便在_LMArena上霸榜文本、视觉、Web开发三大领域，网友给出超高....md)** | [原文](https://weibo.com/6105753431/PqU3fC9A4) | 时间: 2025-05-09 05:03 
   谷歌发布了最新编码模型Gemini 2.5 Pro I/O版，该模型展现出卓越的代码能力，在LMArena榜单上同时占据文本处理、视...
