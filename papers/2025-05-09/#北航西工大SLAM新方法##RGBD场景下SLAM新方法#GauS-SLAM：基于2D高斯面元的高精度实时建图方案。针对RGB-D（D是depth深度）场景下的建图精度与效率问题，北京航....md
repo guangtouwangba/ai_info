@@ -1,0 +1,18 @@
+# #北航西工大SLAM新方法##RGBD场景下SLAM新方法#GauS-SLAM：基于2D高斯面元的高精度实时建图方案。针对RGB-D（D是depth深度）场景下的建图精度与效率问题，北京航...
+
+**URL**: https://weibo.com/6105753431/Pr2w4AFnx
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8C%97%E8%88%AA%E8%A5%BF%E5%B7%A5%E5%A4%A7SLAM%E6%96%B0%E6%96%B9%E6%B3%95%23&amp;extparam=%23%E5%8C%97%E8%88%AA%E8%A5%BF%E5%B7%A5%E5%A4%A7SLAM%E6%96%B0%E6%96%B9%E6%B3%95%23" data-hide=""><span class="surl-text">#北航西工大SLAM新方法#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23RGBD%E5%9C%BA%E6%99%AF%E4%B8%8BSLAM%E6%96%B0%E6%96%B9%E6%B3%95%23&amp;extparam=%23RGBD%E5%9C%BA%E6%99%AF%E4%B8%8BSLAM%E6%96%B0%E6%96%B9%E6%B3%95%23" data-hide=""><span class="surl-text">#RGBD场景下SLAM新方法#</span></a><br><br>GauS-SLAM：基于2D高斯面元的高精度实时建图方案。<br><br>针对RGB-D（D是depth深度）场景下的建图精度与效率问题，北京航空航天大学与西北工业大学的研究团队联合提出了一种全新的SLAM方案——GauS-SLAM，在实时性与几何还原度上都实现了突破。<br><br>它用的不是常规的点云，而是2D高斯surfels（面元），在效率和几何还原度上都做到了新高度。<br><br>核心创新点如下：<br><br>1、2D高斯surfels建模<br><br>传统SLAM系统多采用3D高斯球体来表示场景中的点云结构，但这种方式容易导致遮挡混叠与表面交叉干扰。GauS-SLAM采用二维的高斯surfels（面元），即“贴附在物体表面的小片段”，更贴合物体真实形状，有效避免跨表面误差，提高了场景还原的准确性。<br><br>2、多视角一致性的表面感知渲染<br><br>研究团队提出“表面感知深度渲染”（Surface-aware Depth Rendering）机制，显著提升了渲染质量：<br><br>- 深度值不再简单平均，而是依据深度方差自适应调整各surfels的权重；<br><br>- 对遮挡区域进行归一化处理，消除重影，提升图像清晰度；<br><br>- 引入βi混合权重，优化深度交叉处的融合效果，避免错位。<br><br>3、更稳更准的追踪策略<br><br>GauS-SLAM采用局部地图定位方式，提升了追踪稳定性：<br><br>- 仅选用当前可见surfels参与相机位姿估计，排除遮挡影响；<br><br>- 每隔几帧重置局部地图，防止累积误差导致漂移；<br><br>- 在高度不透明区域限定loss函数作用范围，减少不确定性干扰。<br><br>4、高效的地图构建机制<br><br>- 采用“边缘增长”（Edge Growth）策略，新surfels优先在已知结构边缘扩展；<br><br>- 借助“surfels附着”技术快速填充稀疏区域，加速建图过程；<br><br>- 即使在高密度复杂场景下，也能实现稳定实时运行。<br><br>实验表现方面，GauS-SLAM在Replica、ScanNet++、TUM-RGBD等主流数据集上的性能表现优异：<br><br>- 轨迹误差（ATE-RMSE）最低可达0.06cm，显著优于SplaTAM和GS-ICP；<br><br>- 深度L1误差控制在0.43cm，渲染图像PSNR高达40.25dB；<br><br>- 地图构建速度是SplaTAM的3倍以上，同时保持更高精度。<br><br>当然，GauS-SLAM也不是万能，目前在强光照变化、运动模糊下仍有不稳定表现，这是所有基于高斯表示的方法普遍问题。<br><br>未来，研究团队考虑引入图像自适应特征、或IMU（惯性测量单元）数据提升鲁棒性。<br><br>项目地址：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fgaus-slam.github.io%2F" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>论文：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.arxiv.org%2Fabs%2F2505.01934" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i19dctqj2sj31590q6h4o.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i19dcusp4mj30jx0co14h.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i19dd242skj314o0j67wh.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i19dcwc4pej30k0093450.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i19dd53repj31730lcb29.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i19dd5h89rj31460gr4n8.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+北京航空航天大学与西北工业大学联合提出新型SLAM方案GauS-SLAM，采用2D高斯面元（surfels）替代传统3D点云建模，显著提升RGB-D场景下的建图精度与效率。其创新包括：表面感知深度渲染优化遮挡处理，局部地图定位增强追踪稳定性，边缘增长策略加速建图。实验显示，在Replica等数据集上轨迹误差低至0.06cm，建图速度达同类3倍，PSNR达40.25dB。当前局限为强光/运动模糊下的稳定性不足，未来拟通过融合IMU数据改进。项目已开源，论文发布于arXiv。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-09T10:02:59Z
+- **目录日期**: 2025-05-09
