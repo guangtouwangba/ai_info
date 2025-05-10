@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-Noam Shazeer是Transformer八位核心作者中公认贡献最大者，被称为"总站在大模型技术C位的传奇男子"。作为谷歌资深研究员，他在Attention机制、MoE架构、Adafactor优化器等大模型关键技术中均有奠基性贡献。近期Meta研究员发现，其团队最新研究的3-token因果卷积等成果，Shazeer早在3年前就已涉猎。因其持续引领AI技术发展，被网友调侃"是不是时间旅行者"。从《Attention is All You Need》到Character.AI创业，Shazeer的成果深刻塑造了当代大模型的技术演进路径。
+Noam Shazeer（沙哥）是Transformer论文八位作者中公认贡献最大者，被誉为大模型技术领域的传奇人物。作为多项AI突破性技术的奠基人，他在《Attention is All You Need》（引用量超17万）、MoE架构、Adafactor优化算法、多查询注意力机制等核心成果中均扮演关键角色。近期Meta研究员朱泽园团队发布的《Physics of Language Models》进展中涉及的3-token因果卷积技术，也被发现沙哥团队三年前已有前瞻研究。其技术贡献贯穿当前主流模型架构发展，被网友调侃"像是时间旅行者"，业界认为我们正处在"Noam Shazeer时代"。（99字）
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-10T04:02:46Z
+- **保存时间**: 2025-05-10T05:03:02Z
 - **目录日期**: 2025-05-10
