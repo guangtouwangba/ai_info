@@ -6,46 +6,46 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，通过397个涵盖40类编程任务和44种语言的高质量样本，...
+**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试，包含397个高质量...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-10 22:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-10 22:04
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-10 22:04
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟平台。该平台整合了1万多个AI代理，模拟了500万...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-10 22:04
+**收录时间**: 2025-05-10 23:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献检索，拥...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-10 22:04
+**收录时间**: 2025-05-10 23:05
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 该论文综述了ALK基因双靶点抑制剂在非小细胞肺癌(NSCLC)治疗中的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-10 23:04
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-05-10 23:04
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统通过模拟1万多个AI代理及其500万次...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-10 23:04
 
 ---
 
@@ -54,88 +54,88 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-10 22:04
-
----
-
-### [#一个总站在大模型技术C位的传奇男子# 怎么老是你？？？（How old are you）这是最近网友不断对着Transformer八子之一的Noam Shazeer（为方便阅读，我们称他为沙...](2025-05-10/#一个总站在大模型技术C位的传奇男子#_怎么老是你？？？（How_old_are_you）这是最近网友不断对着Transformer八子之一的Noam_Shazeer（为方便阅读，我们称他为沙....md)
-
-**摘要**: Noam Shazeer（沙哥）是Transformer八位核心作者中公认贡献最大的一位，其研究贯穿当今大模型关键技术发展。作为《A...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pr9rYz7yR)
-**收录时间**: 2025-05-10 22:03
-
----
-
-### [#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷...](2025-05-10/#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷....md)
-
-**摘要**: AI正在冲击传统搜索市场格局。谷歌4月通过Safari的搜索量首次下降，广告点击增速降至2%的历史新低，分析师认为...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pr2KdCYPx)
-**收录时间**: 2025-05-10 22:03
-
----
-
-### [#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这...](2025-05-10/#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这....md)
-
-**摘要**: Enigma实验室发布了首个支持多人互动的开源AI游戏世界模型Multiverse，实现了双人赛车等实时互动场景。该模型采用...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pr2KRAVBY)
-**收录时间**: 2025-05-10 22:03
-
----
-
-### [#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频...](2025-05-10/#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI_Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频....md)
-
-**摘要**: Genspark公司推出AI Sheets工具，由前百度副总裁景鲲团队开发，主打"零门槛数据分析"功能。该产品通过自然语言交...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pr2wOFkxS)
-**收录时间**: 2025-05-10 22:03
+**收录时间**: 2025-05-10 23:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法（如Adam）的必要性。该方法改进带动量的随机梯...
+**摘要**: 该论文提出了一种名为SGD-SaI的新优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-10 22:03
+**收录时间**: 2025-05-10 23:04
 
 ---
 
-### [Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-10/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)
+### [#一个总站在大模型技术C位的传奇男子# 怎么老是你？？？（How old are you）这是最近网友不断对着Transformer八子之一的Noam Shazeer（为方便阅读，我们称他为沙...](2025-05-10/#一个总站在大模型技术C位的传奇男子#_怎么老是你？？？（How_old_are_you）这是最近网友不断对着Transformer八子之一的Noam_Shazeer（为方便阅读，我们称他为沙....md)
 
-**摘要**: 本文提出了一种基于扩散策略的人机协作方法，通过计算不确定性指标让机器人仅在必要时主动寻求人类协助，从...
+**摘要**: Noam Shazeer是Transformer论文八位作者中公认贡献最大者，被誉为"总站在大模型技术C位的传奇男子"。作为谷歌资深研...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.01876v2)
-**收录时间**: 2025-05-10 22:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pr9rYz7yR)
+**收录时间**: 2025-05-10 23:03
+
+---
+
+### [#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频...](2025-05-10/#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI_Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频....md)
+
+**摘要**: Genspark公司推出的AI Sheets是一款革命性数据分析工具，由前百度副总裁景鲲团队开发。该产品通过自然语言交互实...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pr2wOFkxS)
+**收录时间**: 2025-05-10 23:03
+
+---
+
+### [#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这...](2025-05-10/#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这....md)
+
+**摘要**: Enigma实验室发布了全球首个支持多人互动的AI游戏世界模型Multiverse，采用开源架构实现双人赛车游戏。该模型通过...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pr2KRAVBY)
+**收录时间**: 2025-05-10 23:03
+
+---
+
+### [#黄仁勋称中国AI市场3年内达500亿美元# 黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走...](2025-05-10/#黄仁勋称中国AI市场3年内达500亿美元#_黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走....md)
+
+**摘要**: 英伟达CEO黄仁勋预测中国AI市场规模将在3年内达到500亿美元。他在访谈中回应"AI抢工作"争议，强调不是AI夺走岗位...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pr9LpBcf8)
+**收录时间**: 2025-05-10 23:03
+
+---
+
+### [#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷...](2025-05-10/#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷....md)
+
+**摘要**: AI正在冲击传统搜索引擎市场。谷歌4月通过Safari的搜索量首次下降，广告点击增速降至2%的历史新低，分析师认为A...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pr2KdCYPx)
+**收录时间**: 2025-05-10 23:03
 
 ---
 
 ### [#GPT和Transformer背后的男人##大模型幕后的时间旅行者#网友最近刷屏：“怎么又是你？” 说的是Noam Shazeer，Transformer八子之一、Character.AI创始人、现任谷...](2025-05-10/#GPT和Transformer背后的男人##大模型幕后的时间旅行者#网友最近刷屏：“怎么又是你？”_说的是Noam_Shazeer，Transformer八子之一、Character.AI创始人、现任谷....md)
 
-**摘要**: Noam Shazeer是Transformer架构核心贡献者之一，现为谷歌Gemini技术主管。作为AI领域关键人物，他深度参与了Transformer论...
+**摘要**: Noam Shazeer是Transformer架构核心贡献者、谷歌Gemini技术主管，被誉为大模型领域的"时间旅行者"。作为Transformer论文第...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pr9WeEUWW)
-**收录时间**: 2025-05-10 22:02
+**收录时间**: 2025-05-10 23:02
 
 ---
 
-### [#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：...](2025-05-10/#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：....md)
+### [Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-10/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)
 
-**摘要**: 傅利叶智能在十周年庆典上宣布聚焦"以人为本的具身智能"，推出具备多模态交互能力的人形机器人GR系列。公司...
+**摘要**: 本文提出一种基于扩散策略的人机协作方法，使机器人仅在必要时主动寻求人工协助，减少持续人工监控的需求。...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Prd6X53wx)
-**收录时间**: 2025-05-10 22:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.01876v2)
+**收录时间**: 2025-05-10 23:02
 
 ---
 
 ### [#阶跃星辰坚持基础大模型开发##多模态才是AGI入场券#当大模型赛道中不少玩家明确表示放弃基础大模型研发，心思放在更聚焦的方向上时，阶跃星辰站出来——就像这...](2025-05-10/#阶跃星辰坚持基础大模型开发##多模态才是AGI入场券#当大模型赛道中不少玩家明确表示放弃基础大模型研发，心思放在更聚焦的方向上时，阶跃星辰站出来——就像这....md)
 
-**摘要**: 阶跃星辰坚持基础大模型研发，创始人姜大昕认为AI技术仍处于快速发展阶段，基础模型决定应用上限，而应用为...
+**摘要**: 阶跃星辰坚持基础大模型研发，认为行业技术仍处于快速上升期，放弃基础模型可能错失主流趋势。CEO姜大昕指出...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Prd1kuFHx)
-**收录时间**: 2025-05-10 22:02
+**收录时间**: 2025-05-10 23:02
 
 ---
 
@@ -144,7 +144,25 @@
 **摘要**: 清华大学、复旦大学和香港科技大学联合发布了首个奖励模型评分基准RM-Bench，解决了AI奖励模型"重形式轻内容"的...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pra1Ky1yZ)
-**收录时间**: 2025-05-10 22:02
+**收录时间**: 2025-05-10 23:02
+
+---
+
+### [MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](2025-05-10/MultiMind-_Enhancing_Werewolf_Agents_with_Multimodal_Reasoning_and_Theory_of_Mind.md)
+
+**摘要**: 该研究提出了MultiMind框架，首次将多模态信息整合到社交推理游戏（如《一夜终极狼人杀》）的LLM智能体中。该框...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.18039v2)
+**收录时间**: 2025-05-10 23:02
+
+---
+
+### [#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：...](2025-05-10/#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：....md)
+
+**摘要**: 傅利叶智能在十周年庆典上宣布聚焦"以人为本的具身智能"，推出具备多模态交互、运动控制和任务规划能力的人...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Prd6X53wx)
+**收录时间**: 2025-05-10 23:02
 
 ---
 
@@ -153,34 +171,16 @@
 **摘要**: Qwen最新推出"AI前端工程师"功能，用户只需一句话描述即可自动生成完整的React框架网页，包含HTML/CSS/JavaScript代码...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pr9ZQldjD)
-**收录时间**: 2025-05-10 22:02
-
----
-
-### [#黄仁勋称中国AI市场3年内达500亿美元# 黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走...](2025-05-10/#黄仁勋称中国AI市场3年内达500亿美元#_黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走....md)
-
-**摘要**: 英伟达CEO黄仁勋预测中国AI市场规模将在3年内达到500亿美元。他在访谈中回应"AI抢工作"争议，表示并非AI夺走岗位...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pr9LpBcf8)
-**收录时间**: 2025-05-10 22:02
+**收录时间**: 2025-05-10 23:02
 
 ---
 
 ### [RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](2025-05-10/RL-DAUNCE-_Reinforcement_Learning-Driven_Data_Assimilation_with_Uncertainty-Aware_Constrained_Ensembles.md)
 
-**摘要**: 本文提出了一种基于强化学习的数据同化新方法RL-DAUNCE，通过三个创新点提升传统数据同化：1）采用类似集合成...
+**摘要**: 研究人员开发了名为RL-DAUNCE的新型强化学习方法，用于改进数据同化过程。该方法通过三个创新点：1) 采用类似传...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.05452v1)
-**收录时间**: 2025-05-10 22:01
-
----
-
-### [Robustly optimal dynamics for active matter reservoir computing](2025-05-10/Robustly_optimal_dynamics_for_active_matter_reservoir_computing.md)
-
-**摘要**: 这项研究探讨了活性物质在储备池计算（RC）范式中的信息处理能力，通过模拟外部驱动的混沌信号预测模型，发...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.05420v1)
-**收录时间**: 2025-05-10 22:01
+**收录时间**: 2025-05-10 23:01
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-10 (35篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-10 22:05 
-  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，通过397个涵盖40类编程任务和44种语言的高质量样本，...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-10 23:05 
+  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试，包含397个高质量...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-10 22:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-10 23:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-10 22:04 
-  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-10 23:04 
+  该论文综述了ALK基因双靶点抑制剂在非小细胞肺癌(NSCLC)治疗中的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-10 22:04 
-  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟平台。该平台整合了1万多个AI代理，模拟了500万...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-10 23:04 
+  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-10 22:04 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献检索，拥...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-10 23:04 
+  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统通过模拟1万多个AI代理及其500万次...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-10 22:04 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-10 23:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#一个总站在大模型技术C位的传奇男子# 怎么老是你？？？（How old are you）这是最近网友不断对着Transformer八子之一的Noam Shazeer（为方便阅读，我们称他为沙...](2025-05-10/#一个总站在大模型技术C位的传奇男子#_怎么老是你？？？（How_old_are_you）这是最近网友不断对着Transformer八子之一的Noam_Shazeer（为方便阅读，我们称他为沙....md)** | [原文](https://weibo.com/6105753431/Pr9rYz7yR) | 时间: 2025-05-10 22:03 
-  Noam Shazeer（沙哥）是Transformer八位核心作者中公认贡献最大的一位，其研究贯穿当今大模型关键技术发展。作为《A...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-10 23:04 
+  该论文提出了一种名为SGD-SaI的新优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI...
 
-- **[#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷...](2025-05-10/#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷....md)** | [原文](https://weibo.com/6105753431/Pr2KdCYPx) | 时间: 2025-05-10 22:03 
-  AI正在冲击传统搜索市场格局。谷歌4月通过Safari的搜索量首次下降，广告点击增速降至2%的历史新低，分析师认为...
+- **[#一个总站在大模型技术C位的传奇男子# 怎么老是你？？？（How old are you）这是最近网友不断对着Transformer八子之一的Noam Shazeer（为方便阅读，我们称他为沙...](2025-05-10/#一个总站在大模型技术C位的传奇男子#_怎么老是你？？？（How_old_are_you）这是最近网友不断对着Transformer八子之一的Noam_Shazeer（为方便阅读，我们称他为沙....md)** | [原文](https://weibo.com/6105753431/Pr9rYz7yR) | 时间: 2025-05-10 23:03 
+  Noam Shazeer是Transformer论文八位作者中公认贡献最大者，被誉为"总站在大模型技术C位的传奇男子"。作为谷歌资深研...
 
-- **[#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这...](2025-05-10/#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这....md)** | [原文](https://weibo.com/6105753431/Pr2KRAVBY) | 时间: 2025-05-10 22:03 
-  Enigma实验室发布了首个支持多人互动的开源AI游戏世界模型Multiverse，实现了双人赛车等实时互动场景。该模型采用...
+- **[#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频...](2025-05-10/#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI_Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频....md)** | [原文](https://weibo.com/6105753431/Pr2wOFkxS) | 时间: 2025-05-10 23:03 
+  Genspark公司推出的AI Sheets是一款革命性数据分析工具，由前百度副总裁景鲲团队开发。该产品通过自然语言交互实...
 
-- **[#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频...](2025-05-10/#AI数据分析无需SQL和Excel语法##景鲲初创公司推出AI个人数据分析师#Genspark公司推出AI_Sheets，不用会SQL语法、无需写Excel函数，AI帮你搞定数据分析。【视频....md)** | [原文](https://weibo.com/6105753431/Pr2wOFkxS) | 时间: 2025-05-10 22:03 
-  Genspark公司推出AI Sheets工具，由前百度副总裁景鲲团队开发，主打"零门槛数据分析"功能。该产品通过自然语言交...
+- **[#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这...](2025-05-10/#AI可以生成多人游戏了##首个AI多人游戏诞生#加速、漂移、内线超车……你敢相信，这是AI生成的多人游戏？【视频1】就在昨晚，Enigma实验室发布了Multiverse，这....md)** | [原文](https://weibo.com/6105753431/Pr2KRAVBY) | 时间: 2025-05-10 23:03 
+  Enigma实验室发布了全球首个支持多人互动的AI游戏世界模型Multiverse，采用开源架构实现双人赛车游戏。该模型通过...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-10 22:03 
-  该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法（如Adam）的必要性。该方法改进带动量的随机梯...
+- **[#黄仁勋称中国AI市场3年内达500亿美元# 黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走...](2025-05-10/#黄仁勋称中国AI市场3年内达500亿美元#_黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走....md)** | [原文](https://weibo.com/6105753431/Pr9LpBcf8) | 时间: 2025-05-10 23:03 
+  英伟达CEO黄仁勋预测中国AI市场规模将在3年内达到500亿美元。他在访谈中回应"AI抢工作"争议，强调不是AI夺走岗位...
 
-- **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-10/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)** | [原文](http://arxiv.org/abs/2503.01876v2) | 时间: 2025-05-10 22:02 
-  本文提出了一种基于扩散策略的人机协作方法，通过计算不确定性指标让机器人仅在必要时主动寻求人类协助，从...
+- **[#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷...](2025-05-10/#谷歌搜索被AI取代了吗##AI冲击搜索市场格局#AI时代，你还用传统搜索引擎吗？这周谷歌的股价也是经历了一番剧震，只因为苹果高管在谷歌反垄断案中爆了个猛料：谷....md)** | [原文](https://weibo.com/6105753431/Pr2KdCYPx) | 时间: 2025-05-10 23:03 
+  AI正在冲击传统搜索引擎市场。谷歌4月通过Safari的搜索量首次下降，广告点击增速降至2%的历史新低，分析师认为A...
 
-- **[#GPT和Transformer背后的男人##大模型幕后的时间旅行者#网友最近刷屏：“怎么又是你？” 说的是Noam Shazeer，Transformer八子之一、Character.AI创始人、现任谷...](2025-05-10/#GPT和Transformer背后的男人##大模型幕后的时间旅行者#网友最近刷屏：“怎么又是你？”_说的是Noam_Shazeer，Transformer八子之一、Character.AI创始人、现任谷....md)** | [原文](https://weibo.com/6105753431/Pr9WeEUWW) | 时间: 2025-05-10 22:02 
-  Noam Shazeer是Transformer架构核心贡献者之一，现为谷歌Gemini技术主管。作为AI领域关键人物，他深度参与了Transformer论...
+- **[#GPT和Transformer背后的男人##大模型幕后的时间旅行者#网友最近刷屏：“怎么又是你？” 说的是Noam Shazeer，Transformer八子之一、Character.AI创始人、现任谷...](2025-05-10/#GPT和Transformer背后的男人##大模型幕后的时间旅行者#网友最近刷屏：“怎么又是你？”_说的是Noam_Shazeer，Transformer八子之一、Character.AI创始人、现任谷....md)** | [原文](https://weibo.com/6105753431/Pr9WeEUWW) | 时间: 2025-05-10 23:02 
+  Noam Shazeer是Transformer架构核心贡献者、谷歌Gemini技术主管，被誉为大模型领域的"时间旅行者"。作为Transformer论文第...
 
-- **[#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：...](2025-05-10/#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：....md)** | [原文](https://weibo.com/6105753431/Prd6X53wx) | 时间: 2025-05-10 22:02 
-  傅利叶智能在十周年庆典上宣布聚焦"以人为本的具身智能"，推出具备多模态交互能力的人形机器人GR系列。公司...
+- **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](2025-05-10/Uncertainty_Comes_for_Free-_Human-in-the-Loop_Policies_with_Diffusion_Models.md)** | [原文](http://arxiv.org/abs/2503.01876v2) | 时间: 2025-05-10 23:02 
+  本文提出一种基于扩散策略的人机协作方法，使机器人仅在必要时主动寻求人工协助，减少持续人工监控的需求。...
 
-- **[#阶跃星辰坚持基础大模型开发##多模态才是AGI入场券#当大模型赛道中不少玩家明确表示放弃基础大模型研发，心思放在更聚焦的方向上时，阶跃星辰站出来——就像这...](2025-05-10/#阶跃星辰坚持基础大模型开发##多模态才是AGI入场券#当大模型赛道中不少玩家明确表示放弃基础大模型研发，心思放在更聚焦的方向上时，阶跃星辰站出来——就像这....md)** | [原文](https://weibo.com/6105753431/Prd1kuFHx) | 时间: 2025-05-10 22:02 
-  阶跃星辰坚持基础大模型研发，创始人姜大昕认为AI技术仍处于快速发展阶段，基础模型决定应用上限，而应用为...
+- **[#阶跃星辰坚持基础大模型开发##多模态才是AGI入场券#当大模型赛道中不少玩家明确表示放弃基础大模型研发，心思放在更聚焦的方向上时，阶跃星辰站出来——就像这...](2025-05-10/#阶跃星辰坚持基础大模型开发##多模态才是AGI入场券#当大模型赛道中不少玩家明确表示放弃基础大模型研发，心思放在更聚焦的方向上时，阶跃星辰站出来——就像这....md)** | [原文](https://weibo.com/6105753431/Prd1kuFHx) | 时间: 2025-05-10 23:02 
+  阶跃星辰坚持基础大模型研发，认为行业技术仍处于快速上升期，放弃基础模型可能错失主流趋势。CEO姜大昕指出...
 
-- **[#首个奖励模型评分基准##清华复旦港科大联合攻克AI评委偏科#奖励模型，是大语言模型进步背后的“隐形评委”，但这个评委一直有个老毛病——看脸打分，内容错得离...](2025-05-10/#首个奖励模型评分基准##清华复旦港科大联合攻克AI评委偏科#奖励模型，是大语言模型进步背后的“隐形评委”，但这个评委一直有个老毛病——看脸打分，内容错得离....md)** | [原文](https://weibo.com/6105753431/Pra1Ky1yZ) | 时间: 2025-05-10 22:02 
+- **[#首个奖励模型评分基准##清华复旦港科大联合攻克AI评委偏科#奖励模型，是大语言模型进步背后的“隐形评委”，但这个评委一直有个老毛病——看脸打分，内容错得离...](2025-05-10/#首个奖励模型评分基准##清华复旦港科大联合攻克AI评委偏科#奖励模型，是大语言模型进步背后的“隐形评委”，但这个评委一直有个老毛病——看脸打分，内容错得离....md)** | [原文](https://weibo.com/6105753431/Pra1Ky1yZ) | 时间: 2025-05-10 23:02 
   清华大学、复旦大学和香港科技大学联合发布了首个奖励模型评分基准RM-Bench，解决了AI奖励模型"重形式轻内容"的...
 
-- **[#一句话开发网页应用真的来了##Qwen上线AI前端工程师功能#Qwen上线的“AI前端工程师”功能，一句话就能生成完整网页，还默认用的是React框架，布局美观、特效齐...](2025-05-10/#一句话开发网页应用真的来了##Qwen上线AI前端工程师功能#Qwen上线的“AI前端工程师”功能，一句话就能生成完整网页，还默认用的是React框架，布局美观、特效齐....md)** | [原文](https://weibo.com/6105753431/Pr9ZQldjD) | 时间: 2025-05-10 22:02 
+- **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](2025-05-10/MultiMind-_Enhancing_Werewolf_Agents_with_Multimodal_Reasoning_and_Theory_of_Mind.md)** | [原文](http://arxiv.org/abs/2504.18039v2) | 时间: 2025-05-10 23:02 
+  该研究提出了MultiMind框架，首次将多模态信息整合到社交推理游戏（如《一夜终极狼人杀》）的LLM智能体中。该框...
+
+- **[#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：...](2025-05-10/#机器人当起峰会主持人##傅利叶要做以人为本的具身智能#打工人打工魂，这年头机器人都开始当主持“人”了。【视频1】扭头一看，台下还有个小的机器人在举气球：....md)** | [原文](https://weibo.com/6105753431/Prd6X53wx) | 时间: 2025-05-10 23:02 
+  傅利叶智能在十周年庆典上宣布聚焦"以人为本的具身智能"，推出具备多模态交互、运动控制和任务规划能力的人...
+
+- **[#一句话开发网页应用真的来了##Qwen上线AI前端工程师功能#Qwen上线的“AI前端工程师”功能，一句话就能生成完整网页，还默认用的是React框架，布局美观、特效齐...](2025-05-10/#一句话开发网页应用真的来了##Qwen上线AI前端工程师功能#Qwen上线的“AI前端工程师”功能，一句话就能生成完整网页，还默认用的是React框架，布局美观、特效齐....md)** | [原文](https://weibo.com/6105753431/Pr9ZQldjD) | 时间: 2025-05-10 23:02 
   Qwen最新推出"AI前端工程师"功能，用户只需一句话描述即可自动生成完整的React框架网页，包含HTML/CSS/JavaScript代码...
 
-- **[#黄仁勋称中国AI市场3年内达500亿美元# 黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走...](2025-05-10/#黄仁勋称中国AI市场3年内达500亿美元#_黄仁勋预测中国AI市场3年内达500亿美元！老黄还在公开访谈中聊到AI如何拯救旧金山，直面“AI抢工作”的争议：不是AI夺走....md)** | [原文](https://weibo.com/6105753431/Pr9LpBcf8) | 时间: 2025-05-10 22:02 
-  英伟达CEO黄仁勋预测中国AI市场规模将在3年内达到500亿美元。他在访谈中回应"AI抢工作"争议，表示并非AI夺走岗位...
+- **[RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](2025-05-10/RL-DAUNCE-_Reinforcement_Learning-Driven_Data_Assimilation_with_Uncertainty-Aware_Constrained_Ensembles.md)** | [原文](http://arxiv.org/abs/2505.05452v1) | 时间: 2025-05-10 23:01 
+  研究人员开发了名为RL-DAUNCE的新型强化学习方法，用于改进数据同化过程。该方法通过三个创新点：1) 采用类似传...
 
-- **[RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](2025-05-10/RL-DAUNCE-_Reinforcement_Learning-Driven_Data_Assimilation_with_Uncertainty-Aware_Constrained_Ensembles.md)** | [原文](http://arxiv.org/abs/2505.05452v1) | 时间: 2025-05-10 22:01 
-  本文提出了一种基于强化学习的数据同化新方法RL-DAUNCE，通过三个创新点提升传统数据同化：1）采用类似集合成...
+- **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](2025-05-10/EcoAgent-_An_Efficient_Edge-Cloud_Collaborative_Multi-Agent_Framework_for_Mobile_Automation.md)** | [原文](http://arxiv.org/abs/2505.05440v1) | 时间: 2025-05-10 23:01 
+  EcoAgent是一个边缘-云协作的多智能体框架，旨在解决基于云的大语言模型(M)LLMs的高延迟和高成本问题。它包含一...
 
-- **[Robustly optimal dynamics for active matter reservoir computing](2025-05-10/Robustly_optimal_dynamics_for_active_matter_reservoir_computing.md)** | [原文](http://arxiv.org/abs/2505.05420v1) | 时间: 2025-05-10 22:01 
-  这项研究探讨了活性物质在储备池计算（RC）范式中的信息处理能力，通过模拟外部驱动的混沌信号预测模型，发...
+- **[Conversational Process Model Redesign](2025-05-10/Conversational_Process_Model_Redesign.md)** | [原文](http://arxiv.org/abs/2505.05453v1) | 时间: 2025-05-10 23:01 
+  近期研究表明，大型语言模型（LLM）可增强业务流程管理系统（BPM），支持用户通过自然语言交互迭代优化流程模...
 
-- **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](2025-05-10/MultiMind-_Enhancing_Werewolf_Agents_with_Multimodal_Reasoning_and_Theory_of_Mind.md)** | [原文](http://arxiv.org/abs/2504.18039v2) | 时间: 2025-05-10 22:01 
-  本文介绍了MultiMind框架，首次将多模态信息整合到社交推理游戏（如《一夜终极狼人杀》）的AI代理中。该框架通...
+- **[SITE: towards Spatial Intelligence Thorough Evaluation](2025-05-10/SITE-_towards_Spatial_Intelligence_Thorough_Evaluation.md)** | [原文](http://arxiv.org/abs/2505.05456v1) | 时间: 2025-05-10 23:01 
+  研究人员开发了SITE基准数据集，用于全面评估大型视觉语言模型的空间智能(SI)。该数据集采用多选视觉问答形式...
 
-- **[Conversational Process Model Redesign](2025-05-10/Conversational_Process_Model_Redesign.md)** | [原文](http://arxiv.org/abs/2505.05453v1) | 时间: 2025-05-10 22:01 
-  随着大语言模型(LLM)的发展，AI增强的业务流程管理系统变得可行。现有研究多关注单次提示执行，而本文提出基...
+- **[Empowering Scientific Workflows with Federated Agents](2025-05-10/Empowering_Scientific_Workflows_with_Federated_Agents.md)** | [原文](http://arxiv.org/abs/2505.05428v1) | 时间: 2025-05-10 23:01 
+  本文介绍了Academy，一种模块化、可扩展的中间件，旨在将自主智能体部署到联邦研究生态系统中（包括高性能计...
 
-- **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](2025-05-10/EcoAgent-_An_Efficient_Edge-Cloud_Collaborative_Multi-Agent_Framework_for_Mobile_Automation.md)** | [原文](http://arxiv.org/abs/2505.05440v1) | 时间: 2025-05-10 22:01 
-  EcoAgent是一个边缘-云协作的多智能体框架，旨在解决基于云端大语言模型（M）LLM的高延迟、高成本问题。它通过...
+- **[Robustly optimal dynamics for active matter reservoir computing](2025-05-10/Robustly_optimal_dynamics_for_active_matter_reservoir_computing.md)** | [原文](http://arxiv.org/abs/2505.05420v1) | 时间: 2025-05-10 23:01 
+  该研究探讨了活性物质在储层计算（RC）范式中的信息处理能力，通过模拟外部驱动的混沌信号预测模型，发现了...
 
-- **[Empowering Scientific Workflows with Federated Agents](2025-05-10/Empowering_Scientific_Workflows_with_Federated_Agents.md)** | [原文](http://arxiv.org/abs/2505.05428v1) | 时间: 2025-05-10 22:01 
-  本文介绍了Academy，一个模块化、可扩展的中间件，旨在将自主智能体部署到联邦研究生态系统中，包括高性能计...
+- **[clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](2025-05-10/clem-todd-_A_Framework_for_the_Systematic_Benchmarking_of_LLM-Based_Task-Oriented_Dialogue_System_Realisations.md)** | [原文](http://arxiv.org/abs/2505.05445v1) | 时间: 2025-05-10 23:01 
+  本文提出了clem todd框架，用于在统一条件下系统评估任务导向对话系统。该框架支持灵活组合不同用户模拟器和对...
 
-- **[SITE: towards Spatial Intelligence Thorough Evaluation](2025-05-10/SITE-_towards_Spatial_Intelligence_Thorough_Evaluation.md)** | [原文](http://arxiv.org/abs/2505.05456v1) | 时间: 2025-05-10 22:01 
-  研究人员提出了SITE基准数据集，用于全面评估大型视觉语言模型的空间智能(SI)。该数据集采用多选题形式，涵盖...
-
-- **[clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](2025-05-10/clem-todd-_A_Framework_for_the_Systematic_Benchmarking_of_LLM-Based_Task-Oriented_Dialogue_System_Realisations.md)** | [原文](http://arxiv.org/abs/2505.05445v1) | 时间: 2025-05-10 22:01 
-  本文提出了clem todd框架，用于在统一条件下系统评估任务型对话系统。该框架支持灵活组合不同的用户模拟器和对...
-
-- **[3D Scene Generation: A Survey](2025-05-10/3D_Scene_Generation-_A_Survey.md)** | [原文](http://arxiv.org/abs/2505.05474v1) | 时间: 2025-05-10 22:00 
-  3D场景生成技术旨在创建具有空间结构、语义信息和逼真视觉效果的环境，应用于沉浸式媒体、机器人、自动驾驶...
+- **[3D Scene Generation: A Survey](2025-05-10/3D_Scene_Generation-_A_Survey.md)** | [原文](http://arxiv.org/abs/2505.05474v1) | 时间: 2025-05-10 23:00 
+  3D场景生成旨在创建具有空间结构、语义信息和真实感的环境，应用于沉浸式媒体、机器人、自动驾驶等领域。早...
 
 - **[#15万引用大牛重掌Meta研究院##MetaFAIR创始人回归#Meta FAIR新负责人上任，联合创始人回归：Rob Fergus，早年间与LeCun等共同创立FAIR，之后在DeepMind领导纽约...](2025-05-10/#15万引用大牛重掌Meta研究院##MetaFAIR创始人回归#Meta_FAIR新负责人上任，联合创始人回归：Rob_Fergus，早年间与LeCun等共同创立FAIR，之后在DeepMind领导纽约....md)** | [原文](https://weibo.com/6105753431/Pr2tf6EnD) | 时间: 2025-05-10 12:04 
   Meta FAIR实验室迎来新负责人Rob Fergus，这位联合创始人曾在DeepMind领导纽约团队，现回归Meta负责GenAI项目。作为AI领...
