@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-Noam Shazeer是Transformer架构核心贡献者、谷歌Gemini技术负责人，被誉为大模型领域的"时间旅行者"。作为Transformer论文第八作者，他深度参与了MoE架构演进（Sparsely-Gated MoE/GShard/Switch Transformer等），提出Adafactor优化器、Multi Query Attention等关键技术。这位IMO满分数学天才从谷歌第200号员工成长为AI领军人物，创立的Character.AI被谷歌27亿美元收购。他2017年就预言"语言模型将主导全球算力"，其技术预见性持续影响行业发展，网友评价"我们生活在Noam Shazeer时代"。（99字）
+Noam Shazeer是Transformer架构核心贡献者、谷歌Gemini技术主管，被誉为大模型领域的"时间旅行者"。作为Transformer论文第八作者但贡献最大，他主导了MoE架构演进（Sparsely-Gated MoE/GShard/Switch Transformer），发明Adafactor优化器、Multi Query Attention等关键技术。3岁自学算术，IMO满分，谷歌第200号员工，其2017年预言的"语言模型将主导全球算力"已成现实。从谷歌离职创立Character.AI后被27亿美元收购回归，持续引领AI技术发展，被网友称为"活在Noam Shazeer时代"的传奇人物。（99字）
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-11T03:22:13Z
+- **保存时间**: 2025-05-11T04:04:53Z
 - **目录日期**: 2025-05-11
