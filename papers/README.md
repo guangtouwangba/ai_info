@@ -4,183 +4,183 @@
 
 ## 最新内容
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-13/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-13 12:06
-
----
-
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-13/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 这篇论文研究了代码生成大型语言模型(codeLLMs)与人类偏好对齐的问题。作者提出了CodeArena基准测试，包含397个高...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-13 12:06
-
----
-
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-13/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
+**摘要**: 该论文提出了NSA（Native Sparse Attention）稀疏注意力机制，旨在降低传统注意力机制处理长文本的高计算成本。NSA通...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-13 12:05
+**收录时间**: 2025-05-13 13:15
 
 ---
 
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-13/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-13/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: 本文综述了针对非小细胞肺癌（NSCLC）ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-13 12:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-05-13 13:15
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-13/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 该研究介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统，能够模拟1万多个代理的社会互动（500万次...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-13 12:05
+**收录时间**: 2025-05-13 13:15
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-13/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(包含397个样本，覆...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-05-13 13:15
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-13/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync，一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示，直接建模音频-...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-13 12:05
+**收录时间**: 2025-05-13 13:15
 
 ---
 
 ### [#Perplexity估值飙升至1008亿##Perplexity开发AI浏览器硬刚谷歌#AI搜索引擎公司Perplexity新融资消息曝光！据金融时报消息，该公司正接近完成新一轮5亿美元融资...](2025-05-13/#Perplexity估值飙升至1008亿##Perplexity开发AI浏览器硬刚谷歌#AI搜索引擎公司Perplexity新融资消息曝光！据金融时报消息，该公司正接近完成新一轮5亿美元融资....md)
 
-**摘要**: AI搜索引擎公司Perplexity即将完成5亿美元融资，估值飙升至140亿美元（约1008亿人民币），资金将用于开发AI浏览器Co...
+**摘要**: AI搜索引擎公司Perplexity估值飙升至140亿美元（约1008亿人民币），正进行5亿美元融资，由Accel领投。资金将用于开...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrE7sb1JN)
-**收录时间**: 2025-05-13 12:04
+**收录时间**: 2025-05-13 13:14
 
 ---
 
 ### [#AI精准预测恒星爆发##国家天文台与紫东太初推出天文大模型#还记得刘慈欣在《全频带阻塞干扰》中描绘的耀斑爆发吗？现在科幻照进现实，人类踏出了理解耀斑的重要...](2025-05-13/#AI精准预测恒星爆发##国家天文台与紫东太初推出天文大模型#还记得刘慈欣在《全频带阻塞干扰》中描绘的耀斑爆发吗？现在科幻照进现实，人类踏出了理解耀斑的重要....md)
 
-**摘要**: 中国科学院国家天文台与紫东太初团队合作开发了天文耀发预测大模型FLARE，该模型能精准预测恒星耀发事件。FLAR...
+**摘要**: 中国科学院国家天文台与紫东太初团队合作开发了天文耀发预测大模型FLARE，能精准预测恒星耀发事件。该模型通...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrDZgurQq)
-**收录时间**: 2025-05-13 12:04
+**收录时间**: 2025-05-13 13:14
 
 ---
 
-### [#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分...](2025-05-13/#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-13/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 全球首个分布式强化学习(RL)训练模型INTELLECT-2发布，通过整合全球闲置算力完成训练，成本大幅降低。该模型性能...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrE97wTbG)
-**收录时间**: 2025-05-13 12:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-13 13:14
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-13/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法是对带动量的随机梯度...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-13 12:04
-
----
-
-### [#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino Falcke、量子物...](2025-05-13/#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino_Falcke、量子物....md)
-
-**摘要**: 荷兰科学家团队在《宇宙学与天体粒子物理学杂志》发表研究，发现宇宙衰亡速度远超预期。通过扩展霍金辐射理...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrE7E4Hx6)
-**收录时间**: 2025-05-13 12:04
-
----
-
-### [#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch AI发布的分析指出：如果当前“每3-5个月推理速度提...](2025-05-13/#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch_AI发布的分析指出：如果当前“每3-5个月推理速度提....md)
-
-**摘要**: Epoch AI最新研究指出，当前AI推理模型（如OpenAI的o1/o3系列）的性能提升依赖算力快速扩张（每3-5个月提升10倍），...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrEaIAFqH)
-**收录时间**: 2025-05-13 12:03
+**收录时间**: 2025-05-13 13:14
 
 ---
 
 ### [#OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc...](2025-05-13/#OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc....md)
 
-**摘要**: OpenAI发布医疗评估基准HealthBench，包含5000组对话和48562个评估标准，测试AI在急诊、专业沟通等七大医疗场景的表...
+**摘要**: OpenAI发布医疗评估基准HealthBench，包含5000组对话和48562个评估标准，测试AI在急诊、专业沟通等7大医疗场景的表现...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrE9uiays)
-**收录时间**: 2025-05-13 12:03
+**收录时间**: 2025-05-13 13:13
 
 ---
 
-### [#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding...](2025-05-13/#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding....md)
+### [#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch AI发布的分析指出：如果当前“每3-5个月推理速度提...](2025-05-13/#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch_AI发布的分析指出：如果当前“每3-5个月推理速度提....md)
 
-**摘要**: Embedding（嵌入向量）是将文本转换为固定维度的数字数组，代表文本在高维语义空间中的坐标。相似文本的向量距...
+**摘要**: Epoch AI最新研究指出，当前AI推理模型（如OpenAI的o1/o3）仍处于算力扩展红利期，性能随训练投入呈对数增长。但若...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrEdUAyFG)
-**收录时间**: 2025-05-13 12:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrEaIAFqH)
+**收录时间**: 2025-05-13 13:13
+
+---
+
+### [#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino Falcke、量子物...](2025-05-13/#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino_Falcke、量子物....md)
+
+**摘要**: 荷兰科学家团队在《宇宙学与天体粒子物理学杂志》发表最新研究，发现宇宙衰亡速度远超预期。通过扩展霍金辐...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrE7E4Hx6)
+**收录时间**: 2025-05-13 13:13
+
+---
+
+### [#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分...](2025-05-13/#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分....md)
+
+**摘要**: 全球首个分布式强化学习(RL)训练模型INTELLECT-2发布，通过整合全球闲置算力完成训练，成本大幅降低。其性能媲美...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrE97wTbG)
+**收录时间**: 2025-05-13 13:13
 
 ---
 
 ### [#AI大佬教你如何中顶会##DeepMind大佬论文写作指南来了#NeurIPS投稿数量破纪录了！Deadline还有不到一个月，如何让论文更容易中？大佬的论文撰写指南它来了。来...](2025-05-13/#AI大佬教你如何中顶会##DeepMind大佬论文写作指南来了#NeurIPS投稿数量破纪录了！Deadline还有不到一个月，如何让论文更容易中？大佬的论文撰写指南它来了。来....md)
 
-**摘要**: 这篇指南总结了Google DeepMind研究员Neel Nanda的论文写作经验，强调优秀论文需要讲述一个严谨的技术故事。关键要...
+**摘要**: DeepMind研究员Neel Nanda发布机器学习论文写作指南，强调优秀论文应讲述基于证据的技术故事。关键要素包括：提炼...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrEdtpvUy)
-**收录时间**: 2025-05-13 12:03
+**收录时间**: 2025-05-13 13:12
 
 ---
 
-### [#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天...](2025-05-13/#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天....md)
+### [WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Martingales](2025-05-13/WATCH-_Adaptive_Monitoring_for_AI_Deployments_via_Weighted-Conformal_Martingales.md)
 
-**摘要**: 任天堂更新Switch用户协议，声明拥有远程封锁设备技术。若发现玩家破解主机、运行自制软件或提取ROM，可远程使...
+**摘要**: 本文提出了一种加权广义符合性测试鞅(WCTM)方法，用于高风险AI/ML系统的持续监控。该方法突破了现有非参数变点...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrEaXBx7R)
-**收录时间**: 2025-05-13 12:03
-
----
-
-### [Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models](2025-05-13/Prompt_to_Polyp-_Medical_Text-Conditioned_Image_Synthesis_with_Diffusion_Models.md)
-
-**摘要**: 本研究比较了两种医学文本生成图像的方法：微调大型预训练模型（FLUX、Kandinsky）与训练小型专用模型（MSDM）。...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.05573v2)
-**收录时间**: 2025-05-13 12:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.04608v2)
+**收录时间**: 2025-05-13 13:12
 
 ---
 
-### [Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](2025-05-13/Agent_RL_Scaling_Law-_Agent_RL_with_Spontaneous_Code_Execution_for_Mathematical_Problem_Solving.md)
+### [#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding...](2025-05-13/#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding....md)
 
-**摘要**: 该研究探索了基于结果奖励的强化学习(RL)如何让大语言模型(LLMs)自主学会使用外部工具(如Python代码)进行数学推理...
+**摘要**: Embedding（嵌入向量）是将文本转换为固定维度的数字数组，代表文本在语义空间中的坐标。不同文本的向量距离反...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.07773v1)
-**收录时间**: 2025-05-13 12:02
-
----
-
-### [The Value of Disagreement in AI Design, Evaluation, and Alignment](2025-05-13/The_Value_of_Disagreement_in_AI_Design,_Evaluation,_and_Alignment.md)
-
-**摘要**: 这篇论文探讨了人工智能（AI）开发中忽视或压制不同观点的风险，并提出了一种规范框架来指导AI生命周期中的...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.07772v1)
-**收录时间**: 2025-05-13 12:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrEdUAyFG)
+**收录时间**: 2025-05-13 13:12
 
 ---
 
 ### [#大厂“薪资无上限”抢AI天才# 大厂AI人才争夺战打响！腾讯、阿里等相继发布顶尖人才计划，薪资无上限、CTO亲自指导等待遇卷到飞起，马斯克：AI的人才争夺战是我...](2025-05-13/#大厂“薪资无上限”抢AI天才#_大厂AI人才争夺战打响！腾讯、阿里等相继发布顶尖人才计划，薪资无上限、CTO亲自指导等待遇卷到飞起，马斯克：AI的人才争夺战是我....md)
 
-**摘要**: 中国科技大厂正展开激烈的AI人才争夺战。腾讯、阿里巴巴等公司推出顶尖人才计划，提供"薪资无上限"、CTO亲自...
+**摘要**: 中国科技大厂正掀起AI人才争夺战，腾讯、阿里等企业推出"薪资无上限"的顶尖人才计划，并提供CTO亲自指导等优...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrEHK1sIg)
-**收录时间**: 2025-05-13 12:02
+**收录时间**: 2025-05-13 13:12
+
+---
+
+### [#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天...](2025-05-13/#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天....md)
+
+**摘要**: 任天堂更新Switch用户协议，声明拥有远程封锁主机的技术。若用户进行破解、运行自制软件或提取ROM等违规操作，...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrEaXBx7R)
+**收录时间**: 2025-05-13 13:12
+
+---
+
+### [Must Read: A Systematic Survey of Computational Persuasion](2025-05-13/Must_Read-_A_Systematic_Survey_of_Computational_Persuasion.md)
+
+**摘要**: 这篇摘要探讨了人工智能在说服过程中的三重角色：说服者、被说服者和评判者。AI作为说服者可以生成有说服力...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.07775v1)
+**收录时间**: 2025-05-13 13:11
+
+---
+
+### [Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models](2025-05-13/Prompt_to_Polyp-_Medical_Text-Conditioned_Image_Synthesis_with_Diffusion_Models.md)
+
+**摘要**: 本文研究了医疗领域的文本到图像生成技术，比较了两种方法：(1)微调预训练大模型(FLUX、Kandinsky)和(2)训练小型领...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.05573v2)
+**收录时间**: 2025-05-13 13:11
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-13 (61篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-13/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-13 12:06 
-  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-13/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-13 13:15 
+  该论文提出了NSA（Native Sparse Attention）稀疏注意力机制，旨在降低传统注意力机制处理长文本的高计算成本。NSA通...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-13/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-13 12:06 
-  这篇论文研究了代码生成大型语言模型(codeLLMs)与人类偏好对齐的问题。作者提出了CodeArena基准测试，包含397个高...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-13/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-13 13:15 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-13/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-13 12:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-13/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-13 13:15 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-13/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-13 12:05 
-  本文综述了针对非小细胞肺癌（NSCLC）ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-13/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-13 13:15 
+  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(包含397个样本，覆...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-13/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-13 12:05 
-  该研究介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统，能够模拟1万多个代理的社会互动（500万次...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-13/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-13 13:15 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-13/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-13 12:05 
-  本研究提出LatentSync，一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示，直接建模音频-...
+- **[#Perplexity估值飙升至1008亿##Perplexity开发AI浏览器硬刚谷歌#AI搜索引擎公司Perplexity新融资消息曝光！据金融时报消息，该公司正接近完成新一轮5亿美元融资...](2025-05-13/#Perplexity估值飙升至1008亿##Perplexity开发AI浏览器硬刚谷歌#AI搜索引擎公司Perplexity新融资消息曝光！据金融时报消息，该公司正接近完成新一轮5亿美元融资....md)** | [原文](https://weibo.com/6105753431/PrE7sb1JN) | 时间: 2025-05-13 13:14 
+  AI搜索引擎公司Perplexity估值飙升至140亿美元（约1008亿人民币），正进行5亿美元融资，由Accel领投。资金将用于开...
 
-- **[#Perplexity估值飙升至1008亿##Perplexity开发AI浏览器硬刚谷歌#AI搜索引擎公司Perplexity新融资消息曝光！据金融时报消息，该公司正接近完成新一轮5亿美元融资...](2025-05-13/#Perplexity估值飙升至1008亿##Perplexity开发AI浏览器硬刚谷歌#AI搜索引擎公司Perplexity新融资消息曝光！据金融时报消息，该公司正接近完成新一轮5亿美元融资....md)** | [原文](https://weibo.com/6105753431/PrE7sb1JN) | 时间: 2025-05-13 12:04 
-  AI搜索引擎公司Perplexity即将完成5亿美元融资，估值飙升至140亿美元（约1008亿人民币），资金将用于开发AI浏览器Co...
+- **[#AI精准预测恒星爆发##国家天文台与紫东太初推出天文大模型#还记得刘慈欣在《全频带阻塞干扰》中描绘的耀斑爆发吗？现在科幻照进现实，人类踏出了理解耀斑的重要...](2025-05-13/#AI精准预测恒星爆发##国家天文台与紫东太初推出天文大模型#还记得刘慈欣在《全频带阻塞干扰》中描绘的耀斑爆发吗？现在科幻照进现实，人类踏出了理解耀斑的重要....md)** | [原文](https://weibo.com/6105753431/PrDZgurQq) | 时间: 2025-05-13 13:14 
+  中国科学院国家天文台与紫东太初团队合作开发了天文耀发预测大模型FLARE，能精准预测恒星耀发事件。该模型通...
 
-- **[#AI精准预测恒星爆发##国家天文台与紫东太初推出天文大模型#还记得刘慈欣在《全频带阻塞干扰》中描绘的耀斑爆发吗？现在科幻照进现实，人类踏出了理解耀斑的重要...](2025-05-13/#AI精准预测恒星爆发##国家天文台与紫东太初推出天文大模型#还记得刘慈欣在《全频带阻塞干扰》中描绘的耀斑爆发吗？现在科幻照进现实，人类踏出了理解耀斑的重要....md)** | [原文](https://weibo.com/6105753431/PrDZgurQq) | 时间: 2025-05-13 12:04 
-  中国科学院国家天文台与紫东太初团队合作开发了天文耀发预测大模型FLARE，该模型能精准预测恒星耀发事件。FLAR...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-13/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-13 13:14 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点...
 
-- **[#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分...](2025-05-13/#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分....md)** | [原文](https://weibo.com/6105753431/PrE97wTbG) | 时间: 2025-05-13 12:04 
-  全球首个分布式强化学习(RL)训练模型INTELLECT-2发布，通过整合全球闲置算力完成训练，成本大幅降低。该模型性能...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-13/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-13 13:14 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法是对带动量的随机梯度...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-13/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-13 12:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
+- **[#OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc...](2025-05-13/#OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc....md)** | [原文](https://weibo.com/6105753431/PrE9uiays) | 时间: 2025-05-13 13:13 
+  OpenAI发布医疗评估基准HealthBench，包含5000组对话和48562个评估标准，测试AI在急诊、专业沟通等7大医疗场景的表现...
 
-- **[#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino Falcke、量子物...](2025-05-13/#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino_Falcke、量子物....md)** | [原文](https://weibo.com/6105753431/PrE7E4Hx6) | 时间: 2025-05-13 12:04 
-  荷兰科学家团队在《宇宙学与天体粒子物理学杂志》发表研究，发现宇宙衰亡速度远超预期。通过扩展霍金辐射理...
+- **[#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch AI发布的分析指出：如果当前“每3-5个月推理速度提...](2025-05-13/#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch_AI发布的分析指出：如果当前“每3-5个月推理速度提....md)** | [原文](https://weibo.com/6105753431/PrEaIAFqH) | 时间: 2025-05-13 13:13 
+  Epoch AI最新研究指出，当前AI推理模型（如OpenAI的o1/o3）仍处于算力扩展红利期，性能随训练投入呈对数增长。但若...
 
-- **[#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch AI发布的分析指出：如果当前“每3-5个月推理速度提...](2025-05-13/#AI推理模型1年内将触顶##AI推理性能或将到达瓶颈#推理模型可能会在1年内遇到增长瓶颈？非营利研究机构Epoch_AI发布的分析指出：如果当前“每3-5个月推理速度提....md)** | [原文](https://weibo.com/6105753431/PrEaIAFqH) | 时间: 2025-05-13 12:03 
-  Epoch AI最新研究指出，当前AI推理模型（如OpenAI的o1/o3系列）的性能提升依赖算力快速扩张（每3-5个月提升10倍），...
+- **[#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino Falcke、量子物...](2025-05-13/#宇宙衰亡速度比想象中快##宇宙终结将在约10⁷⁸年后到来#科学家最新发现：宇宙的衰亡速度比我们想象的快太多了！最近，来自荷兰的黑洞专家Heino_Falcke、量子物....md)** | [原文](https://weibo.com/6105753431/PrE7E4Hx6) | 时间: 2025-05-13 13:13 
+  荷兰科学家团队在《宇宙学与天体粒子物理学杂志》发表最新研究，发现宇宙衰亡速度远超预期。通过扩展霍金辐...
 
-- **[#OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc...](2025-05-13/#OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc....md)** | [原文](https://weibo.com/6105753431/PrE9uiays) | 时间: 2025-05-13 12:03 
-  OpenAI发布医疗评估基准HealthBench，包含5000组对话和48562个评估标准，测试AI在急诊、专业沟通等七大医疗场景的表...
+- **[#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分...](2025-05-13/#全球首个分布式RL训练模型发布##闲置算力训出媲美R1模型#一夜之间，老黄天塌了（doge）。全球首个分布式RL训练模型INTELLECT-2发布，它仅通过整合全球闲置或分....md)** | [原文](https://weibo.com/6105753431/PrE97wTbG) | 时间: 2025-05-13 13:13 
+  全球首个分布式强化学习(RL)训练模型INTELLECT-2发布，通过整合全球闲置算力完成训练，成本大幅降低。其性能媲美...
 
-- **[#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding...](2025-05-13/#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding....md)** | [原文](https://weibo.com/6105753431/PrEdUAyFG) | 时间: 2025-05-13 12:03 
-  Embedding（嵌入向量）是将文本转换为固定维度的数字数组，代表文本在高维语义空间中的坐标。相似文本的向量距...
+- **[#AI大佬教你如何中顶会##DeepMind大佬论文写作指南来了#NeurIPS投稿数量破纪录了！Deadline还有不到一个月，如何让论文更容易中？大佬的论文撰写指南它来了。来...](2025-05-13/#AI大佬教你如何中顶会##DeepMind大佬论文写作指南来了#NeurIPS投稿数量破纪录了！Deadline还有不到一个月，如何让论文更容易中？大佬的论文撰写指南它来了。来....md)** | [原文](https://weibo.com/6105753431/PrEdtpvUy) | 时间: 2025-05-13 13:12 
+  DeepMind研究员Neel Nanda发布机器学习论文写作指南，强调优秀论文应讲述基于证据的技术故事。关键要素包括：提炼...
 
-- **[#AI大佬教你如何中顶会##DeepMind大佬论文写作指南来了#NeurIPS投稿数量破纪录了！Deadline还有不到一个月，如何让论文更容易中？大佬的论文撰写指南它来了。来...](2025-05-13/#AI大佬教你如何中顶会##DeepMind大佬论文写作指南来了#NeurIPS投稿数量破纪录了！Deadline还有不到一个月，如何让论文更容易中？大佬的论文撰写指南它来了。来....md)** | [原文](https://weibo.com/6105753431/PrEdtpvUy) | 时间: 2025-05-13 12:03 
-  这篇指南总结了Google DeepMind研究员Neel Nanda的论文写作经验，强调优秀论文需要讲述一个严谨的技术故事。关键要...
+- **[WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Martingales](2025-05-13/WATCH-_Adaptive_Monitoring_for_AI_Deployments_via_Weighted-Conformal_Martingales.md)** | [原文](http://arxiv.org/abs/2505.04608v2) | 时间: 2025-05-13 13:12 
+  本文提出了一种加权广义符合性测试鞅(WCTM)方法，用于高风险AI/ML系统的持续监控。该方法突破了现有非参数变点...
 
-- **[#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天...](2025-05-13/#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天....md)** | [原文](https://weibo.com/6105753431/PrEaXBx7R) | 时间: 2025-05-13 12:03 
-  任天堂更新Switch用户协议，声明拥有远程封锁设备技术。若发现玩家破解主机、运行自制软件或提取ROM，可远程使...
+- **[#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding...](2025-05-13/#详解Embedding嵌入向量##让AI理解语义的魔法#在大模型领域，很多人都听过Embedding（嵌入向量），但不清楚它到底是什么，这次就来讲明白——1、什么是Embedding....md)** | [原文](https://weibo.com/6105753431/PrEdUAyFG) | 时间: 2025-05-13 13:12 
+  Embedding（嵌入向量）是将文本转换为固定维度的数字数组，代表文本在语义空间中的坐标。不同文本的向量距离反...
 
-- **[Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models](2025-05-13/Prompt_to_Polyp-_Medical_Text-Conditioned_Image_Synthesis_with_Diffusion_Models.md)** | [原文](http://arxiv.org/abs/2505.05573v2) | 时间: 2025-05-13 12:02 
-  本研究比较了两种医学文本生成图像的方法：微调大型预训练模型（FLUX、Kandinsky）与训练小型专用模型（MSDM）。...
+- **[#大厂“薪资无上限”抢AI天才# 大厂AI人才争夺战打响！腾讯、阿里等相继发布顶尖人才计划，薪资无上限、CTO亲自指导等待遇卷到飞起，马斯克：AI的人才争夺战是我...](2025-05-13/#大厂“薪资无上限”抢AI天才#_大厂AI人才争夺战打响！腾讯、阿里等相继发布顶尖人才计划，薪资无上限、CTO亲自指导等待遇卷到飞起，马斯克：AI的人才争夺战是我....md)** | [原文](https://weibo.com/6105753431/PrEHK1sIg) | 时间: 2025-05-13 13:12 
+  中国科技大厂正掀起AI人才争夺战，腾讯、阿里等企业推出"薪资无上限"的顶尖人才计划，并提供CTO亲自指导等优...
 
-- **[Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](2025-05-13/Agent_RL_Scaling_Law-_Agent_RL_with_Spontaneous_Code_Execution_for_Mathematical_Problem_Solving.md)** | [原文](http://arxiv.org/abs/2505.07773v1) | 时间: 2025-05-13 12:02 
-  该研究探索了基于结果奖励的强化学习(RL)如何让大语言模型(LLMs)自主学会使用外部工具(如Python代码)进行数学推理...
+- **[#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天...](2025-05-13/#任天堂拥有远程封杀Switch技术##任天堂最新用户协议劝退玩家#任天堂宣布，他们拥有远程封锁Switch技术。如果玩家破解主机、运行自制软件、提取游戏ROM等，任天....md)** | [原文](https://weibo.com/6105753431/PrEaXBx7R) | 时间: 2025-05-13 13:12 
+  任天堂更新Switch用户协议，声明拥有远程封锁主机的技术。若用户进行破解、运行自制软件或提取ROM等违规操作，...
 
-- **[The Value of Disagreement in AI Design, Evaluation, and Alignment](2025-05-13/The_Value_of_Disagreement_in_AI_Design,_Evaluation,_and_Alignment.md)** | [原文](http://arxiv.org/abs/2505.07772v1) | 时间: 2025-05-13 12:02 
-  这篇论文探讨了人工智能（AI）开发中忽视或压制不同观点的风险，并提出了一种规范框架来指导AI生命周期中的...
+- **[Must Read: A Systematic Survey of Computational Persuasion](2025-05-13/Must_Read-_A_Systematic_Survey_of_Computational_Persuasion.md)** | [原文](http://arxiv.org/abs/2505.07775v1) | 时间: 2025-05-13 13:11 
+  这篇摘要探讨了人工智能在说服过程中的三重角色：说服者、被说服者和评判者。AI作为说服者可以生成有说服力...
 
-- **[#大厂“薪资无上限”抢AI天才# 大厂AI人才争夺战打响！腾讯、阿里等相继发布顶尖人才计划，薪资无上限、CTO亲自指导等待遇卷到飞起，马斯克：AI的人才争夺战是我...](2025-05-13/#大厂“薪资无上限”抢AI天才#_大厂AI人才争夺战打响！腾讯、阿里等相继发布顶尖人才计划，薪资无上限、CTO亲自指导等待遇卷到飞起，马斯克：AI的人才争夺战是我....md)** | [原文](https://weibo.com/6105753431/PrEHK1sIg) | 时间: 2025-05-13 12:02 
-  中国科技大厂正展开激烈的AI人才争夺战。腾讯、阿里巴巴等公司推出顶尖人才计划，提供"薪资无上限"、CTO亲自...
+- **[Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models](2025-05-13/Prompt_to_Polyp-_Medical_Text-Conditioned_Image_Synthesis_with_Diffusion_Models.md)** | [原文](http://arxiv.org/abs/2505.05573v2) | 时间: 2025-05-13 13:11 
+  本文研究了医疗领域的文本到图像生成技术，比较了两种方法：(1)微调预训练大模型(FLUX、Kandinsky)和(2)训练小型领...
 
-- **[WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Martingales](2025-05-13/WATCH-_Adaptive_Monitoring_for_AI_Deployments_via_Weighted-Conformal_Martingales.md)** | [原文](http://arxiv.org/abs/2505.04608v2) | 时间: 2025-05-13 12:02 
-  本文提出了一种加权泛化的共形测试鞅(WCTM)方法，用于高风险AI/ML系统的持续部署后监控。该方法突破了现有非参...
-
-- **[Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization](2025-05-13/Multi-Agent_Path_Finding_via_Finite-Horizon_Hierarchical_Factorization.md)** | [原文](http://arxiv.org/abs/2505.07779v1) | 时间: 2025-05-13 12:01 
+- **[Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization](2025-05-13/Multi-Agent_Path_Finding_via_Finite-Horizon_Hierarchical_Factorization.md)** | [原文](http://arxiv.org/abs/2505.07779v1) | 时间: 2025-05-13 13:11 
   本文提出了一种新型大规模多智能体路径规划(MAPF)算法，适用于自动化仓库等动态环境。该算法采用有限时域分层...
 
-- **[Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models](2025-05-13/Imagine,_Verify,_Execute-_Memory-Guided_Agentic_Exploration_with_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2505.07815v1) | 时间: 2025-05-13 12:01 
-  IVE是一个受人类好奇心启发的机器人探索框架，利用视觉语言模型（VLM）将RGB-D观测抽象为语义场景图，想象新场...
+- **[MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering](2025-05-13/MLE-Dojo-_Interactive_Environments_for_Empowering_LLM_Agents_in_Machine_Learning_Engineering.md)** | [原文](http://arxiv.org/abs/2505.07782v1) | 时间: 2025-05-13 13:11 
+  MLE-Dojo是一个Gym风格的强化学习框架，用于系统训练、评估和改进基于大语言模型（LLM）的自主智能体。它通过200...
 
-- **[MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering](2025-05-13/MLE-Dojo-_Interactive_Environments_for_Empowering_LLM_Agents_in_Machine_Learning_Engineering.md)** | [原文](http://arxiv.org/abs/2505.07782v1) | 时间: 2025-05-13 12:01 
-  MLE-Dojo是一个Gym风格的强化学习框架，用于系统化训练、评估和改进基于大语言模型（LLM）的自主智能体。它通过2...
+- **[Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](2025-05-13/Agent_RL_Scaling_Law-_Agent_RL_with_Spontaneous_Code_Execution_for_Mathematical_Problem_Solving.md)** | [原文](http://arxiv.org/abs/2505.07773v1) | 时间: 2025-05-13 13:11 
+  该研究探索了基于强化学习（RL）的大语言模型（LLMs）如何自主学会使用外部工具（如Python代码执行）解决数学推...
 
-- **[Must Read: A Systematic Survey of Computational Persuasion](2025-05-13/Must_Read-_A_Systematic_Survey_of_Computational_Persuasion.md)** | [原文](http://arxiv.org/abs/2505.07775v1) | 时间: 2025-05-13 12:01 
-  这篇摘要探讨了人工智能在说服领域的三重角色：说服者、被说服者和评判者。AI作为说服者可以生成有说服力的...
+- **[The Value of Disagreement in AI Design, Evaluation, and Alignment](2025-05-13/The_Value_of_Disagreement_in_AI_Design,_Evaluation,_and_Alignment.md)** | [原文](http://arxiv.org/abs/2505.07772v1) | 时间: 2025-05-13 13:11 
+  这篇论文探讨了人工智能（AI）开发中因压制分歧而导致的“视角同质化”风险，认为这种同质化可能对边缘群体...
 
-- **[A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values](2025-05-13/A_Theoretical_Framework_for_Explaining_Reinforcement_Learning_with_Shapley_Values.md)** | [原文](http://arxiv.org/abs/2505.07797v1) | 时间: 2025-05-13 12:01 
-  本文提出了一种基于状态特征影响力的强化学习解释理论框架，旨在解决智能体决策缺乏透明度的问题。该框架聚...
+- **[Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models](2025-05-13/Imagine,_Verify,_Execute-_Memory-Guided_Agentic_Exploration_with_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2505.07815v1) | 时间: 2025-05-13 13:10 
+  IVE是一个基于视觉语言模型(VLM)的机器人探索框架，通过模拟人类好奇心驱动探索。它将RGB-D观测转换为语义场景...
 
-- **[Relative Overfitting and Accept-Reject Framework](2025-05-13/Relative_Overfitting_and_Accept-Reject_Framework.md)** | [原文](http://arxiv.org/abs/2505.07783v1) | 时间: 2025-05-13 12:01 
-  当前大语言模型（LLM）的扩展规律面临瓶颈。本文认为，边际收益递减下信噪比变化导致的噪声效应是根本原因。...
+- **[A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values](2025-05-13/A_Theoretical_Framework_for_Explaining_Reinforcement_Learning_with_Shapley_Values.md)** | [原文](http://arxiv.org/abs/2505.07797v1) | 时间: 2025-05-13 13:10 
+  该研究提出了一种基于状态特征影响力的强化学习解释理论框架，旨在解决智能体决策缺乏透明度的问题。通过将...
+
+- **[Relative Overfitting and Accept-Reject Framework](2025-05-13/Relative_Overfitting_and_Accept-Reject_Framework.md)** | [原文](http://arxiv.org/abs/2505.07783v1) | 时间: 2025-05-13 13:10 
+  当前大语言模型（LLM）的缩放规律面临瓶颈。本文认为，边际收益递减下信噪比变化导致的噪声效应是根本原因。...
 
 - **[#AI发现有人就是爱抬杠##AI一眼识破网络杠精#在海外版知乎Reddit上，总有网友喜欢抬杠。现在，有AI专门用来揪出这些人。澳大利亚悉尼科技大学的一项研究，把本来...](2025-05-13/#AI发现有人就是爱抬杠##AI一眼识破网络杠精#在海外版知乎Reddit上，总有网友喜欢抬杠。现在，有AI专门用来揪出这些人。澳大利亚悉尼科技大学的一项研究，把本来....md)** | [原文](https://weibo.com/6105753431/PrDMjCag0) | 时间: 2025-05-13 10:03 
   澳大利亚悉尼科技大学研究团队利用自动驾驶领域的逆强化学习技术(IRL)，分析了Reddit平台590万条互动数据，将用...
