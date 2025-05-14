@@ -1,0 +1,18 @@
+# #OpenAI发布医疗评估基准##AI医生水平表现比肩人类#AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。OpenAI推出最新基准数据集HealthBenc...
+
+**URL**: https://weibo.com/6105753431/PrE9uiays
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23OpenAI%E5%8F%91%E5%B8%83%E5%8C%BB%E7%96%97%E8%AF%84%E4%BC%B0%E5%9F%BA%E5%87%86%23&amp;extparam=%23OpenAI%E5%8F%91%E5%B8%83%E5%8C%BB%E7%96%97%E8%AF%84%E4%BC%B0%E5%9F%BA%E5%87%86%23" data-hide=""><span class="surl-text">#OpenAI发布医疗评估基准#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%8C%BB%E7%94%9F%E6%B0%B4%E5%B9%B3%E8%A1%A8%E7%8E%B0%E6%AF%94%E8%82%A9%E4%BA%BA%E7%B1%BB%23&amp;extparam=%23AI%E5%8C%BB%E7%94%9F%E6%B0%B4%E5%B9%B3%E8%A1%A8%E7%8E%B0%E6%AF%94%E8%82%A9%E4%BA%BA%E7%B1%BB%23" data-hide=""><span class="surl-text">#AI医生水平表现比肩人类#</span></a><br><br>AI在医疗咨询中的表现已经超越人类医生？OpenAI最新基准数据集给出答案。<br><br>OpenAI推出最新基准数据集HealthBench，用于更好地衡量AI在医疗环境中的表现。<br><br>测试结果发现：o1-preview、4o的表现已经优于没有参考资源的医生，而o3和GPT-4.1的应答质量更是提升至专家水平，人类医生后也无法进一步改进！【图1】<br><br>HealthBench包含5000组对话，模拟AI模型与个人用户或临床医生之间的互动场景；48562个独立量规标准，全面覆盖模型表现的各个维度。<br><br>团队设计了七大主题模块，涵盖急诊处置、专业化沟通、不确定性应对、应答深度评估、健康数据处理、全球健康、语境捕捉能力等临床场景。每个主题模块均包含典型病例范例，并配有专属量规评估标准。【图2】<br><br>这些量规标准从不同维度界定模型行为评估要素，包括医患沟通质量、指令遵循度、诊断准确性、语境理解能力、回答完整度等核心指标。<br><br>除此之外，团队还推出了基准测试的两个变体：HealthBench Consensus以及HealthBench Hard，分别致力于实现高验证度和非饱和性评估。【图3】<br><br>OpenAI团队用HealthBench评估了前沿模型的表现，测试发现：<br><br>一、不同主题表现【图4】<br>- o3模型的表现全面优于Claude 3.7 Sonnet和Gemini 2.5 Pro等同类模型<br>- 不同主题的表现存在差异，其中急诊转诊和专业化沟通主题的表现普遍最好，而语境捕捉、健康数据任务和全球健康主题的表现相对落后<br>二、不同维度表现【图5】<br>- Claude、GPT-4o和o1等模型在沟通质量上优于o3，但在回答完整性方面则明显逊色<br>- 回答完整度和语境理解能力维度的表现普遍低于准确性、沟通质量和指令遵循度等维度<br>三、成本效益【图6】<br>- GPT-4.1 nano仅用1/25成本，表现反超GPT-4o<br>四、可靠性【图7】<br>- 最新模型在最差情况下的表现有显著改善，但仍有提升空间。<br><br>值得注意的是，即便是最先进的AI仍存在明显改进空间，特别是在模糊查询的必要语境捕捉和最差情况可靠性方面，期待未来模型的评估结果能为该领域带来新的突破。<br><br>论文地址：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fcdn.openai.com%2Fpdf%2Fbd7a39d5-9e9f-47b3-903c-8b847ca650c7%2Fhealthbench_paper.pdf" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>开源仓库：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Fopenai%2Fsimple-evals" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i1dzlukjxoj30zk0lb431.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1dzlx2xurj30zk0jk7ba.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1dzlycmkgj30zk0m9wjg.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1dzm18vc5j30zk0m8n2p.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i1dzm2orqkj30zk0m4jwt.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1dzm53qdxj30zk0xjk7x.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i1dzm6nv75j30zk0mndkv.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+OpenAI发布医疗评估基准HealthBench，包含5000组对话和48562个量规标准，全面测试AI在急诊、专业沟通等七大医疗场景的表现。测试显示，GPT-4o等先进模型在应答质量上已超越普通医生，部分达专家水平，但在语境捕捉和最差情况可靠性上仍有不足。不同模型表现各异：GPT-4o在沟通质量领先，而GPT-4.1 nano以1/25成本实现反超。该基准为AI医疗应用提供标准化评估，推动领域发展，论文和代码已开源。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-14T00:03:38Z
+- **目录日期**: 2025-05-14
