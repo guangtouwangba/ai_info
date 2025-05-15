@@ -6,127 +6,136 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-15/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文提出了CodeArena基准测试和SynCode-Instruct数据集，用于评估代码生成大模型与人类偏好的对齐程度。研究发...
+**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试，包含397个高质量...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-15 10:06
+**收录时间**: 2025-05-15 11:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-15/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译、科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-15 10:06
+**收录时间**: 2025-05-15 11:06
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-15 10:05
+**收录时间**: 2025-05-15 11:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示，直接建模音频-视...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-15 10:05
+**收录时间**: 2025-05-15 11:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大型语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究了...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个代理及其500万次互动。研究者用它研究四...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-15 10:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-15 10:05
-
----
-
-### [#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过...](2025-05-15/#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过....md)
-
-**摘要**: 南安普敦大学团队首次在实验室模拟黑洞能量放大现象。他们用旋转金属圆柱体装置观测到"超辐射效应"——当粒...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrWZbFVX7)
-**收录时间**: 2025-05-15 10:04
-
----
-
-### [#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新...](2025-05-15/#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新....md)
-
-**摘要**: 字节Seed团队提出AttentionInfluence方法，利用小模型（1.3B参数）的注意力机制筛选能提升大模型（7B）推理能力的数...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrWX4eIv3)
-**收录时间**: 2025-05-15 10:04
-
----
-
-### [#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“...](2025-05-15/#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“....md)
-
-**摘要**: DeepSeek团队最新论文公开了V3大模型的降本方法，通过四项关键技术显著提升训练和推理效率：1）内存优化（MLA注...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrWWWavR6)
-**收录时间**: 2025-05-15 10:04
+**收录时间**: 2025-05-15 11:05
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-15/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量随机...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量随机梯度下...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-15 10:04
+**收录时间**: 2025-05-15 11:05
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因子，现有7...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-15 11:05
+
+---
+
+### [#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过...](2025-05-15/#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过....md)
+
+**摘要**: 南安普敦大学团队首次在实验室模拟黑洞能量放大效应，通过旋转金属圆柱体观测到"超辐射"现象，验证了1970年代...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrWZbFVX7)
+**收录时间**: 2025-05-15 11:04
+
+---
+
+### [#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“...](2025-05-15/#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“....md)
+
+**摘要**: DeepSeek团队最新论文公开了V3大模型的降本方法，通过四项关键技术显著提升训练和推理效率：1) 内存优化采用多...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrWWWavR6)
+**收录时间**: 2025-05-15 11:04
 
 ---
 
 ### [#个人开发者训400亿参数大模型##3090运行400亿参数大模型#打破科技巨头算力垄断，个人开发者联手也能训练超大规模AI模型？Nous Research宣布推出Psyche Network...](2025-05-15/#个人开发者训400亿参数大模型##3090运行400亿参数大模型#打破科技巨头算力垄断，个人开发者联手也能训练超大规模AI模型？Nous_Research宣布推出Psyche_Network....md)
 
-**摘要**: Nous Research推出Psyche Network，这是一个去中心化AI训练网络，使个人开发者也能训练超大规模模型。Psyche基于Deepseek V...
+**摘要**: Nous Research推出Psyche Network，这是一个去中心化AI训练网络，使个人开发者也能训练400亿参数大模型。Psyche基于Deepsee...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrX40rH2O)
-**收录时间**: 2025-05-15 10:04
+**收录时间**: 2025-05-15 11:04
+
+---
+
+### [#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新...](2025-05-15/#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新....md)
+
+**摘要**: 字节Seed团队提出AttentionInfluence方法，利用小模型的注意力机制自动筛选能提升大模型推理能力的数据。该方法通...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrWX4eIv3)
+**收录时间**: 2025-05-15 11:04
+
+---
+
+### [#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo AI Lab联名提出PreSelect...](2025-05-15/#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo_AI_Lab联名提出PreSelect....md)
+
+**摘要**: vivo与香港科技大学联合研发的PreSelect数据筛选方法被ICML 2025接收。该方法通过fastText评分器计算数据的"预测强度"(...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrX7s6j3w)
+**收录时间**: 2025-05-15 11:03
 
 ---
 
 ### [#MiniMax新TTS模型登顶榜单##一小段音频实现声音克隆#仅仅使用一小段音频样本，就能克隆你的声音？MiniMax推出高质量文本转语音模型MiniMax-Speech，无需参考音...](2025-05-15/#MiniMax新TTS模型登顶榜单##一小段音频实现声音克隆#仅仅使用一小段音频样本，就能克隆你的声音？MiniMax推出高质量文本转语音模型MiniMax-Speech，无需参考音....md)
 
-**摘要**: MiniMax推出的新型TTS模型MiniMax-Speech登顶Artificial Analysis榜单，仅需一小段音频即可实现高质量声音克隆。该模型采...
+**摘要**: MiniMax推出新一代TTS模型MiniMax-Speech，凭借两大创新技术登顶Artificial Analysis榜单：1）无需文本转录的可学习说话人...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrX7bsRjT)
-**收录时间**: 2025-05-15 10:03
-
----
-
-### [#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be like【图2】这样，还是非...](2025-05-15/#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be_like【图2】这样，还是非....md)
-
-**摘要**: Lovart是一款新兴AI设计助手，能通过自然语言指令快速生成专业级视觉设计作品（如时装方案、广告牌、盲盒系列...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrX6LzfED)
-**收录时间**: 2025-05-15 10:03
+**收录时间**: 2025-05-15 11:03
 
 ---
 
 ### [#教授用AI写PPT被学生要求退学费##教师可以使用AI做课件吗#学生用AI写作业要被挂科，教师们用AI做课件就能理直气壮吗？根据《纽约时报》报道，美国东北大学学生...](2025-05-15/#教授用AI写PPT被学生要求退学费##教师可以使用AI做课件吗#学生用AI写作业要被挂科，教师们用AI做课件就能理直气壮吗？根据《纽约时报》报道，美国东北大学学生....md)
 
-**摘要**: 美国东北大学学生Ella Stapleton因教授使用AI制作课件却未告知，要求退还8000美元学费。事件源于她发现课件中保留...
+**摘要**: 美国东北大学学生Ella Stapleton因教授使用AI制作课件却未告知学生，要求退还8000美元学费。她发现课件中留有ChatGPT...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrX5cDVpK)
-**收录时间**: 2025-05-15 10:03
+**收录时间**: 2025-05-15 11:03
+
+---
+
+### [#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be like【图2】这样，还是非...](2025-05-15/#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be_like【图2】这样，还是非....md)
+
+**摘要**: Lovart是一款新兴的AI设计助手，能够快速生成专业级视觉设计方案，包括海报、盲盒、品牌VI、广告短片等。它支...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PrX6LzfED)
+**收录时间**: 2025-05-15 11:03
 
 ---
 
@@ -135,52 +144,43 @@
 **摘要**: Anthropic即将推出新版Claude Sonnet和Claude Opus模型，主打"极限推理"功能。该功能通过动态循环结合推理与工具使用，...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PrX7jx3nK)
-**收录时间**: 2025-05-15 10:03
+**收录时间**: 2025-05-15 11:03
 
 ---
 
-### [Deontic Temporal Logic for Formal Verification of AI Ethics](2025-05-15/Deontic_Temporal_Logic_for_Formal_Verification_of_AI_Ethics.md)
+### [Public Constitutional AI](2025-05-15/Public_Constitutional_AI.md)
 
-**摘要**: 本文提出了一种基于道义逻辑的形式化方法，用于定义和评估AI系统的伦理行为，重点关注公平性和可解释性等伦...
+**摘要**: 随着AI在医疗、教育、法律等领域的影响力不断扩大，确保其决策合法性成为关键问题。本文提出"公共宪法AI"框架...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2501.05765v2)
-**收录时间**: 2025-05-15 10:02
-
----
-
-### [#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo AI Lab联名提出PreSelect...](2025-05-15/#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo_AI_Lab联名提出PreSelect....md)
-
-**摘要**: vivo与香港科技大学联合研发的PreSelect数据筛选方法被ICML 2025收录，该方法通过fastText评分器计算数据的预测强度（...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrX7s6j3w)
-**收录时间**: 2025-05-15 10:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2406.16696v2)
+**收录时间**: 2025-05-15 11:02
 
 ---
 
 ### [Detecting Multimedia Generated by Large AI Models: A Survey](2025-05-15/Detecting_Multimedia_Generated_by_Large_AI_Models-_A_Survey.md)
 
-**摘要**: 这篇综述首次系统性地总结了检测大型AI模型（如扩散模型和大语言模型）生成的多媒体内容（文本、图像、视频...
+**摘要**: 这篇论文综述了大型AI模型（LAIMs）生成的多媒体内容检测研究。随着扩散模型和大语言模型的快速发展，AI生成内...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2402.00045v5)
-**收录时间**: 2025-05-15 10:02
+**收录时间**: 2025-05-15 11:02
 
 ---
 
-### [ICLR Points: How Many ICLR Publications Is One Paper in Each Area?](2025-05-15/ICLR_Points-_How_Many_ICLR_Publications_Is_One_Paper_in_Each_Area.md)
+### [Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis](2025-05-15/Multi-Agent_Reinforcement_Learning_Simulation_for_Environmental_Policy_Synthesis.md)
 
-**摘要**: 该研究提出了"ICLR点数"概念，用于量化计算机科学不同子领域发表论文的平均工作量（以顶级机器学习会议ICLR/ICML...
+**摘要**: 气候政策制定面临深度不确定性、复杂系统动态和利益冲突等挑战。传统气候模拟方法主要用于评估政策而非直接...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.16623v4)
-**收录时间**: 2025-05-15 10:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.12777v2)
+**收录时间**: 2025-05-15 11:02
 
 ---
 
-### [#Cursor官方指南教你选模型##如何在Cursor中选择正确的模型#还不知道如何在Cursor里选择最适合你的模型？官方教程都来啦！Cursor官网发布了一份指南，直接把应该...](2025-05-15/#Cursor官方指南教你选模型##如何在Cursor中选择正确的模型#还不知道如何在Cursor里选择最适合你的模型？官方教程都来啦！Cursor官网发布了一份指南，直接把应该....md)
+### [Deontic Temporal Logic for Formal Verification of AI Ethics](2025-05-15/Deontic_Temporal_Logic_for_Formal_Verification_of_AI_Ethics.md)
 
-**摘要**: Cursor官方发布模型选择指南，建议从三个维度考量：自信度（如Gemini-2.5-pro快速决策）、思考深度（如Claude-3....
+**摘要**: 本文提出了一种基于道义逻辑的形式化方法，用于定义和评估AI系统的伦理行为，重点关注系统层面的公平性和可...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PrXbywknk)
-**收录时间**: 2025-05-15 10:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2501.05765v2)
+**收录时间**: 2025-05-15 11:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-15 (61篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-15/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-15 10:06 
-  这篇论文提出了CodeArena基准测试和SynCode-Instruct数据集，用于评估代码生成大模型与人类偏好的对齐程度。研究发...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-15/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-15 11:06 
+  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试，包含397个高质量...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-15/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-15 10:06 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译、科研情报订阅...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-15/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-15 11:06 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-15 10:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-15 11:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-15 10:05 
-  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示，直接建模音频-视...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-15 11:05 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-15 10:05 
-  AgentSociety是一个基于大型语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究了...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-15 11:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟超过1万个代理及其500万次互动。研究者用它研究四...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-15 10:05 
-  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-15/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-15 11:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量随机梯度下...
 
-- **[#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过...](2025-05-15/#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过....md)** | [原文](https://weibo.com/6105753431/PrWZbFVX7) | 时间: 2025-05-15 10:04 
-  南安普敦大学团队首次在实验室模拟黑洞能量放大现象。他们用旋转金属圆柱体装置观测到"超辐射效应"——当粒...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-15 11:05 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因子，现有7...
 
-- **[#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新...](2025-05-15/#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新....md)** | [原文](https://weibo.com/6105753431/PrWX4eIv3) | 时间: 2025-05-15 10:04 
-  字节Seed团队提出AttentionInfluence方法，利用小模型（1.3B参数）的注意力机制筛选能提升大模型（7B）推理能力的数...
+- **[#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过...](2025-05-15/#人类首次模拟黑洞能量放大##科学家在实验室造出黑洞炸弹#“黑洞炸弹”，被科学家在实验室里做出来了！从此，人类能在实验室里，研究旋转黑洞的超辐射能量放大过....md)** | [原文](https://weibo.com/6105753431/PrWZbFVX7) | 时间: 2025-05-15 11:04 
+  南安普敦大学团队首次在实验室模拟黑洞能量放大效应，通过旋转金属圆柱体观测到"超辐射"现象，验证了1970年代...
 
-- **[#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“...](2025-05-15/#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“....md)** | [原文](https://weibo.com/6105753431/PrWWWavR6) | 时间: 2025-05-15 10:04 
-  DeepSeek团队最新论文公开了V3大模型的降本方法，通过四项关键技术显著提升训练和推理效率：1）内存优化（MLA注...
+- **[#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“...](2025-05-15/#梁文锋署名DeepSeek新论文##DeepSeek公开V3模型降本方法#梁文锋亲自参与的DeepSeek最新论文，来了！这一次，团队把DeepSeek-V3在训练和推理过程中，如何解决“....md)** | [原文](https://weibo.com/6105753431/PrWWWavR6) | 时间: 2025-05-15 11:04 
+  DeepSeek团队最新论文公开了V3大模型的降本方法，通过四项关键技术显著提升训练和推理效率：1) 内存优化采用多...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-15/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-15 10:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量随机...
+- **[#个人开发者训400亿参数大模型##3090运行400亿参数大模型#打破科技巨头算力垄断，个人开发者联手也能训练超大规模AI模型？Nous Research宣布推出Psyche Network...](2025-05-15/#个人开发者训400亿参数大模型##3090运行400亿参数大模型#打破科技巨头算力垄断，个人开发者联手也能训练超大规模AI模型？Nous_Research宣布推出Psyche_Network....md)** | [原文](https://weibo.com/6105753431/PrX40rH2O) | 时间: 2025-05-15 11:04 
+  Nous Research推出Psyche Network，这是一个去中心化AI训练网络，使个人开发者也能训练400亿参数大模型。Psyche基于Deepsee...
 
-- **[#个人开发者训400亿参数大模型##3090运行400亿参数大模型#打破科技巨头算力垄断，个人开发者联手也能训练超大规模AI模型？Nous Research宣布推出Psyche Network...](2025-05-15/#个人开发者训400亿参数大模型##3090运行400亿参数大模型#打破科技巨头算力垄断，个人开发者联手也能训练超大规模AI模型？Nous_Research宣布推出Psyche_Network....md)** | [原文](https://weibo.com/6105753431/PrX40rH2O) | 时间: 2025-05-15 10:04 
-  Nous Research推出Psyche Network，这是一个去中心化AI训练网络，使个人开发者也能训练超大规模模型。Psyche基于Deepseek V...
+- **[#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新...](2025-05-15/#一招选出最能推理的数据##小模型教大模型挑数据#和人工标记数据说拜拜，利用预训练语言模型中的注意力机制就能选择可激发推理能力的训练数据！字节Seed团队最新....md)** | [原文](https://weibo.com/6105753431/PrWX4eIv3) | 时间: 2025-05-15 11:04 
+  字节Seed团队提出AttentionInfluence方法，利用小模型的注意力机制自动筛选能提升大模型推理能力的数据。该方法通...
 
-- **[#MiniMax新TTS模型登顶榜单##一小段音频实现声音克隆#仅仅使用一小段音频样本，就能克隆你的声音？MiniMax推出高质量文本转语音模型MiniMax-Speech，无需参考音...](2025-05-15/#MiniMax新TTS模型登顶榜单##一小段音频实现声音克隆#仅仅使用一小段音频样本，就能克隆你的声音？MiniMax推出高质量文本转语音模型MiniMax-Speech，无需参考音....md)** | [原文](https://weibo.com/6105753431/PrX7bsRjT) | 时间: 2025-05-15 10:03 
-  MiniMax推出的新型TTS模型MiniMax-Speech登顶Artificial Analysis榜单，仅需一小段音频即可实现高质量声音克隆。该模型采...
+- **[#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo AI Lab联名提出PreSelect...](2025-05-15/#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo_AI_Lab联名提出PreSelect....md)** | [原文](https://weibo.com/6105753431/PrX7s6j3w) | 时间: 2025-05-15 11:03 
+  vivo与香港科技大学联合研发的PreSelect数据筛选方法被ICML 2025接收。该方法通过fastText评分器计算数据的"预测强度"(...
 
-- **[#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be like【图2】这样，还是非...](2025-05-15/#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be_like【图2】这样，还是非....md)** | [原文](https://weibo.com/6105753431/PrX6LzfED) | 时间: 2025-05-15 10:03 
-  Lovart是一款新兴AI设计助手，能通过自然语言指令快速生成专业级视觉设计作品（如时装方案、广告牌、盲盒系列...
+- **[#MiniMax新TTS模型登顶榜单##一小段音频实现声音克隆#仅仅使用一小段音频样本，就能克隆你的声音？MiniMax推出高质量文本转语音模型MiniMax-Speech，无需参考音...](2025-05-15/#MiniMax新TTS模型登顶榜单##一小段音频实现声音克隆#仅仅使用一小段音频样本，就能克隆你的声音？MiniMax推出高质量文本转语音模型MiniMax-Speech，无需参考音....md)** | [原文](https://weibo.com/6105753431/PrX7bsRjT) | 时间: 2025-05-15 11:03 
+  MiniMax推出新一代TTS模型MiniMax-Speech，凭借两大创新技术登顶Artificial Analysis榜单：1）无需文本转录的可学习说话人...
 
-- **[#教授用AI写PPT被学生要求退学费##教师可以使用AI做课件吗#学生用AI写作业要被挂科，教师们用AI做课件就能理直气壮吗？根据《纽约时报》报道，美国东北大学学生...](2025-05-15/#教授用AI写PPT被学生要求退学费##教师可以使用AI做课件吗#学生用AI写作业要被挂科，教师们用AI做课件就能理直气壮吗？根据《纽约时报》报道，美国东北大学学生....md)** | [原文](https://weibo.com/6105753431/PrX5cDVpK) | 时间: 2025-05-15 10:03 
-  美国东北大学学生Ella Stapleton因教授使用AI制作课件却未告知，要求退还8000美元学费。事件源于她发现课件中保留...
+- **[#教授用AI写PPT被学生要求退学费##教师可以使用AI做课件吗#学生用AI写作业要被挂科，教师们用AI做课件就能理直气壮吗？根据《纽约时报》报道，美国东北大学学生...](2025-05-15/#教授用AI写PPT被学生要求退学费##教师可以使用AI做课件吗#学生用AI写作业要被挂科，教师们用AI做课件就能理直气壮吗？根据《纽约时报》报道，美国东北大学学生....md)** | [原文](https://weibo.com/6105753431/PrX5cDVpK) | 时间: 2025-05-15 11:03 
+  美国东北大学学生Ella Stapleton因教授使用AI制作课件却未告知学生，要求退还8000美元学费。她发现课件中留有ChatGPT...
 
-- **[#新版Claude遭曝光##新版Claude可以极限推理#O家（OpenAI）刚免费上线GPT-4.1，A家（Anthropic）这边也被曝出新消息——新版Claude Sonnet和Claude Opus，已经在...](2025-05-15/#新版Claude遭曝光##新版Claude可以极限推理#O家（OpenAI）刚免费上线GPT-4.1，A家（Anthropic）这边也被曝出新消息——新版Claude_Sonnet和Claude_Opus，已经在....md)** | [原文](https://weibo.com/6105753431/PrX7jx3nK) | 时间: 2025-05-15 10:03 
+- **[#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be like【图2】这样，还是非...](2025-05-15/#新晋Agent颠覆设计师##一句话搞定专业视觉设计#新晋顶流Lovart火了，它真的能颠覆设计师吗？【图1】先来看看大家放出的成果图，画风be_like【图2】这样，还是非....md)** | [原文](https://weibo.com/6105753431/PrX6LzfED) | 时间: 2025-05-15 11:03 
+  Lovart是一款新兴的AI设计助手，能够快速生成专业级视觉设计方案，包括海报、盲盒、品牌VI、广告短片等。它支...
+
+- **[#新版Claude遭曝光##新版Claude可以极限推理#O家（OpenAI）刚免费上线GPT-4.1，A家（Anthropic）这边也被曝出新消息——新版Claude Sonnet和Claude Opus，已经在...](2025-05-15/#新版Claude遭曝光##新版Claude可以极限推理#O家（OpenAI）刚免费上线GPT-4.1，A家（Anthropic）这边也被曝出新消息——新版Claude_Sonnet和Claude_Opus，已经在....md)** | [原文](https://weibo.com/6105753431/PrX7jx3nK) | 时间: 2025-05-15 11:03 
   Anthropic即将推出新版Claude Sonnet和Claude Opus模型，主打"极限推理"功能。该功能通过动态循环结合推理与工具使用，...
 
-- **[Deontic Temporal Logic for Formal Verification of AI Ethics](2025-05-15/Deontic_Temporal_Logic_for_Formal_Verification_of_AI_Ethics.md)** | [原文](http://arxiv.org/abs/2501.05765v2) | 时间: 2025-05-15 10:02 
-  本文提出了一种基于道义逻辑的形式化方法，用于定义和评估AI系统的伦理行为，重点关注公平性和可解释性等伦...
+- **[Public Constitutional AI](2025-05-15/Public_Constitutional_AI.md)** | [原文](http://arxiv.org/abs/2406.16696v2) | 时间: 2025-05-15 11:02 
+  随着AI在医疗、教育、法律等领域的影响力不断扩大，确保其决策合法性成为关键问题。本文提出"公共宪法AI"框架...
 
-- **[#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo AI Lab联名提出PreSelect...](2025-05-15/#vivo公开自研大模型数据筛选方法##港科大vivo数据筛选方法效率提升10倍#vivo自研大模型用的数据筛选方法，公开了。香港科技大学和vivo_AI_Lab联名提出PreSelect....md)** | [原文](https://weibo.com/6105753431/PrX7s6j3w) | 时间: 2025-05-15 10:02 
-  vivo与香港科技大学联合研发的PreSelect数据筛选方法被ICML 2025收录，该方法通过fastText评分器计算数据的预测强度（...
+- **[Detecting Multimedia Generated by Large AI Models: A Survey](2025-05-15/Detecting_Multimedia_Generated_by_Large_AI_Models-_A_Survey.md)** | [原文](http://arxiv.org/abs/2402.00045v5) | 时间: 2025-05-15 11:02 
+  这篇论文综述了大型AI模型（LAIMs）生成的多媒体内容检测研究。随着扩散模型和大语言模型的快速发展，AI生成内...
 
-- **[Detecting Multimedia Generated by Large AI Models: A Survey](2025-05-15/Detecting_Multimedia_Generated_by_Large_AI_Models-_A_Survey.md)** | [原文](http://arxiv.org/abs/2402.00045v5) | 时间: 2025-05-15 10:02 
-  这篇综述首次系统性地总结了检测大型AI模型（如扩散模型和大语言模型）生成的多媒体内容（文本、图像、视频...
+- **[Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis](2025-05-15/Multi-Agent_Reinforcement_Learning_Simulation_for_Environmental_Policy_Synthesis.md)** | [原文](http://arxiv.org/abs/2504.12777v2) | 时间: 2025-05-15 11:02 
+  气候政策制定面临深度不确定性、复杂系统动态和利益冲突等挑战。传统气候模拟方法主要用于评估政策而非直接...
 
-- **[ICLR Points: How Many ICLR Publications Is One Paper in Each Area?](2025-05-15/ICLR_Points-_How_Many_ICLR_Publications_Is_One_Paper_in_Each_Area.md)** | [原文](http://arxiv.org/abs/2503.16623v4) | 时间: 2025-05-15 10:02 
-  该研究提出了"ICLR点数"概念，用于量化计算机科学不同子领域发表论文的平均工作量（以顶级机器学习会议ICLR/ICML...
+- **[Deontic Temporal Logic for Formal Verification of AI Ethics](2025-05-15/Deontic_Temporal_Logic_for_Formal_Verification_of_AI_Ethics.md)** | [原文](http://arxiv.org/abs/2501.05765v2) | 时间: 2025-05-15 11:02 
+  本文提出了一种基于道义逻辑的形式化方法，用于定义和评估AI系统的伦理行为，重点关注系统层面的公平性和可...
 
-- **[#Cursor官方指南教你选模型##如何在Cursor中选择正确的模型#还不知道如何在Cursor里选择最适合你的模型？官方教程都来啦！Cursor官网发布了一份指南，直接把应该...](2025-05-15/#Cursor官方指南教你选模型##如何在Cursor中选择正确的模型#还不知道如何在Cursor里选择最适合你的模型？官方教程都来啦！Cursor官网发布了一份指南，直接把应该....md)** | [原文](https://weibo.com/6105753431/PrXbywknk) | 时间: 2025-05-15 10:02 
-  Cursor官方发布模型选择指南，建议从三个维度考量：自信度（如Gemini-2.5-pro快速决策）、思考深度（如Claude-3....
+- **[#Cursor官方指南教你选模型##如何在Cursor中选择正确的模型#还不知道如何在Cursor里选择最适合你的模型？官方教程都来啦！Cursor官网发布了一份指南，直接把应该...](2025-05-15/#Cursor官方指南教你选模型##如何在Cursor中选择正确的模型#还不知道如何在Cursor里选择最适合你的模型？官方教程都来啦！Cursor官网发布了一份指南，直接把应该....md)** | [原文](https://weibo.com/6105753431/PrXbywknk) | 时间: 2025-05-15 11:02 
+  Cursor官方发布模型选择指南，从三个维度推荐不同任务适用的AI模型：1)自信度（如Gemini-2.5-pro需最少提示）；2)思...
 
-- **[Public Constitutional AI](2025-05-15/Public_Constitutional_AI.md)** | [原文](http://arxiv.org/abs/2406.16696v2) | 时间: 2025-05-15 10:02 
-  随着AI在医疗、教育、法律等领域的广泛应用，确保其决策合法性成为关键问题。本文提出"公共宪法AI"方案，主张...
+- **[ICLR Points: How Many ICLR Publications Is One Paper in Each Area?](2025-05-15/ICLR_Points-_How_Many_ICLR_Publications_Is_One_Paper_in_Each_Area.md)** | [原文](http://arxiv.org/abs/2503.16623v4) | 时间: 2025-05-15 11:02 
+  这篇论文提出了"ICLR点数"的概念，用于衡量计算机科学不同子领域发表顶级会议论文的平均工作量（以ICLR、ICML和N...
 
-- **[WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models](2025-05-15/WorldView-Bench-_A_Benchmark_for_Evaluating_Global_Cultural_Perspectives_in_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2505.09595v1) | 时间: 2025-05-15 10:01 
-  当前大语言模型（LLMs）的训练和校准主要基于西方中心视角，导致文化同质化，难以反映全球文明多样性。为此...
+- **[WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models](2025-05-15/WorldView-Bench-_A_Benchmark_for_Evaluating_Global_Cultural_Perspectives_in_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2505.09595v1) | 时间: 2025-05-15 11:01 
+  当前大型语言模型（LLMs）的训练和校准主要基于西方中心主义认知体系，导致文化同质化，难以反映全球文明多...
 
-- **[Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis](2025-05-15/Multi-Agent_Reinforcement_Learning_Simulation_for_Environmental_Policy_Synthesis.md)** | [原文](http://arxiv.org/abs/2504.12777v2) | 时间: 2025-05-15 10:01 
-  气候变化政策制定面临深度不确定性、复杂系统动态和利益冲突等挑战。传统气候模拟方法主要用于评估政策而非...
+- **[Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach](2025-05-15/Ethics_and_Persuasion_in_Reinforcement_Learning_from_Human_Feedback-_A_Procedural_Rhetorical_Approach.md)** | [原文](http://arxiv.org/abs/2505.09576v1) | 时间: 2025-05-15 11:01 
+  2022年以来，ChatGPT等生成式AI聊天机器人采用"人类反馈强化学习"(RLHF)技术，通过人工标注优化输出，使语言模型表...
 
-- **[Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors](2025-05-15/Customizing_a_Large_Language_Model_for_VHDL_Design_of_High-Performance_Microprocessors.md)** | [原文](http://arxiv.org/abs/2505.09610v1) | 时间: 2025-05-15 10:01 
-  近年来，大型语言模型（LLM）在硬件设计中的应用逐渐兴起，主要用于提升芯片设计效率。虽然Verilog设计中的LLM...
+- **[Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors](2025-05-15/Customizing_a_Large_Language_Model_for_VHDL_Design_of_High-Performance_Microprocessors.md)** | [原文](http://arxiv.org/abs/2505.09610v1) | 时间: 2025-05-15 11:01 
+  近年来，大型语言模型(LLMs)在硬件设计中的应用逐渐兴起，主要被集成到提升芯片设计效率的工具中。虽然Verilog...
 
-- **[How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference](2025-05-15/How_Hungry_is_AI_Benchmarking_Energy,_Water,_and_Carbon_Footprint_of_LLM_Inference.md)** | [原文](http://arxiv.org/abs/2505.09598v1) | 时间: 2025-05-15 10:01 
-  该研究提出了首个量化商业数据中心中30种先进大语言模型(LLM)推理环境足迹的框架，结合API性能数据和区域环境...
+- **[How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference](2025-05-15/How_Hungry_is_AI_Benchmarking_Energy,_Water,_and_Carbon_Footprint_of_LLM_Inference.md)** | [原文](http://arxiv.org/abs/2505.09598v1) | 时间: 2025-05-15 11:01 
+  该研究提出了首个基础设施感知的基准框架，用于量化30种商业大语言模型(LLM)推理阶段的环境足迹。研究发现：o3...
 
-- **[Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach](2025-05-15/Ethics_and_Persuasion_in_Reinforcement_Learning_from_Human_Feedback-_A_Procedural_Rhetorical_Approach.md)** | [原文](http://arxiv.org/abs/2505.09576v1) | 时间: 2025-05-15 10:01 
-  2022年以来，ChatGPT等生成式AI通过"人类反馈强化学习"(RLHF)技术进行优化，使输出更趋近人类表达。这种技术进步虽...
-
-- **[Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?](2025-05-15/Language_Agents_Mirror_Human_Causal_Reasoning_Biases._How_Can_We_Help_Them_Think_Like_Scientists.md)** | [原文](http://arxiv.org/abs/2505.09614v1) | 时间: 2025-05-15 10:00 
-  该研究探讨了语言模型（LM）在因果推理中的表现，发现它们能可靠推断常见的析取因果关系，但系统性地难以处...
+- **[Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?](2025-05-15/Language_Agents_Mirror_Human_Causal_Reasoning_Biases._How_Can_We_Help_Them_Think_Like_Scientists.md)** | [原文](http://arxiv.org/abs/2505.09614v1) | 时间: 2025-05-15 11:00 
+  该研究探讨了语言模型（LM）在因果推理中的能力，发现LM能可靠推断常见的析取因果关系，但系统性地难以处理...
 
 - **[#Switch2硬件规格被实锤##Switch2搭载英伟达定制芯片#Switch 2的硬件规格被实锤了？Digital Foundry（数毛社）确认，Switch 2采用了英伟达量身定制的Tegra T239...](2025-05-15/#Switch2硬件规格被实锤##Switch2搭载英伟达定制芯片#Switch_2的硬件规格被实锤了？Digital_Foundry（数毛社）确认，Switch_2采用了英伟达量身定制的Tegra_T239....md)** | [原文](https://weibo.com/6105753431/PrURBceJz) | 时间: 2025-05-15 09:04 
   Switch 2确认搭载英伟达定制Tegra T239芯片（Ampere架构），首次放弃现成芯片方案。性能表现呈现显著模式差异：底座...
