@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-Cursor官方发布模型选择指南，建议从三个维度考量：自信度（如Gemini-2.5-pro快速决策）、思考深度（如o3深入规划）、上下文容量（大任务需高容量模型）。模型分为思考型（自主推断，如Claude-3.7-sonnet）和非思考型（需明确指令，如GPT-4.1）。按任务推荐：小修改选Claude-3.5-sonnet，大规模重构用Claude-3.7-Sonnet，复杂bug修复用o3。附选择流程图辅助决策。指南链接：https://docs.cursor.com/guides/selecting-models
+Cursor官方发布模型选择指南，从三个维度推荐：自信度（如Gemini-2.5-pro快速决策）、思考深度（如o3深入推理）、上下文容量（大任务适用）。模型分为思考型（自主规划，如Claude-3.7-sonnet）和非思考型（精准响应，如GPT-4.1）。按任务场景推荐：小修改用Claude-3.5-sonnet，大规模重构用Gemini-2.5-Pro，复杂bug修复用o3。附选择流程图辅助决策。指南链接：https://docs.cursor.com/guides/selecting-models （100字）
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-15T13:10:25Z
+- **保存时间**: 2025-05-15T14:02:17Z
 - **目录日期**: 2025-05-15
