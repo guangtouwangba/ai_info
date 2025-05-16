@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-视觉语言模型（VLM）近期取得显著进展，涵盖五大架构趋势：支持多模态输入输出的Any-to-any模型（如Chameleon、Qwen 2.5 Omni）、推理模型（如QVQ-72B）、轻量级模型（如SmolVLM）、混合专家解码模型（如Kimi-VL）及机器人应用模型（如GR00T N1）。新能力包括物体检测/分割、多模态安全过滤（ShieldGemma 2）和文档检索增强（RAG）。视频处理与UI交互模型（如Qwen2.5-VL）快速发展，新基准测试集MMT-Bench和MMMU-Pro推动评估标准化。详情见HuggingFace博客。
+视觉语言模型（VLM）近期取得显著进展，涵盖五大架构趋势：支持多模态输入输出的Any-to-any模型（如Chameleon、Qwen 2.5 Omni）、推理模型（如QVQ-72B）、轻量化模型（如SmolVLM）、混合专家解码模型（如Kimi-VL）及机器人应用模型（如GR00T N1）。新能力包括物体检测/分割、多模态安全过滤（ShieldGemma 2）和文档处理RAG技术。视频理解与UI交互模型（如Qwen2.5-VL）及新基准测试（MMMU-Pro）推动领域发展。详情见HuggingFace博客。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-16T15:03:44Z
+- **保存时间**: 2025-05-16T16:04:04Z
 - **目录日期**: 2025-05-16
