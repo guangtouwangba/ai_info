@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-视觉语言模型(VLM)近期取得显著进展，主要呈现五大趋势：1)多模态Any-to-any架构(如Chameleon、Qwen2.5 Omni)；2)增强推理能力(QVQ-72B、Kimi-VL)；3)轻量化模型(SmolVLM、gemma3-4b)；4)混合专家解码器(Kimi-VL、MoE-LLaVA)；5)机器人应用(π0、GR00T)。新能力包括：物体检测/分割(PaliGemma)、多模态安全过滤(ShieldGemma2)、文档理解RAG系统。视频处理(LongVU)和UI交互(UI-TARS)成为新方向。MMT-Bench等新基准测试模型综合能力。整体发展呈现多模态融合、轻量化、专业化应用等特点。
+视觉语言模型(VLM)近期取得显著进展，主要呈现五大趋势：1)多模态Any-to-any架构(如Chameleon、Qwen 2.5 Omni)；2)强化推理能力(QVQ-72B、Kimi-VL)；3)轻量化模型(SmolVLM、gemma3-4b)；4)混合专家解码(Kimi-VL、MoE-LLaVA)；5)机器人应用(π0、GR00T N1)。新能力包括：物体检测/分割(PaliGemma)、多模态安全过滤(ShieldGemma 2)、文档理解(RAG改进)。视频处理采用关键帧筛选(LongVU)，智能体可操作UI界面(UI-TARS-1.5)。新基准MMT-Bench和MMMU-Pro评估专业多模态能力。整体向更高效、多任务、安全可靠方向发展。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-16T10:03:09Z
+- **保存时间**: 2025-05-16T11:03:23Z
 - **目录日期**: 2025-05-16
