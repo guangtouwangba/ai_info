@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-MiniMax最新发布的TTS模型Speech-02在Artificial Analysis Speech Arena和Hugging Face TTS Arena两项全球权威语音测评中登顶，超越OpenAI和ElevenLabs，成为榜单前十中唯一的国产模型。该模型不仅性能达到SOTA级别，定价仅为竞品的1/2到1/4。此前爆火的"AI吴彦祖"语音功能即基于此技术，故宫AI向导等应用也采用了其语音生成与克隆能力。此次突破标志着国产AI语音技术已具备国际竞争力。
+MiniMax最新发布的TTS模型Speech-02在Artificial Analysis Speech Arena和Hugging Face TTS Arena两项全球权威语音测评中登顶，超越OpenAI和ElevenLabs，成为榜单前十中唯一的国产模型。该模型不仅性能达到SOTA水平，定价仅为竞品的1/2到1/4。其技术已应用于"AI吴彦祖"英语陪练和故宫AI向导等案例，支持语音生成与克隆。此次突破标志着国产AI语音技术达到国际领先水平。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-16T02:32:02Z
+- **保存时间**: 2025-05-16T03:21:14Z
 - **目录日期**: 2025-05-16
