@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-OpenAI透露GPT-5将整合多个产品功能，包括Codex、Operator、Deep Research和Memory，以减少模型切换。Codex团队爆料称，该编程智能体最初是业余开发的附带项目，但使内部编程效率提升3倍。OpenAI还在探索按需付费等灵活定价方案，并计划未来推出o3-pro或codex-1-pro版本。GPT-5或将成为"All in One"的集大成模型。
+OpenAI研究副总裁Jerry Tworek透露，下一代基础模型GPT-5计划整合Codex、Operator、Deep Research和Memory等功能，实现"All in One"集成。Codex团队爆料称，该编程智能体最初是内部工作流优化的业余项目，使用后编程效率提升约3倍。OpenAI正探索按需付费等灵活定价方案，并计划在团队能力允许时推出o3-pro或codex-1-pro版本。这些进展显示OpenAI正加速推进多模态AI系统的整合开发。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T22:02:51Z
+- **保存时间**: 2025-05-17T23:02:46Z
 - **目录日期**: 2025-05-17
