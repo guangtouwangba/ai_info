@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-OpenAI推出新一代AI编程工具Codex，基于codex-1模型（经OpenAI o3微调优化），专为软件工程任务设计。该工具能生成类人风格代码，支持编写功能、修复Bug、提PR等操作，并支持多任务并行。目前以"云端软件工程Agent"形式接入ChatGPT，Pro/Enterprise/Team用户可优先体验。同时推出精简版codex-mini-latest（基于o4-mini），API定价为输入$1.5/百万token，输出$6/百万token。CEO奥特曼盛赞其将显著提升个人开发效率，标志着AI编程进入新阶段。（99字）
+OpenAI推出AI编程工具Codex（基于codex-1模型），集成至ChatGPT。该模型经强化学习优化，能生成类人代码，支持编写功能、修复Bug、代码审查等任务。目前面向Pro/Enterprise/Team用户开放，Plus/Edu用户暂不可用。同时推出精简版codex-mini-latest，API定价为输入$1.5/百万token，输出$6/百万token。CEO奥特曼称赞其赋能个人开发者高效创建复杂软件。该工具仍处于研究预览阶段，标志着AI辅助编程的进一步突破。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T07:03:17Z
+- **保存时间**: 2025-05-17T08:03:24Z
 - **目录日期**: 2025-05-17
