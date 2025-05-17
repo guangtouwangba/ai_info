@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-OpenAI推出编程AI神器Codex，集成至ChatGPT。该模型基于OpenAI o3优化，能生成类人风格代码，执行编写、调试、提PR等任务。目前面向Pro/Enterprise/Team用户开放研究预览，Plus/Edu用户暂不可用。同时推出精简版codex-mini-latest，API定价为输入$1.5/百万token，输出$6/百万token。CEO奥特曼盛赞其赋能个人开发者的潜力。此次更新是OpenAI收购Windsurf后首次重大动作，标志着AI编程工具进入新阶段。（99字）
+OpenAI推出新版AI编程工具Codex（基于codex-1模型），集成至ChatGPT。该工具经强化学习优化，能生成类人代码，支持编写功能、修复Bug、提PR等任务，可并行处理多项需求。目前面向Pro/Enterprise/Team用户开放，Plus/Edu版暂不可用。同时推出精简版codex-mini-latest（基于o4-mini），API定价为输入$1.5/百万token，输出$6/百万token。CEO奥特曼称赞其能赋能个人开发者高效创建复杂软件。此次更新是OpenAI收购Windsurf后的首波动作，标志着AI编程技术的进一步商业化。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T02:31:10Z
+- **保存时间**: 2025-05-17T03:19:00Z
 - **目录日期**: 2025-05-17

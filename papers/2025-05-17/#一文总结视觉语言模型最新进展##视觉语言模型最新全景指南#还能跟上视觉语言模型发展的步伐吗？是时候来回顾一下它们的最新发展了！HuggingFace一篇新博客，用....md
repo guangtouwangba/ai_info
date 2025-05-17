@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-HuggingFace最新博客总结了视觉语言模型(VLM)的八大进展趋势：1)多模态Any-to-any架构(如Chameleon、Qwen 2.5 Omni)；2)强化推理模型(QVQ-72B、Kimi-VL)；3)轻量化小模型(SmolVLM、Gemma3-4b)；4)混合专家解码器(Kimi-VL、MoE-LLaVA)；5)机器人应用模型(π0、GR00T N1)。新能力包括：物体检测/分割、多模态安全过滤、文档RAG处理。视频理解和UI交互模型(UI-TARS-1.5)涌现，新基准测试集MMT-Bench评估综合能力。整体呈现向多模态、轻量化、专业化方向发展的趋势。
+视觉语言模型(VLM)近期取得显著进展，主要呈现五大趋势：1)Any-to-any多模态架构(如Chameleon、Qwen2.5 Omni)；2)强化推理能力(QVQ-72B、Kimi-VL)；3)轻量化模型(SmolVLM、gemma3-4b)；4)混合专家解码器(Kimi-VL、MoE-LLaVA)；5)机器人应用(π0、GR00T)。新能力包括物体检测/分割(PaliGemma)、多模态安全过滤(ShieldGemma2)和文档RAG处理。视频理解(LongVU)和UI交互(UI-TARS)能力提升，MMT-Bench等新基准推动评估标准化。整体向多模态、轻量化、专业化方向发展。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T02:32:23Z
+- **保存时间**: 2025-05-17T03:20:31Z
 - **目录日期**: 2025-05-17
