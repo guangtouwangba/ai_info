@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-llamafile现已支持Qwen3大模型，这是一个创新的开源推理框架，结合了llama.cpp和Cosmopolitan Libc技术。其最大特点是高度便携性——将运行所需的所有组件集成到单个可执行文件中，用户只需下载一个llamafile文件即可直接运行大模型，无需复杂的环境配置。该项目由Mozilla-Ocho团队开发，显著降低了本地部署大语言模型的门槛，特别适合快速测试和移动场景使用。项目地址：github.com/Mozilla-Ocho/llamafile。
+llamafile现已支持Qwen3模型，这是一个创新的开源推理框架，将llama.cpp和Cosmopolitan Libc库整合为单一可执行文件。其最大特点是高度便携——无需安装复杂依赖，仅需下载一个文件即可直接运行大语言模型。项目由Mozilla-Ocho团队开发，托管在GitHub（github.com/Mozilla-Ocho/llamafile），显著降低了本地部署AI模型的技术门槛。该方案特别适合需要快速启动模型的场景，体现了开源社区推动AI技术平民化的努力。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T17:04:03Z
+- **保存时间**: 2025-05-17T18:03:55Z
 - **目录日期**: 2025-05-17
