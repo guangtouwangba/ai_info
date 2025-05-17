@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-OpenAI研究副总裁透露，下一代GPT-5将整合Codex、Operator、Deep Research和Memory等多项功能，打造"All in One"模型。Codex团队爆料称，这个最强编程AI最初只是业余项目，但已使内部编程效率提升3倍。OpenAI正在探索按需付费等灵活定价方案，并计划在团队能力允许时推出o3-pro或codex-1-pro版本。这些进展显示OpenAI正加速AI产品的集成化发展。
+OpenAI研究副总裁Jerry Tworek透露，GPT-5计划整合Codex、Operator、Deep Research和Memory等功能，实现"All in One"模型。Codex团队爆料称，该编程AI最初只是附带项目，但使内部编程效率提升3倍。OpenAI正探索按需付费等灵活定价方案，并计划在团队能力允许时推出o3-pro或codex-1-pro版本。Codex作为目前最强编程AI，其开发过程展现了OpenAI在模型整合方面的战略方向。（98字）
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T08:03:07Z
+- **保存时间**: 2025-05-17T09:03:20Z
 - **目录日期**: 2025-05-17
