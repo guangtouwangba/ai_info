@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-该开发者基于RISC-V H-extension实现了Hypervisor虚拟化支持，在其自研操作系统Starina上成功运行Linux。过程包括：进入Guest模式、处理ecall指令、实现Guest输出、加载Linux内核并解决设备树缺失问题、支持时间读取和定时器中断、模拟MMIO设备，以及通过virtio-fs实现文件共享。最终在QEMU环境中完成开发，利用GDB调试工具确保Hypervisor和Guest的稳定运行。这一系列步骤展示了从零构建RISC-V虚拟化环境的完整流程。
+这篇博客详细记录了开发者基于RISC-V H-extension实现Hypervisor并运行Linux的全过程。从进入Guest模式开始，通过设置CSR寄存器、构建Guest页表、处理系统调用，到解决设备树缺失问题、支持时间读取和定时器中断，最终模拟MMIO设备并接入virtio-fs文件系统。开发者成功在自研操作系统Starina上运行Linux内核，整个过程在QEMU中完成，利用其RISC-V H-extension模拟和GDB调试支持，实现了高效的开发体验。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-17T16:02:54Z
+- **保存时间**: 2025-05-17T17:02:43Z
 - **目录日期**: 2025-05-17
