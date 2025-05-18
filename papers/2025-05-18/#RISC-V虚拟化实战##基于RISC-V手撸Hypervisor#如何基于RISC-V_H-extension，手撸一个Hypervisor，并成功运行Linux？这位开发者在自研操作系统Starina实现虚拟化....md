@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-这篇博客记录了开发者基于RISC-V H-extension实现Hypervisor并运行Linux的全过程。通过9个关键步骤：进入Guest模式、执行ecall指令、输出Hello World、加载Linux内核、添加设备树、支持时间读取、处理定时器中断、模拟MMIO设备，以及接入virtio-fs文件系统，最终在自研操作系统Starina上成功运行Linux。整个过程利用QEMU的RISC-V H-extension模拟和GDB调试功能，实现了从零构建轻量级虚拟机环境的目标，展示了RISC-V虚拟化的实战应用。
+这篇博客详细记录了开发者基于RISC-V H-extension实现Hypervisor并运行Linux的全过程。从进入Guest模式、处理系统调用、输出Hello World，到解决设备树缺失问题、支持时间读取和中断注入，再到模拟MMIO设备和接入virtio-fs文件系统，共9个关键步骤。最终在自研操作系统Starina上成功运行Linux，架构类似WSL2。整个过程利用了QEMU的RISC-V H-extension模拟和GDB调试支持，开发体验流畅。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-18T04:06:51Z
+- **保存时间**: 2025-05-18T05:03:22Z
 - **目录日期**: 2025-05-18
