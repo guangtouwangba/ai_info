@@ -1,0 +1,37 @@
+# Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks
+
+**URL**: http://arxiv.org/abs/2505.11461v1
+
+## 原始摘要
+
+Classic multi-agent reinforcement learning (MARL) methods require that agents
+enjoy global state observability, preventing development of decentralized
+algorithms and limiting scalability. Recent work has shown that, under
+assumptions on decaying inter-agent influence, global observability can be
+replaced by local neighborhood observability at each agent, enabling
+decentralization and scalability. Real-world applications enjoying such decay
+properties remain underexplored, however, despite the fact that signal power
+decay, or signal attenuation, due to path loss is an intrinsic feature of many
+problems in wireless communications and radar networks. In this paper, we show
+that signal attenuation enables decentralization in MARL by considering the
+illustrative special case of performing power allocation for target detection
+in a radar network. To achieve this, we propose two new constrained multi-agent
+Markov decision process formulations of this power allocation problem, derive
+local neighborhood approximations for global value function and gradient
+estimates and establish corresponding error bounds, and develop decentralized
+saddle point policy gradient algorithms for solving the proposed problems. Our
+approach, though oriented towards the specific radar network problem we
+consider, provides a useful model for future extensions to additional problems
+in wireless communications and radar networks.
+
+
+## AI 摘要
+
+传统多智能体强化学习（MARL）需要全局状态可观测性，限制了算法的去中心化和可扩展性。研究表明，在智能体间影响衰减的假设下，局部邻域观测可替代全局观测，但现实应用仍待探索。本文以雷达网络中的目标检测功率分配为例，证明信号衰减能实现MARL的去中心化。作者提出两种约束多智能体马尔可夫决策模型，推导全局价值函数和梯度的局部邻域近似及其误差界，并开发去中心化鞍点策略梯度算法。该方法虽针对雷达网络设计，但为无线通信和雷达网络的其他问题提供了扩展模型。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-19T02:32:28Z
+- **目录日期**: 2025-05-19
