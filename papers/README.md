@@ -4,129 +4,147 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
-
-**摘要**: 该论文针对代码生成大模型(codeLLMs)提出创新评估方法，指出当前基准测试过度关注代码正确性而忽视人类偏好匹...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-20 21:05
-
----
-
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-20 21:05
+**收录时间**: 2025-05-20 22:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译及科研动态订阅等一站式服务。它收录了3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-20 21:05
+**收录时间**: 2025-05-20 22:05
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出两个创新：1)创建CodeArena基准测试(397个样本/44种语言)，首次系统评估模...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-05-20 22:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-20 21:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-20 21:05
-
----
-
-### [#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求...](2025-05-20/#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求....md)
-
-**摘要**: 智源研究院近日联合多所高校发布三款高性能向量模型：BGE-Code-v1（代码向量）、BGE-VL-v1.5（多模态向量）和BGE-VL-S...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsHHgCFN6)
-**收录时间**: 2025-05-20 21:04
+**收录时间**: 2025-05-20 22:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-20 21:04
+**收录时间**: 2025-05-20 22:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时依据梯度...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-20 21:04
+**收录时间**: 2025-05-20 22:04
 
 ---
 
-### [#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale Labs的CEO——Benjamin Bolte。开场Ben...](2025-05-20/#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale_Labs的CEO——Benjamin_Bolte。开场Ben....md)
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: K-Scale Labs CEO Benjamin Bolte讲解了人形机器人训练原理。核心方法是强化学习：先设定目标（如保持平衡），在MuJoCo...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个AI代理的社会互动（500万次交互）。该系统通...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsHLd2mSd)
-**收录时间**: 2025-05-20 21:04
-
----
-
-### [#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个...](2025-05-20/#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个....md)
-
-**摘要**: 卡尔加里大学研究发现，生物体会自发释放超弱光子（UPE），这种微光与生命活性相关。实验显示活体老鼠发光明...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsI4lrjPE)
-**收录时间**: 2025-05-20 21:03
-
----
-
-### [#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub Copilot证明...](2025-05-20/#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub_Copilot证明....md)
-
-**摘要**: 陶哲轩发布最新AI教程，演示如何正确使用GitHub Copilot辅助数学证明。视频详细展示了引导AI工具证明函数极限问题...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsHTkAxID)
-**收录时间**: 2025-05-20 21:03
-
----
-
-### [#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义...](2025-05-20/#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义....md)
-
-**摘要**: Zod 4是TypeScript验证库的重大更新版本，修复了Zod 3长期存在的多项设计局限。主要亮点包括：对象解析速度提升7倍...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsHQf80UP)
-**收录时间**: 2025-05-20 21:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-20 22:04
 
 ---
 
 ### [#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A/T pose的角色多视图+360°角色旋转演...](2025-05-20/#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A-T_pose的角色多视图+360°角色旋转演....md)
 
-**摘要**: 腾讯混元发布游戏视觉生成平台，推出工业级AIGC游戏资产生成大模型Hunyuan-Game。该平台可将手绘草图一键转化为...
+**摘要**: 腾讯混元发布游戏视觉生成平台，推出工业级AIGC游戏资产生成大模型Hunyuan-Game。该平台可将手绘草图一键转换为...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsHNh2zun)
-**收录时间**: 2025-05-20 21:03
+**收录时间**: 2025-05-20 22:03
+
+---
+
+### [#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个...](2025-05-20/#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个....md)
+
+**摘要**: 卡尔加里大学研究发现，生物体会自发产生超弱光子发射(UPE)，这种肉眼不可见的"生物微光"与生命活性密切相关...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsI4lrjPE)
+**收录时间**: 2025-05-20 22:03
+
+---
+
+### [#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义...](2025-05-20/#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义....md)
+
+**摘要**: Zod 4是TypeScript数据验证库的重大更新版本，解决了Zod 3长期存在的多项设计问题。主要改进包括：对象解析速度提...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsHQf80UP)
+**收录时间**: 2025-05-20 22:03
+
+---
+
+### [#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求...](2025-05-20/#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求....md)
+
+**摘要**: 智源研究院近日发布三款向量模型BGE-Code-v1（代码向量）、BGE-VL-v1.5（多模态向量）和BGE-VL-Screenshot（视觉化文档向...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsHHgCFN6)
+**收录时间**: 2025-05-20 22:03
 
 ---
 
 ### [#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但...](2025-05-20/#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow_Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但....md)
 
-**摘要**: 该内容对比了两种生成模型Flow Matching和Diffusion的工作机制：Flow Matching通过连续的向量场规划直接路径，粒子移动...
+**摘要**: 该微博对比了两种生成模型Flow Matching（流匹配）和Diffusion（扩散模型）的生成过程差异。Flow Matching通过连续向量...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsHRf6OnB)
-**收录时间**: 2025-05-20 21:03
+**收录时间**: 2025-05-20 22:03
+
+---
+
+### [#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale Labs的CEO——Benjamin Bolte。开场Ben...](2025-05-20/#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale_Labs的CEO——Benjamin_Bolte。开场Ben....md)
+
+**摘要**: K-Scale Labs CEO Benjamin Bolte讲解了人形机器人训练原理，核心采用强化学习（RL）方法：在MuJoCo仿真环境中设定目标（...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsHLd2mSd)
+**收录时间**: 2025-05-20 22:03
+
+---
+
+### [#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub Copilot证明...](2025-05-20/#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub_Copilot证明....md)
+
+**摘要**: 陶哲轩发布新教程，演示如何正确使用GitHub Copilot辅助证明数学定理。视频从函数极限问题出发，详细展示求和、...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsHTkAxID)
+**收录时间**: 2025-05-20 22:03
+
+---
+
+### [#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-20/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)
+
+**摘要**: 国外网友将280万篇学术论文可视化为星空图谱，用户可通过旋转视角探索不同研究领域，输入arXiv论文编号即可定...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsIwjy5HF)
+**收录时间**: 2025-05-20 22:02
+
+---
+
+### [#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-20/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)
+
+**摘要**: 这篇微博汇总了9个重要的AI概念图解：1) MCP作为AI标准化接口协议；2) Transformer与MoE架构差异；3) KV缓存加速推理技...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsIgB7QoX)
+**收录时间**: 2025-05-20 22:02
 
 ---
 
@@ -135,52 +153,34 @@
 **摘要**: 微软Azure AI Foundry平台将引入Grok 3模型，提供标准SLA服务和统一计费。Elon Musk在微软Build活动上介绍了Grok 3....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsIaixEWH)
-**收录时间**: 2025-05-20 21:03
-
----
-
-### [#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-20/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)
-
-**摘要**: 国外网友将280万篇学术论文可视化为一幅"人类智慧星图"，通过交互式星空形式呈现。用户可自由转动视角探索不...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsIwjy5HF)
-**收录时间**: 2025-05-20 21:02
-
----
-
-### [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](2025-05-20/Cosmos-Reason1-_From_Physical_Common_Sense_To_Embodied_Reasoning.md)
-
-**摘要**: 本文介绍了Cosmos-Reason1模型，该模型能通过长链思维推理理解物理世界并生成适当的具身决策（如下一步动作）。...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.15558v3)
-**收录时间**: 2025-05-20 21:02
+**收录时间**: 2025-05-20 22:02
 
 ---
 
 ### [XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](2025-05-20/XOXO-_Stealthy_Cross-Origin_Context_Poisoning_Attacks_against_AI_Coding_Assistants.md)
 
-**摘要**: 研究人员提出了一种名为XOXO的新型攻击方法——跨源上下文投毒攻击，能够通过语义等效的恶意代码修改来操控AI...
+**摘要**: AI编程助手广泛用于代码生成等任务，但其自动收集的上下文（跨文件、项目等）存在安全漏洞。研究提出新型攻...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2503.14281v2)
-**收录时间**: 2025-05-20 21:02
+**收录时间**: 2025-05-20 22:02
 
 ---
 
-### [#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-20/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)
+### [Evaluating Mathematical Reasoning Across Large Language Models: A Fine-Grained Approach](2025-05-20/Evaluating_Mathematical_Reasoning_Across_Large_Language_Models-_A_Fine-Grained_Approach.md)
 
-**摘要**: 这组AI概念解析图汇总了9个关键技术：1) MCP作为AI标准化接口协议；2) MoE与Transformer架构差异；3) KV缓存加速推理技...
+**摘要**: 本研究系统评估了8种主流大语言模型(LLMs)在数学推理任务中的表现，包括两个DeepSeek模型。关键发现：1)DeepSeek-R1...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsIgB7QoX)
-**收录时间**: 2025-05-20 21:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.10573v2)
+**收录时间**: 2025-05-20 22:02
 
 ---
 
-### [REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?](2025-05-20/REI-Bench-_Can_Embodied_Agents_Understand_Vague_Human_Instructions_in_Task_Planning.md)
+### [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](2025-05-20/Cosmos-Reason1-_From_Physical_Common_Sense_To_Embodied_Reasoning.md)
 
-**摘要**: 这篇论文研究了基于大语言模型(LLM)的机器人任务规划中模糊指代表达(REs)带来的挑战。作者创建了首个包含模糊RE...
+**摘要**: 这篇论文提出了Cosmos-Reason1模型，旨在通过长链思维推理理解物理世界并生成合适的具身决策。研究定义了物理AI...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.10872v2)
-**收录时间**: 2025-05-20 21:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.15558v3)
+**收录时间**: 2025-05-20 22:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-20 (70篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-20 21:05 
-  该论文针对代码生成大模型(codeLLMs)提出创新评估方法，指出当前基准测试过度关注代码正确性而忽视人类偏好匹...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-20 22:05 
+  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-20 21:05 
-  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-20 22:05 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译及科研动态订阅等一站式服务。它收录了3....
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-20 21:05 
-  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-20 22:05 
+  这篇论文针对代码生成大模型(codeLLMs)提出两个创新：1)创建CodeArena基准测试(397个样本/44种语言)，首次系统评估模...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-20 21:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-20 22:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-20 21:05 
-  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了1万多个AI代理的社会生活，...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-20 22:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
-- **[#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求...](2025-05-20/#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求....md)** | [原文](https://weibo.com/6105753431/PsHHgCFN6) | 时间: 2025-05-20 21:04 
-  智源研究院近日联合多所高校发布三款高性能向量模型：BGE-Code-v1（代码向量）、BGE-VL-v1.5（多模态向量）和BGE-VL-S...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-20 22:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时依据梯度...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-20 21:04 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-20 22:04 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个AI代理的社会互动（500万次交互）。该系统通...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-20 21:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+- **[#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A/T pose的角色多视图+360°角色旋转演...](2025-05-20/#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A-T_pose的角色多视图+360°角色旋转演....md)** | [原文](https://weibo.com/6105753431/PsHNh2zun) | 时间: 2025-05-20 22:03 
+  腾讯混元发布游戏视觉生成平台，推出工业级AIGC游戏资产生成大模型Hunyuan-Game。该平台可将手绘草图一键转换为...
 
-- **[#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale Labs的CEO——Benjamin Bolte。开场Ben...](2025-05-20/#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale_Labs的CEO——Benjamin_Bolte。开场Ben....md)** | [原文](https://weibo.com/6105753431/PsHLd2mSd) | 时间: 2025-05-20 21:04 
-  K-Scale Labs CEO Benjamin Bolte讲解了人形机器人训练原理。核心方法是强化学习：先设定目标（如保持平衡），在MuJoCo...
+- **[#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个...](2025-05-20/#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个....md)** | [原文](https://weibo.com/6105753431/PsI4lrjPE) | 时间: 2025-05-20 22:03 
+  卡尔加里大学研究发现，生物体会自发产生超弱光子发射(UPE)，这种肉眼不可见的"生物微光"与生命活性密切相关...
 
-- **[#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个...](2025-05-20/#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个....md)** | [原文](https://weibo.com/6105753431/PsI4lrjPE) | 时间: 2025-05-20 21:03 
-  卡尔加里大学研究发现，生物体会自发释放超弱光子（UPE），这种微光与生命活性相关。实验显示活体老鼠发光明...
+- **[#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义...](2025-05-20/#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义....md)** | [原文](https://weibo.com/6105753431/PsHQf80UP) | 时间: 2025-05-20 22:03 
+  Zod 4是TypeScript数据验证库的重大更新版本，解决了Zod 3长期存在的多项设计问题。主要改进包括：对象解析速度提...
 
-- **[#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub Copilot证明...](2025-05-20/#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub_Copilot证明....md)** | [原文](https://weibo.com/6105753431/PsHTkAxID) | 时间: 2025-05-20 21:03 
-  陶哲轩发布最新AI教程，演示如何正确使用GitHub Copilot辅助数学证明。视频详细展示了引导AI工具证明函数极限问题...
+- **[#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求...](2025-05-20/#智源发布三款向量模型##智源新模型刷新多项SOTA#检索增强技术在代码及多模态场景中的发挥着重要作用，而向量模型是检索增强体系中的重要组成部分。针对这一需求....md)** | [原文](https://weibo.com/6105753431/PsHHgCFN6) | 时间: 2025-05-20 22:03 
+  智源研究院近日发布三款向量模型BGE-Code-v1（代码向量）、BGE-VL-v1.5（多模态向量）和BGE-VL-Screenshot（视觉化文档向...
 
-- **[#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义...](2025-05-20/#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义....md)** | [原文](https://weibo.com/6105753431/PsHQf80UP) | 时间: 2025-05-20 21:03 
-  Zod 4是TypeScript验证库的重大更新版本，修复了Zod 3长期存在的多项设计局限。主要亮点包括：对象解析速度提升7倍...
+- **[#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但...](2025-05-20/#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow_Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但....md)** | [原文](https://weibo.com/6105753431/PsHRf6OnB) | 时间: 2025-05-20 22:03 
+  该微博对比了两种生成模型Flow Matching（流匹配）和Diffusion（扩散模型）的生成过程差异。Flow Matching通过连续向量...
 
-- **[#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A/T pose的角色多视图+360°角色旋转演...](2025-05-20/#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A-T_pose的角色多视图+360°角色旋转演....md)** | [原文](https://weibo.com/6105753431/PsHNh2zun) | 时间: 2025-05-20 21:03 
-  腾讯混元发布游戏视觉生成平台，推出工业级AIGC游戏资产生成大模型Hunyuan-Game。该平台可将手绘草图一键转化为...
+- **[#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale Labs的CEO——Benjamin Bolte。开场Ben...](2025-05-20/#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale_Labs的CEO——Benjamin_Bolte。开场Ben....md)** | [原文](https://weibo.com/6105753431/PsHLd2mSd) | 时间: 2025-05-20 22:03 
+  K-Scale Labs CEO Benjamin Bolte讲解了人形机器人训练原理，核心采用强化学习（RL）方法：在MuJoCo仿真环境中设定目标（...
 
-- **[#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但...](2025-05-20/#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow_Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但....md)** | [原文](https://weibo.com/6105753431/PsHRf6OnB) | 时间: 2025-05-20 21:03 
-  该内容对比了两种生成模型Flow Matching和Diffusion的工作机制：Flow Matching通过连续的向量场规划直接路径，粒子移动...
+- **[#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub Copilot证明...](2025-05-20/#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub_Copilot证明....md)** | [原文](https://weibo.com/6105753431/PsHTkAxID) | 时间: 2025-05-20 22:03 
+  陶哲轩发布新教程，演示如何正确使用GitHub Copilot辅助证明数学定理。视频从函数极限问题出发，详细展示求和、...
 
-- **[#微软Azure引入Grok3# 微软宣布，微软的Azure AI Foundry平台，将引入Grok 3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。 - ...](2025-05-20/#微软Azure引入Grok3#_微软宣布，微软的Azure_AI_Foundry平台，将引入Grok_3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。_-_....md)** | [原文](https://weibo.com/6105753431/PsIaixEWH) | 时间: 2025-05-20 21:03 
+- **[#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-20/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)** | [原文](https://weibo.com/6105753431/PsIwjy5HF) | 时间: 2025-05-20 22:02 
+  国外网友将280万篇学术论文可视化为星空图谱，用户可通过旋转视角探索不同研究领域，输入arXiv论文编号即可定...
+
+- **[#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-20/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)** | [原文](https://weibo.com/6105753431/PsIgB7QoX) | 时间: 2025-05-20 22:02 
+  这篇微博汇总了9个重要的AI概念图解：1) MCP作为AI标准化接口协议；2) Transformer与MoE架构差异；3) KV缓存加速推理技...
+
+- **[#微软Azure引入Grok3# 微软宣布，微软的Azure AI Foundry平台，将引入Grok 3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。 - ...](2025-05-20/#微软Azure引入Grok3#_微软宣布，微软的Azure_AI_Foundry平台，将引入Grok_3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。_-_....md)** | [原文](https://weibo.com/6105753431/PsIaixEWH) | 时间: 2025-05-20 22:02 
   微软Azure AI Foundry平台将引入Grok 3模型，提供标准SLA服务和统一计费。Elon Musk在微软Build活动上介绍了Grok 3....
 
-- **[#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-20/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)** | [原文](https://weibo.com/6105753431/PsIwjy5HF) | 时间: 2025-05-20 21:02 
-  国外网友将280万篇学术论文可视化为一幅"人类智慧星图"，通过交互式星空形式呈现。用户可自由转动视角探索不...
+- **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](2025-05-20/XOXO-_Stealthy_Cross-Origin_Context_Poisoning_Attacks_against_AI_Coding_Assistants.md)** | [原文](http://arxiv.org/abs/2503.14281v2) | 时间: 2025-05-20 22:02 
+  AI编程助手广泛用于代码生成等任务，但其自动收集的上下文（跨文件、项目等）存在安全漏洞。研究提出新型攻...
 
-- **[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](2025-05-20/Cosmos-Reason1-_From_Physical_Common_Sense_To_Embodied_Reasoning.md)** | [原文](http://arxiv.org/abs/2503.15558v3) | 时间: 2025-05-20 21:02 
-  本文介绍了Cosmos-Reason1模型，该模型能通过长链思维推理理解物理世界并生成适当的具身决策（如下一步动作）。...
+- **[Evaluating Mathematical Reasoning Across Large Language Models: A Fine-Grained Approach](2025-05-20/Evaluating_Mathematical_Reasoning_Across_Large_Language_Models-_A_Fine-Grained_Approach.md)** | [原文](http://arxiv.org/abs/2503.10573v2) | 时间: 2025-05-20 22:02 
+  本研究系统评估了8种主流大语言模型(LLMs)在数学推理任务中的表现，包括两个DeepSeek模型。关键发现：1)DeepSeek-R1...
 
-- **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](2025-05-20/XOXO-_Stealthy_Cross-Origin_Context_Poisoning_Attacks_against_AI_Coding_Assistants.md)** | [原文](http://arxiv.org/abs/2503.14281v2) | 时间: 2025-05-20 21:02 
-  研究人员提出了一种名为XOXO的新型攻击方法——跨源上下文投毒攻击，能够通过语义等效的恶意代码修改来操控AI...
+- **[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](2025-05-20/Cosmos-Reason1-_From_Physical_Common_Sense_To_Embodied_Reasoning.md)** | [原文](http://arxiv.org/abs/2503.15558v3) | 时间: 2025-05-20 22:02 
+  这篇论文提出了Cosmos-Reason1模型，旨在通过长链思维推理理解物理世界并生成合适的具身决策。研究定义了物理AI...
 
-- **[#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-20/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)** | [原文](https://weibo.com/6105753431/PsIgB7QoX) | 时间: 2025-05-20 21:02 
-  这组AI概念解析图汇总了9个关键技术：1) MCP作为AI标准化接口协议；2) MoE与Transformer架构差异；3) KV缓存加速推理技...
+- **[REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?](2025-05-20/REI-Bench-_Can_Embodied_Agents_Understand_Vague_Human_Instructions_in_Task_Planning.md)** | [原文](http://arxiv.org/abs/2505.10872v2) | 时间: 2025-05-20 22:01 
+  这篇论文研究了基于大语言模型(LLM)的机器人任务规划在面对人类模糊指代表达(REs)时的挑战。作者创建了首个包...
 
-- **[REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?](2025-05-20/REI-Bench-_Can_Embodied_Agents_Understand_Vague_Human_Instructions_in_Task_Planning.md)** | [原文](http://arxiv.org/abs/2505.10872v2) | 时间: 2025-05-20 21:02 
-  这篇论文研究了基于大语言模型(LLM)的机器人任务规划中模糊指代表达(REs)带来的挑战。作者创建了首个包含模糊RE...
+- **[A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut](2025-05-20/A_Dataless_Reinforcement_Learning_Approach_to_Rounding_Hyperplane_Optimization_for_Max-Cut.md)** | [原文](http://arxiv.org/abs/2505.13405v1) | 时间: 2025-05-20 22:01 
+  本文提出了一种基于强化学习的无训练数据方法，用于改进最大割问题(MaxCut)的近似解。传统Goemans-Williamson(GW)算法...
 
-- **[Evaluating Mathematical Reasoning Across Large Language Models: A Fine-Grained Approach](2025-05-20/Evaluating_Mathematical_Reasoning_Across_Large_Language_Models-_A_Fine-Grained_Approach.md)** | [原文](http://arxiv.org/abs/2503.10573v2) | 时间: 2025-05-20 21:02 
-  本研究系统评估了8个主流大语言模型(LLM)的数学推理能力，包括两个DeepSeek模型。结果显示：(1)DeepSeek-R1在多数领...
+- **[A large-scale analysis of public-facing, community-built chatbots on Character.AI](2025-05-20/A_large-scale_analysis_of_public-facing,_community-built_chatbots_on_Character.AI.md)** | [原文](http://arxiv.org/abs/2505.13354v1) | 时间: 2025-05-20 22:01 
+  这篇论文首次对Character.AI平台上的公共聊天机器人进行了大规模分析。该平台结合生成式AI和用户生成内容，允许...
 
-- **[Robin: A multi-agent system for automating scientific discovery](2025-05-20/Robin-_A_multi-agent_system_for_automating_scientific_discovery.md)** | [原文](http://arxiv.org/abs/2505.13400v1) | 时间: 2025-05-20 21:01 
-  研究人员开发了首个全自动化科学发现系统Robin，它能自主完成文献检索、假设生成、实验设计和数据分析等科研...
+- **[Robin: A multi-agent system for automating scientific discovery](2025-05-20/Robin-_A_multi-agent_system_for_automating_scientific_discovery.md)** | [原文](http://arxiv.org/abs/2505.13400v1) | 时间: 2025-05-20 22:01 
+  研究人员开发了首个全自动科学发现系统Robin，它能自主完成文献检索、假设生成、实验设计、数据分析和假设更...
 
-- **[A large-scale analysis of public-facing, community-built chatbots on Character.AI](2025-05-20/A_large-scale_analysis_of_public-facing,_community-built_chatbots_on_Character.AI.md)** | [原文](http://arxiv.org/abs/2505.13354v1) | 时间: 2025-05-20 21:01 
-  这篇论文首次对Character.AI平台上的公共聊天机器人进行了大规模分析。该平台结合生成式AI与用户生成内容，允许...
+- **[G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](2025-05-20/G1-_Bootstrapping_Perception_and_Reasoning_Abilities_of_Vision-Language_Model_via_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.13426v1) | 时间: 2025-05-20 22:01 
+  本文介绍了VLM-Gym，一个专为视觉语言模型（VLMs）设计的强化学习环境，旨在解决VLMs在视觉丰富交互环境（如游戏...
 
-- **[A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut](2025-05-20/A_Dataless_Reinforcement_Learning_Approach_to_Rounding_Hyperplane_Optimization_for_Max-Cut.md)** | [原文](http://arxiv.org/abs/2505.13405v1) | 时间: 2025-05-20 21:01 
-  本文提出了一种基于强化学习的无训练数据方法，用于改进最大割问题（MaxCut）的近似解。传统Goemans-Williamson（GW...
+- **[How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors](2025-05-20/How_Adding_Metacognitive_Requirements_in_Support_of_AI_Feedback_in_Practice_Exams_Transforms_Student_Learning_Behaviors.md)** | [原文](http://arxiv.org/abs/2505.13381v1) | 时间: 2025-05-20 22:01 
+  这项研究在大型STEM本科课程中测试了一个结合AI反馈与教材引用的模拟考试系统。系统要求学生解释答案并评估自...
 
-- **[G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](2025-05-20/G1-_Bootstrapping_Perception_and_Reasoning_Abilities_of_Vision-Language_Model_via_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.13426v1) | 时间: 2025-05-20 21:01 
-  本文介绍了VLM-Gym，一个专为视觉语言模型（VLMs）设计的强化学习环境，包含多样化的视觉游戏，支持统一接口和...
-
-- **[How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors](2025-05-20/How_Adding_Metacognitive_Requirements_in_Support_of_AI_Feedback_in_Practice_Exams_Transforms_Student_Learning_Behaviors.md)** | [原文](http://arxiv.org/abs/2505.13381v1) | 时间: 2025-05-20 21:01 
-  这项研究评估了一个在大型生物学课程中整合AI生成反馈与教材引用的模拟考试系统。系统要求学生解释答案并评...
-
-- **[Multi-Armed Bandits Meet Large Language Models](2025-05-20/Multi-Armed_Bandits_Meet_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2505.13355v1) | 时间: 2025-05-20 21:01 
-  本文探讨了多臂老虎机(Bandit)算法与大型语言模型(LLM)的协同潜力。老虎机算法可通过平衡探索与利用来优化LLM的...
+- **[Multi-Armed Bandits Meet Large Language Models](2025-05-20/Multi-Armed_Bandits_Meet_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2505.13355v1) | 时间: 2025-05-20 22:01 
+  这篇综述探讨了多臂老虎机算法（Bandit Algorithms）与大型语言模型（LLMs）的协同潜力。老虎机算法通过平衡探索与...
 
 - **[#抖音开展AI起号治理行动##抖音发布AI内容规范#抖音黑板报发布公告，启动针对“AI起号”的专项治理行动，整顿借助AI技术批量运营账号、售卖教程、制造虚假内容的...](2025-05-20/#抖音开展AI起号治理行动##抖音发布AI内容规范#抖音黑板报发布公告，启动针对“AI起号”的专项治理行动，整顿借助AI技术批量运营账号、售卖教程、制造虚假内容的....md)** | [原文](https://weibo.com/6105753431/PsHBI6hzd) | 时间: 2025-05-20 10:11 
   抖音启动"AI起号"专项治理，重点打击利用AI技术批量运营账号、售卖教程及制造虚假内容的行为。整治方向包括：...
