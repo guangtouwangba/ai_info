@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-微软宣布开源WSL（Windows Subsystem for Linux）核心代码，用户现可通过GitHub获取并参与开发。WSL允许在Windows系统中直接运行Linux环境，由Windows和WSL 2虚拟机组件构成。此次开源包括WSL2-Linux-Kernel和wslg等组件，但部分驱动和文件系统组件仍闭源。WSL自2016年发布以来已迭代至2.5.7版本，新增网络镜像、DNS隧道等功能。开发者可自由构建定制版本，推动WSL生态发展。开源地址：https://github.com/microsoft/WSL/releases/tag/2.5.7
+微软宣布开源WSL（Windows Subsystem for Linux）核心代码，用户现可通过GitHub获取并参与开发。WSL允许在Windows系统直接运行Linux环境，由Windows和WSL 2虚拟机组件构成。此次开源包括WSLG（Wayland/X服务器支持）和WSL2-Linux-Kernel，但部分驱动和文件系统组件仍闭源。WSL自2016年发布后已迭代至2.5.7版本，新增镜像网络、DNS隧道等功能。开发者可自由构建定制版本，推动WSL生态发展。开源地址：github.com/microsoft/WSL。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-20T05:03:36Z
+- **保存时间**: 2025-05-20T06:04:01Z
 - **目录日期**: 2025-05-20
