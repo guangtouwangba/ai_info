@@ -6,73 +6,64 @@
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-20 00:06
+**收录时间**: 2025-05-20 01:33
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文研究了代码生成大模型(codeLLMs)与人类偏好的对齐问题，提出了CodeArena基准测试(包含397个高质量样本，覆...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出两个关键贡献：1) 创建CodeArena基准测试，包含397个真实编程任务样本(覆...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-20 00:06
-
----
-
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-20 00:06
+**收录时间**: 2025-05-20 01:33
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 这篇论文介绍了AgentSociety，这是一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个智能代理及其500...
+**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了超过1万个AI代理的社会互动...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-20 00:05
+**收录时间**: 2025-05-20 01:33
+
+---
+
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-05-20 01:33
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-20 00:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)治疗的新型ALK双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-20 00:05
+**收录时间**: 2025-05-20 01:32
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 该论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性。S...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时依据梯度...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-20 00:05
+**收录时间**: 2025-05-20 01:32
 
 ---
 
-### [#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据...](2025-05-20/#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: Awesome-mcp-servers项目汇总了300多个多功能MCP服务器，覆盖AI应用的多个领域。这些服务器支持浏览器控制、数据库访...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsyIw9bJO)
-**收录时间**: 2025-05-20 00:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-20 01:32
 
 ---
 
@@ -81,43 +72,61 @@
 **摘要**: 2025腾讯云AI产业应用峰会将于5月21日举办，聚焦AI大模型技术的产业落地。腾讯云将展示最新AI战略布局，发布混...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Psyn6h5Sq)
-**收录时间**: 2025-05-20 00:04
+**收录时间**: 2025-05-20 01:32
 
 ---
 
 ### [#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用...](2025-05-20/#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用....md)
 
-**摘要**: 国内AI视频平台PixVerse（爱诗科技开发）近期在美国iOS总榜跃居第四，超越TikTok，其V4.5版本实现三大突破：1）电影...
+**摘要**: 中国AI视频生成平台PixVerse近期在美国iOS总榜跃居第四，超越TikTok。其V4.5版本实现电影级创作：支持20多种专业运...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsypXcG58)
-**收录时间**: 2025-05-20 00:04
+**收录时间**: 2025-05-20 01:31
 
 ---
 
 ### [#英伟达新PC轻松装满血DeepSeek##英伟达新桌面超算内存800G#英伟达官宣新办公室落户中国台湾省台北市，但居然是从太空飞下来的吗？【视频1】当然，这只是黄仁勋...](2025-05-20/#英伟达新PC轻松装满血DeepSeek##英伟达新桌面超算内存800G#英伟达官宣新办公室落户中国台湾省台北市，但居然是从太空飞下来的吗？【视频1】当然，这只是黄仁勋....md)
 
-**摘要**: 英伟达在Computex大会上宣布多项重大进展：1）通过CG特效展示台北新办公室（仅1/10像素由显卡渲染，其余由AI生成...
+**摘要**: 英伟达在Computex大会上宣布多项重磅消息：1）台北新办公室启用（开场CG中90%画面由AI预测生成）；2）推出桌面超...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsyHBjvTB)
-**收录时间**: 2025-05-20 00:04
-
----
-
-### [#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅...](2025-05-20/#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅....md)
-
-**摘要**: 这篇微博图文介绍了8种前沿AI模型架构及其核心特点：(1)大语言模型(LLM)通过Transformer处理文本；(2)潜在上下文模...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsyJIi7OC)
-**收录时间**: 2025-05-20 00:03
+**收录时间**: 2025-05-20 01:31
 
 ---
 
 ### [#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold Networks...](2025-05-20/#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold_Networks....md)
 
-**摘要**: 哈尔滨工业大学（深圳）与宾夕法尼亚大学联合提出基于KANs（Kolmogorov-Arnold Networks）的PointKAN模型，革新3D点云分...
+**摘要**: 哈尔滨工业大学（深圳）与宾夕法尼亚大学联合提出基于KANs的PointKAN模型，革新3D点云分析。该模型通过可学习函...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsyLicbvR)
-**收录时间**: 2025-05-20 00:03
+**收录时间**: 2025-05-20 01:31
+
+---
+
+### [#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅...](2025-05-20/#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅....md)
+
+**摘要**: 这张图总结了8种主流AI模型架构：1）大语言模型(LLM)通过Transformer处理文本；2）潜在上下文模型擅长长文本理解；...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsyJIi7OC)
+**收录时间**: 2025-05-20 01:31
+
+---
+
+### [#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要...](2025-05-20/#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要....md)
+
+**摘要**: 当前AI在图像推理任务中面临新挑战：要求计算需要添加多少小立方体才能补全大立方体。多个大模型（如o3、Gemin...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsyL8Fj4Z)
+**收录时间**: 2025-05-20 01:31
+
+---
+
+### [#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据...](2025-05-20/#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据....md)
+
+**摘要**: Awesome-mcp-servers项目汇总了300多个多功能MCP服务器，覆盖浏览器控制、数据库访问、AI图像生成、代码执行等多样化...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsyIw9bJO)
+**收录时间**: 2025-05-20 01:31
 
 ---
 
@@ -126,61 +135,52 @@
 **摘要**: 在COMPUTEX 2025上，英伟达CEO黄仁勋指出，全球正面临严重的劳动力短缺问题，而人形机器人有望成为解决方案。他...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pszzu1Szm)
-**收录时间**: 2025-05-20 00:03
+**收录时间**: 2025-05-20 01:30
 
 ---
 
 ### [#arXiv论文可视化宇宙##280万篇论文可视化宇宙#像探索外太空一样的探索人类知识？推特网友Jiany制作了一份如同宇宙的可视化论文图谱：【图1】每一颗星星象征着一...](2025-05-20/#arXiv论文可视化宇宙##280万篇论文可视化宇宙#像探索外太空一样的探索人类知识？推特网友Jiany制作了一份如同宇宙的可视化论文图谱：【图1】每一颗星星象征着一....md)
 
-**摘要**: 推特网友Jiany创建了一个arXiv论文的可视化宇宙图谱，将280万篇论文（截至2025年4月）转化为星辰，构建了知识宇宙...
+**摘要**: 推特网友Jiany创建了一个arXiv论文的可视化宇宙图谱，将280万篇论文（截至2025年4月）映射为星辰。用户只需将论文...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsyOoglKi)
-**收录时间**: 2025-05-20 00:03
-
----
-
-### [#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ...](2025-05-20/#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ....md)
-
-**摘要**: 美国亚利桑那州法庭首次采用AI数字分身技术，让已故被害人Christopher Pelkey在量刑环节"出庭"陈词。其姐姐通过AI技...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsyQojoYI)
-**收录时间**: 2025-05-20 00:03
-
----
-
-### [#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要...](2025-05-20/#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要....md)
-
-**摘要**: 当前AI在图像推理任务中面临新挑战：要求计算需要多少小立方体才能补全大立方体。不同大模型（如o3、Gemini、De...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsyL8Fj4Z)
-**收录时间**: 2025-05-20 00:03
-
----
-
-### [Authoritarian Recursions: How Fiction, History, and AI Reinforce Control in Education, Warfare, and Discourse](2025-05-20/Authoritarian_Recursions-_How_Fiction,_History,_and_AI_Reinforce_Control_in_Education,_Warfare,_and_Discourse.md)
-
-**摘要**: 本文提出"威权递归"概念，揭示AI系统如何通过算法中介在教育、军事和数字话语中实施控制。研究显示，AI平台将...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.09030v2)
-**收录时间**: 2025-05-20 00:02
+**收录时间**: 2025-05-20 01:30
 
 ---
 
 ### [Automating High Quality RT Planning at Scale](2025-05-20/Automating_High_Quality_RT_Planning_at_Scale.md)
 
-**摘要**: 放射治疗（RT）规划复杂且耗时。人工智能（AI）虽能提升精度和效率，但数据稀缺限制了进展。为此，研究团队...
+**摘要**: 放疗（RT）计划制定复杂、主观且耗时。为解决AI驱动RT发展中的数据不足问题，研究团队开发了自动化迭代放疗计...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2501.11803v3)
-**收录时间**: 2025-05-20 00:02
+**收录时间**: 2025-05-20 01:30
 
 ---
 
-### [BINGO: A Novel Pruning Mechanism to Reduce the Size of Neural Networks](2025-05-20/BINGO-_A_Novel_Pruning_Mechanism_to_Reduce_the_Size_of_Neural_Networks.md)
+### [#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ...](2025-05-20/#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ....md)
 
-**摘要**: 过去十年，机器学习模型复杂度激增，训练成本高达数百万美元，阻碍了非富裕个体参与并推高AI服务价格。现有...
+**摘要**: 亚利桑那州法庭首次采用AI数字分身技术，让已故被害人Christopher Pelkey在量刑环节"出庭"陈词。其姐姐通过提取逝...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.09864v2)
-**收录时间**: 2025-05-20 00:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsyQojoYI)
+**收录时间**: 2025-05-20 01:30
+
+---
+
+### [Exploratory Diffusion Model for Unsupervised Reinforcement Learning](2025-05-20/Exploratory_Diffusion_Model_for_Unsupervised_Reinforcement_Learning.md)
+
+**摘要**: 本文提出了一种名为探索性扩散模型（ExDM）的无监督强化学习方法，利用扩散模型的强大表达能力来拟合探索数...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2502.07279v2)
+**收录时间**: 2025-05-20 01:30
+
+---
+
+### [How AI Generates Creativity from Inauthenticity](2025-05-20/How_AI_Generates_Creativity_from_Inauthenticity.md)
+
+**摘要**: 该论文探讨了人工智能艺术如何挑战本雅明提出的艺术"灵光"概念。作者指出，AI生成艺术具有纯粹非真实性特征...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.11463v1)
+**收录时间**: 2025-05-20 01:29
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-20 (27篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-20 00:06 
-  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-20/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-20 01:33 
+  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-20 00:06 
-  这篇论文研究了代码生成大模型(codeLLMs)与人类偏好的对齐问题，提出了CodeArena基准测试(包含397个高质量样本，覆...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-20/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-20 01:33 
+  这篇论文针对代码生成大模型(codeLLMs)提出两个关键贡献：1) 创建CodeArena基准测试，包含397个真实编程任务样本(覆...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-20 00:06 
-  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-20 01:33 
+  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了超过1万个AI代理的社会互动...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-20/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-20 00:05 
-  这篇论文介绍了AgentSociety，这是一个基于大语言模型的大规模社会模拟系统，能够模拟超过1万个智能代理及其500...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-20/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-20 01:33 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-20 00:05 
-  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-20/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-20 01:32 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-20 00:05 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)治疗的新型ALK双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-20 01:32 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时依据梯度...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-20/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-20 00:05 
-  该论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性。S...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-20/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-20 01:32 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-- **[#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据...](2025-05-20/#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据....md)** | [原文](https://weibo.com/6105753431/PsyIw9bJO) | 时间: 2025-05-20 00:04 
-  Awesome-mcp-servers项目汇总了300多个多功能MCP服务器，覆盖AI应用的多个领域。这些服务器支持浏览器控制、数据库访...
-
-- **[#2025腾讯云AI产业应用峰会# 定档5月21日 随着AI大模型技术加速发展，产业应用实践也不断落地开花。 腾讯云作为各行各业的数字化转型助手，积极推动低门槛、高可...](2025-05-20/#2025腾讯云AI产业应用峰会#_定档5月21日_随着AI大模型技术加速发展，产业应用实践也不断落地开花。_腾讯云作为各行各业的数字化转型助手，积极推动低门槛、高可....md)** | [原文](https://weibo.com/6105753431/Psyn6h5Sq) | 时间: 2025-05-20 00:04 
+- **[#2025腾讯云AI产业应用峰会# 定档5月21日 随着AI大模型技术加速发展，产业应用实践也不断落地开花。 腾讯云作为各行各业的数字化转型助手，积极推动低门槛、高可...](2025-05-20/#2025腾讯云AI产业应用峰会#_定档5月21日_随着AI大模型技术加速发展，产业应用实践也不断落地开花。_腾讯云作为各行各业的数字化转型助手，积极推动低门槛、高可....md)** | [原文](https://weibo.com/6105753431/Psyn6h5Sq) | 时间: 2025-05-20 01:32 
   2025腾讯云AI产业应用峰会将于5月21日举办，聚焦AI大模型技术的产业落地。腾讯云将展示最新AI战略布局，发布混...
 
-- **[#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用...](2025-05-20/#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用....md)** | [原文](https://weibo.com/6105753431/PsypXcG58) | 时间: 2025-05-20 00:04 
-  国内AI视频平台PixVerse（爱诗科技开发）近期在美国iOS总榜跃居第四，超越TikTok，其V4.5版本实现三大突破：1）电影...
+- **[#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用...](2025-05-20/#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用....md)** | [原文](https://weibo.com/6105753431/PsypXcG58) | 时间: 2025-05-20 01:31 
+  中国AI视频生成平台PixVerse近期在美国iOS总榜跃居第四，超越TikTok。其V4.5版本实现电影级创作：支持20多种专业运...
 
-- **[#英伟达新PC轻松装满血DeepSeek##英伟达新桌面超算内存800G#英伟达官宣新办公室落户中国台湾省台北市，但居然是从太空飞下来的吗？【视频1】当然，这只是黄仁勋...](2025-05-20/#英伟达新PC轻松装满血DeepSeek##英伟达新桌面超算内存800G#英伟达官宣新办公室落户中国台湾省台北市，但居然是从太空飞下来的吗？【视频1】当然，这只是黄仁勋....md)** | [原文](https://weibo.com/6105753431/PsyHBjvTB) | 时间: 2025-05-20 00:04 
-  英伟达在Computex大会上宣布多项重大进展：1）通过CG特效展示台北新办公室（仅1/10像素由显卡渲染，其余由AI生成...
+- **[#英伟达新PC轻松装满血DeepSeek##英伟达新桌面超算内存800G#英伟达官宣新办公室落户中国台湾省台北市，但居然是从太空飞下来的吗？【视频1】当然，这只是黄仁勋...](2025-05-20/#英伟达新PC轻松装满血DeepSeek##英伟达新桌面超算内存800G#英伟达官宣新办公室落户中国台湾省台北市，但居然是从太空飞下来的吗？【视频1】当然，这只是黄仁勋....md)** | [原文](https://weibo.com/6105753431/PsyHBjvTB) | 时间: 2025-05-20 01:31 
+  英伟达在Computex大会上宣布多项重磅消息：1）台北新办公室启用（开场CG中90%画面由AI预测生成）；2）推出桌面超...
 
-- **[#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅...](2025-05-20/#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅....md)** | [原文](https://weibo.com/6105753431/PsyJIi7OC) | 时间: 2025-05-20 00:03 
-  这篇微博图文介绍了8种前沿AI模型架构及其核心特点：(1)大语言模型(LLM)通过Transformer处理文本；(2)潜在上下文模...
+- **[#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold Networks...](2025-05-20/#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold_Networks....md)** | [原文](https://weibo.com/6105753431/PsyLicbvR) | 时间: 2025-05-20 01:31 
+  哈尔滨工业大学（深圳）与宾夕法尼亚大学联合提出基于KANs的PointKAN模型，革新3D点云分析。该模型通过可学习函...
 
-- **[#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold Networks...](2025-05-20/#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold_Networks....md)** | [原文](https://weibo.com/6105753431/PsyLicbvR) | 时间: 2025-05-20 00:03 
-  哈尔滨工业大学（深圳）与宾夕法尼亚大学联合提出基于KANs（Kolmogorov-Arnold Networks）的PointKAN模型，革新3D点云分...
+- **[#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅...](2025-05-20/#一图介绍八种AI模型##AI模型不仅只有LLM#LLM是一种强大的AI模型，但实际上，AI模型的种类远不止于此。这张图生动形象地总结了八种AI模型的前沿架构，它们各自擅....md)** | [原文](https://weibo.com/6105753431/PsyJIi7OC) | 时间: 2025-05-20 01:31 
+  这张图总结了8种主流AI模型架构：1）大语言模型(LLM)通过Transformer处理文本；2）潜在上下文模型擅长长文本理解；...
 
-- **[#人形机器人有望成为下一个万亿美元市场# 在COMPUTEX 2025上，黄仁勋表示，现在全球面临严重的劳动力短缺问题，人形机器人可以解决这个问题，有希望成为下一个万...](2025-05-20/#人形机器人有望成为下一个万亿美元市场#_在COMPUTEX_2025上，黄仁勋表示，现在全球面临严重的劳动力短缺问题，人形机器人可以解决这个问题，有希望成为下一个万....md)** | [原文](https://weibo.com/6105753431/Pszzu1Szm) | 时间: 2025-05-20 00:03 
+- **[#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要...](2025-05-20/#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要....md)** | [原文](https://weibo.com/6105753431/PsyL8Fj4Z) | 时间: 2025-05-20 01:31 
+  当前AI在图像推理任务中面临新挑战：要求计算需要添加多少小立方体才能补全大立方体。多个大模型（如o3、Gemin...
+
+- **[#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据...](2025-05-20/#300多个MCP服务器集合##扩展AI能力的MCP大全#300多个MCP服务器集合，打包送上！Awesome-mcp-servers项目，整理了300多个可用的MCP服务器，覆盖浏览器控制、数据....md)** | [原文](https://weibo.com/6105753431/PsyIw9bJO) | 时间: 2025-05-20 01:31 
+  Awesome-mcp-servers项目汇总了300多个多功能MCP服务器，覆盖浏览器控制、数据库访问、AI图像生成、代码执行等多样化...
+
+- **[#人形机器人有望成为下一个万亿美元市场# 在COMPUTEX 2025上，黄仁勋表示，现在全球面临严重的劳动力短缺问题，人形机器人可以解决这个问题，有希望成为下一个万...](2025-05-20/#人形机器人有望成为下一个万亿美元市场#_在COMPUTEX_2025上，黄仁勋表示，现在全球面临严重的劳动力短缺问题，人形机器人可以解决这个问题，有希望成为下一个万....md)** | [原文](https://weibo.com/6105753431/Pszzu1Szm) | 时间: 2025-05-20 01:30 
   在COMPUTEX 2025上，英伟达CEO黄仁勋指出，全球正面临严重的劳动力短缺问题，而人形机器人有望成为解决方案。他...
 
-- **[#arXiv论文可视化宇宙##280万篇论文可视化宇宙#像探索外太空一样的探索人类知识？推特网友Jiany制作了一份如同宇宙的可视化论文图谱：【图1】每一颗星星象征着一...](2025-05-20/#arXiv论文可视化宇宙##280万篇论文可视化宇宙#像探索外太空一样的探索人类知识？推特网友Jiany制作了一份如同宇宙的可视化论文图谱：【图1】每一颗星星象征着一....md)** | [原文](https://weibo.com/6105753431/PsyOoglKi) | 时间: 2025-05-20 00:03 
-  推特网友Jiany创建了一个arXiv论文的可视化宇宙图谱，将280万篇论文（截至2025年4月）转化为星辰，构建了知识宇宙...
+- **[#arXiv论文可视化宇宙##280万篇论文可视化宇宙#像探索外太空一样的探索人类知识？推特网友Jiany制作了一份如同宇宙的可视化论文图谱：【图1】每一颗星星象征着一...](2025-05-20/#arXiv论文可视化宇宙##280万篇论文可视化宇宙#像探索外太空一样的探索人类知识？推特网友Jiany制作了一份如同宇宙的可视化论文图谱：【图1】每一颗星星象征着一....md)** | [原文](https://weibo.com/6105753431/PsyOoglKi) | 时间: 2025-05-20 01:30 
+  推特网友Jiany创建了一个arXiv论文的可视化宇宙图谱，将280万篇论文（截至2025年4月）映射为星辰。用户只需将论文...
 
-- **[#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ...](2025-05-20/#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ....md)** | [原文](https://weibo.com/6105753431/PsyQojoYI) | 时间: 2025-05-20 00:03 
-  美国亚利桑那州法庭首次采用AI数字分身技术，让已故被害人Christopher Pelkey在量刑环节"出庭"陈词。其姐姐通过AI技...
+- **[Automating High Quality RT Planning at Scale](2025-05-20/Automating_High_Quality_RT_Planning_at_Scale.md)** | [原文](http://arxiv.org/abs/2501.11803v3) | 时间: 2025-05-20 01:30 
+  放疗（RT）计划制定复杂、主观且耗时。为解决AI驱动RT发展中的数据不足问题，研究团队开发了自动化迭代放疗计...
 
-- **[#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要...](2025-05-20/#AI图像推理能力再被拷打##图像推理新难题难倒国内外大模型#拷打AI的难度还在升级？这不，图像推理又出现了新难题。问题定义其实非常简单——在【图1】中还需要....md)** | [原文](https://weibo.com/6105753431/PsyL8Fj4Z) | 时间: 2025-05-20 00:03 
-  当前AI在图像推理任务中面临新挑战：要求计算需要多少小立方体才能补全大立方体。不同大模型（如o3、Gemini、De...
+- **[#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ...](2025-05-20/#AI复活逝者进行法庭陈词##AI陈词可以进法庭吗#逝者也能出席法庭作证？今年5月1日，亚利桑那州马里科帕县法庭出现令人震惊的一幕：四年前因路怒冲突去世的Christ....md)** | [原文](https://weibo.com/6105753431/PsyQojoYI) | 时间: 2025-05-20 01:30 
+  亚利桑那州法庭首次采用AI数字分身技术，让已故被害人Christopher Pelkey在量刑环节"出庭"陈词。其姐姐通过提取逝...
 
-- **[Authoritarian Recursions: How Fiction, History, and AI Reinforce Control in Education, Warfare, and Discourse](2025-05-20/Authoritarian_Recursions-_How_Fiction,_History,_and_AI_Reinforce_Control_in_Education,_Warfare,_and_Discourse.md)** | [原文](http://arxiv.org/abs/2504.09030v2) | 时间: 2025-05-20 00:02 
-  本文提出"威权递归"概念，揭示AI系统如何通过算法中介在教育、军事和数字话语中实施控制。研究显示，AI平台将...
+- **[Exploratory Diffusion Model for Unsupervised Reinforcement Learning](2025-05-20/Exploratory_Diffusion_Model_for_Unsupervised_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2502.07279v2) | 时间: 2025-05-20 01:30 
+  本文提出了一种名为探索性扩散模型（ExDM）的无监督强化学习方法，利用扩散模型的强大表达能力来拟合探索数...
 
-- **[Automating High Quality RT Planning at Scale](2025-05-20/Automating_High_Quality_RT_Planning_at_Scale.md)** | [原文](http://arxiv.org/abs/2501.11803v3) | 时间: 2025-05-20 00:02 
-  放射治疗（RT）规划复杂且耗时。人工智能（AI）虽能提升精度和效率，但数据稀缺限制了进展。为此，研究团队...
+- **[How AI Generates Creativity from Inauthenticity](2025-05-20/How_AI_Generates_Creativity_from_Inauthenticity.md)** | [原文](http://arxiv.org/abs/2505.11463v1) | 时间: 2025-05-20 01:29 
+  该论文探讨了人工智能艺术如何挑战本雅明提出的艺术"灵光"概念。作者指出，AI生成艺术具有纯粹非真实性特征...
 
-- **[BINGO: A Novel Pruning Mechanism to Reduce the Size of Neural Networks](2025-05-20/BINGO-_A_Novel_Pruning_Mechanism_to_Reduce_the_Size_of_Neural_Networks.md)** | [原文](http://arxiv.org/abs/2505.09864v2) | 时间: 2025-05-20 00:02 
-  过去十年，机器学习模型复杂度激增，训练成本高达数百万美元，阻碍了非富裕个体参与并推高AI服务价格。现有...
+- **[Authoritarian Recursions: How Fiction, History, and AI Reinforce Control in Education, Warfare, and Discourse](2025-05-20/Authoritarian_Recursions-_How_Fiction,_History,_and_AI_Reinforce_Control_in_Education,_Warfare,_and_Discourse.md)** | [原文](http://arxiv.org/abs/2504.09030v2) | 时间: 2025-05-20 01:29 
+  这篇论文提出"威权递归"概念，揭示AI系统如何通过算法中介在教育、军事和数字话语领域实施控制。研究表明，AI...
 
-- **[Exploratory Diffusion Model for Unsupervised Reinforcement Learning](2025-05-20/Exploratory_Diffusion_Model_for_Unsupervised_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2502.07279v2) | 时间: 2025-05-20 00:02 
-  本文提出了一种名为"探索性扩散模型(ExDM)"的无监督强化学习方法，利用扩散模型强大的表达能力来拟合探索数据...
+- **[The Dilemma Between Euphoria and Freedom in Recommendation Algorithms](2025-05-20/The_Dilemma_Between_Euphoria_and_Freedom_in_Recommendation_Algorithms.md)** | [原文](http://arxiv.org/abs/2505.11465v1) | 时间: 2025-05-20 01:29 
+  当前AI推荐算法带来了"愉悦与自由"的人类困境。算法通过四种方式重塑体验：1)将便利性优化至极致愉悦；2)用数...
 
-- **[Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks](2025-05-20/Signal_attenuation_enables_scalable_decentralized_multi-agent_reinforcement_learning_over_networks.md)** | [原文](http://arxiv.org/abs/2505.11461v1) | 时间: 2025-05-20 00:02 
-  传统多智能体强化学习（MARL）方法依赖全局状态观测，限制了算法的去中心化和可扩展性。研究表明，在智能体...
+- **[BINGO: A Novel Pruning Mechanism to Reduce the Size of Neural Networks](2025-05-20/BINGO-_A_Novel_Pruning_Mechanism_to_Reduce_the_Size_of_Neural_Networks.md)** | [原文](http://arxiv.org/abs/2505.09864v2) | 时间: 2025-05-20 01:29 
+  过去十年，机器学习模型规模呈指数级增长，导致训练和运行成本高昂，阻碍了非富裕个体参与AI研发并推高用户...
 
-- **[How AI Generates Creativity from Inauthenticity](2025-05-20/How_AI_Generates_Creativity_from_Inauthenticity.md)** | [原文](http://arxiv.org/abs/2505.11463v1) | 时间: 2025-05-20 00:01 
-  本文提出人工创造力是对本雅明艺术"灵光"概念的挑战。本雅明认为真实性是艺术的核心要素，而生成式AI艺术则...
+- **[Automatic Reward Shaping from Confounded Offline Data](2025-05-20/Automatic_Reward_Shaping_from_Confounded_Offline_Data.md)** | [原文](http://arxiv.org/abs/2505.11478v1) | 时间: 2025-05-20 01:29 
+  该论文针对强化学习中的离策略学习问题，提出了一种能处理观测数据中存在未观测混杂偏差的深度Q学习算法。...
 
-- **[Automatic Reward Shaping from Confounded Offline Data](2025-05-20/Automatic_Reward_Shaping_from_Confounded_Offline_Data.md)** | [原文](http://arxiv.org/abs/2505.11478v1) | 时间: 2025-05-20 00:01 
-  本文提出了一种新型深度强化学习算法，针对存在未观测混杂因素的高维复杂环境中的离策略学习问题。基于深度...
+- **[Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks](2025-05-20/Signal_attenuation_enables_scalable_decentralized_multi-agent_reinforcement_learning_over_networks.md)** | [原文](http://arxiv.org/abs/2505.11461v1) | 时间: 2025-05-20 01:29 
+  传统多智能体强化学习（MARL）方法依赖全局状态可观测性，限制了去中心化和可扩展性。研究表明，在智能体间...
 
-- **[MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and Initiative in Co-creation](2025-05-20/MOSAAIC-_Managing_Optimization_towards_Shared_Autonomy,_Authority,_and_Initiative_in_Co-creation.md)** | [原文](http://arxiv.org/abs/2505.11481v1) | 时间: 2025-05-20 00:01 
-  这篇论文探讨了人类与AI在协同创作中如何平衡控制权的问题。研究者提出了MOSAAIC框架，通过三个关键维度（自主...
+- **[msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](2025-05-20/msf-CNN-_Patch-based_Multi-Stage_Fusion_with_Convolutional_Neural_Networks_for_TinyML.md)** | [原文](http://arxiv.org/abs/2505.11483v1) | 时间: 2025-05-20 01:28 
+  本文介绍了msf-CNN，一种针对微控制器（MCU）优化的新型卷积神经网络融合技术。该方法通过将融合解空间建模为...
 
-- **[The Dilemma Between Euphoria and Freedom in Recommendation Algorithms](2025-05-20/The_Dilemma_Between_Euphoria_and_Freedom_in_Recommendation_Algorithms.md)** | [原文](http://arxiv.org/abs/2505.11465v1) | 时间: 2025-05-20 00:01 
-  当前AI推荐算法在用户愉悦感和自由选择之间制造了新的矛盾。算法通过四种方式重塑用户体验：1）将便利性优化...
-
-- **[msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](2025-05-20/msf-CNN-_Patch-based_Multi-Stage_Fusion_with_Convolutional_Neural_Networks_for_TinyML.md)** | [原文](http://arxiv.org/abs/2505.11483v1) | 时间: 2025-05-20 00:01 
-  本文介绍了msf-CNN，一种针对微控制器（MCU）优化的卷积神经网络融合技术。该技术通过将融合解空间建模为有向...
+- **[MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and Initiative in Co-creation](2025-05-20/MOSAAIC-_Managing_Optimization_towards_Shared_Autonomy,_Authority,_and_Initiative_in_Co-creation.md)** | [原文](http://arxiv.org/abs/2505.11481v1) | 时间: 2025-05-20 01:28 
+  计算创造力领域的关键挑战是如何平衡人类与AI在协同创作中的控制权。协同创作是一种混合智能形式，人类和AI...
 
 ### 2025-05-19 (64篇)
 
@@ -283,6 +283,9 @@
 - **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-19/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-19 23:05 
   AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
+- **[#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用...](2025-05-19/#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用....md)** | [原文](https://weibo.com/6105753431/PsypXcG58) | 时间: 2025-05-19 23:04 
+  中国AI平台PixVerse近期在美国iOS总榜跃居第四，超越TikTok，其V4.5版本实现电影级AI视频生成。该版本支持20多种专业...
+
 - **[#2025腾讯云AI产业应用峰会# 定档5月21日 随着AI大模型技术加速发展，产业应用实践也不断落地开花。 腾讯云作为各行各业的数字化转型助手，积极推动低门槛、高可...](2025-05-19/#2025腾讯云AI产业应用峰会#_定档5月21日_随着AI大模型技术加速发展，产业应用实践也不断落地开花。_腾讯云作为各行各业的数字化转型助手，积极推动低门槛、高可....md)** | [原文](https://weibo.com/6105753431/Psyn6h5Sq) | 时间: 2025-05-19 23:04 
   2025腾讯云AI产业应用峰会将于5月21日举办，聚焦AI大模型技术的产业落地。腾讯云将展示最新AI战略布局，发布混...
 
@@ -294,9 +297,6 @@
 
 - **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-19/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-19 23:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
-
-- **[#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用...](2025-05-19/#国内AI平台跻身美国iOS总榜第四##新版PixVerse把AI视频拉到电影级#国内AI又有大动作！最近，一个叫PixVerse的AI视频生成平台，在美国iOS应用商店登顶视频类应用....md)** | [原文](https://weibo.com/6105753431/PsypXcG58) | 时间: 2025-05-19 23:04 
-  中国AI平台PixVerse近期在美国iOS总榜跃居第四，超越TikTok，其V4.5版本实现电影级AI视频生成。该版本支持20多种专业...
 
 - **[#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold Networks...](2025-05-19/#哈工大点云分析新SOTA##KAN入局3D任务参数量暴降#点云分析圈迎来“新脑子”！哈尔滨工业大学（深圳）和宾夕法尼亚大学联合推出基于Kolmogorov-Arnold_Networks....md)** | [原文](https://weibo.com/6105753431/PsyLicbvR) | 时间: 2025-05-19 23:03 
   哈工大（深圳）与宾夕法尼亚大学联合提出基于KANs的PointKAN模型，革新3D点云分析。该模型通过可学习函数替代传...
