@@ -6,73 +6,64 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
+**摘要**: 该研究针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，包含397个真实编程任务样本(覆盖40类/44种语言)，首次...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-21 05:06
-
----
-
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它拥有3....
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-21 05:05
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-21 05:05
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: LatentSync是一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该研究解决了扩散模型在...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-21 05:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-21 05:05
+**收录时间**: 2025-05-21 06:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟超过1万个AI代理的社会互动（500万次交互）。该系...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-21 05:05
+**收录时间**: 2025-05-21 06:05
+
+---
+
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-05-21 06:05
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-05-21 06:05
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-05-21 06:05
 
 ---
 
 ### [#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-21/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)
 
-**摘要**: 该微博汇总了9个重要AI概念的解析图：1) MCP作为AI标准化接口协议；2) Transformer与MoE架构差异；3) KV缓存加速推理技...
+**摘要**: 这组AI概念解析图汇总了9个关键技术：1) MCP作为标准化接口连接AI应用与数据源；2) MoE通过专家模块提升Transformer...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsIgB7QoX)
-**收录时间**: 2025-05-21 05:04
+**收录时间**: 2025-05-21 06:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI通过初始化时根据梯度信...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-21 05:04
+**收录时间**: 2025-05-21 06:04
 
 ---
 
@@ -81,97 +72,97 @@
 **摘要**: 微软Azure AI Foundry平台将引入Grok 3模型，并提供标准SLA服务和统一计费。Elon Musk在微软Build活动上介绍了Grok 3....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsIaixEWH)
-**收录时间**: 2025-05-21 05:04
+**收录时间**: 2025-05-21 06:04
 
 ---
 
-### [#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-21/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 国外网友将280万篇学术论文可视化为一幅"人类智慧星图"，通过互动式星空展现科研网络。用户可旋转视角探索不...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsIwjy5HF)
-**收录时间**: 2025-05-21 05:04
-
----
-
-### [#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时...](2025-05-21/#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时....md)
-
-**摘要**: 新加坡国立大学团队提出Thinkless框架，使AI能根据任务复杂度自动选择简短回答或长链推理。该框架通过两阶段实...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsPpoADdH)
-**收录时间**: 2025-05-21 05:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-21 06:04
 
 ---
 
 ### [#Codex深度实测##OpenAI的AI编程助手体验如何#OpenAI推出的AI编程助手Codex，实测表现如何？开发者Zack Proser花三天时间，深度体验了Codex的各项功能，下面一起...](2025-05-21/#Codex深度实测##OpenAI的AI编程助手体验如何#OpenAI推出的AI编程助手Codex，实测表现如何？开发者Zack_Proser花三天时间，深度体验了Codex的各项功能，下面一起....md)
 
-**摘要**: OpenAI的Codex编程助手实测显示其具有便捷的界面设计和核心功能，支持任务管理、代码修改和团队协作，并能通过...
+**摘要**: OpenAI的Codex编程助手实测显示，其界面简洁，支持任务管理和代码修改可视化（红删绿增），并能生成PR请求。手...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsPo2vvcv)
-**收录时间**: 2025-05-21 05:03
+**收录时间**: 2025-05-21 06:03
 
 ---
 
-### [#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation Models，让大家都来参与开发。该计划预计...](2025-05-21/#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation_Models，让大家都来参与开发。该计划预计....md)
+### [#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-21/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)
 
-**摘要**: 苹果计划在WWDC 2024开源其AI基础模型（Foundation Models），初期开放本地小模型供开发者通过SDK集成到第三方应用，...
+**摘要**: 国外网友将280万篇学术论文转化为可视化"星空"图谱，用户可通过旋转视角探索不同研究领域，输入arXiv论文编号...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsOY6aXWH)
-**收录时间**: 2025-05-21 05:03
-
----
-
-### [#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google I/O 2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音...](2025-05-21/#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google_I-O_2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音....md)
-
-**摘要**: 谷歌在2025开发者大会上宣布Gemini升级为"AI操作系统"，整合多模态交互功能：支持摄像头实时交互、文生图模型Imag...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsOCOlYeo)
-**收录时间**: 2025-05-21 05:03
-
----
-
-### [#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini 2.5 Pro支持，...](2025-05-21/#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini_2.5_Pro支持，....md)
-
-**摘要**: 谷歌推出由Gemini 2.5 Pro驱动的编程智能体Jules，目前免费公测。该工具能在7分钟内生成8000+行代码，支持代码修复...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsP7G8rHZ)
-**收录时间**: 2025-05-21 05:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsIwjy5HF)
+**收录时间**: 2025-05-21 06:03
 
 ---
 
 ### [#AI辅导打破欠发达地区教育鸿沟##GPT4辅导效果超越80%教学手段#让GPT-4来辅导学生，效果超过了80%教育干预手段！这是世界银行在尼日利亚展开的一项随机对照研究...](2025-05-21/#AI辅导打破欠发达地区教育鸿沟##GPT4辅导效果超越80%教学手段#让GPT-4来辅导学生，效果超过了80%教育干预手段！这是世界银行在尼日利亚展开的一项随机对照研究....md)
 
-**摘要**: 世界银行在尼日利亚开展的一项随机对照研究表明，由GPT-4驱动的AI辅导显著提升了学生的学业表现。在为期6周的...
+**摘要**: 世界银行在尼日利亚开展的随机对照研究表明，由GPT-4驱动的AI辅导显著提升了欠发达地区学生的教育成效。通过...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsPo4hZx0)
-**收录时间**: 2025-05-21 05:03
+**收录时间**: 2025-05-21 06:03
 
 ---
 
-### [CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)
+### [#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation Models，让大家都来参与开发。该计划预计...](2025-05-21/#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation_Models，让大家都来参与开发。该计划预计....md)
 
-**摘要**: 这篇论文介绍了CAD-Coder，一个开源视觉语言模型（VLM），专门用于从视觉输入直接生成可编辑的CAD代码（CadQuery Pyt...
+**摘要**: 苹果将在WWDC 2024宣布开源其AI大模型"苹果Foundation Models"，初期开放本地小模型供开发者通过SDK集成到App中，旨在激...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.14646v1)
-**收录时间**: 2025-05-21 05:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsOY6aXWH)
+**收录时间**: 2025-05-21 06:03
+
+---
+
+### [#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google I/O 2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音...](2025-05-21/#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google_I-O_2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音....md)
+
+**摘要**: 谷歌在I/O 2025开发者大会上宣布Gemini升级为“AI操作系统”，具备多模态交互能力，包括通过摄像头实时识别物体...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsOCOlYeo)
+**收录时间**: 2025-05-21 06:03
+
+---
+
+### [#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini 2.5 Pro支持，...](2025-05-21/#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini_2.5_Pro支持，....md)
+
+**摘要**: 谷歌推出由Gemini 2.5 Pro驱动的编程智能体Jules，现开放免费公测。该工具能在7分钟内生成8000多行代码，支持代码修...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsP7G8rHZ)
+**收录时间**: 2025-05-21 06:03
+
+---
+
+### [#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时...](2025-05-21/#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时....md)
+
+**摘要**: 新加坡国立大学团队提出Thinkless框架，使AI能根据任务复杂度自动选择简短回答或长链推理。该框架分两阶段：1)...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsPpoADdH)
+**收录时间**: 2025-05-21 06:02
 
 ---
 
 ### [Beyond Words: Multimodal LLM Knows When to Speak](2025-05-21/Beyond_Words-_Multimodal_LLM_Knows_When_to_Speak.md)
 
-**摘要**: 当前基于大语言模型(LLM)的聊天机器人在生成连贯回复方面表现优异，但在把握对话时机(特别是简短即时回应)上...
+**摘要**: 当前基于大语言模型(LLM)的聊天机器人在生成连贯回复方面表现优异，但在把握对话时机(如简短即时反应)上仍有...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.14654v1)
-**收录时间**: 2025-05-21 05:02
+**收录时间**: 2025-05-21 06:02
 
 ---
 
-### [B站历史记录分析工具，全方位分析B站观看习惯，还能生成超详细的数据报告，这下不用等年终总结了～ - 转发 @GitHubDaily:&ensp;GitHub 上一款强大的 B 站历史记...](2025-05-21/B站历史记录分析工具，全方位分析B站观看习惯，还能生成超详细的数据报告，这下不用等年终总结了～_-_转发_@GitHubDaily-&ensp;GitHub_上一款强大的_B_站历史记....md)
+### [Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts](2025-05-21/Improving_Medium_Range_Severe_Weather_Prediction_through_Transformer_Post-processing_of_AI_Weather_Forecasts.md)
 
-**摘要**: GitHub上出现了一款名为BiliHistoryFrontend的B站历史记录分析工具，基于Vue 3开发，可全面分析用户观看习惯并生成详...
+**摘要**: 本研究提出了一种基于解码器专用Transformer网络的新方法，用于后处理AI天气预报（如盘古天气模型），以提升1-8...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsPxptZla)
-**收录时间**: 2025-05-21 05:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.11750v2)
+**收录时间**: 2025-05-21 06:02
 
 ---
 
@@ -180,7 +171,16 @@
 **摘要**: 随着医疗系统广泛采用无线网络和联网设备，医疗应用安全变得至关重要。物联网医疗设备（如手术机器人、重症...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.14659v1)
-**收录时间**: 2025-05-21 05:02
+**收录时间**: 2025-05-21 06:02
+
+---
+
+### [CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)
+
+**摘要**: 这篇论文介绍了CAD-Coder，一个开源的视觉语言模型（VLM），专门用于从视觉输入直接生成可编辑的CAD代码（CadQuery ...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.14646v1)
+**收录时间**: 2025-05-21 06:02
 
 ---
 
@@ -188,89 +188,92 @@
 
 ### 2025-05-21 (44篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-21 05:06 
-  这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-21 06:05 
+  该研究针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，包含397个真实编程任务样本(覆盖40类/44种语言)，首次...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-21 05:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它拥有3....
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-21 06:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-21 05:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-21 06:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-21 05:05 
-  LatentSync是一种端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该研究解决了扩散模型在...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-21 06:05 
+  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-21 05:05 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-21 06:05 
+  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-21 05:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟超过1万个AI代理的社会互动（500万次交互）。该系...
+- **[#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-21/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)** | [原文](https://weibo.com/6105753431/PsIgB7QoX) | 时间: 2025-05-21 06:04 
+  这组AI概念解析图汇总了9个关键技术：1) MCP作为标准化接口连接AI应用与数据源；2) MoE通过专家模块提升Transformer...
 
-- **[#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic AI……这九张图或许能帮助你更好的理解这些复杂的...](2025-05-21/#AI概念解析图大汇总##九张图详解重要AI概念#技术的快速发展，许多有关AI的概念也不断涌现。MCP、RAG、Agentic_AI……这九张图或许能帮助你更好的理解这些复杂的....md)** | [原文](https://weibo.com/6105753431/PsIgB7QoX) | 时间: 2025-05-21 05:04 
-  该微博汇总了9个重要AI概念的解析图：1) MCP作为AI标准化接口协议；2) Transformer与MoE架构差异；3) KV缓存加速推理技...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-21 06:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI通过初始化时根据梯度信...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-21 05:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
-
-- **[#微软Azure引入Grok3# 微软宣布，微软的Azure AI Foundry平台，将引入Grok 3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。 - ...](2025-05-21/#微软Azure引入Grok3#_微软宣布，微软的Azure_AI_Foundry平台，将引入Grok_3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。_-_....md)** | [原文](https://weibo.com/6105753431/PsIaixEWH) | 时间: 2025-05-21 05:04 
+- **[#微软Azure引入Grok3# 微软宣布，微软的Azure AI Foundry平台，将引入Grok 3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。 - ...](2025-05-21/#微软Azure引入Grok3#_微软宣布，微软的Azure_AI_Foundry平台，将引入Grok_3。跟平台上其他模型一样，Grok模型也将享受标准SLA服务协议，并由微软统一计费。_-_....md)** | [原文](https://weibo.com/6105753431/PsIaixEWH) | 时间: 2025-05-21 06:04 
   微软Azure AI Foundry平台将引入Grok 3模型，并提供标准SLA服务和统一计费。Elon Musk在微软Build活动上介绍了Grok 3....
 
-- **[#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-21/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)** | [原文](https://weibo.com/6105753431/PsIwjy5HF) | 时间: 2025-05-21 05:04 
-  国外网友将280万篇学术论文可视化为一幅"人类智慧星图"，通过互动式星空展现科研网络。用户可旋转视角探索不...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-21 06:04 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，...
 
-- **[#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时...](2025-05-21/#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时....md)** | [原文](https://weibo.com/6105753431/PsPpoADdH) | 时间: 2025-05-21 05:03 
-  新加坡国立大学团队提出Thinkless框架，使AI能根据任务复杂度自动选择简短回答或长链推理。该框架通过两阶段实...
+- **[#Codex深度实测##OpenAI的AI编程助手体验如何#OpenAI推出的AI编程助手Codex，实测表现如何？开发者Zack Proser花三天时间，深度体验了Codex的各项功能，下面一起...](2025-05-21/#Codex深度实测##OpenAI的AI编程助手体验如何#OpenAI推出的AI编程助手Codex，实测表现如何？开发者Zack_Proser花三天时间，深度体验了Codex的各项功能，下面一起....md)** | [原文](https://weibo.com/6105753431/PsPo2vvcv) | 时间: 2025-05-21 06:03 
+  OpenAI的Codex编程助手实测显示，其界面简洁，支持任务管理和代码修改可视化（红删绿增），并能生成PR请求。手...
 
-- **[#Codex深度实测##OpenAI的AI编程助手体验如何#OpenAI推出的AI编程助手Codex，实测表现如何？开发者Zack Proser花三天时间，深度体验了Codex的各项功能，下面一起...](2025-05-21/#Codex深度实测##OpenAI的AI编程助手体验如何#OpenAI推出的AI编程助手Codex，实测表现如何？开发者Zack_Proser花三天时间，深度体验了Codex的各项功能，下面一起....md)** | [原文](https://weibo.com/6105753431/PsPo2vvcv) | 时间: 2025-05-21 05:03 
-  OpenAI的Codex编程助手实测显示其具有便捷的界面设计和核心功能，支持任务管理、代码修改和团队协作，并能通过...
+- **[#用280万篇论文做成的星空# 人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研...](2025-05-21/#用280万篇论文做成的星空#_人类智慧星图！国外一网友把280万篇论文制作成了星空，转动视角就能探索不同的研究，输入arXiv地址即可抵达论文所在位置、查看相关研....md)** | [原文](https://weibo.com/6105753431/PsIwjy5HF) | 时间: 2025-05-21 06:03 
+  国外网友将280万篇学术论文转化为可视化"星空"图谱，用户可通过旋转视角探索不同研究领域，输入arXiv论文编号...
 
-- **[#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation Models，让大家都来参与开发。该计划预计...](2025-05-21/#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation_Models，让大家都来参与开发。该计划预计....md)** | [原文](https://weibo.com/6105753431/PsOY6aXWH) | 时间: 2025-05-21 05:03 
-  苹果计划在WWDC 2024开源其AI基础模型（Foundation Models），初期开放本地小模型供开发者通过SDK集成到第三方应用，...
+- **[#AI辅导打破欠发达地区教育鸿沟##GPT4辅导效果超越80%教学手段#让GPT-4来辅导学生，效果超过了80%教育干预手段！这是世界银行在尼日利亚展开的一项随机对照研究...](2025-05-21/#AI辅导打破欠发达地区教育鸿沟##GPT4辅导效果超越80%教学手段#让GPT-4来辅导学生，效果超过了80%教育干预手段！这是世界银行在尼日利亚展开的一项随机对照研究....md)** | [原文](https://weibo.com/6105753431/PsPo4hZx0) | 时间: 2025-05-21 06:03 
+  世界银行在尼日利亚开展的随机对照研究表明，由GPT-4驱动的AI辅导显著提升了欠发达地区学生的教育成效。通过...
 
-- **[#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google I/O 2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音...](2025-05-21/#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google_I-O_2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音....md)** | [原文](https://weibo.com/6105753431/PsOCOlYeo) | 时间: 2025-05-21 05:03 
-  谷歌在2025开发者大会上宣布Gemini升级为"AI操作系统"，整合多模态交互功能：支持摄像头实时交互、文生图模型Imag...
+- **[#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation Models，让大家都来参与开发。该计划预计...](2025-05-21/#苹果AI开源了##苹果AI新布局#苹果打算把自家AI“开源”了。据彭博社报道，苹果准备开放旗下的AI大模型苹果Foundation_Models，让大家都来参与开发。该计划预计....md)** | [原文](https://weibo.com/6105753431/PsOY6aXWH) | 时间: 2025-05-21 06:03 
+  苹果将在WWDC 2024宣布开源其AI大模型"苹果Foundation Models"，初期开放本地小模型供开发者通过SDK集成到App中，旨在激...
 
-- **[#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini 2.5 Pro支持，...](2025-05-21/#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini_2.5_Pro支持，....md)** | [原文](https://weibo.com/6105753431/PsP7G8rHZ) | 时间: 2025-05-21 05:03 
-  谷歌推出由Gemini 2.5 Pro驱动的编程智能体Jules，目前免费公测。该工具能在7分钟内生成8000+行代码，支持代码修复...
+- **[#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google I/O 2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音...](2025-05-21/#谷歌开发者大会要点速览##谷歌Gemini变身AI操作系统#在刚刚举办的Google_I-O_2025大会上，谷歌给Gemini来了个大升级，使其正式转型为“AI操作系统”，涵盖语音....md)** | [原文](https://weibo.com/6105753431/PsOCOlYeo) | 时间: 2025-05-21 06:03 
+  谷歌在I/O 2025开发者大会上宣布Gemini升级为“AI操作系统”，具备多模态交互能力，包括通过摄像头实时识别物体...
 
-- **[#AI辅导打破欠发达地区教育鸿沟##GPT4辅导效果超越80%教学手段#让GPT-4来辅导学生，效果超过了80%教育干预手段！这是世界银行在尼日利亚展开的一项随机对照研究...](2025-05-21/#AI辅导打破欠发达地区教育鸿沟##GPT4辅导效果超越80%教学手段#让GPT-4来辅导学生，效果超过了80%教育干预手段！这是世界银行在尼日利亚展开的一项随机对照研究....md)** | [原文](https://weibo.com/6105753431/PsPo4hZx0) | 时间: 2025-05-21 05:03 
-  世界银行在尼日利亚开展的一项随机对照研究表明，由GPT-4驱动的AI辅导显著提升了学生的学业表现。在为期6周的...
+- **[#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini 2.5 Pro支持，...](2025-05-21/#谷歌智能体7分钟能写8000行代码##谷歌编程智能体Jules公测免费使用#7分钟，写出8000+行代码！又一个编程智能体来了。Jules，谷歌推出，由Gemini_2.5_Pro支持，....md)** | [原文](https://weibo.com/6105753431/PsP7G8rHZ) | 时间: 2025-05-21 06:03 
+  谷歌推出由Gemini 2.5 Pro驱动的编程智能体Jules，现开放免费公测。该工具能在7分钟内生成8000多行代码，支持代码修...
 
-- **[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)** | [原文](http://arxiv.org/abs/2505.14646v1) | 时间: 2025-05-21 05:02 
-  这篇论文介绍了CAD-Coder，一个开源视觉语言模型（VLM），专门用于从视觉输入直接生成可编辑的CAD代码（CadQuery Pyt...
+- **[#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时...](2025-05-21/#AI学会选择性思考##让AI在该思考时思考#人类想太多会容易秃顶，AI想太多会怎么样呢？答案显然易见：用复杂的推理来解决所有问题，计算效率会变得极其低下，同时....md)** | [原文](https://weibo.com/6105753431/PsPpoADdH) | 时间: 2025-05-21 06:02 
+  新加坡国立大学团队提出Thinkless框架，使AI能根据任务复杂度自动选择简短回答或长链推理。该框架分两阶段：1)...
 
-- **[Beyond Words: Multimodal LLM Knows When to Speak](2025-05-21/Beyond_Words-_Multimodal_LLM_Knows_When_to_Speak.md)** | [原文](http://arxiv.org/abs/2505.14654v1) | 时间: 2025-05-21 05:02 
-  当前基于大语言模型(LLM)的聊天机器人在生成连贯回复方面表现优异，但在把握对话时机(特别是简短即时回应)上...
+- **[Beyond Words: Multimodal LLM Knows When to Speak](2025-05-21/Beyond_Words-_Multimodal_LLM_Knows_When_to_Speak.md)** | [原文](http://arxiv.org/abs/2505.14654v1) | 时间: 2025-05-21 06:02 
+  当前基于大语言模型(LLM)的聊天机器人在生成连贯回复方面表现优异，但在把握对话时机(如简短即时反应)上仍有...
 
-- **[B站历史记录分析工具，全方位分析B站观看习惯，还能生成超详细的数据报告，这下不用等年终总结了～ - 转发 @GitHubDaily:&ensp;GitHub 上一款强大的 B 站历史记...](2025-05-21/B站历史记录分析工具，全方位分析B站观看习惯，还能生成超详细的数据报告，这下不用等年终总结了～_-_转发_@GitHubDaily-&ensp;GitHub_上一款强大的_B_站历史记....md)** | [原文](https://weibo.com/6105753431/PsPxptZla) | 时间: 2025-05-21 05:02 
-  GitHub上出现了一款名为BiliHistoryFrontend的B站历史记录分析工具，基于Vue 3开发，可全面分析用户观看习惯并生成详...
+- **[Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts](2025-05-21/Improving_Medium_Range_Severe_Weather_Prediction_through_Transformer_Post-processing_of_AI_Weather_Forecasts.md)** | [原文](http://arxiv.org/abs/2505.11750v2) | 时间: 2025-05-21 06:02 
+  本研究提出了一种基于解码器专用Transformer网络的新方法，用于后处理AI天气预报（如盘古天气模型），以提升1-8...
 
-- **[Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks](2025-05-21/Explainable_AI_for_Securing_Healthcare_in_IoT-Integrated_6G_Wireless_Networks.md)** | [原文](http://arxiv.org/abs/2505.14659v1) | 时间: 2025-05-21 05:02 
+- **[Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks](2025-05-21/Explainable_AI_for_Securing_Healthcare_in_IoT-Integrated_6G_Wireless_Networks.md)** | [原文](http://arxiv.org/abs/2505.14659v1) | 时间: 2025-05-21 06:02 
   随着医疗系统广泛采用无线网络和联网设备，医疗应用安全变得至关重要。物联网医疗设备（如手术机器人、重症...
 
-- **[Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts](2025-05-21/Improving_Medium_Range_Severe_Weather_Prediction_through_Transformer_Post-processing_of_AI_Weather_Forecasts.md)** | [原文](http://arxiv.org/abs/2505.11750v2) | 时间: 2025-05-21 05:02 
-  本研究提出了一种基于解码器-仅Transformer网络的新方法，用于后处理AI天气预报（如盘古天气模型），以提升1-8天...
+- **[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)** | [原文](http://arxiv.org/abs/2505.14646v1) | 时间: 2025-05-21 06:02 
+  这篇论文介绍了CAD-Coder，一个开源的视觉语言模型（VLM），专门用于从视觉输入直接生成可编辑的CAD代码（CadQuery ...
 
-- **[Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](2025-05-21/Visionary-R1-_Mitigating_Shortcuts_in_Visual_Reasoning_with_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.14677v1) | 时间: 2025-05-21 05:01 
-  该研究探索了如何通过强化学习训练视觉语言模型(VLM)进行图像推理，而无需思维链监督。研究发现，直接应用强...
+- **[B站历史记录分析工具，全方位分析B站观看习惯，还能生成超详细的数据报告，这下不用等年终总结了～ - 转发 @GitHubDaily:&ensp;GitHub 上一款强大的 B 站历史记...](2025-05-21/B站历史记录分析工具，全方位分析B站观看习惯，还能生成超详细的数据报告，这下不用等年终总结了～_-_转发_@GitHubDaily-&ensp;GitHub_上一款强大的_B_站历史记....md)** | [原文](https://weibo.com/6105753431/PsPxptZla) | 时间: 2025-05-21 06:02 
+  GitHub上出现了一款名为BiliHistoryFrontend的B站历史记录分析工具，基于Vue 3开发，可全面分析用户在B站的观看习惯，...
 
-- **[Semi-parametric efficient estimation of small genetic effects in large-scale population cohorts](2025-05-21/Semi-parametric_efficient_estimation_of_small_genetic_effects_in_large-scale_population_cohorts.md)** | [原文](http://arxiv.org/abs/2505.14675v1) | 时间: 2025-05-21 05:01 
-  TarGene是一个统一的统计工作流，用于半参数高效且双重稳健地估计遗传效应，包括存在混杂因素和弱群体依赖性...
+- **[ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions](2025-05-21/ContextAgent-_Context-Aware_Proactive_LLM_Agents_with_Open-World_Sensory_Perceptions.md)** | [原文](http://arxiv.org/abs/2505.14668v1) | 时间: 2025-05-21 06:01 
+  本文提出ContextAgent，首个结合多维度感知数据的上下文感知主动AI助手。它通过可穿戴设备（如视频、音频）提取...
 
-- **[Abacus: A Cost-Based Optimizer for Semantic Operator Systems](2025-05-21/Abacus-_A_Cost-Based_Optimizer_for_Semantic_Operator_Systems.md)** | [原文](http://arxiv.org/abs/2505.14661v1) | 时间: 2025-05-21 05:01 
-  大型语言模型(LLMs)为处理海量非结构化文档提供了新型数据处理应用。新兴编程框架允许开发者通过组合语义操作...
+- **[Abacus: A Cost-Based Optimizer for Semantic Operator Systems](2025-05-21/Abacus-_A_Cost-Based_Optimizer_for_Semantic_Operator_Systems.md)** | [原文](http://arxiv.org/abs/2505.14661v1) | 时间: 2025-05-21 06:01 
+  大语言模型(LLMs)为处理海量非结构化文档提供了新的数据处理应用。新兴编程框架允许开发者通过语义操作符(如LL...
 
-- **[ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions](2025-05-21/ContextAgent-_Context-Aware_Proactive_LLM_Agents_with_Open-World_Sensory_Perceptions.md)** | [原文](http://arxiv.org/abs/2505.14668v1) | 时间: 2025-05-21 05:01 
-  这篇论文介绍了ContextAgent，首个结合多维度感知情境的主动式LLM智能体。它通过可穿戴设备获取视频、音频等感知...
+- **[SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment](2025-05-21/SAFEPATH-_Preventing_Harmful_Reasoning_in_Chain-of-Thought_via_Early_Alignment.md)** | [原文](http://arxiv.org/abs/2505.14667v1) | 时间: 2025-05-21 06:01 
+  SAFEPATH是一种轻量级对齐方法，通过微调大型推理模型（LRMs），使其在面对有害提示时在推理开始时生成一个简短...
 
-- **[SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment](2025-05-21/SAFEPATH-_Preventing_Harmful_Reasoning_in_Chain-of-Thought_via_Early_Alignment.md)** | [原文](http://arxiv.org/abs/2505.14667v1) | 时间: 2025-05-21 05:01 
-  SAFEPATH是一种轻量级对齐方法，用于提升大型推理模型(LRMs)的安全性。它通过在有害提示下生成8个token的"安全前导...
+- **[Semi-parametric efficient estimation of small genetic effects in large-scale population cohorts](2025-05-21/Semi-parametric_efficient_estimation_of_small_genetic_effects_in_large-scale_population_cohorts.md)** | [原文](http://arxiv.org/abs/2505.14675v1) | 时间: 2025-05-21 06:01 
+  TarGene是一个统一的统计工作流程，用于半参数高效且双重稳健地估计遗传效应，包括存在混杂因素和弱群体依赖...
 
-- **[NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](2025-05-21/NExT-Search-_Rebuilding_User_Feedback_Ecosystem_for_Generative_AI_Search.md)** | [原文](http://arxiv.org/abs/2505.14680v1) | 时间: 2025-05-21 05:00 
-  生成式AI搜索通过提供端到端的复杂查询答案，减少了用户手动浏览和总结网页的需求，但同时也破坏了传统网络...
+- **[Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](2025-05-21/Visionary-R1-_Mitigating_Shortcuts_in_Visual_Reasoning_with_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.14677v1) | 时间: 2025-05-21 06:01 
+  该研究探索了如何通过强化学习训练视觉语言模型(VLM)进行图像推理，而无需思维链监督。研究发现，单纯应用强...
+
+- **[NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](2025-05-21/NExT-Search-_Rebuilding_User_Feedback_Ecosystem_for_Generative_AI_Search.md)** | [原文](http://arxiv.org/abs/2505.14680v1) | 时间: 2025-05-21 06:00 
+  生成式AI搜索通过提供端到端的复杂查询答案，改变了传统信息检索模式，减少了用户手动浏览和总结的需求。然...
 
 - **[#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个...](2025-05-21/#研究表明生物会发微弱光死亡后消失##生物体会自发光暗含健康程度#很多人以为死亡是瞬间的，其实身体会悄悄“熄灯”。最近卡尔加里大学的一项研究，捕捉到了这个....md)** | [原文](https://weibo.com/6105753431/PsI4lrjPE) | 时间: 2025-05-21 04:05 
   卡尔加里大学研究发现，生物体会自发产生超弱光子发射（UPE），这种肉眼不可见的微光与生命活性密切相关。实...
+
+- **[#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub Copilot证明...](2025-05-21/#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub_Copilot证明....md)** | [原文](https://weibo.com/6105753431/PsHTkAxID) | 时间: 2025-05-21 03:21 
+  陶哲轩发布"喂饭级"AI教程，演示如何正确引导GitHub Copilot完成数学定理证明。视频中他详细展示了用Copilot证明函...
 
 - **[#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但...](2025-05-21/#一图看懂扩散与流匹配##生成模型过程可视化#两种主流生成模型Flow_Matching和Diffusion有啥区别？从结果上看，两种方法都能生成目标图案，比如一个“笑脸”，但....md)** | [原文](https://weibo.com/6105753431/PsHRf6OnB) | 时间: 2025-05-21 03:21 
   该内容对比了两种生成模型Flow Matching和Diffusion的工作原理。Flow Matching通过连续向量场引导粒子沿平滑路径直达目...
@@ -278,14 +281,11 @@
 - **[#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义...](2025-05-21/#Zod推出最新版本Zod4##数据验证库Zod迎来重大更新#Github近3.8万星，流行的TypeScript验证库推出全新版本Zod4！Zod是一个以TypeScript为核心的验证库，通过定义....md)** | [原文](https://weibo.com/6105753431/PsHQf80UP) | 时间: 2025-05-21 03:21 
   Zod 4是流行的TypeScript数据验证库的重大更新版本，修复了Zod 3多项设计局限，解决了GitHub上90%的高票问题。主要改...
 
-- **[#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub Copilot证明...](2025-05-21/#陶哲轩喂饭级AI教程来了##陶哲轩只用Copilot证明函数极限问题#视频新人博主陶哲轩又更新了！这次是“喂饭级”AI教程——手把手演示如何只用GitHub_Copilot证明....md)** | [原文](https://weibo.com/6105753431/PsHTkAxID) | 时间: 2025-05-21 03:21 
-  陶哲轩发布"喂饭级"AI教程，演示如何正确引导GitHub Copilot完成数学定理证明。视频中他详细展示了用Copilot证明函...
+- **[#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A/T pose的角色多视图+360°角色旋转演...](2025-05-21/#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A-T_pose的角色多视图+360°角色旋转演....md)** | [原文](https://weibo.com/6105753431/PsHNh2zun) | 时间: 2025-05-21 02:33 
+  腾讯混元发布游戏视觉生成平台，推出工业级AIGC游戏资产生成大模型Hunyuan-Game。该平台可将手绘草图一键转换为...
 
 - **[#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale Labs的CEO——Benjamin Bolte。开场Ben...](2025-05-21/#人形机器人原理讲解##开源人形机器人训练方法#人形机器人训练原理，系统讲解来了！主讲人，是开源人形机器人公司K-Scale_Labs的CEO——Benjamin_Bolte。开场Ben....md)** | [原文](https://weibo.com/6105753431/PsHLd2mSd) | 时间: 2025-05-21 02:33 
   K-Scale Labs CEO Benjamin Bolte讲解了人形机器人训练原理，核心方法是强化学习（RL）：先在仿真平台MuJoCo中设定目标（...
-
-- **[#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A/T pose的角色多视图+360°角色旋转演...](2025-05-21/#腾讯混元发布游戏视觉生成平台##手绘草图秒变3D游戏角色多视图#手绘草图一键变身专业游戏形象，随后还能生成符合游戏标准A-T_pose的角色多视图+360°角色旋转演....md)** | [原文](https://weibo.com/6105753431/PsHNh2zun) | 时间: 2025-05-21 02:33 
-  腾讯混元发布游戏视觉生成平台，推出工业级AIGC游戏资产生成大模型Hunyuan-Game。该平台可将手绘草图一键转换为...
 
 - **[Evaluating Mathematical Reasoning Across Large Language Models: A Fine-Grained Approach](2025-05-21/Evaluating_Mathematical_Reasoning_Across_Large_Language_Models-_A_Fine-Grained_Approach.md)** | [原文](http://arxiv.org/abs/2503.10573v2) | 时间: 2025-05-21 02:32 
   这项研究系统评估了8种领先大语言模型（包括2个DeepSeek模型）在数学推理任务上的表现。关键发现包括：(1) DeepSee...
