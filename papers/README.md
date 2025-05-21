@@ -6,100 +6,82 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct指令数据集。C...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-21 15:06
-
----
-
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-21 15:06
+**收录时间**: 2025-05-21 16:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-21 15:06
+**收录时间**: 2025-05-21 16:05
+
+---
+
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-05-21 16:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 该研究开发了AgentSociety大规模社会模拟器，通过整合LLM驱动的代理、真实社会环境和模拟引擎，模拟了1万多个代...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者利用该平台研...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-21 15:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK是NSCLC的重要致癌驱动基因，尽管已有7...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-21 15:05
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-21 15:05
+**收录时间**: 2025-05-21 16:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-21 15:05
+**收录时间**: 2025-05-21 16:05
 
 ---
 
-### [#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel Berry最近在个人博客上分享了自己的经验，令人惊...](2025-05-21/#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel_Berry最近在个人博客上分享了自己的经验，令人惊....md)
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 2025年独立开发者Noel Berry提出无需游戏引擎的手搓游戏方案：1) 使用C#语言，其热重载和反射功能提升开发效率；2)...
+**摘要**: 该研究提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传统...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsRljD6ZV)
-**收录时间**: 2025-05-21 15:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-21 16:04
 
 ---
 
 ### [#肺功能从20多岁开始下滑##研究表明肺功能下降不可逆#研究表明，肺功能不是老了才变差，而是从20多岁开始下滑，而且不可逆。柳叶刀旗下子刊《The Lancet Respira...](2025-05-21/#肺功能从20多岁开始下滑##研究表明肺功能下降不可逆#研究表明，肺功能不是老了才变差，而是从20多岁开始下滑，而且不可逆。柳叶刀旗下子刊《The_Lancet_Respira....md)
 
-**摘要**: 《柳叶刀-呼吸医学》最新研究显示，人类肺功能在20岁左右达峰后即开始不可逆下降（女性20岁/男性23岁），不存...
+**摘要**: 《柳叶刀-呼吸医学》最新研究显示，肺功能从20岁左右（女性20岁/男性23岁）达峰后即开始不可逆下降，无平台期...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsRxAtodT)
-**收录时间**: 2025-05-21 15:04
+**收录时间**: 2025-05-21 16:04
 
 ---
 
-### [#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo 3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We can...](2025-05-21/#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo_3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We_can....md)
+### [#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel Berry最近在个人博客上分享了自己的经验，令人惊...](2025-05-21/#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel_Berry最近在个人博客上分享了自己的经验，令人惊....md)
 
-**摘要**: 谷歌发布新一代AI视频生成模型Veo 3，实现音画同步生成，标志着AI视频告别"默剧时代"。该模型能根据自然语言描...
+**摘要**: 2025年独立开发者Noel Berry提出"不用游戏引擎"的开发方法，推荐使用C#（支持热重载和实时调试）配合开源框架：SDL...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsRyjm6lI)
-**收录时间**: 2025-05-21 15:04
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsRljD6ZV)
+**收录时间**: 2025-05-21 16:04
 
 ---
 
-### [#ChatGPT转型计划曝光##GPT将变身行动助手#“AI Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI CPO Kevin Weil在接受最新访谈时提...](2025-05-21/#ChatGPT转型计划曝光##GPT将变身行动助手#“AI_Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI_CPO_Kevin_Weil在接受最新访谈时提....md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: OpenAI计划将ChatGPT从问答助手升级为能自主执行复杂任务的AI Agent。据CPO Kevin Weil透露，未来AI将能整合网络搜索、...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsRBc5hsy)
-**收录时间**: 2025-05-21 15:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-21 16:04
 
 ---
 
@@ -108,16 +90,61 @@
 **摘要**: 百度2025Q1财报显示，AI业务全面提速：总营收325亿元（同比+1%），核心净利润76.3亿元（+48%）。智能云营收同比大...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsSg3by6n)
-**收录时间**: 2025-05-21 15:03
+**收录时间**: 2025-05-21 16:03
+
+---
+
+### [#ChatGPT转型计划曝光##GPT将变身行动助手#“AI Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI CPO Kevin Weil在接受最新访谈时提...](2025-05-21/#ChatGPT转型计划曝光##GPT将变身行动助手#“AI_Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI_CPO_Kevin_Weil在接受最新访谈时提....md)
+
+**摘要**: OpenAI计划将ChatGPT从问答工具升级为能执行复杂任务的AI助手。CPO Kevin Weil表示，未来AI Agent将能通过整合网络搜索...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsRBc5hsy)
+**收录时间**: 2025-05-21 16:03
+
+---
+
+### [#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样...](2025-05-21/#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样....md)
+
+**摘要**: 特斯拉近日展示了Optimus机器人的最新进展，该机器人已能通过观看人类视频学习家务技能，包括扫地、扔垃圾、...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsRFJ9ls3)
+**收录时间**: 2025-05-21 16:03
+
+---
+
+### [#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL...](2025-05-21/#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL....md)
+
+**摘要**: 《Nature》最新研究显示，AI在生物医学领域取得突破性进展：西湖大学团队开发的Pinal模型通过自然语言指令成功...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsRBx9zMe)
+**收录时间**: 2025-05-21 16:03
+
+---
+
+### [#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo 3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We can...](2025-05-21/#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo_3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We_can....md)
+
+**摘要**: 谷歌推出新一代AI视频生成模型Veo 3，首次实现音画同步生成，告别"默剧时代"。该模型能根据自然语言描述直接生...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsRyjm6lI)
+**收录时间**: 2025-05-21 16:03
 
 ---
 
 ### [#谷歌Veo3可生成有声视频# AI视频生成告别默片时代！谷歌的视频生成AI Veo 3现在可以生成有声视频了，对话、唱歌、Rap、脱口秀等视频都能生成，说话内容、语气、...](2025-05-21/#谷歌Veo3可生成有声视频#_AI视频生成告别默片时代！谷歌的视频生成AI_Veo_3现在可以生成有声视频了，对话、唱歌、Rap、脱口秀等视频都能生成，说话内容、语气、....md)
 
-**摘要**: 谷歌推出新一代视频生成AI Veo 3，突破性地实现了有声视频生成功能。该技术可生成包含对话、唱歌、Rap、脱口秀...
+**摘要**: 谷歌推出新一代AI视频生成工具Veo 3，突破性地实现了有声视频生成功能。该工具不仅能生成对话、唱歌、Rap和脱...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsRPez6Wg)
-**收录时间**: 2025-05-21 15:03
+**收录时间**: 2025-05-21 16:03
+
+---
+
+### [#Codex效果网友实测# Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？ 量子位的微博视频](2025-05-21/#Codex效果网友实测#_Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？_量子位的微博视频.md)
+
+**摘要**: 网友实测OpenAI的Codex代码生成工具显示，虽然能在12分钟内快速搭建AI业务原型，但交互体验和任务处理能力仍存在...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PsT044D9o)
+**收录时间**: 2025-05-21 16:02
 
 ---
 
@@ -126,61 +153,34 @@
 **摘要**: Flowith Neo是全球首款号称具备"无限步骤、无限上下文、云端无限输出"的AI Agent，可实现7\*24小时不间断工作。该产...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PsSZFbXFD)
-**收录时间**: 2025-05-21 15:03
-
----
-
-### [#Codex效果网友实测# Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？ 量子位的微博视频](2025-05-21/#Codex效果网友实测#_Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？_量子位的微博视频.md)
-
-**摘要**: 网友实测OpenAI的Codex显示，该AI工具能快速搭建业务原型（12分钟完成一个AI业务），但在交互体验和任务处理方面...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsT044D9o)
-**收录时间**: 2025-05-21 15:03
-
----
-
-### [#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL...](2025-05-21/#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL....md)
-
-**摘要**: 《Nature》最新研究显示，AI在生物医学领域取得突破性进展：1）西湖大学团队开发出文本转蛋白质模型Pinal，通过...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsRBx9zMe)
-**收录时间**: 2025-05-21 15:03
-
----
-
-### [#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样...](2025-05-21/#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样....md)
-
-**摘要**: 特斯拉Optimus机器人最新演示视频展示了其通过观看互联网视频学习家务技能的能力，包括扫地、扔垃圾、拉窗帘...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PsRFJ9ls3)
-**收录时间**: 2025-05-21 15:03
+**收录时间**: 2025-05-21 16:02
 
 ---
 
 ### [Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts](2025-05-21/Improving_Medium_Range_Severe_Weather_Prediction_through_Transformer_Post-processing_of_AI_Weather_Forecasts.md)
 
-**摘要**: 本研究提出了一种基于解码器Transformer网络的新方法，用于后处理AI天气预报（如盘古天气模型），以提高1-8天中...
+**摘要**: 本研究提出了一种基于解码器-仅Transformer网络的新方法，用于对AI天气预报（如盘古天气模型）进行后处理，以提...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.11750v2)
-**收录时间**: 2025-05-21 15:02
+**收录时间**: 2025-05-21 16:02
 
 ---
 
 ### [Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks](2025-05-21/Explainable_AI_for_Securing_Healthcare_in_IoT-Integrated_6G_Wireless_Networks.md)
 
-**摘要**: 随着医疗系统广泛采用无线网络和联网设备，医疗应用安全变得至关重要。物联网医疗设备（如手术机器人、重症...
+**摘要**: 随着医疗系统广泛应用无线网络和物联网设备，医疗应用的安全问题日益突出。虽然手术机器人、重症监护系统和...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.14659v1)
-**收录时间**: 2025-05-21 15:02
+**收录时间**: 2025-05-21 16:02
 
 ---
 
-### [Abacus: A Cost-Based Optimizer for Semantic Operator Systems](2025-05-21/Abacus-_A_Cost-Based_Optimizer_for_Semantic_Operator_Systems.md)
+### [CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)
 
-**摘要**: 大语言模型(LLMs)催生了一类新型的非结构化文档数据处理应用。虽然基于语义操作符(如LLM驱动的映射、过滤、连...
+**摘要**: 这篇论文介绍了CAD-Coder，一个开源的视觉语言模型（VLM），专为从视觉输入直接生成可编辑的CAD代码（CadQuery Python...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.14661v1)
-**收录时间**: 2025-05-21 15:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.14646v1)
+**收录时间**: 2025-05-21 16:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-21 (62篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-21 15:06 
-  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct指令数据集。C...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-21/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-21 16:05 
+  这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-21 15:06 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-21 16:05 
+  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-21/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-21 15:06 
-  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-21/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-21 16:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-21 15:05 
-  该研究开发了AgentSociety大规模社会模拟器，通过整合LLM驱动的代理、真实社会环境和模拟引擎，模拟了1万多个代...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-21/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-21 16:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者利用该平台研...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-21 15:05 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK是NSCLC的重要致癌驱动基因，尽管已有7...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-21 16:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-21 15:05 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-21/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-21 16:04 
+  该研究提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传统...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-21/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-21 15:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+- **[#肺功能从20多岁开始下滑##研究表明肺功能下降不可逆#研究表明，肺功能不是老了才变差，而是从20多岁开始下滑，而且不可逆。柳叶刀旗下子刊《The Lancet Respira...](2025-05-21/#肺功能从20多岁开始下滑##研究表明肺功能下降不可逆#研究表明，肺功能不是老了才变差，而是从20多岁开始下滑，而且不可逆。柳叶刀旗下子刊《The_Lancet_Respira....md)** | [原文](https://weibo.com/6105753431/PsRxAtodT) | 时间: 2025-05-21 16:04 
+  《柳叶刀-呼吸医学》最新研究显示，肺功能从20岁左右（女性20岁/男性23岁）达峰后即开始不可逆下降，无平台期...
 
-- **[#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel Berry最近在个人博客上分享了自己的经验，令人惊...](2025-05-21/#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel_Berry最近在个人博客上分享了自己的经验，令人惊....md)** | [原文](https://weibo.com/6105753431/PsRljD6ZV) | 时间: 2025-05-21 15:04 
-  2025年独立开发者Noel Berry提出无需游戏引擎的手搓游戏方案：1) 使用C#语言，其热重载和反射功能提升开发效率；2)...
+- **[#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel Berry最近在个人博客上分享了自己的经验，令人惊...](2025-05-21/#不用引擎手搓游戏##适合2025年的手搓游戏方法#2025年，如何不用引擎手搓游戏？从事独立游戏制作将近20年的Noel_Berry最近在个人博客上分享了自己的经验，令人惊....md)** | [原文](https://weibo.com/6105753431/PsRljD6ZV) | 时间: 2025-05-21 16:04 
+  2025年独立开发者Noel Berry提出"不用游戏引擎"的开发方法，推荐使用C#（支持热重载和实时调试）配合开源框架：SDL...
 
-- **[#肺功能从20多岁开始下滑##研究表明肺功能下降不可逆#研究表明，肺功能不是老了才变差，而是从20多岁开始下滑，而且不可逆。柳叶刀旗下子刊《The Lancet Respira...](2025-05-21/#肺功能从20多岁开始下滑##研究表明肺功能下降不可逆#研究表明，肺功能不是老了才变差，而是从20多岁开始下滑，而且不可逆。柳叶刀旗下子刊《The_Lancet_Respira....md)** | [原文](https://weibo.com/6105753431/PsRxAtodT) | 时间: 2025-05-21 15:04 
-  《柳叶刀-呼吸医学》最新研究显示，人类肺功能在20岁左右达峰后即开始不可逆下降（女性20岁/男性23岁），不存...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-21/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-21 16:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
-- **[#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo 3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We can...](2025-05-21/#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo_3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We_can....md)** | [原文](https://weibo.com/6105753431/PsRyjm6lI) | 时间: 2025-05-21 15:04 
-  谷歌发布新一代AI视频生成模型Veo 3，实现音画同步生成，标志着AI视频告别"默剧时代"。该模型能根据自然语言描...
-
-- **[#ChatGPT转型计划曝光##GPT将变身行动助手#“AI Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI CPO Kevin Weil在接受最新访谈时提...](2025-05-21/#ChatGPT转型计划曝光##GPT将变身行动助手#“AI_Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI_CPO_Kevin_Weil在接受最新访谈时提....md)** | [原文](https://weibo.com/6105753431/PsRBc5hsy) | 时间: 2025-05-21 15:04 
-  OpenAI计划将ChatGPT从问答助手升级为能自主执行复杂任务的AI Agent。据CPO Kevin Weil透露，未来AI将能整合网络搜索、...
-
-- **[#百度2025Q1财报AI全面提速##百度智能云同比增长42%#百度发布2025年第一季度财报，整体业绩超出市场预期，其“AI-first”战略已初见成效。财报显示，百度实现总...](2025-05-21/#百度2025Q1财报AI全面提速##百度智能云同比增长42%#百度发布2025年第一季度财报，整体业绩超出市场预期，其“AI-first”战略已初见成效。财报显示，百度实现总....md)** | [原文](https://weibo.com/6105753431/PsSg3by6n) | 时间: 2025-05-21 15:03 
+- **[#百度2025Q1财报AI全面提速##百度智能云同比增长42%#百度发布2025年第一季度财报，整体业绩超出市场预期，其“AI-first”战略已初见成效。财报显示，百度实现总...](2025-05-21/#百度2025Q1财报AI全面提速##百度智能云同比增长42%#百度发布2025年第一季度财报，整体业绩超出市场预期，其“AI-first”战略已初见成效。财报显示，百度实现总....md)** | [原文](https://weibo.com/6105753431/PsSg3by6n) | 时间: 2025-05-21 16:03 
   百度2025Q1财报显示，AI业务全面提速：总营收325亿元（同比+1%），核心净利润76.3亿元（+48%）。智能云营收同比大...
 
-- **[#谷歌Veo3可生成有声视频# AI视频生成告别默片时代！谷歌的视频生成AI Veo 3现在可以生成有声视频了，对话、唱歌、Rap、脱口秀等视频都能生成，说话内容、语气、...](2025-05-21/#谷歌Veo3可生成有声视频#_AI视频生成告别默片时代！谷歌的视频生成AI_Veo_3现在可以生成有声视频了，对话、唱歌、Rap、脱口秀等视频都能生成，说话内容、语气、....md)** | [原文](https://weibo.com/6105753431/PsRPez6Wg) | 时间: 2025-05-21 15:03 
-  谷歌推出新一代视频生成AI Veo 3，突破性地实现了有声视频生成功能。该技术可生成包含对话、唱歌、Rap、脱口秀...
+- **[#ChatGPT转型计划曝光##GPT将变身行动助手#“AI Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI CPO Kevin Weil在接受最新访谈时提...](2025-05-21/#ChatGPT转型计划曝光##GPT将变身行动助手#“AI_Agent今天是初级工程师，6个月后是高级工程师，一年后是架构师。”这是OpenAI_CPO_Kevin_Weil在接受最新访谈时提....md)** | [原文](https://weibo.com/6105753431/PsRBc5hsy) | 时间: 2025-05-21 16:03 
+  OpenAI计划将ChatGPT从问答工具升级为能执行复杂任务的AI助手。CPO Kevin Weil表示，未来AI Agent将能通过整合网络搜索...
 
-- **[#flowithneo上线24h一码难求# 7\*24小时不间断替你打工，全球首款无限Agent来了：Flowith Neo。按照官方说法，这是一款“无限步骤、无限上下文、云端无限输出”的...](2025-05-21/#flowithneo上线24h一码难求#_724小时不间断替你打工，全球首款无限Agent来了：Flowith_Neo。按照官方说法，这是一款“无限步骤、无限上下文、云端无限输出”的....md)** | [原文](https://weibo.com/6105753431/PsSZFbXFD) | 时间: 2025-05-21 15:03 
+- **[#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样...](2025-05-21/#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样....md)** | [原文](https://weibo.com/6105753431/PsRFJ9ls3) | 时间: 2025-05-21 16:03 
+  特斯拉近日展示了Optimus机器人的最新进展，该机器人已能通过观看人类视频学习家务技能，包括扫地、扔垃圾、...
+
+- **[#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL...](2025-05-21/#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL....md)** | [原文](https://weibo.com/6105753431/PsRBx9zMe) | 时间: 2025-05-21 16:03 
+  《Nature》最新研究显示，AI在生物医学领域取得突破性进展：西湖大学团队开发的Pinal模型通过自然语言指令成功...
+
+- **[#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo 3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We can...](2025-05-21/#AI视频生成告别默剧时代##谷歌首次实现AI音画同步#谷歌最强视频生成模型Veo_3鲨疯了！这一次，从画面到对白，全都由AI原生直接生成。请看VCR（花式演绎“We_can....md)** | [原文](https://weibo.com/6105753431/PsRyjm6lI) | 时间: 2025-05-21 16:03 
+  谷歌推出新一代AI视频生成模型Veo 3，首次实现音画同步生成，告别"默剧时代"。该模型能根据自然语言描述直接生...
+
+- **[#谷歌Veo3可生成有声视频# AI视频生成告别默片时代！谷歌的视频生成AI Veo 3现在可以生成有声视频了，对话、唱歌、Rap、脱口秀等视频都能生成，说话内容、语气、...](2025-05-21/#谷歌Veo3可生成有声视频#_AI视频生成告别默片时代！谷歌的视频生成AI_Veo_3现在可以生成有声视频了，对话、唱歌、Rap、脱口秀等视频都能生成，说话内容、语气、....md)** | [原文](https://weibo.com/6105753431/PsRPez6Wg) | 时间: 2025-05-21 16:03 
+  谷歌推出新一代AI视频生成工具Veo 3，突破性地实现了有声视频生成功能。该工具不仅能生成对话、唱歌、Rap和脱...
+
+- **[#Codex效果网友实测# Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？ 量子位的微博视频](2025-05-21/#Codex效果网友实测#_Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PsT044D9o) | 时间: 2025-05-21 16:02 
+  网友实测OpenAI的Codex代码生成工具显示，虽然能在12分钟内快速搭建AI业务原型，但交互体验和任务处理能力仍存在...
+
+- **[#flowithneo上线24h一码难求# 7\*24小时不间断替你打工，全球首款无限Agent来了：Flowith Neo。按照官方说法，这是一款“无限步骤、无限上下文、云端无限输出”的...](2025-05-21/#flowithneo上线24h一码难求#_724小时不间断替你打工，全球首款无限Agent来了：Flowith_Neo。按照官方说法，这是一款“无限步骤、无限上下文、云端无限输出”的....md)** | [原文](https://weibo.com/6105753431/PsSZFbXFD) | 时间: 2025-05-21 16:02 
   Flowith Neo是全球首款号称具备"无限步骤、无限上下文、云端无限输出"的AI Agent，可实现7\*24小时不间断工作。该产...
 
-- **[#Codex效果网友实测# Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？ 量子位的微博视频](2025-05-21/#Codex效果网友实测#_Codex效果网友实测来了！有人12分钟搭好一个AI业务，但交互和任务处理仍被大量吐槽。你觉得200美刀的会员费值吗？_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PsT044D9o) | 时间: 2025-05-21 15:03 
-  网友实测OpenAI的Codex显示，该AI工具能快速搭建业务原型（12分钟完成一个AI业务），但在交互体验和任务处理方面...
+- **[Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts](2025-05-21/Improving_Medium_Range_Severe_Weather_Prediction_through_Transformer_Post-processing_of_AI_Weather_Forecasts.md)** | [原文](http://arxiv.org/abs/2505.11750v2) | 时间: 2025-05-21 16:02 
+  本研究提出了一种基于解码器-仅Transformer网络的新方法，用于对AI天气预报（如盘古天气模型）进行后处理，以提...
 
-- **[#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL...](2025-05-21/#AI设计出有功能的蛋白质##科学家利用AI对话细胞#通过自然语言设计蛋白质，还能和细胞“对话”破解内部机制？听起来有点像科幻小说，但现在的蛋白质语言模型（PL....md)** | [原文](https://weibo.com/6105753431/PsRBx9zMe) | 时间: 2025-05-21 15:03 
-  《Nature》最新研究显示，AI在生物医学领域取得突破性进展：1）西湖大学团队开发出文本转蛋白质模型Pinal，通过...
+- **[Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks](2025-05-21/Explainable_AI_for_Securing_Healthcare_in_IoT-Integrated_6G_Wireless_Networks.md)** | [原文](http://arxiv.org/abs/2505.14659v1) | 时间: 2025-05-21 16:02 
+  随着医疗系统广泛应用无线网络和物联网设备，医疗应用的安全问题日益突出。虽然手术机器人、重症监护系统和...
 
-- **[#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样...](2025-05-21/#特斯拉机器人大秀做家务##机器人看视频就能学会做家务#不跳舞的时候，机器人都在干什么呢？扫地、扔垃圾、拉窗帘、搅拌锅里的食物……【视频1】十八般家务样样....md)** | [原文](https://weibo.com/6105753431/PsRFJ9ls3) | 时间: 2025-05-21 15:03 
-  特斯拉Optimus机器人最新演示视频展示了其通过观看互联网视频学习家务技能的能力，包括扫地、扔垃圾、拉窗帘...
+- **[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)** | [原文](http://arxiv.org/abs/2505.14646v1) | 时间: 2025-05-21 16:02 
+  这篇论文介绍了CAD-Coder，一个开源的视觉语言模型（VLM），专为从视觉输入直接生成可编辑的CAD代码（CadQuery Python...
 
-- **[Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts](2025-05-21/Improving_Medium_Range_Severe_Weather_Prediction_through_Transformer_Post-processing_of_AI_Weather_Forecasts.md)** | [原文](http://arxiv.org/abs/2505.11750v2) | 时间: 2025-05-21 15:02 
-  本研究提出了一种基于解码器Transformer网络的新方法，用于后处理AI天气预报（如盘古天气模型），以提高1-8天中...
+- **[Beyond Words: Multimodal LLM Knows When to Speak](2025-05-21/Beyond_Words-_Multimodal_LLM_Knows_When_to_Speak.md)** | [原文](http://arxiv.org/abs/2505.14654v1) | 时间: 2025-05-21 16:02 
+  当前基于大语言模型（LLM）的聊天机器人在生成连贯回复方面表现优异，但难以把握对话中的适时回应时机，尤其...
 
-- **[Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks](2025-05-21/Explainable_AI_for_Securing_Healthcare_in_IoT-Integrated_6G_Wireless_Networks.md)** | [原文](http://arxiv.org/abs/2505.14659v1) | 时间: 2025-05-21 15:02 
-  随着医疗系统广泛采用无线网络和联网设备，医疗应用安全变得至关重要。物联网医疗设备（如手术机器人、重症...
+- **[ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions](2025-05-21/ContextAgent-_Context-Aware_Proactive_LLM_Agents_with_Open-World_Sensory_Perceptions.md)** | [原文](http://arxiv.org/abs/2505.14668v1) | 时间: 2025-05-21 16:01 
+  本文提出ContextAgent，首个结合多维度感知数据的上下文感知主动AI助手。它通过可穿戴设备获取视频、音频等感知...
 
-- **[Abacus: A Cost-Based Optimizer for Semantic Operator Systems](2025-05-21/Abacus-_A_Cost-Based_Optimizer_for_Semantic_Operator_Systems.md)** | [原文](http://arxiv.org/abs/2505.14661v1) | 时间: 2025-05-21 15:02 
-  大语言模型(LLMs)催生了一类新型的非结构化文档数据处理应用。虽然基于语义操作符(如LLM驱动的映射、过滤、连...
+- **[Abacus: A Cost-Based Optimizer for Semantic Operator Systems](2025-05-21/Abacus-_A_Cost-Based_Optimizer_for_Semantic_Operator_Systems.md)** | [原文](http://arxiv.org/abs/2505.14661v1) | 时间: 2025-05-21 16:01 
+  大型语言模型(LLMs)催生了一类新的非结构化文档数据处理应用。新型编程框架允许开发者通过组合语义操作符(如LL...
 
-- **[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](2025-05-21/CAD-Coder-_An_Open-Source_Vision-Language_Model_for_Computer-Aided_Design_Code_Generation.md)** | [原文](http://arxiv.org/abs/2505.14646v1) | 时间: 2025-05-21 15:02 
-  这篇论文介绍了CAD-Coder，一个开源视觉语言模型（VLM），专门用于从视觉输入直接生成可编辑的CAD代码（CadQuery Pyt...
+- **[SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment](2025-05-21/SAFEPATH-_Preventing_Harmful_Reasoning_in_Chain-of-Thought_via_Early_Alignment.md)** | [原文](http://arxiv.org/abs/2505.14667v1) | 时间: 2025-05-21 16:01 
+  SAFEPATH是一种轻量级对齐方法，用于提升大型推理模型(LRMs)的安全性。它通过在有害提示下生成8个token的"安全引导...
 
-- **[Beyond Words: Multimodal LLM Knows When to Speak](2025-05-21/Beyond_Words-_Multimodal_LLM_Knows_When_to_Speak.md)** | [原文](http://arxiv.org/abs/2505.14654v1) | 时间: 2025-05-21 15:02 
-  当前基于大语言模型(LLM)的聊天机器人在生成连贯回复方面表现优异，但在把握对话时机(尤其是简短即时应答)方...
+- **[Semi-parametric efficient estimation of small genetic effects in large-scale population cohorts](2025-05-21/Semi-parametric_efficient_estimation_of_small_genetic_effects_in_large-scale_population_cohorts.md)** | [原文](http://arxiv.org/abs/2505.14675v1) | 时间: 2025-05-21 16:01 
+  TarGene是一个用于群体遗传学的统一统计工作流，通过半参数高效且双重稳健的方法估计遗传效应，包括存在混杂...
 
-- **[NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](2025-05-21/NExT-Search-_Rebuilding_User_Feedback_Ecosystem_for_Generative_AI_Search.md)** | [原文](http://arxiv.org/abs/2505.14680v1) | 时间: 2025-05-21 15:01 
-  生成式AI搜索通过提供端到端答案简化了信息检索，但也破坏了传统网络搜索依赖用户反馈（如点击、停留时间）...
+- **[Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](2025-05-21/Visionary-R1-_Mitigating_Shortcuts_in_Visual_Reasoning_with_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.14677v1) | 时间: 2025-05-21 16:01 
+  这篇论文探讨了如何通过强化学习训练视觉语言模型(VLM)进行图像推理。研究发现，直接应用强化学习会导致模型...
 
-- **[ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions](2025-05-21/ContextAgent-_Context-Aware_Proactive_LLM_Agents_with_Open-World_Sensory_Perceptions.md)** | [原文](http://arxiv.org/abs/2505.14668v1) | 时间: 2025-05-21 15:01 
-  本文提出ContextAgent——首个结合多维度感知数据（如穿戴设备的视频/音频）来增强大语言模型主动服务能力的上...
-
-- **[SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment](2025-05-21/SAFEPATH-_Preventing_Harmful_Reasoning_in_Chain-of-Thought_via_Early_Alignment.md)** | [原文](http://arxiv.org/abs/2505.14667v1) | 时间: 2025-05-21 15:01 
-  SAFEPATH是一种轻量级对齐方法，通过微调大型推理模型(LRMs)，使其在面对有害提示时在推理开头生成8个token的"安全...
-
-- **[Semi-parametric efficient estimation of small genetic effects in large-scale population cohorts](2025-05-21/Semi-parametric_efficient_estimation_of_small_genetic_effects_in_large-scale_population_cohorts.md)** | [原文](http://arxiv.org/abs/2505.14675v1) | 时间: 2025-05-21 15:01 
-  TarGene是一个统一的统计工作流，用于半参数高效且双重稳健地估计遗传效应，包括存在混杂和弱群体依赖性时分...
-
-- **[Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](2025-05-21/Visionary-R1-_Mitigating_Shortcuts_in_Visual_Reasoning_with_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.14677v1) | 时间: 2025-05-21 15:01 
-  这篇论文提出了一种通过强化学习训练视觉语言模型(VLM)进行图像推理的新方法。研究发现，直接对VLM应用强化学...
+- **[NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](2025-05-21/NExT-Search-_Rebuilding_User_Feedback_Ecosystem_for_Generative_AI_Search.md)** | [原文](http://arxiv.org/abs/2505.14680v1) | 时间: 2025-05-21 16:00 
+  生成式AI搜索通过提供端到端答案简化了信息检索，但也破坏了传统网页搜索依赖用户反馈（如点击、停留时间）...
 
 - **[#用拓扑学理解深度学习##深度学习的本质#有人提了个很有意思的观点：深度学习的本质，和拓扑类似，有点像在捏橡皮泥。乍一听一头雾水，什么拓扑啊？跟AI有什么关...](2025-05-21/#用拓扑学理解深度学习##深度学习的本质#有人提了个很有意思的观点：深度学习的本质，和拓扑类似，有点像在捏橡皮泥。乍一听一头雾水，什么拓扑啊？跟AI有什么关....md)** | [原文](https://weibo.com/6105753431/PsR9Qx3Yx) | 时间: 2025-05-21 12:04 
   这篇微博用拓扑学的"橡皮泥变形"比喻解释深度学习的本质：神经网络通过线性变换（矩阵乘法）、偏置平移和非...
