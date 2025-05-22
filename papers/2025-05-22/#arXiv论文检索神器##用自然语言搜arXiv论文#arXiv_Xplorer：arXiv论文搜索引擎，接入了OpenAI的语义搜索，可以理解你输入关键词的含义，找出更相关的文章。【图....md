@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-arXiv Xplorer是一款基于OpenAI语义搜索技术的arXiv论文搜索引擎，能更精准理解用户查询意图并提供相关性更强的结果。相比arXiv原生搜索，它能返回更多优质论文且避免重复（例如搜索「合成数据集+图像分割+神经网络训练」时结果更丰富）。该工具还支持自动推荐相关论文，帮助用户扩展阅读范围。访问地址：arxivxplorer.com
+arXiv Xplorer是一个基于OpenAI语义搜索技术的arXiv论文搜索引擎，能更精准理解用户查询意图。相比arXiv原生搜索，它能返回更多相关论文且命中率更高。例如搜索「"synthetic dataset" "image segmentation" "neural networks" training」时，arXiv仅显示2篇结果，而arXiv Xplorer可提供更多非重复优质论文。该工具还具备相似论文推荐功能，帮助用户扩展阅读范围。访问地址：arxivxplorer.com
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-22T13:13:18Z
+- **保存时间**: 2025-05-22T14:04:08Z
 - **目录日期**: 2025-05-22
