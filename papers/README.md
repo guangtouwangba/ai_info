@@ -6,28 +6,28 @@
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-22/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大语言模型(codeLLMs)提出新评估方法，重点关注模型输出与人类偏好的对齐问题。研究者创...
+**摘要**: 该论文针对代码生成大模型(codeLLMs)提出了CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究收集了397...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-22 14:06
+**收录时间**: 2025-05-22 15:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-22/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它覆盖42个学科，...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-22 14:05
+**收录时间**: 2025-05-22 15:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-22/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-22 14:05
+**收录时间**: 2025-05-22 15:05
 
 ---
 
@@ -36,151 +36,151 @@
 **摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-22 14:05
+**收录时间**: 2025-05-22 15:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-22/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟器，可模拟1万多个AI代理的社会互动（500万次...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟超过1万个智能代理及其500万次社会互动。该系统...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-22 14:05
+**收录时间**: 2025-05-22 15:05
 
 ---
 
 ### [#arXiv论文检索神器##用自然语言搜arXiv论文#arXiv Xplorer：arXiv论文搜索引擎，接入了OpenAI的语义搜索，可以理解你输入关键词的含义，找出更相关的文章。【图...](2025-05-22/#arXiv论文检索神器##用自然语言搜arXiv论文#arXiv_Xplorer：arXiv论文搜索引擎，接入了OpenAI的语义搜索，可以理解你输入关键词的含义，找出更相关的文章。【图....md)
 
-**摘要**: arXiv Xplorer是一个基于OpenAI语义搜索技术的arXiv论文搜索引擎，能更精准理解用户查询意图。相比arXiv原生搜索，它...
+**摘要**: arXiv Xplorer是一款基于OpenAI语义搜索技术的arXiv论文搜索引擎，能通过自然语言理解用户查询意图，提供更精准的文...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt0rIwuyX)
-**收录时间**: 2025-05-22 14:04
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-22/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，现有7...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-22 14:04
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-22/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-22 14:04
-
----
-
-### [#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI...](2025-05-22/#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI....md)
-
-**摘要**: 知识蒸馏技术通过大模型(教师模型)指导小模型(学生模型)提升性能，主要包括三种方法：(1)软标签蒸馏：学生模...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0wybvEr)
-**收录时间**: 2025-05-22 14:03
-
----
-
-### [#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord Unveiled。该数据集涵盖十年间，...](2025-05-22/#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord_Unveiled。该数据集涵盖十年间，....md)
-
-**摘要**: Discord公开了名为"Discord Unveiled"的大规模数据集，包含2015-2024年间20.5亿条用户消息，涉及470万用户。数据来自10%的...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0QW9y7G)
-**收录时间**: 2025-05-22 14:03
-
----
-
-### [#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了...](2025-05-22/#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了....md)
-
-**摘要**: 微软研究院开发的AI天气预报系统Aurora在多领域超越传统数值模型：5天全球空气污染预报(74%指标领先)、10天海浪...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0wn3nBT)
-**收录时间**: 2025-05-22 14:03
-
----
-
-### [#特斯拉机器人大秀做家务# 特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才...](2025-05-22/#特斯拉机器人大秀做家务#_特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才....md)
-
-**摘要**: 特斯拉展示了其机器人Optimus（擎天柱）执行家务的能力，包括扔垃圾、整理桌面、炒菜、吸尘和开关柜门等任务...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0ZEzxCc)
-**收录时间**: 2025-05-22 14:03
-
----
-
-### [#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan Williams构建了一种方法，能将...](2025-05-22/#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan_Williams构建了一种方法，能将....md)
-
-**摘要**: 麻省理工学院Ryan Williams教授在计算复杂性理论取得重要突破，提出了一种将算法空间需求大幅压缩的新方法。研...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt12R5zgb)
-**收录时间**: 2025-05-22 14:03
-
----
-
-### [#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常...](2025-05-22/#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常....md)
-
-**摘要**: Memos是一款开源的轻量级笔记工具，2022年推出后迅速受到欢迎，GitHub星标数已增长至40.7k。其界面类似flomo，支持...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0RqgNqY)
-**收录时间**: 2025-05-22 14:03
+**收录时间**: 2025-05-22 15:04
 
 ---
 
 ### [#系统设计宝藏资源##架构师面试宝库#“如何设计大型系统”？GitHub上Star数300k的，“架构师”宝藏资源，来了！System Design Primer，含中文翻译，适合用来系统...](2025-05-22/#系统设计宝藏资源##架构师面试宝库#“如何设计大型系统”？GitHub上Star数300k的，“架构师”宝藏资源，来了！System_Design_Primer，含中文翻译，适合用来系统....md)
 
-**摘要**: GitHub上Star数30万的System Design Primer是一个系统设计和架构师面试的宝藏资源，包含中文翻译。教程涵盖系统设计核...
+**摘要**: GitHub上Star数300k的"System Design Primer"是一个系统设计与架构学习的宝藏资源，包含中文翻译。该教程涵盖系统设计核...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt0sdobbE)
-**收录时间**: 2025-05-22 14:03
+**收录时间**: 2025-05-22 15:04
 
 ---
 
-### [Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning](2025-05-22/Solving_General-Utility_Markov_Decision_Processes_in_the_Single-Trial_Regime_with_Online_Planning.md)
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-22/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 本文首次提出了在单次试验场景下解决无限时域折扣通用效用马尔可夫决策过程(GUMDP)的方法。研究首先分析了单...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)治疗的ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.15782v1)
-**收录时间**: 2025-05-22 14:02
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-22 15:04
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-22/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-22 15:04
+
+---
+
+### [#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI...](2025-05-22/#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI....md)
+
+**摘要**: 知识蒸馏是一种让小型AI模型(学生模型)向大型AI模型(教师模型)学习的技术，主要分为三种方法：(1)软标签蒸馏：...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0wybvEr)
+**收录时间**: 2025-05-22 15:03
+
+---
+
+### [#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了...](2025-05-22/#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了....md)
+
+**摘要**: 微软研究院开发的AI天气预报系统Aurora在多个关键领域超越传统数值模型：5天全球空气污染预报(74%指标更优)、10...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0wn3nBT)
+**收录时间**: 2025-05-22 15:03
+
+---
+
+### [#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord Unveiled。该数据集涵盖十年间，...](2025-05-22/#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord_Unveiled。该数据集涵盖十年间，....md)
+
+**摘要**: Discord公开了名为"Discord Unveiled"的大规模数据集，包含2015-2024年间20.5亿条用户消息，覆盖470万用户。数据来自10%的...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0QW9y7G)
+**收录时间**: 2025-05-22 15:03
+
+---
+
+### [#特斯拉机器人大秀做家务# 特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才...](2025-05-22/#特斯拉机器人大秀做家务#_特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才....md)
+
+**摘要**: 特斯拉展示了其Optimus（擎天柱）机器人执行家务的能力。视频中，该机器人能够完成多项任务，包括扔垃圾、整...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0ZEzxCc)
+**收录时间**: 2025-05-22 15:03
+
+---
+
+### [#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan Williams构建了一种方法，能将...](2025-05-22/#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan_Williams构建了一种方法，能将....md)
+
+**摘要**: 麻省理工学院Ryan Williams教授在计算复杂性领域取得突破，提出一种新方法可将算法转化为空间占用大幅缩减的形...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt12R5zgb)
+**收录时间**: 2025-05-22 15:03
+
+---
+
+### [#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常...](2025-05-22/#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常....md)
+
+**摘要**: Memos是一款开源轻量笔记工具，2022-2025年间GitHub星标数飙升至40.7k。其界面类似flomo，支持灵感记录、待办管理和内...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt0RqgNqY)
+**收录时间**: 2025-05-22 15:03
 
 ---
 
 ### [#百度大模型之道##文心大模型# “我们已经过渡到了可以进行复杂推理的下一个模型范式。”OpenAI CEO奥特曼在年度总结中，给出了他关于大模型未来发展的论断。推...](2025-05-22/#百度大模型之道##文心大模型#_“我们已经过渡到了可以进行复杂推理的下一个模型范式。”OpenAI_CEO奥特曼在年度总结中，给出了他关于大模型未来发展的论断。推....md)
 
-**摘要**: 中国信通院最新大模型推理能力评估显示，百度文心X1 Turbo在24项测试中16项满分，综合评级获国内首个"4+级"最高...
+**摘要**: 中国信通院最新评估显示，百度文心X1 Turbo大模型在24项推理能力测评中表现优异，16项获5分、7项4分、1项3分，成...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt2oIz9v6)
-**收录时间**: 2025-05-22 14:02
+**收录时间**: 2025-05-22 15:02
 
 ---
 
-### [SWE-smith: Scaling Data for Software Engineering Agents](2025-05-22/SWE-smith-_Scaling_Data_for_Software_Engineering_Agents.md)
+### [Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning](2025-05-22/Solving_General-Utility_Markov_Decision_Processes_in_the_Single-Trial_Regime_with_Online_Planning.md)
 
-**摘要**: 研究人员开发了SWE-smith工具，用于大规模生成软件工程训练数据。该工具能自动构建Python代码库的执行环境，并合...
+**摘要**: 本文首次提出了一种解决无限时域折扣通用效用马尔可夫决策过程(GUMDP)的单次试验优化方法。研究首先分析了单...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.21798v2)
-**收录时间**: 2025-05-22 14:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.15782v1)
+**收录时间**: 2025-05-22 15:02
 
 ---
 
 ### [Towards Reliable and Interpretable Traffic Crash Pattern Prediction and Safety Interventions Using Customized Large Language Models](2025-05-22/Towards_Reliable_and_Interpretable_Traffic_Crash_Pattern_Prediction_and_Safety_Interventions_Using_Customized_Large_Language_Models.md)
 
-**摘要**: 本文提出TrafficSafe框架，利用大语言模型（LLMs）重构交通事故预测和特征归因问题。该框架整合多模态数据（58,...
+**摘要**: 本文提出TrafficSafe框架，利用大语言模型(LLMs)将交通事故预测重构为基于文本的推理任务。该研究构建了包含58,...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.12545v2)
-**收录时间**: 2025-05-22 14:02
+**收录时间**: 2025-05-22 15:02
+
+---
+
+### [SWE-smith: Scaling Data for Software Engineering Agents](2025-05-22/SWE-smith-_Scaling_Data_for_Software_Engineering_Agents.md)
+
+**摘要**: 本文介绍了SWE-smith，一种新型的软件工程训练数据生成管道，可自动构建执行环境并合成大量破坏现有测试的任务...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.21798v2)
+**收录时间**: 2025-05-22 15:02
 
 ---
 
 ### [Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](2025-05-22/Soft_Thinking-_Unlocking_the_Reasoning_Potential_of_LLMs_in_Continuous_Concept_Space.md)
 
-**摘要**: 本文提出"软思维"(Soft Thinking)方法，突破传统基于离散语言标记的推理限制。该方法在连续概念空间中生成抽象的"...
+**摘要**: 这篇论文提出了"软思考"(Soft Thinking)方法，突破了传统基于离散语言符号的推理限制。该方法通过生成连续概念空...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.15778v1)
-**收录时间**: 2025-05-22 14:02
+**收录时间**: 2025-05-22 15:02
 
 ---
 
@@ -188,83 +188,83 @@
 
 ### 2025-05-22 (62篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-22/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-22 14:06 
-  这篇论文针对代码生成大语言模型(codeLLMs)提出新评估方法，重点关注模型输出与人类偏好的对齐问题。研究者创...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-22/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-22 15:06 
+  该论文针对代码生成大模型(codeLLMs)提出了CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究收集了397...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-22/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-22 14:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它覆盖42个学科，...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-22/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-22 15:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-22/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-22 14:05 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-22/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-22 15:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-22/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-22 14:05 
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-22/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-22 15:05 
   本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-22/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-22 14:05 
-  这篇论文介绍了AgentSociety——一个基于大语言模型的大规模社会模拟器，可模拟1万多个AI代理的社会互动（500万次...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-22/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-22 15:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟超过1万个智能代理及其500万次社会互动。该系统...
 
-- **[#arXiv论文检索神器##用自然语言搜arXiv论文#arXiv Xplorer：arXiv论文搜索引擎，接入了OpenAI的语义搜索，可以理解你输入关键词的含义，找出更相关的文章。【图...](2025-05-22/#arXiv论文检索神器##用自然语言搜arXiv论文#arXiv_Xplorer：arXiv论文搜索引擎，接入了OpenAI的语义搜索，可以理解你输入关键词的含义，找出更相关的文章。【图....md)** | [原文](https://weibo.com/6105753431/Pt0rIwuyX) | 时间: 2025-05-22 14:04 
-  arXiv Xplorer是一个基于OpenAI语义搜索技术的arXiv论文搜索引擎，能更精准理解用户查询意图。相比arXiv原生搜索，它...
+- **[#arXiv论文检索神器##用自然语言搜arXiv论文#arXiv Xplorer：arXiv论文搜索引擎，接入了OpenAI的语义搜索，可以理解你输入关键词的含义，找出更相关的文章。【图...](2025-05-22/#arXiv论文检索神器##用自然语言搜arXiv论文#arXiv_Xplorer：arXiv论文搜索引擎，接入了OpenAI的语义搜索，可以理解你输入关键词的含义，找出更相关的文章。【图....md)** | [原文](https://weibo.com/6105753431/Pt0rIwuyX) | 时间: 2025-05-22 15:04 
+  arXiv Xplorer是一款基于OpenAI语义搜索技术的arXiv论文搜索引擎，能通过自然语言理解用户查询意图，提供更精准的文...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-22/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-22 14:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，现有7...
+- **[#系统设计宝藏资源##架构师面试宝库#“如何设计大型系统”？GitHub上Star数300k的，“架构师”宝藏资源，来了！System Design Primer，含中文翻译，适合用来系统...](2025-05-22/#系统设计宝藏资源##架构师面试宝库#“如何设计大型系统”？GitHub上Star数300k的，“架构师”宝藏资源，来了！System_Design_Primer，含中文翻译，适合用来系统....md)** | [原文](https://weibo.com/6105753431/Pt0sdobbE) | 时间: 2025-05-22 15:04 
+  GitHub上Star数300k的"System Design Primer"是一个系统设计与架构学习的宝藏资源，包含中文翻译。该教程涵盖系统设计核...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-22/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-22 14:04 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-22/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-22 15:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)治疗的ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，...
 
-- **[#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI...](2025-05-22/#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI....md)** | [原文](https://weibo.com/6105753431/Pt0wybvEr) | 时间: 2025-05-22 14:03 
-  知识蒸馏技术通过大模型(教师模型)指导小模型(学生模型)提升性能，主要包括三种方法：(1)软标签蒸馏：学生模...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-22/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-22 15:04 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的传统认...
 
-- **[#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord Unveiled。该数据集涵盖十年间，...](2025-05-22/#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord_Unveiled。该数据集涵盖十年间，....md)** | [原文](https://weibo.com/6105753431/Pt0QW9y7G) | 时间: 2025-05-22 14:03 
-  Discord公开了名为"Discord Unveiled"的大规模数据集，包含2015-2024年间20.5亿条用户消息，涉及470万用户。数据来自10%的...
+- **[#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI...](2025-05-22/#一图详解如何用大模型训练小模型##一图详解三种蒸馏技术#三人行，必有我师焉！模型也能通过“学习”不断进步。蒸馏就是一种能让小型AI模型（学生模型）向大型AI....md)** | [原文](https://weibo.com/6105753431/Pt0wybvEr) | 时间: 2025-05-22 15:03 
+  知识蒸馏是一种让小型AI模型(学生模型)向大型AI模型(教师模型)学习的技术，主要分为三种方法：(1)软标签蒸馏：...
 
-- **[#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了...](2025-05-22/#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了....md)** | [原文](https://weibo.com/6105753431/Pt0wn3nBT) | 时间: 2025-05-22 14:03 
-  微软研究院开发的AI天气预报系统Aurora在多领域超越传统数值模型：5天全球空气污染预报(74%指标领先)、10天海浪...
+- **[#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了...](2025-05-22/#AI天气预报击败传统预报系统##AI天气预报成本小几个数量级#天气虽难以操控，但距离精准预测又更近了一步！微软研究院推出的地球系统基础模型Aurora，轻松实现了....md)** | [原文](https://weibo.com/6105753431/Pt0wn3nBT) | 时间: 2025-05-22 15:03 
+  微软研究院开发的AI天气预报系统Aurora在多个关键领域超越传统数值模型：5天全球空气污染预报(74%指标更优)、10...
 
-- **[#特斯拉机器人大秀做家务# 特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才...](2025-05-22/#特斯拉机器人大秀做家务#_特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才....md)** | [原文](https://weibo.com/6105753431/Pt0ZEzxCc) | 时间: 2025-05-22 14:03 
-  特斯拉展示了其机器人Optimus（擎天柱）执行家务的能力，包括扔垃圾、整理桌面、炒菜、吸尘和开关柜门等任务...
+- **[#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord Unveiled。该数据集涵盖十年间，...](2025-05-22/#Discord公开十年聊天数据##Discord公开20亿条用户消息#社交平台Discord，公开了迄今为止规模最大的聊天记录数据集——Discord_Unveiled。该数据集涵盖十年间，....md)** | [原文](https://weibo.com/6105753431/Pt0QW9y7G) | 时间: 2025-05-22 15:03 
+  Discord公开了名为"Discord Unveiled"的大规模数据集，包含2015-2024年间20.5亿条用户消息，覆盖470万用户。数据来自10%的...
 
-- **[#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan Williams构建了一种方法，能将...](2025-05-22/#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan_Williams构建了一种方法，能将....md)** | [原文](https://weibo.com/6105753431/Pt12R5zgb) | 时间: 2025-05-22 14:03 
-  麻省理工学院Ryan Williams教授在计算复杂性理论取得重要突破，提出了一种将算法空间需求大幅压缩的新方法。研...
+- **[#特斯拉机器人大秀做家务# 特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才...](2025-05-22/#特斯拉机器人大秀做家务#_特斯拉擎天柱，但是家务版：捡起一袋垃圾扔进垃圾桶；收拾桌面垃圾；炒菜、吸地、开柜门……听懂指令让干啥就干啥，纯看视频自学成才....md)** | [原文](https://weibo.com/6105753431/Pt0ZEzxCc) | 时间: 2025-05-22 15:03 
+  特斯拉展示了其Optimus（擎天柱）机器人执行家务的能力。视频中，该机器人能够完成多项任务，包括扔垃圾、整...
 
-- **[#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常...](2025-05-22/#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常....md)** | [原文](https://weibo.com/6105753431/Pt0RqgNqY) | 时间: 2025-05-22 14:03 
-  Memos是一款开源的轻量级笔记工具，2022年推出后迅速受到欢迎，GitHub星标数已增长至40.7k。其界面类似flomo，支持...
+- **[#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan Williams构建了一种方法，能将...](2025-05-22/#计算复杂性世纪难题最新进展##空间是比时间更强大的计算资源#只用少量空间，就能大大减少程序运行的时间。麻省理工学院教授Ryan_Williams构建了一种方法，能将....md)** | [原文](https://weibo.com/6105753431/Pt12R5zgb) | 时间: 2025-05-22 15:03 
+  麻省理工学院Ryan Williams教授在计算复杂性领域取得突破，提出一种新方法可将算法转化为空间占用大幅缩减的形...
 
-- **[#系统设计宝藏资源##架构师面试宝库#“如何设计大型系统”？GitHub上Star数300k的，“架构师”宝藏资源，来了！System Design Primer，含中文翻译，适合用来系统...](2025-05-22/#系统设计宝藏资源##架构师面试宝库#“如何设计大型系统”？GitHub上Star数300k的，“架构师”宝藏资源，来了！System_Design_Primer，含中文翻译，适合用来系统....md)** | [原文](https://weibo.com/6105753431/Pt0sdobbE) | 时间: 2025-05-22 14:03 
-  GitHub上Star数30万的System Design Primer是一个系统设计和架构师面试的宝藏资源，包含中文翻译。教程涵盖系统设计核...
+- **[#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常...](2025-05-22/#开源笔记应用##Obsidian轻量化替代#Memos：开源轻量笔记工具，从22年到25年，Star数直线上升至40.7k星。【图2】从界面来看，它的界面有点像flomo，既能记录日常....md)** | [原文](https://weibo.com/6105753431/Pt0RqgNqY) | 时间: 2025-05-22 15:03 
+  Memos是一款开源轻量笔记工具，2022-2025年间GitHub星标数飙升至40.7k。其界面类似flomo，支持灵感记录、待办管理和内...
 
-- **[Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning](2025-05-22/Solving_General-Utility_Markov_Decision_Processes_in_the_Single-Trial_Regime_with_Online_Planning.md)** | [原文](http://arxiv.org/abs/2505.15782v1) | 时间: 2025-05-22 14:02 
-  本文首次提出了在单次试验场景下解决无限时域折扣通用效用马尔可夫决策过程(GUMDP)的方法。研究首先分析了单...
+- **[#百度大模型之道##文心大模型# “我们已经过渡到了可以进行复杂推理的下一个模型范式。”OpenAI CEO奥特曼在年度总结中，给出了他关于大模型未来发展的论断。推...](2025-05-22/#百度大模型之道##文心大模型#_“我们已经过渡到了可以进行复杂推理的下一个模型范式。”OpenAI_CEO奥特曼在年度总结中，给出了他关于大模型未来发展的论断。推....md)** | [原文](https://weibo.com/6105753431/Pt2oIz9v6) | 时间: 2025-05-22 15:02 
+  中国信通院最新评估显示，百度文心X1 Turbo大模型在24项推理能力测评中表现优异，16项获5分、7项4分、1项3分，成...
 
-- **[#百度大模型之道##文心大模型# “我们已经过渡到了可以进行复杂推理的下一个模型范式。”OpenAI CEO奥特曼在年度总结中，给出了他关于大模型未来发展的论断。推...](2025-05-22/#百度大模型之道##文心大模型#_“我们已经过渡到了可以进行复杂推理的下一个模型范式。”OpenAI_CEO奥特曼在年度总结中，给出了他关于大模型未来发展的论断。推....md)** | [原文](https://weibo.com/6105753431/Pt2oIz9v6) | 时间: 2025-05-22 14:02 
-  中国信通院最新大模型推理能力评估显示，百度文心X1 Turbo在24项测试中16项满分，综合评级获国内首个"4+级"最高...
+- **[Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning](2025-05-22/Solving_General-Utility_Markov_Decision_Processes_in_the_Single-Trial_Regime_with_Online_Planning.md)** | [原文](http://arxiv.org/abs/2505.15782v1) | 时间: 2025-05-22 15:02 
+  本文首次提出了一种解决无限时域折扣通用效用马尔可夫决策过程(GUMDP)的单次试验优化方法。研究首先分析了单...
 
-- **[SWE-smith: Scaling Data for Software Engineering Agents](2025-05-22/SWE-smith-_Scaling_Data_for_Software_Engineering_Agents.md)** | [原文](http://arxiv.org/abs/2504.21798v2) | 时间: 2025-05-22 14:02 
-  研究人员开发了SWE-smith工具，用于大规模生成软件工程训练数据。该工具能自动构建Python代码库的执行环境，并合...
+- **[Towards Reliable and Interpretable Traffic Crash Pattern Prediction and Safety Interventions Using Customized Large Language Models](2025-05-22/Towards_Reliable_and_Interpretable_Traffic_Crash_Pattern_Prediction_and_Safety_Interventions_Using_Customized_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2505.12545v2) | 时间: 2025-05-22 15:02 
+  本文提出TrafficSafe框架，利用大语言模型(LLMs)将交通事故预测重构为基于文本的推理任务。该研究构建了包含58,...
 
-- **[Towards Reliable and Interpretable Traffic Crash Pattern Prediction and Safety Interventions Using Customized Large Language Models](2025-05-22/Towards_Reliable_and_Interpretable_Traffic_Crash_Pattern_Prediction_and_Safety_Interventions_Using_Customized_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2505.12545v2) | 时间: 2025-05-22 14:02 
-  本文提出TrafficSafe框架，利用大语言模型（LLMs）重构交通事故预测和特征归因问题。该框架整合多模态数据（58,...
+- **[SWE-smith: Scaling Data for Software Engineering Agents](2025-05-22/SWE-smith-_Scaling_Data_for_Software_Engineering_Agents.md)** | [原文](http://arxiv.org/abs/2504.21798v2) | 时间: 2025-05-22 15:02 
+  本文介绍了SWE-smith，一种新型的软件工程训练数据生成管道，可自动构建执行环境并合成大量破坏现有测试的任务...
 
-- **[Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](2025-05-22/Soft_Thinking-_Unlocking_the_Reasoning_Potential_of_LLMs_in_Continuous_Concept_Space.md)** | [原文](http://arxiv.org/abs/2505.15778v1) | 时间: 2025-05-22 14:02 
-  本文提出"软思维"(Soft Thinking)方法，突破传统基于离散语言标记的推理限制。该方法在连续概念空间中生成抽象的"...
+- **[Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](2025-05-22/Soft_Thinking-_Unlocking_the_Reasoning_Potential_of_LLMs_in_Continuous_Concept_Space.md)** | [原文](http://arxiv.org/abs/2505.15778v1) | 时间: 2025-05-22 15:02 
+  这篇论文提出了"软思考"(Soft Thinking)方法，突破了传统基于离散语言符号的推理限制。该方法通过生成连续概念空...
 
-- **[GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](2025-05-22/GUI-G1-_Understanding_R1-Zero-Like_Training_for_Visual_Grounding_in_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2505.15810v1) | 时间: 2025-05-22 14:01 
-  这篇论文分析了GUI智能体训练中的三个关键问题：输入设计（过长的思维链反而降低定位性能）、输出评估（基于...
+- **[GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](2025-05-22/GUI-G1-_Understanding_R1-Zero-Like_Training_for_Visual_Grounding_in_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2505.15810v1) | 时间: 2025-05-22 15:01 
+  该研究分析了当前GUI智能体训练中的三个关键问题：输入设计（长推理链导致性能下降）、输出评估（奖励函数易...
 
-- **[The Agentic Economy](2025-05-22/The_Agentic_Economy.md)** | [原文](http://arxiv.org/abs/2505.15799v1) | 时间: 2025-05-22 14:01 
-  生成式AI通过自然语言界面和自主代理改变了人机交互，其经济影响不仅限于提升个人生产力，更在于减少消费者...
+- **[The Agentic Economy](2025-05-22/The_Agentic_Economy.md)** | [原文](http://arxiv.org/abs/2505.15799v1) | 时间: 2025-05-22 15:01 
+  生成式AI通过自然语言接口和自主代理改变了人机交互，其经济影响不仅限于提升个人生产力，更在于减少消费者...
 
-- **[Exploring the Innovation Opportunities for Pre-trained Models](2025-05-22/Exploring_the_Innovation_Opportunities_for_Pre-trained_Models.md)** | [原文](http://arxiv.org/abs/2505.15790v1) | 时间: 2025-05-22 14:01 
-  这篇摘要探讨了预训练模型如何改变AI创新格局。研究者通过分析HCI研究人员开发的预训练模型应用（作为商业成...
+- **[Exploring the Innovation Opportunities for Pre-trained Models](2025-05-22/Exploring_the_Innovation_Opportunities_for_Pre-trained_Models.md)** | [原文](http://arxiv.org/abs/2505.15790v1) | 时间: 2025-05-22 15:01 
+  这篇摘要探讨了预训练模型如何改变AI创新格局。研究者通过分析人机交互(HCI)领域开发的预训练模型应用，揭示...
 
-- **[On the creation of narrow AI: hierarchy and nonlocality of neural network skills](2025-05-22/On_the_creation_of_narrow_AI-_hierarchy_and_nonlocality_of_neural_network_skills.md)** | [原文](http://arxiv.org/abs/2505.15811v1) | 时间: 2025-05-22 14:01 
-  该研究探讨了开发高效、安全的专用窄AI系统的两个关键挑战。首先，实验发现某些窄技能必须通过广泛数据分布...
+- **[Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning](2025-05-22/Model_Merging_is_Secretly_Certifiable-_Non-Vacuous_Generalisation_Bounds_for_Low-Shot_Learning.md)** | [原文](http://arxiv.org/abs/2505.15798v1) | 时间: 2025-05-22 15:01 
+  这篇论文提出了一种新方法，通过模型融合而非微调来认证深度网络在独立同分布(IID)数据上的泛化能力。研究发...
 
-- **[Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning](2025-05-22/Model_Merging_is_Secretly_Certifiable-_Non-Vacuous_Generalisation_Bounds_for_Low-Shot_Learning.md)** | [原文](http://arxiv.org/abs/2505.15798v1) | 时间: 2025-05-22 14:01 
-  这篇论文提出了一种新方法，通过模型融合而非微调来验证深度网络在独立同分布(IID)数据上的泛化能力。研究发...
+- **[HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving](2025-05-22/HCRMP-_A_LLM-Hinted_Contextual_Reinforcement_Learning_Framework_for_Autonomous_Driving.md)** | [原文](http://arxiv.org/abs/2505.15793v1) | 时间: 2025-05-22 15:01 
+  该研究提出了一种新型LLM-Hinted RL范式，以解决大型语言模型(LLM)在自动驾驶中因幻觉问题(非幻觉率仅57....
 
-- **[HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving](2025-05-22/HCRMP-_A_LLM-Hinted_Contextual_Reinforcement_Learning_Framework_for_Autonomous_Driving.md)** | [原文](http://arxiv.org/abs/2505.15793v1) | 时间: 2025-05-22 14:01 
-  该研究提出了一种新型LLM-Hinted RL范式，通过结合大语言模型(LLM)和强化学习(RL)来提升自动驾驶性能。针对现有方...
+- **[On the creation of narrow AI: hierarchy and nonlocality of neural network skills](2025-05-22/On_the_creation_of_narrow_AI-_hierarchy_and_nonlocality_of_neural_network_skills.md)** | [原文](http://arxiv.org/abs/2505.15811v1) | 时间: 2025-05-22 15:00 
+  该研究探讨了创建高效、安全的专用窄AI系统面临的挑战。研究发现：1) 训练窄模型时，有时需要基于广泛数据分...
 
 - **[#智元机器人招募合作伙伴##智元灵犀X2机器人内心戏#稚晖君打造的机器人“智元灵犀X2”，今日正式启动合作伙伴招募计划，向具备销售能力和二次开发能力的团队开放...](2025-05-22/#智元机器人招募合作伙伴##智元灵犀X2机器人内心戏#稚晖君打造的机器人“智元灵犀X2”，今日正式启动合作伙伴招募计划，向具备销售能力和二次开发能力的团队开放....md)** | [原文](https://weibo.com/6105753431/Pt0ajb9rL) | 时间: 2025-05-22 12:04 
   智元机器人公司正式启动"灵犀X2"人形机器人合作伙伴招募计划，面向具备销售和二次开发能力的团队。该机器人...
