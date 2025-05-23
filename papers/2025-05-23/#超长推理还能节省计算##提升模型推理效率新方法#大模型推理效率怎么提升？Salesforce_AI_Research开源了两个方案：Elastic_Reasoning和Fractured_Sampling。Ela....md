@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-Salesforce AI Research开源了两种提升大模型推理效率的方法：Elastic Reasoning和Fractured Sampling。Elastic Reasoning通过分离"思考"和"答题"token预算，使模型在思考预算用完后立即输出答案，效率提升30%。Fractured Sampling则通过分阶段提前终止低效推理路径，减少20% token使用同时提高精度。两种方法均能在有限计算资源下优化模型表现，特别适用于数学和编程任务，实现"又快又准"的推理效果。
+Salesforce AI Research 开源了两种提升大模型推理效率的方法：Elastic Reasoning 和 Fractured Sampling。Elastic Reasoning 将“思考”和“答题”分开设定 token 预算，用完思考预算后立即答题，效率提升 30%，同时保持高准确率。Fractured Sampling 则切割推理过程，通过提前终止部分推理路径（重点优化思考深度 H），减少 20% token 使用且精度提升。两种方法均优化了计算资源分配，使模型在数学和编程任务中实现高效精准的推理。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-23T09:04:02Z
+- **保存时间**: 2025-05-23T10:04:16Z
 - **目录日期**: 2025-05-23
