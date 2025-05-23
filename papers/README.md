@@ -4,39 +4,30 @@
 
 ## 最新内容
 
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-05-23 08:06
+
+---
+
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文聚焦代码生成大模型（CodeLLMs）与人类偏好的对齐问题，提出新基准CodeArena（含397个多语言/多类别真实编...
+**摘要**: 该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究收集397个涵...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-23 07:06
+**收录时间**: 2025-05-23 08:06
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-23 07:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，能模拟1万多个代理的社会互动（500万次）。研究者用它分...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-23 07:05
-
----
-
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
-
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译及科研分析等一站式服务。其核心功能包括：...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-23 07:05
+**收录时间**: 2025-05-23 08:05
 
 ---
 
@@ -45,43 +36,34 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-23 07:05
+**收录时间**: 2025-05-23 08:05
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大型语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它分析社...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-23 08:05
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+**摘要**: LatentSync是一种新型端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该研究解决了扩散模...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-23 07:05
+**收录时间**: 2025-05-23 08:05
 
 ---
 
 ### [#AI十周找到绝症潜在新疗法##AI科学家发现致盲眼疾新疗法#无特效疗法、无法根治的疾病，现在被「AI科学家」发现了潜在新疗法。核心流程完全由AI驱动，人类研究员...](2025-05-23/#AI十周找到绝症潜在新疗法##AI科学家发现致盲眼疾新疗法#无特效疗法、无法根治的疾病，现在被「AI科学家」发现了潜在新疗法。核心流程完全由AI驱动，人类研究员....md)
 
-**摘要**: 非营利组织Future House利用多智能体AI系统，在10周内发现青光眼药物Ripasudil可能对干性年龄相关性黄斑变性(dAMD)有...
+**摘要**: 非营利组织Future House利用多智能体AI系统，在10周内发现青光眼药物Ripasudil可能对干性年龄相关性黄斑变性(dAMD)具...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt862vdnh)
-**收录时间**: 2025-05-23 07:04
-
----
-
-### [#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评...](2025-05-23/#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评....md)
-
-**摘要**: TransBench最新AI翻译评测榜单显示，不同场景下各模型优势显著：GPT-4o在日常通用翻译中综合表现最优，DeepL擅长欧...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8hS2KaS)
-**收录时间**: 2025-05-23 07:04
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传统观点。SGD-SaI通过...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-23 07:04
+**收录时间**: 2025-05-23 08:04
 
 ---
 
@@ -90,52 +72,34 @@
 **摘要**: 腾讯云在AI产业应用峰会上发布了全新智能体开发平台，实现零代码配置多智能体协同构建，并升级了从AI基础设...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt85NxDPV)
-**收录时间**: 2025-05-23 07:04
+**收录时间**: 2025-05-23 08:04
 
 ---
 
 ### [转发微博 - 转发 @雷军:&ensp;小米15周年战略新品发布会 所有新品介绍#小米玄戒o1# [图片][图片][图片][图片][图片][图片][图片][图片][图片]](2025-05-23/转发微博_-_转发_@雷军-&ensp;小米15周年战略新品发布会_所有新品介绍#小米玄戒o1#_[图片][图片][图片][图片][图片][图片][图片][图片][图片].md)
 
-**摘要**: 雷军发布了小米15周年战略新品发布会内容，展示了多款新品，包括"小米玄戒O1"等产品。微博配图显示了多张新品...
+**摘要**: 小米在15周年战略新品发布会上推出了多款新品，主打产品包括"小米玄戒O1"等。发布会通过多张图片展示了新品的...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt7uO7fgM)
-**收录时间**: 2025-05-23 07:04
+**收录时间**: 2025-05-23 08:04
 
 ---
 
-### [#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期...](2025-05-23/#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期....md)
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: MIT和新加坡团队研发了一种可生物降解的"丝蛋白微针"技术，通过将褪黑素注入蔬菜（如小白菜）来延长保鲜期。...
+**摘要**: 这篇论文提出了SGD-SaI优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8j7qBF7)
-**收录时间**: 2025-05-23 07:03
-
----
-
-### [#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法...](2025-05-23/#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法....md)
-
-**摘要**: 加州大学圣巴巴拉分校团队提出"Soft Thinking"方法，突破传统AI离散推理限制，无需额外训练即可实现类人抽象思维...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8VIePfU)
-**收录时间**: 2025-05-23 07:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-23 08:04
 
 ---
 
 ### [#传统技术让国产视觉基础模型直接上大分##传统技术提效国产AI# 咱就是说啊，视觉基础模型这块儿，国产AI真就是上了个大分——Glint-MVT，来自格灵深瞳的最新成果...](2025-05-23/#传统技术让国产视觉基础模型直接上大分##传统技术提效国产AI#_咱就是说啊，视觉基础模型这块儿，国产AI真就是上了个大分——Glint-MVT，来自格灵深瞳的最新成果....md)
 
-**摘要**: 格灵深瞳推出的Glint-MVT视觉基础模型在性能测试中表现优异：线性探测准确率分别超过OpenCLIP 2.3%和CLIP 1....
+**摘要**: 格灵深瞳推出的Glint-MVT视觉基础模型在性能测试中表现优异，线性探测准确率超过OpenCLIP 2.3%和CLIP 1....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt9gfgUF2)
-**收录时间**: 2025-05-23 07:03
-
----
-
-### [#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google I/O开发者大会期间，DeepMind首席执行官Demis Hassabi...](2025-05-23/#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google_I-O开发者大会期间，DeepMind首席执行官Demis_Hassabi....md)
-
-**摘要**: 谷歌DeepMind CEO哈萨比斯与联合创始人布林在对话中指出，AGI发展仍需1-2个关键突破，强调算法创新与算力扩张需并...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8VhrYUS)
-**收录时间**: 2025-05-23 07:03
+**收录时间**: 2025-05-23 08:03
 
 ---
 
@@ -144,43 +108,79 @@
 **摘要**: 达摩院推出新基准VCBench，专门评估多模态大模型在小学数学题中的视觉推理能力。测试显示，人类平均得分93....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pt8WcvYd4)
-**收录时间**: 2025-05-23 07:03
+**收录时间**: 2025-05-23 08:03
+
+---
+
+### [#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google I/O开发者大会期间，DeepMind首席执行官Demis Hassabi...](2025-05-23/#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google_I-O开发者大会期间，DeepMind首席执行官Demis_Hassabi....md)
+
+**摘要**: DeepMind CEO Hassabis和谷歌联合创始人Brin在对话中指出，当前AI技术虽取得显著进步，但距离真正的通用人工智能（AGI...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8VhrYUS)
+**收录时间**: 2025-05-23 08:03
+
+---
+
+### [#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法...](2025-05-23/#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法....md)
+
+**摘要**: 加州大学圣巴巴拉分校团队提出"Soft Thinking"方法，突破传统AI依赖离散语言符号推理的局限。该方法通过三大创新...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8VIePfU)
+**收录时间**: 2025-05-23 08:03
+
+---
+
+### [#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期...](2025-05-23/#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期....md)
+
+**摘要**: MIT与新加坡团队研发了一项创新技术，使用蚕丝蛋白制成的微型可降解"微针"为蔬菜注入褪黑素。实验显示，经处...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8j7qBF7)
+**收录时间**: 2025-05-23 08:03
+
+---
+
+### [#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评...](2025-05-23/#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评....md)
+
+**摘要**: TransBench最新AI翻译评测榜单显示，不同场景下最优模型各有侧重：GPT-4o在通用翻译中表现最稳定，DeepL擅长欧洲语...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt8hS2KaS)
+**收录时间**: 2025-05-23 08:03
 
 ---
 
 ### [Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](2025-05-23/Incorporating_Visual_Correspondence_into_Diffusion_Model_for_Virtual_Try-On.md)
 
-**摘要**: 本文提出了一种基于语义点匹配（SPM）的扩散模型方法，用于虚拟试穿（VTON）任务。传统双分支UNet架构难以保持...
+**摘要**: 本文提出了一种基于扩散模型的虚拟试穿(VTON)新方法SPM-Diff，通过显式利用视觉对应关系作为先验来改进服装细节...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.16977v1)
-**收录时间**: 2025-05-23 07:02
-
----
-
-### [InSTA: Towards Internet-Scale Training For Agents](2025-05-23/InSTA-_Towards_Internet-Scale_Training_For_Agents.md)
-
-**摘要**: 研究人员开发了一种无需人工标注的大规模网络导航智能体训练方法。该方法分三阶段：1)使用大语言模型(LLM)为15...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.06776v2)
-**收录时间**: 2025-05-23 07:02
+**收录时间**: 2025-05-23 08:02
 
 ---
 
 ### [Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine](2025-05-23/Beyond_Correlation-_Towards_Causal_Large_Language_Model_Agents_in_Biomedicine.md)
 
-**摘要**: 当前大语言模型（LLMs）在生物医学领域展现出潜力，但缺乏真正的因果推理能力，主要依赖相关性分析。本文提...
+**摘要**: 这篇论文探讨了在生物医学领域开发具备因果推理能力的大型语言模型（LLM）代理的愿景。当前LLM主要依赖相关性...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.16982v1)
-**收录时间**: 2025-05-23 07:02
+**收录时间**: 2025-05-23 08:02
 
 ---
 
-### [Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design](2025-05-23/Know_the_Ropes-_A_Heuristic_Strategy_for_LLM-based_Multi-Agent_System_Design.md)
+### [InSTA: Towards Internet-Scale Training For Agents](2025-05-23/InSTA-_Towards_Internet-Scale_Training_For_Agents.md)
 
-**摘要**: Know-The-Ropes (KtR) 是一个多智能体框架，通过将领域先验转化为分层算法蓝图，解决单一大模型在有限上下文、角色...
+**摘要**: 该研究提出了一种无需人工标注的大规模网络导航智能体训练方法。首先使用大语言模型（LLM）为15万个网站生成...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.16979v1)
-**收录时间**: 2025-05-23 07:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2502.06776v2)
+**收录时间**: 2025-05-23 08:02
+
+---
+
+### [#AI视频生成三年变化##从史密斯吃面看AI三年进展#一个视频，带你看看2023-2025年，AI视频的发展速度。有请我们的主角——“威尔史密斯”，每次一有新的AI模型出...](2025-05-23/#AI视频生成三年变化##从史密斯吃面看AI三年进展#一个视频，带你看看2023-2025年，AI视频的发展速度。有请我们的主角——“威尔史密斯”，每次一有新的AI模型出....md)
+
+**摘要**: 这段视频展示了2021-2023年AI视频生成技术的飞速发展，以威尔·史密斯"吃面"为测试案例。从2021年明显的AI痕迹，到...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pt9nlcSfN)
+**收录时间**: 2025-05-23 08:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-23 (49篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-23 07:06 
-  这篇论文聚焦代码生成大模型（CodeLLMs）与人类偏好的对齐问题，提出新基准CodeArena（含397个多语言/多类别真实编...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-23 08:06 
+  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-23 07:05 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-23/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-23 08:06 
+  该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究收集397个涵...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-23 07:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟器，能模拟1万多个代理的社会互动（500万次）。研究者用它分...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-23/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-23 08:05 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-23/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-23 07:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译及科研分析等一站式服务。其核心功能包括：...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-23 07:05 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-23/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-23 08:05 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-23 07:05 
-  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-23/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-23 08:05 
+  AgentSociety是一个基于大型语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它分析社...
 
-- **[#AI十周找到绝症潜在新疗法##AI科学家发现致盲眼疾新疗法#无特效疗法、无法根治的疾病，现在被「AI科学家」发现了潜在新疗法。核心流程完全由AI驱动，人类研究员...](2025-05-23/#AI十周找到绝症潜在新疗法##AI科学家发现致盲眼疾新疗法#无特效疗法、无法根治的疾病，现在被「AI科学家」发现了潜在新疗法。核心流程完全由AI驱动，人类研究员....md)** | [原文](https://weibo.com/6105753431/Pt862vdnh) | 时间: 2025-05-23 07:04 
-  非营利组织Future House利用多智能体AI系统，在10周内发现青光眼药物Ripasudil可能对干性年龄相关性黄斑变性(dAMD)有...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-23/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-23 08:05 
+  LatentSync是一种新型端到端唇同步框架，基于音频条件的潜在扩散模型，无需中间运动表示。该研究解决了扩散模...
 
-- **[#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评...](2025-05-23/#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评....md)** | [原文](https://weibo.com/6105753431/Pt8hS2KaS) | 时间: 2025-05-23 07:04 
-  TransBench最新AI翻译评测榜单显示，不同场景下各模型优势显著：GPT-4o在日常通用翻译中综合表现最优，DeepL擅长欧...
+- **[#AI十周找到绝症潜在新疗法##AI科学家发现致盲眼疾新疗法#无特效疗法、无法根治的疾病，现在被「AI科学家」发现了潜在新疗法。核心流程完全由AI驱动，人类研究员...](2025-05-23/#AI十周找到绝症潜在新疗法##AI科学家发现致盲眼疾新疗法#无特效疗法、无法根治的疾病，现在被「AI科学家」发现了潜在新疗法。核心流程完全由AI驱动，人类研究员....md)** | [原文](https://weibo.com/6105753431/Pt862vdnh) | 时间: 2025-05-23 08:04 
+  非营利组织Future House利用多智能体AI系统，在10周内发现青光眼药物Ripasudil可能对干性年龄相关性黄斑变性(dAMD)具...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-23 07:04 
-  这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传统观点。SGD-SaI通过...
-
-- **[#腾讯大模型战略首次全景亮相##腾讯云上线全新智能体开发平台#智能体的开发门槛，又又又被打下来了！昨天，腾讯云在他们的AI产业应用峰会上，正式上线了全新的智...](2025-05-23/#腾讯大模型战略首次全景亮相##腾讯云上线全新智能体开发平台#智能体的开发门槛，又又又被打下来了！昨天，腾讯云在他们的AI产业应用峰会上，正式上线了全新的智....md)** | [原文](https://weibo.com/6105753431/Pt85NxDPV) | 时间: 2025-05-23 07:04 
+- **[#腾讯大模型战略首次全景亮相##腾讯云上线全新智能体开发平台#智能体的开发门槛，又又又被打下来了！昨天，腾讯云在他们的AI产业应用峰会上，正式上线了全新的智...](2025-05-23/#腾讯大模型战略首次全景亮相##腾讯云上线全新智能体开发平台#智能体的开发门槛，又又又被打下来了！昨天，腾讯云在他们的AI产业应用峰会上，正式上线了全新的智....md)** | [原文](https://weibo.com/6105753431/Pt85NxDPV) | 时间: 2025-05-23 08:04 
   腾讯云在AI产业应用峰会上发布了全新智能体开发平台，实现零代码配置多智能体协同构建，并升级了从AI基础设...
 
-- **[转发微博 - 转发 @雷军:&ensp;小米15周年战略新品发布会 所有新品介绍#小米玄戒o1# [图片][图片][图片][图片][图片][图片][图片][图片][图片]](2025-05-23/转发微博_-_转发_@雷军-&ensp;小米15周年战略新品发布会_所有新品介绍#小米玄戒o1#_[图片][图片][图片][图片][图片][图片][图片][图片][图片].md)** | [原文](https://weibo.com/6105753431/Pt7uO7fgM) | 时间: 2025-05-23 07:04 
-  雷军发布了小米15周年战略新品发布会内容，展示了多款新品，包括"小米玄戒O1"等产品。微博配图显示了多张新品...
+- **[转发微博 - 转发 @雷军:&ensp;小米15周年战略新品发布会 所有新品介绍#小米玄戒o1# [图片][图片][图片][图片][图片][图片][图片][图片][图片]](2025-05-23/转发微博_-_转发_@雷军-&ensp;小米15周年战略新品发布会_所有新品介绍#小米玄戒o1#_[图片][图片][图片][图片][图片][图片][图片][图片][图片].md)** | [原文](https://weibo.com/6105753431/Pt7uO7fgM) | 时间: 2025-05-23 08:04 
+  小米在15周年战略新品发布会上推出了多款新品，主打产品包括"小米玄戒O1"等。发布会通过多张图片展示了新品的...
 
-- **[#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期...](2025-05-23/#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期....md)** | [原文](https://weibo.com/6105753431/Pt8j7qBF7) | 时间: 2025-05-23 07:03 
-  MIT和新加坡团队研发了一种可生物降解的"丝蛋白微针"技术，通过将褪黑素注入蔬菜（如小白菜）来延长保鲜期。...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-23/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-23 08:04 
+  这篇论文提出了SGD-SaI优化方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化...
 
-- **[#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法...](2025-05-23/#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法....md)** | [原文](https://weibo.com/6105753431/Pt8VIePfU) | 时间: 2025-05-23 07:03 
-  加州大学圣巴巴拉分校团队提出"Soft Thinking"方法，突破传统AI离散推理限制，无需额外训练即可实现类人抽象思维...
+- **[#传统技术让国产视觉基础模型直接上大分##传统技术提效国产AI# 咱就是说啊，视觉基础模型这块儿，国产AI真就是上了个大分——Glint-MVT，来自格灵深瞳的最新成果...](2025-05-23/#传统技术让国产视觉基础模型直接上大分##传统技术提效国产AI#_咱就是说啊，视觉基础模型这块儿，国产AI真就是上了个大分——Glint-MVT，来自格灵深瞳的最新成果....md)** | [原文](https://weibo.com/6105753431/Pt9gfgUF2) | 时间: 2025-05-23 08:03 
+  格灵深瞳推出的Glint-MVT视觉基础模型在性能测试中表现优异，线性探测准确率超过OpenCLIP 2.3%和CLIP 1....
 
-- **[#传统技术让国产视觉基础模型直接上大分##传统技术提效国产AI# 咱就是说啊，视觉基础模型这块儿，国产AI真就是上了个大分——Glint-MVT，来自格灵深瞳的最新成果...](2025-05-23/#传统技术让国产视觉基础模型直接上大分##传统技术提效国产AI#_咱就是说啊，视觉基础模型这块儿，国产AI真就是上了个大分——Glint-MVT，来自格灵深瞳的最新成果....md)** | [原文](https://weibo.com/6105753431/Pt9gfgUF2) | 时间: 2025-05-23 07:03 
-  格灵深瞳推出的Glint-MVT视觉基础模型在性能测试中表现优异：线性探测准确率分别超过OpenCLIP 2.3%和CLIP 1....
-
-- **[#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google I/O开发者大会期间，DeepMind首席执行官Demis Hassabi...](2025-05-23/#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google_I-O开发者大会期间，DeepMind首席执行官Demis_Hassabi....md)** | [原文](https://weibo.com/6105753431/Pt8VhrYUS) | 时间: 2025-05-23 07:03 
-  谷歌DeepMind CEO哈萨比斯与联合创始人布林在对话中指出，AGI发展仍需1-2个关键突破，强调算法创新与算力扩张需并...
-
-- **[#大模型集体挂科小学数学题##达摩院推出数学推理任务基准VCBench#大模型做数学题的能力很强，可是它们真的能够理解基本的数学原理吗？拿小学生的数学题进行测试...](2025-05-23/#大模型集体挂科小学数学题##达摩院推出数学推理任务基准VCBench#大模型做数学题的能力很强，可是它们真的能够理解基本的数学原理吗？拿小学生的数学题进行测试....md)** | [原文](https://weibo.com/6105753431/Pt8WcvYd4) | 时间: 2025-05-23 07:03 
+- **[#大模型集体挂科小学数学题##达摩院推出数学推理任务基准VCBench#大模型做数学题的能力很强，可是它们真的能够理解基本的数学原理吗？拿小学生的数学题进行测试...](2025-05-23/#大模型集体挂科小学数学题##达摩院推出数学推理任务基准VCBench#大模型做数学题的能力很强，可是它们真的能够理解基本的数学原理吗？拿小学生的数学题进行测试....md)** | [原文](https://weibo.com/6105753431/Pt8WcvYd4) | 时间: 2025-05-23 08:03 
   达摩院推出新基准VCBench，专门评估多模态大模型在小学数学题中的视觉推理能力。测试显示，人类平均得分93....
 
-- **[Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](2025-05-23/Incorporating_Visual_Correspondence_into_Diffusion_Model_for_Virtual_Try-On.md)** | [原文](http://arxiv.org/abs/2505.16977v1) | 时间: 2025-05-23 07:02 
-  本文提出了一种基于语义点匹配（SPM）的扩散模型方法，用于虚拟试穿（VTON）任务。传统双分支UNet架构难以保持...
+- **[#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google I/O开发者大会期间，DeepMind首席执行官Demis Hassabi...](2025-05-23/#谷歌大佬对谈AGI发展路径##真正的AGI应以最杰出的人为标准#未来一定会有一家企业，率先实现AGI？在Google_I-O开发者大会期间，DeepMind首席执行官Demis_Hassabi....md)** | [原文](https://weibo.com/6105753431/Pt8VhrYUS) | 时间: 2025-05-23 08:03 
+  DeepMind CEO Hassabis和谷歌联合创始人Brin在对话中指出，当前AI技术虽取得显著进步，但距离真正的通用人工智能（AGI...
 
-- **[InSTA: Towards Internet-Scale Training For Agents](2025-05-23/InSTA-_Towards_Internet-Scale_Training_For_Agents.md)** | [原文](http://arxiv.org/abs/2502.06776v2) | 时间: 2025-05-23 07:02 
-  研究人员开发了一种无需人工标注的大规模网络导航智能体训练方法。该方法分三阶段：1)使用大语言模型(LLM)为15...
+- **[#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法...](2025-05-23/#无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法....md)** | [原文](https://weibo.com/6105753431/Pt8VIePfU) | 时间: 2025-05-23 08:03 
+  加州大学圣巴巴拉分校团队提出"Soft Thinking"方法，突破传统AI依赖离散语言符号推理的局限。该方法通过三大创新...
 
-- **[Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine](2025-05-23/Beyond_Correlation-_Towards_Causal_Large_Language_Model_Agents_in_Biomedicine.md)** | [原文](http://arxiv.org/abs/2505.16982v1) | 时间: 2025-05-23 07:02 
-  当前大语言模型（LLMs）在生物医学领域展现出潜力，但缺乏真正的因果推理能力，主要依赖相关性分析。本文提...
+- **[#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期...](2025-05-23/#蔬菜打褪黑素能多放6天##MIT给蔬菜打褪黑素#往蔬菜里打褪黑素，能延长其保鲜期？没错。MIT和新加坡团队发现，褪黑素不仅能帮助人类入睡，还能调节植物生长周期....md)** | [原文](https://weibo.com/6105753431/Pt8j7qBF7) | 时间: 2025-05-23 08:03 
+  MIT与新加坡团队研发了一项创新技术，使用蚕丝蛋白制成的微型可降解"微针"为蔬菜注入褪黑素。实验显示，经处...
 
-- **[Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design](2025-05-23/Know_the_Ropes-_A_Heuristic_Strategy_for_LLM-based_Multi-Agent_System_Design.md)** | [原文](http://arxiv.org/abs/2505.16979v1) | 时间: 2025-05-23 07:02 
-  Know-The-Ropes (KtR) 是一个多智能体框架，通过将领域先验转化为分层算法蓝图，解决单一大模型在有限上下文、角色...
+- **[#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评...](2025-05-23/#AI翻译选哪个模型##不同场景下AI翻译哪家强#用AI做翻译，到底该选哪款模型？最新上线的AI翻译评测榜单TransBench给出答案。（TransBench是首个应用型AI翻译测评....md)** | [原文](https://weibo.com/6105753431/Pt8hS2KaS) | 时间: 2025-05-23 08:03 
+  TransBench最新AI翻译评测榜单显示，不同场景下最优模型各有侧重：GPT-4o在通用翻译中表现最稳定，DeepL擅长欧洲语...
 
-- **[#AI视频生成三年变化##从史密斯吃面看AI三年进展#一个视频，带你看看2023-2025年，AI视频的发展速度。有请我们的主角——“威尔史密斯”，每次一有新的AI模型出...](2025-05-23/#AI视频生成三年变化##从史密斯吃面看AI三年进展#一个视频，带你看看2023-2025年，AI视频的发展速度。有请我们的主角——“威尔史密斯”，每次一有新的AI模型出....md)** | [原文](https://weibo.com/6105753431/Pt9nlcSfN) | 时间: 2025-05-23 07:02 
-  这段视频展示了2021-2023年AI视频生成技术的飞速发展，以威尔·史密斯"吃面"的测试案例为线索。从2021年明显的AI痕...
+- **[Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](2025-05-23/Incorporating_Visual_Correspondence_into_Diffusion_Model_for_Virtual_Try-On.md)** | [原文](http://arxiv.org/abs/2505.16977v1) | 时间: 2025-05-23 08:02 
+  本文提出了一种基于扩散模型的虚拟试穿(VTON)新方法SPM-Diff，通过显式利用视觉对应关系作为先验来改进服装细节...
 
-- **[MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems](2025-05-23/MASLab-_A_Unified_and_Comprehensive_Codebase_for_LLM-based_Multi-Agent_Systems.md)** | [原文](http://arxiv.org/abs/2505.16988v1) | 时间: 2025-05-23 07:01 
-  该摘要介绍了MASLab，一个基于大型语言模型(LLM)的多智能体系统(MAS)统一代码库。MASLab整合了20多种跨领域方法，经...
+- **[Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine](2025-05-23/Beyond_Correlation-_Towards_Causal_Large_Language_Model_Agents_in_Biomedicine.md)** | [原文](http://arxiv.org/abs/2505.16982v1) | 时间: 2025-05-23 08:02 
+  这篇论文探讨了在生物医学领域开发具备因果推理能力的大型语言模型（LLM）代理的愿景。当前LLM主要依赖相关性...
 
-- **[T1: A Tool-Oriented Conversational Dataset for Multi-Turn Agentic Planning](2025-05-23/T1-_A_Tool-Oriented_Conversational_Dataset_for_Multi-Turn_Agentic_Planning.md)** | [原文](http://arxiv.org/abs/2505.16986v1) | 时间: 2025-05-23 07:01 
-  研究人员提出了T1数据集，用于评估大型语言模型(LLMs)在多轮对话中处理工具间依赖关系的能力。T1包含多领域对...
+- **[InSTA: Towards Internet-Scale Training For Agents](2025-05-23/InSTA-_Towards_Internet-Scale_Training_For_Agents.md)** | [原文](http://arxiv.org/abs/2502.06776v2) | 时间: 2025-05-23 08:02 
+  该研究提出了一种无需人工标注的大规模网络导航智能体训练方法。首先使用大语言模型（LLM）为15万个网站生成...
 
-- **[X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs](2025-05-23/X-MAS-_Towards_Building_Multi-Agent_Systems_with_Heterogeneous_LLMs.md)** | [原文](http://arxiv.org/abs/2505.16997v1) | 时间: 2025-05-23 07:01 
-  本文提出了一种基于异构大语言模型（LLM）的多智能体系统（X-MAS），突破了传统单模型驱动系统的性能限制。研...
+- **[#AI视频生成三年变化##从史密斯吃面看AI三年进展#一个视频，带你看看2023-2025年，AI视频的发展速度。有请我们的主角——“威尔史密斯”，每次一有新的AI模型出...](2025-05-23/#AI视频生成三年变化##从史密斯吃面看AI三年进展#一个视频，带你看看2023-2025年，AI视频的发展速度。有请我们的主角——“威尔史密斯”，每次一有新的AI模型出....md)** | [原文](https://weibo.com/6105753431/Pt9nlcSfN) | 时间: 2025-05-23 08:02 
+  这段视频展示了2021-2023年AI视频生成技术的飞速发展，以威尔·史密斯"吃面"为测试案例。从2021年明显的AI痕迹，到...
 
-- **[SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding](2025-05-23/SpatialScore-_Towards_Unified_Evaluation_for_Multimodal_Spatial_Understanding.md)** | [原文](http://arxiv.org/abs/2505.17012v1) | 时间: 2025-05-23 07:01 
-  该研究探讨了多模态大语言模型(MLLMs)的3D空间感知能力，提出了VGBench评估视觉几何感知(如相机位姿和运动估计)，...
+- **[Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design](2025-05-23/Know_the_Ropes-_A_Heuristic_Strategy_for_LLM-based_Multi-Agent_System_Design.md)** | [原文](http://arxiv.org/abs/2505.16979v1) | 时间: 2025-05-23 08:02 
+  Know-The-Ropes (KtR)是一个多智能体框架，旨在解决单一大语言模型(LLM)的局限性(如有限上下文、角色过载和领域迁移...
 
-- **[Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework](2025-05-23/Let_Androids_Dream_of_Electric_Sheep-_A_Human-like_Image_Implication_Understanding_and_Reasoning_Framework.md)** | [原文](http://arxiv.org/abs/2505.17019v1) | 时间: 2025-05-23 07:01 
-  AI系统在理解图像隐喻方面仍面临挑战，现有模型难以把握视觉内容中的文化、情感和语境隐含意义。为此，研究...
+- **[MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems](2025-05-23/MASLab-_A_Unified_and_Comprehensive_Codebase_for_LLM-based_Multi-Agent_Systems.md)** | [原文](http://arxiv.org/abs/2505.16988v1) | 时间: 2025-05-23 08:01 
+  本文介绍了MASLab，一个统一、全面且便于研究的代码库，旨在解决基于大语言模型（LLM）的多智能体系统（MAS）领...
 
-- **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](2025-05-23/ARB-_A_Comprehensive_Arabic_Multimodal_Reasoning_Benchmark.md)** | [原文](http://arxiv.org/abs/2505.17021v1) | 时间: 2025-05-23 07:00 
-  阿拉伯语多模态推理基准(ARB)是首个评估阿拉伯语多模态逐步推理能力的基准测试，涵盖视觉推理、文档理解、OCR...
+- **[T1: A Tool-Oriented Conversational Dataset for Multi-Turn Agentic Planning](2025-05-23/T1-_A_Tool-Oriented_Conversational_Dataset_for_Multi-Turn_Agentic_Planning.md)** | [原文](http://arxiv.org/abs/2505.16986v1) | 时间: 2025-05-23 08:01 
+  这篇论文介绍了T1数据集，这是一个用于多轮对话的工具增强型多领域数据集，专门设计用于捕捉和管理跨领域工...
+
+- **[X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs](2025-05-23/X-MAS-_Towards_Building_Multi-Agent_Systems_with_Heterogeneous_LLMs.md)** | [原文](http://arxiv.org/abs/2505.16997v1) | 时间: 2025-05-23 08:01 
+  该研究探讨了基于异构大语言模型（LLM）的多智能体系统（X-MAS），通过整合不同LLM的专长，显著提升系统性能。...
+
+- **[SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding](2025-05-23/SpatialScore-_Towards_Unified_Evaluation_for_Multimodal_Spatial_Understanding.md)** | [原文](http://arxiv.org/abs/2505.17012v1) | 时间: 2025-05-23 08:01 
+  这篇论文研究了多模态大语言模型(MLLM)的3D空间感知能力，提出了VGBench基准测试视觉几何感知(如相机位姿估计)，...
+
+- **[Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework](2025-05-23/Let_Androids_Dream_of_Electric_Sheep-_A_Human-like_Image_Implication_Understanding_and_Reasoning_Framework.md)** | [原文](http://arxiv.org/abs/2505.17019v1) | 时间: 2025-05-23 08:01 
+  AI系统在理解图像隐喻方面面临重大挑战，现有模型难以把握视觉内容中的文化、情感和语境隐含意义。为此，研...
+
+- **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](2025-05-23/ARB-_A_Comprehensive_Arabic_Multimodal_Reasoning_Benchmark.md)** | [原文](http://arxiv.org/abs/2505.17021v1) | 时间: 2025-05-23 08:00 
+  该研究提出了首个针对阿拉伯语多模态推理的基准测试ARB，涵盖视觉推理、文档理解、OCR等11个领域，包含1,...
 
 - **[#玄戒O1采用3nm制程##玄戒O1首搭手机平板和手表#小米自研SoC芯片玄戒O1终于揭开神秘面纱！采用最先进的第二代3nm制程，能效表现位列第一梯队——发布全程，雷军...](2025-05-23/#玄戒O1采用3nm制程##玄戒O1首搭手机平板和手表#小米自研SoC芯片玄戒O1终于揭开神秘面纱！采用最先进的第二代3nm制程，能效表现位列第一梯队——发布全程，雷军....md)** | [原文](https://weibo.com/6105753431/Pt7usBcuM) | 时间: 2025-05-23 06:04 
   小米发布首款自研SoC芯片玄戒O1，采用第二代3nm制程，集成190亿晶体管。该芯片采用双X95超大核（3....
