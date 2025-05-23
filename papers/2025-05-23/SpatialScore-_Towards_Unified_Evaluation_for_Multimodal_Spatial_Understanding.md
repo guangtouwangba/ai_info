@@ -26,11 +26,11 @@ evolution of MLLMs.
 
 ## AI 摘要
 
-该研究探讨了多模态大语言模型(MLLMs)的3D空间感知能力，提出了VGBench评估视觉几何感知(如相机位姿估计)，并整合11个数据集创建了迄今最全面的空间理解基准SpatialScore(含28K样本)。研究还开发了支持9种专用工具的多智能体系统SpatialAgent，支持Plan-Execute和ReAct推理模式。实验揭示了MLLMs在空间推理中的持续挑战，同时验证了SpatialAgent的有效性。该基准将为MLLMs的下一代发展提供严谨评估标准和重要洞见。(99字)
+该研究评估多模态大语言模型(MLLMs)的空间理解能力，提出了VGBench用于视觉几何感知评估，并整合11个现有数据集创建了综合基准SpatialScore(含28K样本和挑战性子集SpatialScore-Hard)。同时开发了支持9种专用工具的多智能体系统SpatialAgent，支持Plan-Execute和ReAct推理模式。实验表明当前MLLMs在空间推理方面仍面临挑战，但SpatialAgent表现优异。该工作为MLLMs的空间能力评估提供了全面基准，将推动下一代模型发展。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-23T22:01:24Z
+- **保存时间**: 2025-05-23T23:01:22Z
 - **目录日期**: 2025-05-23
