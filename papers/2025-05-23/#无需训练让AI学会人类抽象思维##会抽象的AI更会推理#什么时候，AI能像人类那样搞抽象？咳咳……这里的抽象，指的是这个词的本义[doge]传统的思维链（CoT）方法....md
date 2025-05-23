@@ -1,0 +1,18 @@
+# #无需训练让AI学会人类抽象思维##会抽象的AI更会推理#什么时候，AI能像人类那样搞抽象？咳咳……这里的抽象，指的是这个词的本义[doge]传统的思维链（CoT）方法...
+
+**URL**: https://weibo.com/6105753431/Pt8VIePfU
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A0%E9%9C%80%E8%AE%AD%E7%BB%83%E8%AE%A9AI%E5%AD%A6%E4%BC%9A%E4%BA%BA%E7%B1%BB%E6%8A%BD%E8%B1%A1%E6%80%9D%E7%BB%B4%23&amp;extparam=%23%E6%97%A0%E9%9C%80%E8%AE%AD%E7%BB%83%E8%AE%A9AI%E5%AD%A6%E4%BC%9A%E4%BA%BA%E7%B1%BB%E6%8A%BD%E8%B1%A1%E6%80%9D%E7%BB%B4%23" data-hide=""><span class="surl-text">#无需训练让AI学会人类抽象思维#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BC%9A%E6%8A%BD%E8%B1%A1%E7%9A%84AI%E6%9B%B4%E4%BC%9A%E6%8E%A8%E7%90%86%23&amp;extparam=%23%E4%BC%9A%E6%8A%BD%E8%B1%A1%E7%9A%84AI%E6%9B%B4%E4%BC%9A%E6%8E%A8%E7%90%86%23" data-hide=""><span class="surl-text">#会抽象的AI更会推理#</span></a><br><br>什么时候，AI能像人类那样搞抽象？<br><br>咳咳……这里的抽象，指的是这个词的本义<span class="url-icon"><img alt="[doge]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/d_doge-be7f768d78.png" style="width:1em; height:1em;" referrerpolicy="no-referrer"></span><br><br>传统的思维链（CoT）方法强制AI用离散的语言符号逐步推理，简单来说，就是让AI一步一步地用我们能理解的文字符号来推理。【图1】<br><br>听起来挺好，但跟我们人类思考的方式比起来，它有几个“硬伤”：<br><br>人类使用概念思考，而不仅是词汇。我们人思考问题，脑子里会先冒出各种各样的想法，但CoT每一步就得把之前所有的可能性都“砍掉”，只留下一个最可能的结果。<br><br>这样一来，AI的探索空间和表达能力就大大受限了。<br><br>来自加州大学圣巴巴拉分校的研究团队，提出了一种名为Soft Thinking的方法，无需进行额外训练，就突破了传统AI只能用离散语言推理的瓶颈！【图2】<br><br>Soft Thinking具体是怎么做到的呢？有赖于这三招。<br><br>- 概念词元：每一步不再选择单一词元，而是保留完整的概率分布，让AI不着急立马下定论。<br><br>- 连续概念空间：通过词元嵌入的加权混合生成新表征，形成连续的概念空间。这种“叠加态”保留了多条推理路径，避免过早坍缩，实现更丰富、更灵活的思考。<br><br>- Cold Stop机制：通过计算概念词元的熵来判断模型的置信度，当模型在连续几步中表现出高置信度时，提前终止推理。当AI对自己的结论十拿九稳时，它就会提前“收工”，避免不必要的计算和犯错。<br><br>三板斧一下，Soft Thinking在数学（Math500、AIME 2024等）和编程（HumanEval、LiveCodeBench等）共8项基准测试中，都展现出了惊人的实力：推理准确率显著提升、词元消耗大幅降低。【图4】<br><br>让AI像人一样“抽象思考”，不仅仅能让它更聪明，还能让它更有效率！<br><br>感兴趣的朋友可以点击项目主页：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fsoft-thinking.github.io%2F" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>论文原文：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Farxiv.org%2Fabs%2F2505.15778" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>代码仓库：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2Feric-ai-lab%2FSoft-Thinking" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i1pd6si5dnj30zk0npgsm.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i1pd6w7rrxj30zk0uewno.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1pd6xrwhtj30zk0dttgp.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i1pd74obrjj30zk0tkwsk.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+加州大学圣巴巴拉分校团队提出"Soft Thinking"方法，突破传统AI离散推理限制，无需额外训练即可实现类人抽象思维。该方法通过三大创新：1）保留概率分布的概念词元；2）构建连续概念空间维持"叠加态"；3）Cold Stop置信度终止机制。在8项数学和编程基准测试中，推理准确率显著提升同时降低计算消耗。这项研究使AI能更灵活地模拟人类概念化思考过程，在保持高准确率的前提下提升推理效率。相关论文和代码已开源。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-23T06:02:59Z
+- **目录日期**: 2025-05-23
