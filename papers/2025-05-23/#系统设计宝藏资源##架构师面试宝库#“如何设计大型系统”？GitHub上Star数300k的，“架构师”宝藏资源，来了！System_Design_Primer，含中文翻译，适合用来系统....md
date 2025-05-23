@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-GitHub上Star数30万的System Design Primer是系统设计和架构师面试的宝藏资源，包含中文翻译。该教程涵盖系统设计核心概念（可扩展性、可用性、缓存等），提供常见面试题（如AWS百万用户系统设计）及代码示例，并给出分析业务、绘制架构图的框架。配套Anki记忆卡和编程练习题，堪称"系统设计入门+面试题库+实战手册"三合一，尤其适合准备大厂面试。资源链接：github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
+GitHub上Star数30万的System Design Primer是系统设计和架构师面试的宝藏资源，包含中文翻译。该教程涵盖系统设计核心概念（可扩展性、可用性、缓存等）、常见面试题（如AWS百万用户系统设计）、分析框架和实战指导，并提供Anki记忆卡和编程练习题。资源整合了入门知识、面试题库和实战手册，堪称大厂系统设计面试的半官方教材，适合系统学习和面试准备。项目地址：github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-23T00:03:55Z
+- **保存时间**: 2025-05-23T01:31:35Z
 - **目录日期**: 2025-05-23
