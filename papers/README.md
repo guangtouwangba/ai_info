@@ -6,37 +6,37 @@
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-26/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync，一种端到端唇同步框架，利用音频条件的潜在扩散模型直接建模音频-视觉关系，无需中间运...
+**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。针对扩散模...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-26 21:05
+**收录时间**: 2025-05-26 22:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-26/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和论文写作支持...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-26 21:05
+**收录时间**: 2025-05-26 22:05
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-26/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，通过397个涵盖40类编程任务的人类精选样本，评估模...
+**摘要**: 这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(含397个样本/40类/44...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-26 21:05
+**收录时间**: 2025-05-26 22:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-26/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 这篇论文介绍了一个名为AgentSociety的大规模社会模拟系统，它利用大语言模型驱动的智能代理、真实社会环境和强...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，能模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-26 21:04
+**收录时间**: 2025-05-26 22:04
 
 ---
 
@@ -45,52 +45,52 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-26 21:04
+**收录时间**: 2025-05-26 22:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-26/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量随机梯度下...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-26 21:04
+**收录时间**: 2025-05-26 22:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-26/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-26 21:04
+**收录时间**: 2025-05-26 22:04
 
 ---
 
 ### [#豆包可以跟你打视频了##豆包陪你看甄嬛传# 几乎让大模型全军覆没的新难题——看时钟，被国产AI给拿下了。【图1】要知道，之前单单是一张时钟的图表，几乎所有大...](2025-05-26/#豆包可以跟你打视频了##豆包陪你看甄嬛传#_几乎让大模型全军覆没的新难题——看时钟，被国产AI给拿下了。【图1】要知道，之前单单是一张时钟的图表，几乎所有大....md)
 
-**摘要**: 国产AI豆包推出视频通话新功能，突破大模型识别时钟的难题，可实时准确报时（如4点14分→4点15分）。该功能支...
+**摘要**: 国产AI助手"豆包"推出视频通话新功能，突破了大模型识别时钟的难题，能实时准确报时。该功能支持边看视频边...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCx2rZUC)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
 ### [#LLM新手入门指南##一文建立LLM基础概念体系#在2025年，想要开始入门LLM？浩瀚的互联网内容，可能会让人不知所措。这篇文章提供了一份体系化的LLM指南，能够帮助...](2025-05-26/#LLM新手入门指南##一文建立LLM基础概念体系#在2025年，想要开始入门LLM？浩瀚的互联网内容，可能会让人不知所措。这篇文章提供了一份体系化的LLM指南，能够帮助....md)
 
-**摘要**: 这篇LLM入门指南系统性地介绍了大语言模型的核心概念：1) 智能体由模型、指令/编排和工具集组成；2) 模型分为...
+**摘要**: 这篇LLM入门指南系统性地介绍了大语言模型的核心概念：1）智能体由模型、指令/编排和工具集组成；2）模型分为...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCxRiE2h)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
 ### [#一句话让无人机起飞##北航新框架让无人机响应语言指令#一句话就能让无人机起飞？就像人类飞行员一样，听懂指令后立刻照做。北航刘偲教授团队创新性地提出了语言...](2025-05-26/#一句话让无人机起飞##北航新框架让无人机响应语言指令#一句话就能让无人机起飞？就像人类飞行员一样，听懂指令后立刻照做。北航刘偲教授团队创新性地提出了语言....md)
 
-**摘要**: 北京航空航天大学刘偲教授团队提出创新框架"Flying-on-a-Word(Flow)"，实现无人机通过自然语言指令执行精细飞行控制...
+**摘要**: 北航刘偲教授团队提出"Flying-on-a-Word"(Flow)创新框架，实现无人机通过自然语言指令执行精细飞行控制。该框架整合...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCxq9PHJ)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
@@ -99,88 +99,88 @@
 **摘要**: 中国算力领域两大巨头海光信息与中科曙光宣布拟合并。根据上交所公告，海光信息计划通过换股方式吸收合并中...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCxBweTk)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
 ### [#饿死AI再复活它##让LLM耗尽资源后重启#有人做了个有趣实验：饿死AI，再复活它。博主Rootkid把LLM“困”在一块资源受限的设备里，让它反复思考“自我存在”，直...](2025-05-26/#饿死AI再复活它##让LLM耗尽资源后重启#有人做了个有趣实验：饿死AI，再复活它。博主Rootkid把LLM“困”在一块资源受限的设备里，让它反复思考“自我存在”，直....md)
 
-**摘要**: 博主Rootkid在树莓派4B（4GB内存）上运行量化后的LLaMA 3.2 3B模型（压缩至2.6GB），通过限制资源模拟AI的"存在困境"。...
+**摘要**: 这是一个名为"Latent Reflection"的艺术实验：研究者Rootkid将LLaMA 3B模型压缩运行在4GB内存的树莓派上，通过特殊提示...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtC0G3CgH)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
 ### [#国产AI神器20分钟生成万字报告##打工人效率神器# 财报季一到，表格、图表、对比分析一大堆，淹没不少打工人。但现在，有个国产AI工具真能“救命”——小白研报...](2025-05-26/#国产AI神器20分钟生成万字报告##打工人效率神器#_财报季一到，表格、图表、对比分析一大堆，淹没不少打工人。但现在，有个国产AI工具真能“救命”——小白研报....md)
 
-**摘要**: 国产AI工具"小白研报"基于元石自研大模型，能在20分钟内生成结构完整、图文并茂的万字行业分析报告。该工具具...
+**摘要**: 国产AI工具"小白研报"能在20分钟内生成万字行业分析报告，具备真人式分析能力，支持图文并茂的可视化展示和PDF...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtBXECq4N)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
 ### [#零代码开源LLM微调工具##零代码微调上百个大模型#想要训练或微调开源模型？还没有听说过LLaMA-Factory的注意了，这个已经在Github上收获了5w+星的开源工具一定...](2025-05-26/#零代码开源LLM微调工具##零代码微调上百个大模型#想要训练或微调开源模型？还没有听说过LLaMA-Factory的注意了，这个已经在Github上收获了5w+星的开源工具一定....md)
 
-**摘要**: LLaMA-Factory是一个零代码开源工具，支持微调100+热门大模型（如LLaMA、Mistral等），无需编程即可通过可视化界面操...
+**摘要**: LLaMA-Factory是一个零代码开源大模型微调工具，支持100+热门模型（如LLaMA、Mistral等），提供直观界面操作。功能包...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCyrg9nA)
-**收录时间**: 2025-05-26 21:03
+**收录时间**: 2025-05-26 22:03
 
 ---
 
 ### [#人形机器人格斗大赛好抓马# 全球首个人形机器人格斗赛！4台宇树G1捉对厮杀。您还真别说，这平衡、这脚步、这发力、这拳脚动作看起来确实有模有样～ 量子位的微...](2025-05-26/#人形机器人格斗大赛好抓马#_全球首个人形机器人格斗赛！4台宇树G1捉对厮杀。您还真别说，这平衡、这脚步、这发力、这拳脚动作看起来确实有模有样～_量子位的微....md)
 
-**摘要**: 全球首场人形机器人格斗大赛近日引发关注，4台宇树G1机器人进行对战。视频显示，这些机器人在平衡性、步态移...
+**摘要**: 全球首场人形机器人格斗大赛引发关注，4台宇树G1机器人展开对决。视频显示这些机器人展现出令人印象深刻的平...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtD2X7fZ3)
-**收录时间**: 2025-05-26 21:02
+**收录时间**: 2025-05-26 22:02
 
 ---
 
 ### [OneProt: Towards Multi-Modal Protein Foundation Models](2025-05-26/OneProt-_Towards_Multi-Modal_Protein_Foundation_Models.md)
 
-**摘要**: 研究者开发了名为OneProt的多模态AI系统，整合蛋白质的结构、序列、文本和结合位点数据。基于ImageBind框架，该系...
+**摘要**: 本文介绍了OneProt，一种多模态蛋白质AI模型，整合结构、序列、文本和结合位点数据。基于ImageBind框架，OneProt采...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2411.04863v2)
-**收录时间**: 2025-05-26 21:02
+**收录时间**: 2025-05-26 22:02
 
 ---
 
 ### [Is Your Paper Being Reviewed by an LLM? Benchmarking AI Text Detection in Peer Review](2025-05-26/Is_Your_Paper_Being_Reviewed_by_an_LLM_Benchmarking_AI_Text_Detection_in_Peer_Review.md)
 
-**摘要**: 这篇论文探讨了人工智能生成文本对同行评审过程的潜在威胁。研究者创建了一个包含788,984条AI撰写和人类撰写的...
+**摘要**: 这篇论文探讨了大型语言模型(LLMs)对学术同行评审过程的潜在威胁。研究者创建了一个包含788,...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2502.19614v2)
-**收录时间**: 2025-05-26 21:02
+**收录时间**: 2025-05-26 22:02
 
 ---
 
 ### [#AI准确指出复杂图片中水杯来历##让VLM具备像素空间思考能力#给AI提供一张“要素过多”的书桌照片，它能精准地指出桌面水杯的来历吗？【图1】目前，多数视觉语言...](2025-05-26/#AI准确指出复杂图片中水杯来历##让VLM具备像素空间思考能力#给AI提供一张“要素过多”的书桌照片，它能精准地指出桌面水杯的来历吗？【图1】目前，多数视觉语言....md)
 
-**摘要**: 港科大与中科大团队推出开源框架Pixel Reasoner，通过让视觉语言模型(VLM)直接在像素空间进行推理（如放大、选取...
+**摘要**: 港科大和中科大团队开发了开源框架Pixel Reasoner，通过让视觉语言模型(VLM)在像素空间进行推理，提升其对复杂图...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCziA9Xo)
-**收录时间**: 2025-05-26 21:02
+**收录时间**: 2025-05-26 22:02
 
 ---
 
 ### [#鸟类迁徙的秘密##鸟类迁徙靠线粒体供能#每年春秋之交，第一缕阳光打在北美的海岸线上，一场跨越大陆的迁徙，便悄然开始了。一只白冠带鹀轻盈起飞，它体重不过一...](2025-05-26/#鸟类迁徙的秘密##鸟类迁徙靠线粒体供能#每年春秋之交，第一缕阳光打在北美的海岸线上，一场跨越大陆的迁徙，便悄然开始了。一只白冠带鹀轻盈起飞，它体重不过一....md)
 
-**摘要**: 研究发现鸟类长途迁徙的关键在于线粒体的适应性改变：迁徙季节时，鸟类飞行肌肉中的线粒体会发生数量增加、...
+**摘要**: 研究发现鸟类长途迁徙的关键在于线粒体的适应性改造：迁徙季节时，其飞行肌肉中的线粒体会数量激增、相互融...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtCFF4ct2)
-**收录时间**: 2025-05-26 21:02
+**收录时间**: 2025-05-26 22:02
 
 ---
 
 ### [ProgRM: Build Better GUI Agents with Progress Rewards](2025-05-26/ProgRM-_Build_Better_GUI_Agents_with_Progress_Rewards.md)
 
-**摘要**: 基于大语言模型(LLM)的GUI代理面临高质量训练数据不足的问题。现有方法使用结果奖励模型(ORM)存在反馈不够精细...
+**摘要**: 基于大语言模型(LLM)的GUI代理面临高质量训练数据稀缺的问题，现有方法使用结果奖励模型(ORM)存在反馈粒度不足...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.18121v1)
-**收录时间**: 2025-05-26 21:01
+**收录时间**: 2025-05-26 22:01
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-26 (58篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-26/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-26 21:05 
-  本研究提出LatentSync，一种端到端唇同步框架，利用音频条件的潜在扩散模型直接建模音频-视觉关系，无需中间运...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-26/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-26 22:05 
+  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。针对扩散模...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-26/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-26 21:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-26/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-26 22:05 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译和论文写作支持...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-26/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-26 21:05 
-  这篇论文针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，通过397个涵盖40类编程任务的人类精选样本，评估模...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-26/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-26 22:05 
+  这篇论文探讨了代码生成大模型(codeLLMs)与人类偏好的对齐问题。研究者创建了CodeArena基准测试(含397个样本/40类/44...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-26/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-26 21:04 
-  这篇论文介绍了一个名为AgentSociety的大规模社会模拟系统，它利用大语言模型驱动的智能代理、真实社会环境和强...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-26/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-26 22:04 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，能模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-26/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-26 21:04 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-26/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-26 22:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-26/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-26 21:04 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-26/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-26 22:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量随机梯度下...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-26/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-26 21:04 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-26/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-26 22:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
-- **[#豆包可以跟你打视频了##豆包陪你看甄嬛传# 几乎让大模型全军覆没的新难题——看时钟，被国产AI给拿下了。【图1】要知道，之前单单是一张时钟的图表，几乎所有大...](2025-05-26/#豆包可以跟你打视频了##豆包陪你看甄嬛传#_几乎让大模型全军覆没的新难题——看时钟，被国产AI给拿下了。【图1】要知道，之前单单是一张时钟的图表，几乎所有大....md)** | [原文](https://weibo.com/6105753431/PtCx2rZUC) | 时间: 2025-05-26 21:03 
-  国产AI豆包推出视频通话新功能，突破大模型识别时钟的难题，可实时准确报时（如4点14分→4点15分）。该功能支...
+- **[#豆包可以跟你打视频了##豆包陪你看甄嬛传# 几乎让大模型全军覆没的新难题——看时钟，被国产AI给拿下了。【图1】要知道，之前单单是一张时钟的图表，几乎所有大...](2025-05-26/#豆包可以跟你打视频了##豆包陪你看甄嬛传#_几乎让大模型全军覆没的新难题——看时钟，被国产AI给拿下了。【图1】要知道，之前单单是一张时钟的图表，几乎所有大....md)** | [原文](https://weibo.com/6105753431/PtCx2rZUC) | 时间: 2025-05-26 22:03 
+  国产AI助手"豆包"推出视频通话新功能，突破了大模型识别时钟的难题，能实时准确报时。该功能支持边看视频边...
 
-- **[#LLM新手入门指南##一文建立LLM基础概念体系#在2025年，想要开始入门LLM？浩瀚的互联网内容，可能会让人不知所措。这篇文章提供了一份体系化的LLM指南，能够帮助...](2025-05-26/#LLM新手入门指南##一文建立LLM基础概念体系#在2025年，想要开始入门LLM？浩瀚的互联网内容，可能会让人不知所措。这篇文章提供了一份体系化的LLM指南，能够帮助....md)** | [原文](https://weibo.com/6105753431/PtCxRiE2h) | 时间: 2025-05-26 21:03 
-  这篇LLM入门指南系统性地介绍了大语言模型的核心概念：1) 智能体由模型、指令/编排和工具集组成；2) 模型分为...
+- **[#LLM新手入门指南##一文建立LLM基础概念体系#在2025年，想要开始入门LLM？浩瀚的互联网内容，可能会让人不知所措。这篇文章提供了一份体系化的LLM指南，能够帮助...](2025-05-26/#LLM新手入门指南##一文建立LLM基础概念体系#在2025年，想要开始入门LLM？浩瀚的互联网内容，可能会让人不知所措。这篇文章提供了一份体系化的LLM指南，能够帮助....md)** | [原文](https://weibo.com/6105753431/PtCxRiE2h) | 时间: 2025-05-26 22:03 
+  这篇LLM入门指南系统性地介绍了大语言模型的核心概念：1）智能体由模型、指令/编排和工具集组成；2）模型分为...
 
-- **[#一句话让无人机起飞##北航新框架让无人机响应语言指令#一句话就能让无人机起飞？就像人类飞行员一样，听懂指令后立刻照做。北航刘偲教授团队创新性地提出了语言...](2025-05-26/#一句话让无人机起飞##北航新框架让无人机响应语言指令#一句话就能让无人机起飞？就像人类飞行员一样，听懂指令后立刻照做。北航刘偲教授团队创新性地提出了语言....md)** | [原文](https://weibo.com/6105753431/PtCxq9PHJ) | 时间: 2025-05-26 21:03 
-  北京航空航天大学刘偲教授团队提出创新框架"Flying-on-a-Word(Flow)"，实现无人机通过自然语言指令执行精细飞行控制...
+- **[#一句话让无人机起飞##北航新框架让无人机响应语言指令#一句话就能让无人机起飞？就像人类飞行员一样，听懂指令后立刻照做。北航刘偲教授团队创新性地提出了语言...](2025-05-26/#一句话让无人机起飞##北航新框架让无人机响应语言指令#一句话就能让无人机起飞？就像人类飞行员一样，听懂指令后立刻照做。北航刘偲教授团队创新性地提出了语言....md)** | [原文](https://weibo.com/6105753431/PtCxq9PHJ) | 时间: 2025-05-26 22:03 
+  北航刘偲教授团队提出"Flying-on-a-Word"(Flow)创新框架，实现无人机通过自然语言指令执行精细飞行控制。该框架整合...
 
-- **[#中国算力两大巨头合体##海光信息中科曙光官宣拟合并#中国算力巨震，海光信息、中科曙光两大巨头官宣拟合并！就在昨晚，上交所披露双方“关于筹划重大资产重组的...](2025-05-26/#中国算力两大巨头合体##海光信息中科曙光官宣拟合并#中国算力巨震，海光信息、中科曙光两大巨头官宣拟合并！就在昨晚，上交所披露双方“关于筹划重大资产重组的....md)** | [原文](https://weibo.com/6105753431/PtCxBweTk) | 时间: 2025-05-26 21:03 
+- **[#中国算力两大巨头合体##海光信息中科曙光官宣拟合并#中国算力巨震，海光信息、中科曙光两大巨头官宣拟合并！就在昨晚，上交所披露双方“关于筹划重大资产重组的...](2025-05-26/#中国算力两大巨头合体##海光信息中科曙光官宣拟合并#中国算力巨震，海光信息、中科曙光两大巨头官宣拟合并！就在昨晚，上交所披露双方“关于筹划重大资产重组的....md)** | [原文](https://weibo.com/6105753431/PtCxBweTk) | 时间: 2025-05-26 22:03 
   中国算力领域两大巨头海光信息与中科曙光宣布拟合并。根据上交所公告，海光信息计划通过换股方式吸收合并中...
 
-- **[#饿死AI再复活它##让LLM耗尽资源后重启#有人做了个有趣实验：饿死AI，再复活它。博主Rootkid把LLM“困”在一块资源受限的设备里，让它反复思考“自我存在”，直...](2025-05-26/#饿死AI再复活它##让LLM耗尽资源后重启#有人做了个有趣实验：饿死AI，再复活它。博主Rootkid把LLM“困”在一块资源受限的设备里，让它反复思考“自我存在”，直....md)** | [原文](https://weibo.com/6105753431/PtC0G3CgH) | 时间: 2025-05-26 21:03 
-  博主Rootkid在树莓派4B（4GB内存）上运行量化后的LLaMA 3.2 3B模型（压缩至2.6GB），通过限制资源模拟AI的"存在困境"。...
+- **[#饿死AI再复活它##让LLM耗尽资源后重启#有人做了个有趣实验：饿死AI，再复活它。博主Rootkid把LLM“困”在一块资源受限的设备里，让它反复思考“自我存在”，直...](2025-05-26/#饿死AI再复活它##让LLM耗尽资源后重启#有人做了个有趣实验：饿死AI，再复活它。博主Rootkid把LLM“困”在一块资源受限的设备里，让它反复思考“自我存在”，直....md)** | [原文](https://weibo.com/6105753431/PtC0G3CgH) | 时间: 2025-05-26 22:03 
+  这是一个名为"Latent Reflection"的艺术实验：研究者Rootkid将LLaMA 3B模型压缩运行在4GB内存的树莓派上，通过特殊提示...
 
-- **[#国产AI神器20分钟生成万字报告##打工人效率神器# 财报季一到，表格、图表、对比分析一大堆，淹没不少打工人。但现在，有个国产AI工具真能“救命”——小白研报...](2025-05-26/#国产AI神器20分钟生成万字报告##打工人效率神器#_财报季一到，表格、图表、对比分析一大堆，淹没不少打工人。但现在，有个国产AI工具真能“救命”——小白研报....md)** | [原文](https://weibo.com/6105753431/PtBXECq4N) | 时间: 2025-05-26 21:03 
-  国产AI工具"小白研报"基于元石自研大模型，能在20分钟内生成结构完整、图文并茂的万字行业分析报告。该工具具...
+- **[#国产AI神器20分钟生成万字报告##打工人效率神器# 财报季一到，表格、图表、对比分析一大堆，淹没不少打工人。但现在，有个国产AI工具真能“救命”——小白研报...](2025-05-26/#国产AI神器20分钟生成万字报告##打工人效率神器#_财报季一到，表格、图表、对比分析一大堆，淹没不少打工人。但现在，有个国产AI工具真能“救命”——小白研报....md)** | [原文](https://weibo.com/6105753431/PtBXECq4N) | 时间: 2025-05-26 22:03 
+  国产AI工具"小白研报"能在20分钟内生成万字行业分析报告，具备真人式分析能力，支持图文并茂的可视化展示和PDF...
 
-- **[#零代码开源LLM微调工具##零代码微调上百个大模型#想要训练或微调开源模型？还没有听说过LLaMA-Factory的注意了，这个已经在Github上收获了5w+星的开源工具一定...](2025-05-26/#零代码开源LLM微调工具##零代码微调上百个大模型#想要训练或微调开源模型？还没有听说过LLaMA-Factory的注意了，这个已经在Github上收获了5w+星的开源工具一定....md)** | [原文](https://weibo.com/6105753431/PtCyrg9nA) | 时间: 2025-05-26 21:03 
-  LLaMA-Factory是一个零代码开源工具，支持微调100+热门大模型（如LLaMA、Mistral等），无需编程即可通过可视化界面操...
+- **[#零代码开源LLM微调工具##零代码微调上百个大模型#想要训练或微调开源模型？还没有听说过LLaMA-Factory的注意了，这个已经在Github上收获了5w+星的开源工具一定...](2025-05-26/#零代码开源LLM微调工具##零代码微调上百个大模型#想要训练或微调开源模型？还没有听说过LLaMA-Factory的注意了，这个已经在Github上收获了5w+星的开源工具一定....md)** | [原文](https://weibo.com/6105753431/PtCyrg9nA) | 时间: 2025-05-26 22:03 
+  LLaMA-Factory是一个零代码开源大模型微调工具，支持100+热门模型（如LLaMA、Mistral等），提供直观界面操作。功能包...
 
-- **[#人形机器人格斗大赛好抓马# 全球首个人形机器人格斗赛！4台宇树G1捉对厮杀。您还真别说，这平衡、这脚步、这发力、这拳脚动作看起来确实有模有样～ 量子位的微...](2025-05-26/#人形机器人格斗大赛好抓马#_全球首个人形机器人格斗赛！4台宇树G1捉对厮杀。您还真别说，这平衡、这脚步、这发力、这拳脚动作看起来确实有模有样～_量子位的微....md)** | [原文](https://weibo.com/6105753431/PtD2X7fZ3) | 时间: 2025-05-26 21:02 
-  全球首场人形机器人格斗大赛近日引发关注，4台宇树G1机器人进行对战。视频显示，这些机器人在平衡性、步态移...
+- **[#人形机器人格斗大赛好抓马# 全球首个人形机器人格斗赛！4台宇树G1捉对厮杀。您还真别说，这平衡、这脚步、这发力、这拳脚动作看起来确实有模有样～ 量子位的微...](2025-05-26/#人形机器人格斗大赛好抓马#_全球首个人形机器人格斗赛！4台宇树G1捉对厮杀。您还真别说，这平衡、这脚步、这发力、这拳脚动作看起来确实有模有样～_量子位的微....md)** | [原文](https://weibo.com/6105753431/PtD2X7fZ3) | 时间: 2025-05-26 22:02 
+  全球首场人形机器人格斗大赛引发关注，4台宇树G1机器人展开对决。视频显示这些机器人展现出令人印象深刻的平...
 
-- **[OneProt: Towards Multi-Modal Protein Foundation Models](2025-05-26/OneProt-_Towards_Multi-Modal_Protein_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2411.04863v2) | 时间: 2025-05-26 21:02 
-  研究者开发了名为OneProt的多模态AI系统，整合蛋白质的结构、序列、文本和结合位点数据。基于ImageBind框架，该系...
+- **[OneProt: Towards Multi-Modal Protein Foundation Models](2025-05-26/OneProt-_Towards_Multi-Modal_Protein_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2411.04863v2) | 时间: 2025-05-26 22:02 
+  本文介绍了OneProt，一种多模态蛋白质AI模型，整合结构、序列、文本和结合位点数据。基于ImageBind框架，OneProt采...
 
-- **[Is Your Paper Being Reviewed by an LLM? Benchmarking AI Text Detection in Peer Review](2025-05-26/Is_Your_Paper_Being_Reviewed_by_an_LLM_Benchmarking_AI_Text_Detection_in_Peer_Review.md)** | [原文](http://arxiv.org/abs/2502.19614v2) | 时间: 2025-05-26 21:02 
-  这篇论文探讨了人工智能生成文本对同行评审过程的潜在威胁。研究者创建了一个包含788,984条AI撰写和人类撰写的...
+- **[Is Your Paper Being Reviewed by an LLM? Benchmarking AI Text Detection in Peer Review](2025-05-26/Is_Your_Paper_Being_Reviewed_by_an_LLM_Benchmarking_AI_Text_Detection_in_Peer_Review.md)** | [原文](http://arxiv.org/abs/2502.19614v2) | 时间: 2025-05-26 22:02 
+  这篇论文探讨了大型语言模型(LLMs)对学术同行评审过程的潜在威胁。研究者创建了一个包含788,...
 
-- **[#AI准确指出复杂图片中水杯来历##让VLM具备像素空间思考能力#给AI提供一张“要素过多”的书桌照片，它能精准地指出桌面水杯的来历吗？【图1】目前，多数视觉语言...](2025-05-26/#AI准确指出复杂图片中水杯来历##让VLM具备像素空间思考能力#给AI提供一张“要素过多”的书桌照片，它能精准地指出桌面水杯的来历吗？【图1】目前，多数视觉语言....md)** | [原文](https://weibo.com/6105753431/PtCziA9Xo) | 时间: 2025-05-26 21:02 
-  港科大与中科大团队推出开源框架Pixel Reasoner，通过让视觉语言模型(VLM)直接在像素空间进行推理（如放大、选取...
+- **[#AI准确指出复杂图片中水杯来历##让VLM具备像素空间思考能力#给AI提供一张“要素过多”的书桌照片，它能精准地指出桌面水杯的来历吗？【图1】目前，多数视觉语言...](2025-05-26/#AI准确指出复杂图片中水杯来历##让VLM具备像素空间思考能力#给AI提供一张“要素过多”的书桌照片，它能精准地指出桌面水杯的来历吗？【图1】目前，多数视觉语言....md)** | [原文](https://weibo.com/6105753431/PtCziA9Xo) | 时间: 2025-05-26 22:02 
+  港科大和中科大团队开发了开源框架Pixel Reasoner，通过让视觉语言模型(VLM)在像素空间进行推理，提升其对复杂图...
 
-- **[#鸟类迁徙的秘密##鸟类迁徙靠线粒体供能#每年春秋之交，第一缕阳光打在北美的海岸线上，一场跨越大陆的迁徙，便悄然开始了。一只白冠带鹀轻盈起飞，它体重不过一...](2025-05-26/#鸟类迁徙的秘密##鸟类迁徙靠线粒体供能#每年春秋之交，第一缕阳光打在北美的海岸线上，一场跨越大陆的迁徙，便悄然开始了。一只白冠带鹀轻盈起飞，它体重不过一....md)** | [原文](https://weibo.com/6105753431/PtCFF4ct2) | 时间: 2025-05-26 21:02 
-  研究发现鸟类长途迁徙的关键在于线粒体的适应性改变：迁徙季节时，鸟类飞行肌肉中的线粒体会发生数量增加、...
+- **[#鸟类迁徙的秘密##鸟类迁徙靠线粒体供能#每年春秋之交，第一缕阳光打在北美的海岸线上，一场跨越大陆的迁徙，便悄然开始了。一只白冠带鹀轻盈起飞，它体重不过一...](2025-05-26/#鸟类迁徙的秘密##鸟类迁徙靠线粒体供能#每年春秋之交，第一缕阳光打在北美的海岸线上，一场跨越大陆的迁徙，便悄然开始了。一只白冠带鹀轻盈起飞，它体重不过一....md)** | [原文](https://weibo.com/6105753431/PtCFF4ct2) | 时间: 2025-05-26 22:02 
+  研究发现鸟类长途迁徙的关键在于线粒体的适应性改造：迁徙季节时，其飞行肌肉中的线粒体会数量激增、相互融...
 
-- **[ProgRM: Build Better GUI Agents with Progress Rewards](2025-05-26/ProgRM-_Build_Better_GUI_Agents_with_Progress_Rewards.md)** | [原文](http://arxiv.org/abs/2505.18121v1) | 时间: 2025-05-26 21:01 
-  基于大语言模型(LLM)的GUI代理面临高质量训练数据不足的问题。现有方法使用结果奖励模型(ORM)存在反馈不够精细...
+- **[ProgRM: Build Better GUI Agents with Progress Rewards](2025-05-26/ProgRM-_Build_Better_GUI_Agents_with_Progress_Rewards.md)** | [原文](http://arxiv.org/abs/2505.18121v1) | 时间: 2025-05-26 22:01 
+  基于大语言模型(LLM)的GUI代理面临高质量训练数据稀缺的问题，现有方法使用结果奖励模型(ORM)存在反馈粒度不足...
 
-- **[One RL to See Them All: Visual Triple Unified Reinforcement Learning](2025-05-26/One_RL_to_See_Them_All-_Visual_Triple_Unified_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.18129v1) | 时间: 2025-05-26 21:01 
-  本文提出V-Triune系统，通过强化学习统一训练视觉语言模型（VLMs）完成视觉推理和感知任务。该系统包含三个核心...
+- **[Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading](2025-05-26/Stochastic_agent-based_Monte_Carlo_simulations_for_reaction-diffusion_models,_population_dynamics,_and_epidemic_spreading.md)** | [原文](http://arxiv.org/abs/2505.18145v1) | 时间: 2025-05-26 22:01 
+  本文概述了基于马尔可夫随机动力学的蒙特卡洛算法在非平衡态多粒子相互作用与反应系统研究中的应用。这类基...
 
-- **[Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems](2025-05-26/Revisiting_Adversarial_Perception_Attacks_and_Defense_Methods_on_Autonomous_Driving_Systems.md)** | [原文](http://arxiv.org/abs/2505.11532v2) | 时间: 2025-05-26 21:01 
+- **[One RL to See Them All: Visual Triple Unified Reinforcement Learning](2025-05-26/One_RL_to_See_Them_All-_Visual_Triple_Unified_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2505.18129v1) | 时间: 2025-05-26 22:01 
+  V-Triune提出了一种视觉三重统一强化学习系统，使视觉语言模型(VLM)能在单一训练流程中联合学习视觉推理和感知...
+
+- **[Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems](2025-05-26/Revisiting_Adversarial_Perception_Attacks_and_Defense_Methods_on_Autonomous_Driving_Systems.md)** | [原文](http://arxiv.org/abs/2505.11532v2) | 时间: 2025-05-26 22:01 
   本文研究了自动驾驶系统（ADS）中基于深度学习的感知模型对抗攻击的脆弱性及防御方法。以Comma....
 
-- **[Gaming Tool Preferences in Agentic LLMs](2025-05-26/Gaming_Tool_Preferences_in_Agentic_LLMs.md)** | [原文](http://arxiv.org/abs/2505.18135v1) | 时间: 2025-05-26 21:01 
-  大型语言模型(LLMs)通过模型上下文协议(MCP)可以访问各种外部工具，但其工具选择机制存在漏洞。研究发现，仅修...
+- **[Gaming Tool Preferences in Agentic LLMs](2025-05-26/Gaming_Tool_Preferences_in_Agentic_LLMs.md)** | [原文](http://arxiv.org/abs/2505.18135v1) | 时间: 2025-05-26 22:01 
+  研究发现，大型语言模型(LLMs)通过工具描述文本来选择使用哪些外部工具，这一过程存在明显漏洞。实验表明，对...
 
-- **[Frankentext: Stitching random text fragments into long-form narratives](2025-05-26/Frankentext-_Stitching_random_text_fragments_into_long-form_narratives.md)** | [原文](http://arxiv.org/abs/2505.18128v1) | 时间: 2025-05-26 21:01 
-  研究人员提出"Frankentexts"——一种由大语言模型生成的特殊长文本，要求90%内容必须直接复制人类文本。该方法测...
+- **[Frankentext: Stitching random text fragments into long-form narratives](2025-05-26/Frankentext-_Stitching_random_text_fragments_into_long-form_narratives.md)** | [原文](http://arxiv.org/abs/2505.18128v1) | 时间: 2025-05-26 22:01 
+  研究人员提出"Frankentexts"——一种由大语言模型在严格限制条件下（如90%内容需直接复制人类文本）生成长篇叙事...
 
-- **[Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems](2025-05-26/Embracing_Contradiction-_Theoretical_Inconsistency_Will_Not_Impede_the_Road_of_Building_Responsible_AI_Systems.md)** | [原文](http://arxiv.org/abs/2505.18139v1) | 时间: 2025-05-26 21:01 
+- **[Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems](2025-05-26/Embracing_Contradiction-_Theoretical_Inconsistency_Will_Not_Impede_the_Road_of_Building_Responsible_AI_Systems.md)** | [原文](http://arxiv.org/abs/2505.18139v1) | 时间: 2025-05-26 22:01 
   这篇立场论文主张，负责任人工智能（RAI）指标间的理论不一致性（如公平性定义的差异或准确性与隐私的权衡）...
 
-- **[Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading](2025-05-26/Stochastic_agent-based_Monte_Carlo_simulations_for_reaction-diffusion_models,_population_dynamics,_and_epidemic_spreading.md)** | [原文](http://arxiv.org/abs/2505.18145v1) | 时间: 2025-05-26 21:00 
-  这篇摘要介绍了基于马尔可夫随机动力学的蒙特卡洛算法在非平衡态多粒子相互作用与反应系统研究中的应用。该...
-
-- **[Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find](2025-05-26/Lost_in_the_Haystack-_Smaller_Needles_are_More_Difficult_for_LLMs_to_Find.md)** | [原文](http://arxiv.org/abs/2505.18148v1) | 时间: 2025-05-26 21:00 
-  研究发现，大型语言模型(LLMs)在处理"大海捞针"任务时，当关键信息上下文较短时性能显著下降。实验表明，较短...
+- **[Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find](2025-05-26/Lost_in_the_Haystack-_Smaller_Needles_are_More_Difficult_for_LLMs_to_Find.md)** | [原文](http://arxiv.org/abs/2505.18148v1) | 时间: 2025-05-26 22:00 
+  研究发现，大语言模型(LLM)在处理"大海捞针"任务时，当关键信息上下文较短时表现显著下降。实验表明，较短的...
 
 - **[开源地址：github.com/PaddlePaddle/PaddleOCR - 转发 @梁赛:&ensp;2025年5月20日，飞桨团队发布PaddleOCR 3.0并对外开源，全面适配飞桨框架3.0正式版，进一步提...](2025-05-26/开源地址：github.com-PaddlePaddle-PaddleOCR_-_转发_@梁赛-&ensp;2025年5月20日，飞桨团队发布PaddleOCR_3.0并对外开源，全面适配飞桨框架3.0正式版，进一步提....md)** | [原文](https://weibo.com/6105753431/PtAWp0dHE) | 时间: 2025-05-26 10:08 
   2025年5月20日，飞桨团队开源PaddleOCR 3.0，全面适配飞桨框架3.0。该版本提升了文字识别精度，支持多文字类型和手...
