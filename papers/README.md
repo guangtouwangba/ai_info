@@ -6,181 +6,181 @@
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-27/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。该框架直接建模音频-视觉关系，...
+**摘要**: 该研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-27 21:05
+**收录时间**: 2025-05-27 22:05
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-27/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。该系统被用于...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次社会互动。该系统作...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-27 21:05
+**收录时间**: 2025-05-27 22:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-27/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、翻译、分析和写作一站式服务。它拥有3.5亿论文、0....
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、辅助阅读、科研订阅等一站式服务。其核心功能...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-27 21:05
+**收录时间**: 2025-05-27 22:05
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-27/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
+**摘要**: 该研究针对代码生成大模型(codeLLMs)与人类偏好对齐问题，提出了CodeArena基准测试和SynCode-Instruct指令数据集。CodeAre...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-27 21:05
+**收录时间**: 2025-05-27 22:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-27/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-27 21:04
+**收录时间**: 2025-05-27 22:04
 
 ---
 
 ### [#瑞幸能用AI点咖啡了# #说句话自动点咖啡#AI点咖啡，@luckincoffee瑞幸咖啡 做到了!瑞幸上线了首个AI智能体“lucky”，只要说句话，比如“来杯生椰拿铁”，它就...](2025-05-27/#瑞幸能用AI点咖啡了#_#说句话自动点咖啡#AI点咖啡，@luckincoffee瑞幸咖啡_做到了!瑞幸上线了首个AI智能体“lucky”，只要说句话，比如“来杯生椰拿铁”，它就....md)
 
-**摘要**: 瑞幸咖啡推出AI智能点单助手"lucky"，用户只需说出需求（如"来杯生椰拿铁"）即可自动完成下单。该系统能理解饮...
+**摘要**: 瑞幸咖啡推出AI智能点单助手"lucky"，用户只需说出需求（如"来杯生椰拿铁"）即可自动完成下单。该AI能理解饮品...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtLyLkXD3)
-**收录时间**: 2025-05-27 21:04
+**收录时间**: 2025-05-27 22:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-27/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 该研究提出SGD-SaI方法，质疑自适应梯度方法（如Adam）的必要性。该方法改进带动量SGD，通过在初始化时基于梯度...
+**摘要**: 该研究提出了一种名为SGD-SaI的新优化方法，通过初始化阶段基于梯度信噪比(g-SNR)调整学习率，取代了传统自适应...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-27 21:04
+**收录时间**: 2025-05-27 22:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-27/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因，...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-27 21:04
+**收录时间**: 2025-05-27 22:04
 
 ---
 
 ### [#AI让程序员变流水线工人##强推AI编程程序员受不了#万万没想到，大厂程序员真要成流水线工人了。这不是谁危言耸听，而是亚马逊不少程序员最近的亲身感受——在过...](2025-05-27/#AI让程序员变流水线工人##强推AI编程程序员受不了#万万没想到，大厂程序员真要成流水线工人了。这不是谁危言耸听，而是亚马逊不少程序员最近的亲身感受——在过....md)
 
-**摘要**: 亚马逊程序员面临AI工具带来的工作变革：管理层强制使用Copilot等AI编程助手，缩短项目周期，导致员工被迫依赖A...
+**摘要**: 亚马逊强制推行AI编程工具引发程序员不满。管理层以"提高生产力"为由，缩短项目周期并裁员，迫使程序员依赖AI...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtLWbzVm0)
-**收录时间**: 2025-05-27 21:03
+**收录时间**: 2025-05-27 22:03
 
 ---
 
 ### [#为文本模型一键添加语音功能##让文本模型瞬间变身私人语音助手#让所有文本大模型瞬间变身你的私人语音助手！法国AI实验室Kyutai再次推出开源语音新模型：Unmute...](2025-05-27/#为文本模型一键添加语音功能##让文本模型瞬间变身私人语音助手#让所有文本大模型瞬间变身你的私人语音助手！法国AI实验室Kyutai再次推出开源语音新模型：Unmute....md)
 
-**摘要**: 法国AI实验室Kyutai推出开源语音模型Unmute，可为任意文本大模型一键添加语音交互功能。其特点包括：1）流式STT（...
+**摘要**: 法国AI实验室Kyutai推出开源语音模型Unmute，可将任意文本大模型快速升级为语音助手。该系统采用级联设计，无需...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtLXdv4pM)
-**收录时间**: 2025-05-27 21:03
+**收录时间**: 2025-05-27 22:03
 
 ---
 
 ### [#睡眠呼吸暂停新突破##打呼噜憋醒怎么办#不少人以为打鼾是小事，但其实严重到“晚上不断憋醒”的睡眠呼吸暂停症（OSA），已经被公认为一种危险的慢性病。它不只...](2025-05-27/#睡眠呼吸暂停新突破##打呼噜憋醒怎么办#不少人以为打鼾是小事，但其实严重到“晚上不断憋醒”的睡眠呼吸暂停症（OSA），已经被公认为一种危险的慢性病。它不只....md)
 
-**摘要**: 睡眠呼吸暂停症(OSA)是一种危险的慢性病，可能导致中风、心梗等风险。传统CPAP面罩治疗存在使用不便的问题。Sci...
+**摘要**: 睡眠呼吸暂停(OSA)是一种危险的慢性病，可能导致中风、心梗等风险。传统CPAP面罩治疗存在使用不便的问题。最新...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtM8JpDIl)
-**收录时间**: 2025-05-27 21:03
+**收录时间**: 2025-05-27 22:03
 
 ---
 
 ### [#首个多模态扩散大语言模型##文本生成新范式#文本生成新范式——扩散大语言模型（dLLM），你听过吗？普林斯顿大学、字节Seed、北大、清华等团队，搞出来个多模态...](2025-05-27/#首个多模态扩散大语言模型##文本生成新范式#文本生成新范式——扩散大语言模型（dLLM），你听过吗？普林斯顿大学、字节Seed、北大、清华等团队，搞出来个多模态....md)
 
-**摘要**: 普林斯顿大学、字节跳动Seed、北大、清华等团队联合推出首个多模态扩散大语言模型MMaDA，将扩散模型首次应用于...
+**摘要**: 普林斯顿大学、字节Seed、北大、清华等团队联合推出首个多模态扩散大语言模型MMaDA，首次将扩散模型应用于语言...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtLMCFApE)
-**收录时间**: 2025-05-27 21:03
+**收录时间**: 2025-05-27 22:03
 
 ---
 
 ### [#国产开源模型登HuggingFace热榜# #阿里突破长文本训练难题#阿里开源长文本推理模型QwenLong-L1，登上了HuggingFace热门论文榜第2名！该模型对标Claude等一线大...](2025-05-27/#国产开源模型登HuggingFace热榜#_#阿里突破长文本训练难题#阿里开源长文本推理模型QwenLong-L1，登上了HuggingFace热门论文榜第2名！该模型对标Claude等一线大....md)
 
-**摘要**: 阿里开源长文本推理模型QwenLong-L1登上HuggingFace热榜第二，该模型通过两阶段训练（预训练+强化学习）和分阶段扩...
+**摘要**: 阿里开源的长文本推理模型QwenLong-L1登上HuggingFace热榜第二。该模型通过两阶段训练（预训练+强化学习）和分阶段...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtLTVEX0i)
-**收录时间**: 2025-05-27 21:03
+**收录时间**: 2025-05-27 22:03
 
 ---
 
 ### [#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus AI 100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能...](2025-05-27/#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus_AI_100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能....md)
 
-**摘要**: Github开源项目AgenticSeek引发关注，号称可100%本地替代Manus AI。该项目支持完全本地化运行，保障数据隐私，仅需支...
+**摘要**: Github开源项目AgenticSeek引发关注，号称可100%本地替代Manus AI。该项目完全在用户设备上运行，确保数据隐私且无需...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtMdhvKra)
-**收录时间**: 2025-05-27 21:03
+**收录时间**: 2025-05-27 22:03
 
 ---
 
 ### [#快手科技第一季度营收326.1亿元##快手AI战略多点落地#快手发布2025年第一季度财报，数据显示，公司实现总营收326亿元，同比增长10.9%；经调整净利润为46亿元，...](2025-05-27/#快手科技第一季度营收326.1亿元##快手AI战略多点落地#快手发布2025年第一季度财报，数据显示，公司实现总营收326亿元，同比增长10.9%；经调整净利润为46亿元，....md)
 
-**摘要**: 快手2025年Q1财报显示，总营收326亿元（同比+10.9%），经调整净利润46亿元。日活用户达4.08亿创新高。AI战略成效显...
+**摘要**: 快手2025年Q1财报显示，总营收326亿元（同比+10.9%），经调整净利润46亿元，日活用户达4.08亿创新高。AI战略成效显...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtNVroKJU)
-**收录时间**: 2025-05-27 21:02
+**收录时间**: 2025-05-27 22:02
 
 ---
 
 ### [#网友用o3找出全新Linux内核漏洞#网友用o3成功发现全新Linux内核零日漏洞，没有调用任何工具，这段代码找了100遍。 量子位的微博视频](2025-05-27/#网友用o3找出全新Linux内核漏洞#网友用o3成功发现全新Linux内核零日漏洞，没有调用任何工具，这段代码找了100遍。_量子位的微博视频.md)
 
-**摘要**: 网友通过手动代码审计（未使用自动化工具）发现了一个全新的Linux内核零日漏洞。该用户表示对相关代码进行了...
+**摘要**: 网友通过人工代码审计（未使用工具）发现了一个全新的Linux内核零日漏洞，经过100遍代码检查后确认。该发现展...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtMzXxf7e)
-**收录时间**: 2025-05-27 21:02
+**收录时间**: 2025-05-27 22:02
 
 ---
 
 ### [#618该买什么电脑##AI PC品鉴会# 2025年5月27日，北京——今天，英特尔联合微软和京东举办了“Windows 11 AI+ PC创新AI及游戏体验·618英特尔® 酷睿™ Ultra产...](2025-05-27/#618该买什么电脑##AI_PC品鉴会#_2025年5月27日，北京——今天，英特尔联合微软和京东举办了“Windows_11_AI+_PC创新AI及游戏体验·618英特尔®_酷睿™_Ultra产....md)
 
-**摘要**: 英特尔联合微软和京东举办AI PC品鉴会，宣布Windows 10全面转向Windows 11 AI+PC时代。活动展示了10家厂商基于第二代酷...
+**摘要**: 英特尔联合微软和京东举办"Windows 11 AI+ PC品鉴会"，宣布PC进入AI时代。现场展示10家厂商基于第二代酷睿Ultra处理器...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtN8amxay)
-**收录时间**: 2025-05-27 21:02
+**收录时间**: 2025-05-27 22:02
 
 ---
 
 ### [TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](2025-05-27/TrojanStego-_Your_Language_Model_Can_Secretly_Be_A_Steganographic_Privacy_Leaking_Agent.md)
 
-**摘要**: 研究人员提出了一种名为\*\*TrojanStego\*\*的新型威胁模型，通过微调大语言模型（LLM），利用隐写术将敏感信息嵌入看...
+**摘要**: 研究人员提出了一种名为TrojanStego的新型威胁模型，通过微调大语言模型（LLM）将敏感信息隐藏在看似自然的输出...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.20118v1)
-**收录时间**: 2025-05-27 21:02
+**收录时间**: 2025-05-27 22:02
 
 ---
 
 ### [MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](2025-05-27/MA-RAG-_Multi-Agent_Retrieval-Augmented_Generation_via_Collaborative_Chain-of-Thought_Reasoning.md)
 
-**摘要**: MA-RAG是一个多智能体框架，旨在解决复杂信息检索任务中的模糊性和推理挑战。不同于传统RAG方法，它通过协作的...
+**摘要**: MA-RAG是一个多智能体框架，用于增强检索生成（RAG）任务，解决复杂信息查询中的模糊性和推理挑战。不同于传统...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.20096v1)
-**收录时间**: 2025-05-27 21:02
+**收录时间**: 2025-05-27 22:02
 
 ---
 
 ### [PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](2025-05-27/PandaGuard-_Systematic_Evaluation_of_LLM_Safety_against_Jailbreaking_Attacks.md)
 
-**摘要**: 该研究提出了PandaGuard框架，将大语言模型（LLM）的安全性评估建模为包含攻击者、防御者和评判者的多智能体系...
+**摘要**: 这篇论文提出了PandaGuard框架和PandaBench基准，用于系统评估大语言模型(LLM)的越狱安全风险。该框架采用多智能体...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.13862v3)
-**收录时间**: 2025-05-27 21:02
+**收录时间**: 2025-05-27 22:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-27 (77篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-27/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-27 21:05 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。该框架直接建模音频-视觉关系，...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-27/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-27 22:05 
+  该研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-27/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-27 21:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。该系统被用于...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-27/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-27 22:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次社会互动。该系统作...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-27/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-27 21:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、翻译、分析和写作一站式服务。它拥有3.5亿论文、0....
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-27/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-27 22:05 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、辅助阅读、科研订阅等一站式服务。其核心功能...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-27/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-27 21:05 
-  这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-27/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-27 22:05 
+  该研究针对代码生成大模型(codeLLMs)与人类偏好对齐问题，提出了CodeArena基准测试和SynCode-Instruct指令数据集。CodeAre...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-27/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-27 21:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-27/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-27 22:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制处理长文本时计...
 
-- **[#瑞幸能用AI点咖啡了# #说句话自动点咖啡#AI点咖啡，@luckincoffee瑞幸咖啡 做到了!瑞幸上线了首个AI智能体“lucky”，只要说句话，比如“来杯生椰拿铁”，它就...](2025-05-27/#瑞幸能用AI点咖啡了#_#说句话自动点咖啡#AI点咖啡，@luckincoffee瑞幸咖啡_做到了!瑞幸上线了首个AI智能体“lucky”，只要说句话，比如“来杯生椰拿铁”，它就....md)** | [原文](https://weibo.com/6105753431/PtLyLkXD3) | 时间: 2025-05-27 21:04 
-  瑞幸咖啡推出AI智能点单助手"lucky"，用户只需说出需求（如"来杯生椰拿铁"）即可自动完成下单。该系统能理解饮...
+- **[#瑞幸能用AI点咖啡了# #说句话自动点咖啡#AI点咖啡，@luckincoffee瑞幸咖啡 做到了!瑞幸上线了首个AI智能体“lucky”，只要说句话，比如“来杯生椰拿铁”，它就...](2025-05-27/#瑞幸能用AI点咖啡了#_#说句话自动点咖啡#AI点咖啡，@luckincoffee瑞幸咖啡_做到了!瑞幸上线了首个AI智能体“lucky”，只要说句话，比如“来杯生椰拿铁”，它就....md)** | [原文](https://weibo.com/6105753431/PtLyLkXD3) | 时间: 2025-05-27 22:04 
+  瑞幸咖啡推出AI智能点单助手"lucky"，用户只需说出需求（如"来杯生椰拿铁"）即可自动完成下单。该AI能理解饮品...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-27/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-27 21:04 
-  该研究提出SGD-SaI方法，质疑自适应梯度方法（如Adam）的必要性。该方法改进带动量SGD，通过在初始化时基于梯度...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-27/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-27 22:04 
+  该研究提出了一种名为SGD-SaI的新优化方法，通过初始化阶段基于梯度信噪比(g-SNR)调整学习率，取代了传统自适应...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-27/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-27 21:04 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动基因，...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-27/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-27 22:04 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-- **[#AI让程序员变流水线工人##强推AI编程程序员受不了#万万没想到，大厂程序员真要成流水线工人了。这不是谁危言耸听，而是亚马逊不少程序员最近的亲身感受——在过...](2025-05-27/#AI让程序员变流水线工人##强推AI编程程序员受不了#万万没想到，大厂程序员真要成流水线工人了。这不是谁危言耸听，而是亚马逊不少程序员最近的亲身感受——在过....md)** | [原文](https://weibo.com/6105753431/PtLWbzVm0) | 时间: 2025-05-27 21:03 
-  亚马逊程序员面临AI工具带来的工作变革：管理层强制使用Copilot等AI编程助手，缩短项目周期，导致员工被迫依赖A...
+- **[#AI让程序员变流水线工人##强推AI编程程序员受不了#万万没想到，大厂程序员真要成流水线工人了。这不是谁危言耸听，而是亚马逊不少程序员最近的亲身感受——在过...](2025-05-27/#AI让程序员变流水线工人##强推AI编程程序员受不了#万万没想到，大厂程序员真要成流水线工人了。这不是谁危言耸听，而是亚马逊不少程序员最近的亲身感受——在过....md)** | [原文](https://weibo.com/6105753431/PtLWbzVm0) | 时间: 2025-05-27 22:03 
+  亚马逊强制推行AI编程工具引发程序员不满。管理层以"提高生产力"为由，缩短项目周期并裁员，迫使程序员依赖AI...
 
-- **[#为文本模型一键添加语音功能##让文本模型瞬间变身私人语音助手#让所有文本大模型瞬间变身你的私人语音助手！法国AI实验室Kyutai再次推出开源语音新模型：Unmute...](2025-05-27/#为文本模型一键添加语音功能##让文本模型瞬间变身私人语音助手#让所有文本大模型瞬间变身你的私人语音助手！法国AI实验室Kyutai再次推出开源语音新模型：Unmute....md)** | [原文](https://weibo.com/6105753431/PtLXdv4pM) | 时间: 2025-05-27 21:03 
-  法国AI实验室Kyutai推出开源语音模型Unmute，可为任意文本大模型一键添加语音交互功能。其特点包括：1）流式STT（...
+- **[#为文本模型一键添加语音功能##让文本模型瞬间变身私人语音助手#让所有文本大模型瞬间变身你的私人语音助手！法国AI实验室Kyutai再次推出开源语音新模型：Unmute...](2025-05-27/#为文本模型一键添加语音功能##让文本模型瞬间变身私人语音助手#让所有文本大模型瞬间变身你的私人语音助手！法国AI实验室Kyutai再次推出开源语音新模型：Unmute....md)** | [原文](https://weibo.com/6105753431/PtLXdv4pM) | 时间: 2025-05-27 22:03 
+  法国AI实验室Kyutai推出开源语音模型Unmute，可将任意文本大模型快速升级为语音助手。该系统采用级联设计，无需...
 
-- **[#睡眠呼吸暂停新突破##打呼噜憋醒怎么办#不少人以为打鼾是小事，但其实严重到“晚上不断憋醒”的睡眠呼吸暂停症（OSA），已经被公认为一种危险的慢性病。它不只...](2025-05-27/#睡眠呼吸暂停新突破##打呼噜憋醒怎么办#不少人以为打鼾是小事，但其实严重到“晚上不断憋醒”的睡眠呼吸暂停症（OSA），已经被公认为一种危险的慢性病。它不只....md)** | [原文](https://weibo.com/6105753431/PtM8JpDIl) | 时间: 2025-05-27 21:03 
-  睡眠呼吸暂停症(OSA)是一种危险的慢性病，可能导致中风、心梗等风险。传统CPAP面罩治疗存在使用不便的问题。Sci...
+- **[#睡眠呼吸暂停新突破##打呼噜憋醒怎么办#不少人以为打鼾是小事，但其实严重到“晚上不断憋醒”的睡眠呼吸暂停症（OSA），已经被公认为一种危险的慢性病。它不只...](2025-05-27/#睡眠呼吸暂停新突破##打呼噜憋醒怎么办#不少人以为打鼾是小事，但其实严重到“晚上不断憋醒”的睡眠呼吸暂停症（OSA），已经被公认为一种危险的慢性病。它不只....md)** | [原文](https://weibo.com/6105753431/PtM8JpDIl) | 时间: 2025-05-27 22:03 
+  睡眠呼吸暂停(OSA)是一种危险的慢性病，可能导致中风、心梗等风险。传统CPAP面罩治疗存在使用不便的问题。最新...
 
-- **[#首个多模态扩散大语言模型##文本生成新范式#文本生成新范式——扩散大语言模型（dLLM），你听过吗？普林斯顿大学、字节Seed、北大、清华等团队，搞出来个多模态...](2025-05-27/#首个多模态扩散大语言模型##文本生成新范式#文本生成新范式——扩散大语言模型（dLLM），你听过吗？普林斯顿大学、字节Seed、北大、清华等团队，搞出来个多模态....md)** | [原文](https://weibo.com/6105753431/PtLMCFApE) | 时间: 2025-05-27 21:03 
-  普林斯顿大学、字节跳动Seed、北大、清华等团队联合推出首个多模态扩散大语言模型MMaDA，将扩散模型首次应用于...
+- **[#首个多模态扩散大语言模型##文本生成新范式#文本生成新范式——扩散大语言模型（dLLM），你听过吗？普林斯顿大学、字节Seed、北大、清华等团队，搞出来个多模态...](2025-05-27/#首个多模态扩散大语言模型##文本生成新范式#文本生成新范式——扩散大语言模型（dLLM），你听过吗？普林斯顿大学、字节Seed、北大、清华等团队，搞出来个多模态....md)** | [原文](https://weibo.com/6105753431/PtLMCFApE) | 时间: 2025-05-27 22:03 
+  普林斯顿大学、字节Seed、北大、清华等团队联合推出首个多模态扩散大语言模型MMaDA，首次将扩散模型应用于语言...
 
-- **[#国产开源模型登HuggingFace热榜# #阿里突破长文本训练难题#阿里开源长文本推理模型QwenLong-L1，登上了HuggingFace热门论文榜第2名！该模型对标Claude等一线大...](2025-05-27/#国产开源模型登HuggingFace热榜#_#阿里突破长文本训练难题#阿里开源长文本推理模型QwenLong-L1，登上了HuggingFace热门论文榜第2名！该模型对标Claude等一线大....md)** | [原文](https://weibo.com/6105753431/PtLTVEX0i) | 时间: 2025-05-27 21:03 
-  阿里开源长文本推理模型QwenLong-L1登上HuggingFace热榜第二，该模型通过两阶段训练（预训练+强化学习）和分阶段扩...
+- **[#国产开源模型登HuggingFace热榜# #阿里突破长文本训练难题#阿里开源长文本推理模型QwenLong-L1，登上了HuggingFace热门论文榜第2名！该模型对标Claude等一线大...](2025-05-27/#国产开源模型登HuggingFace热榜#_#阿里突破长文本训练难题#阿里开源长文本推理模型QwenLong-L1，登上了HuggingFace热门论文榜第2名！该模型对标Claude等一线大....md)** | [原文](https://weibo.com/6105753431/PtLTVEX0i) | 时间: 2025-05-27 22:03 
+  阿里开源的长文本推理模型QwenLong-L1登上HuggingFace热榜第二。该模型通过两阶段训练（预训练+强化学习）和分阶段...
 
-- **[#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus AI 100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能...](2025-05-27/#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus_AI_100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能....md)** | [原文](https://weibo.com/6105753431/PtMdhvKra) | 时间: 2025-05-27 21:03 
-  Github开源项目AgenticSeek引发关注，号称可100%本地替代Manus AI。该项目支持完全本地化运行，保障数据隐私，仅需支...
+- **[#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus AI 100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能...](2025-05-27/#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus_AI_100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能....md)** | [原文](https://weibo.com/6105753431/PtMdhvKra) | 时间: 2025-05-27 22:03 
+  Github开源项目AgenticSeek引发关注，号称可100%本地替代Manus AI。该项目完全在用户设备上运行，确保数据隐私且无需...
 
-- **[#快手科技第一季度营收326.1亿元##快手AI战略多点落地#快手发布2025年第一季度财报，数据显示，公司实现总营收326亿元，同比增长10.9%；经调整净利润为46亿元，...](2025-05-27/#快手科技第一季度营收326.1亿元##快手AI战略多点落地#快手发布2025年第一季度财报，数据显示，公司实现总营收326亿元，同比增长10.9%；经调整净利润为46亿元，....md)** | [原文](https://weibo.com/6105753431/PtNVroKJU) | 时间: 2025-05-27 21:02 
-  快手2025年Q1财报显示，总营收326亿元（同比+10.9%），经调整净利润46亿元。日活用户达4.08亿创新高。AI战略成效显...
+- **[#快手科技第一季度营收326.1亿元##快手AI战略多点落地#快手发布2025年第一季度财报，数据显示，公司实现总营收326亿元，同比增长10.9%；经调整净利润为46亿元，...](2025-05-27/#快手科技第一季度营收326.1亿元##快手AI战略多点落地#快手发布2025年第一季度财报，数据显示，公司实现总营收326亿元，同比增长10.9%；经调整净利润为46亿元，....md)** | [原文](https://weibo.com/6105753431/PtNVroKJU) | 时间: 2025-05-27 22:02 
+  快手2025年Q1财报显示，总营收326亿元（同比+10.9%），经调整净利润46亿元，日活用户达4.08亿创新高。AI战略成效显...
 
-- **[#网友用o3找出全新Linux内核漏洞#网友用o3成功发现全新Linux内核零日漏洞，没有调用任何工具，这段代码找了100遍。 量子位的微博视频](2025-05-27/#网友用o3找出全新Linux内核漏洞#网友用o3成功发现全新Linux内核零日漏洞，没有调用任何工具，这段代码找了100遍。_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PtMzXxf7e) | 时间: 2025-05-27 21:02 
-  网友通过手动代码审计（未使用自动化工具）发现了一个全新的Linux内核零日漏洞。该用户表示对相关代码进行了...
+- **[#网友用o3找出全新Linux内核漏洞#网友用o3成功发现全新Linux内核零日漏洞，没有调用任何工具，这段代码找了100遍。 量子位的微博视频](2025-05-27/#网友用o3找出全新Linux内核漏洞#网友用o3成功发现全新Linux内核零日漏洞，没有调用任何工具，这段代码找了100遍。_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PtMzXxf7e) | 时间: 2025-05-27 22:02 
+  网友通过人工代码审计（未使用工具）发现了一个全新的Linux内核零日漏洞，经过100遍代码检查后确认。该发现展...
 
-- **[#618该买什么电脑##AI PC品鉴会# 2025年5月27日，北京——今天，英特尔联合微软和京东举办了“Windows 11 AI+ PC创新AI及游戏体验·618英特尔® 酷睿™ Ultra产...](2025-05-27/#618该买什么电脑##AI_PC品鉴会#_2025年5月27日，北京——今天，英特尔联合微软和京东举办了“Windows_11_AI+_PC创新AI及游戏体验·618英特尔®_酷睿™_Ultra产....md)** | [原文](https://weibo.com/6105753431/PtN8amxay) | 时间: 2025-05-27 21:02 
-  英特尔联合微软和京东举办AI PC品鉴会，宣布Windows 10全面转向Windows 11 AI+PC时代。活动展示了10家厂商基于第二代酷...
+- **[#618该买什么电脑##AI PC品鉴会# 2025年5月27日，北京——今天，英特尔联合微软和京东举办了“Windows 11 AI+ PC创新AI及游戏体验·618英特尔® 酷睿™ Ultra产...](2025-05-27/#618该买什么电脑##AI_PC品鉴会#_2025年5月27日，北京——今天，英特尔联合微软和京东举办了“Windows_11_AI+_PC创新AI及游戏体验·618英特尔®_酷睿™_Ultra产....md)** | [原文](https://weibo.com/6105753431/PtN8amxay) | 时间: 2025-05-27 22:02 
+  英特尔联合微软和京东举办"Windows 11 AI+ PC品鉴会"，宣布PC进入AI时代。现场展示10家厂商基于第二代酷睿Ultra处理器...
 
-- **[TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](2025-05-27/TrojanStego-_Your_Language_Model_Can_Secretly_Be_A_Steganographic_Privacy_Leaking_Agent.md)** | [原文](http://arxiv.org/abs/2505.20118v1) | 时间: 2025-05-27 21:02 
-  研究人员提出了一种名为\*\*TrojanStego\*\*的新型威胁模型，通过微调大语言模型（LLM），利用隐写术将敏感信息嵌入看...
+- **[TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent](2025-05-27/TrojanStego-_Your_Language_Model_Can_Secretly_Be_A_Steganographic_Privacy_Leaking_Agent.md)** | [原文](http://arxiv.org/abs/2505.20118v1) | 时间: 2025-05-27 22:02 
+  研究人员提出了一种名为TrojanStego的新型威胁模型，通过微调大语言模型（LLM）将敏感信息隐藏在看似自然的输出...
 
-- **[MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](2025-05-27/MA-RAG-_Multi-Agent_Retrieval-Augmented_Generation_via_Collaborative_Chain-of-Thought_Reasoning.md)** | [原文](http://arxiv.org/abs/2505.20096v1) | 时间: 2025-05-27 21:02 
-  MA-RAG是一个多智能体框架，旨在解决复杂信息检索任务中的模糊性和推理挑战。不同于传统RAG方法，它通过协作的...
+- **[MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](2025-05-27/MA-RAG-_Multi-Agent_Retrieval-Augmented_Generation_via_Collaborative_Chain-of-Thought_Reasoning.md)** | [原文](http://arxiv.org/abs/2505.20096v1) | 时间: 2025-05-27 22:02 
+  MA-RAG是一个多智能体框架，用于增强检索生成（RAG）任务，解决复杂信息查询中的模糊性和推理挑战。不同于传统...
 
-- **[PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](2025-05-27/PandaGuard-_Systematic_Evaluation_of_LLM_Safety_against_Jailbreaking_Attacks.md)** | [原文](http://arxiv.org/abs/2505.13862v3) | 时间: 2025-05-27 21:02 
-  该研究提出了PandaGuard框架，将大语言模型（LLM）的安全性评估建模为包含攻击者、防御者和评判者的多智能体系...
+- **[PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](2025-05-27/PandaGuard-_Systematic_Evaluation_of_LLM_Safety_against_Jailbreaking_Attacks.md)** | [原文](http://arxiv.org/abs/2505.13862v3) | 时间: 2025-05-27 22:02 
+  这篇论文提出了PandaGuard框架和PandaBench基准，用于系统评估大语言模型(LLM)的越狱安全风险。该框架采用多智能体...
 
-- **[Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs](2025-05-27/Engineering_Trustworthy_Machine-Learning_Operations_with_Zero-Knowledge_Proofs.md)** | [原文](http://arxiv.org/abs/2505.20136v1) | 时间: 2025-05-27 21:01 
-  随着AI系统在关键领域的广泛应用，其概率性和不透明性对传统验证方法提出了挑战。零知识证明（ZKP）作为一种...
+- **[Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs](2025-05-27/Engineering_Trustworthy_Machine-Learning_Operations_with_Zero-Knowledge_Proofs.md)** | [原文](http://arxiv.org/abs/2505.20136v1) | 时间: 2025-05-27 22:01 
+  随着AI系统在高风险领域的广泛应用，其概率性和不透明性给传统验证方法带来挑战，尤其在需要防篡改审计的监...
 
-- **[Agents Require Metacognitive and Strategic Reasoning to Succeed in the Coming Labor Markets](2025-05-27/Agents_Require_Metacognitive_and_Strategic_Reasoning_to_Succeed_in_the_Coming_Labor_Markets.md)** | [原文](http://arxiv.org/abs/2505.20120v1) | 时间: 2025-05-27 21:01 
-  当前劳动力市场深受信息不对称引发的逆向选择、道德风险和声誉问题影响。即便引入AI代理后，这些经济力量仍...
+- **[Agents Require Metacognitive and Strategic Reasoning to Succeed in the Coming Labor Markets](2025-05-27/Agents_Require_Metacognitive_and_Strategic_Reasoning_to_Succeed_in_the_Coming_Labor_Markets.md)** | [原文](http://arxiv.org/abs/2505.20120v1) | 时间: 2025-05-27 22:01 
+  当前劳动力市场深受信息不完全导致的经济力量影响，包括逆向选择、道德风险和声誉问题。即便引入AI代理后，...
 
-- **[Agentic AI Process Observability: Discovering Behavioral Variability](2025-05-27/Agentic_AI_Process_Observability-_Discovering_Behavioral_Variability.md)** | [原文](http://arxiv.org/abs/2505.20127v1) | 时间: 2025-05-27 21:01 
-  基于大语言模型(LLM)的AI代理正成为现代软件系统的核心组件。当前已有多种框架支持通过自然语言提示定义代理...
+- **[Agentic AI Process Observability: Discovering Behavioral Variability](2025-05-27/Agentic_AI_Process_Observability-_Discovering_Behavioral_Variability.md)** | [原文](http://arxiv.org/abs/2505.20127v1) | 时间: 2025-05-27 22:01 
+  大型语言模型（LLM）驱动的AI代理正成为现代软件系统的核心组件。尽管现有框架支持通过自然语言提示定义代理...
 
-- **[Agentic 3D Scene Generation with Spatially Contextualized VLMs](2025-05-27/Agentic_3D_Scene_Generation_with_Spatially_Contextualized_VLMs.md)** | [原文](http://arxiv.org/abs/2505.20129v1) | 时间: 2025-05-27 21:01 
-  该研究提出了一种新范式，通过动态空间上下文增强视觉语言模型（VLM）的3D场景生成与理解能力。该上下文包含...
+- **[Agentic 3D Scene Generation with Spatially Contextualized VLMs](2025-05-27/Agentic_3D_Scene_Generation_with_Spatially_Contextualized_VLMs.md)** | [原文](http://arxiv.org/abs/2505.20129v1) | 时间: 2025-05-27 22:01 
+  该研究提出了一种新范式，使视觉语言模型（VLMs）能够通过动态空间上下文生成、理解和编辑复杂3D场景。该上下...
 
-- **[Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers](2025-05-27/Iterative_Self-Incentivization_Empowers_Large_Language_Models_as_Agentic_Searchers.md)** | [原文](http://arxiv.org/abs/2505.20128v1) | 时间: 2025-05-27 21:01 
+- **[Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers](2025-05-27/Iterative_Self-Incentivization_Empowers_Large_Language_Models_as_Agentic_Searchers.md)** | [原文](http://arxiv.org/abs/2505.20128v1) | 时间: 2025-05-27 22:01 
   本文提出EXSEARCH框架，通过自激励学习机制提升大语言模型(LLM)在复杂任务中的信息检索能力。该框架采用广义期...
 
-- **[Model Stitching by Functional Latent Alignment](2025-05-27/Model_Stitching_by_Functional_Latent_Alignment.md)** | [原文](http://arxiv.org/abs/2505.20142v1) | 时间: 2025-05-27 21:01 
-  本文提出了一种评估神经网络功能相似性的新方法——功能潜在对齐(FuLA)，该方法受到知识蒸馏的启发，通过最优...
+- **[Model Stitching by Functional Latent Alignment](2025-05-27/Model_Stitching_by_Functional_Latent_Alignment.md)** | [原文](http://arxiv.org/abs/2505.20142v1) | 时间: 2025-05-27 22:01 
+  本文提出了一种评估神经网络功能相似性的新方法——功能潜在对齐（FuLA），通过借鉴知识蒸馏思想改进模型缝...
 
-- **[MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents](2025-05-27/MineAnyBuild-_Benchmarking_Spatial_Planning_for_Open-world_AI_Agents.md)** | [原文](http://arxiv.org/abs/2505.20148v1) | 时间: 2025-05-27 21:00 
-  该研究提出了名为MineAnyBuild的综合性基准测试，用于评估开放世界AI代理在《我的世界》游戏中的空间规划能力。...
+- **[MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents](2025-05-27/MineAnyBuild-_Benchmarking_Spatial_Planning_for_Open-world_AI_Agents.md)** | [原文](http://arxiv.org/abs/2505.20148v1) | 时间: 2025-05-27 22:00 
+  本文介绍了《MineAnyBuild》这一综合性基准测试，旨在评估开放世界AI代理在《Minecraft》游戏中的空间规划能力。该...
 
 - **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](2025-05-27/Evaluating_Software_Plagiarism_Detection_in_the_Age_of_AI-_Automated_Obfuscation_and_Lessons_for_Academic_Integrity.md)** | [原文](http://arxiv.org/abs/2505.20158v1) | 时间: 2025-05-27 20:02 
   编程作业抄袭是计算机教育中的长期问题，自动化混淆攻击的出现使其更加复杂。现有抄袭检测工具能识别简单混...
