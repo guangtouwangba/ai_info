@@ -1,0 +1,30 @@
+# Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems
+
+**URL**: http://arxiv.org/abs/2505.11532v2
+
+## 原始摘要
+
+Autonomous driving systems (ADS) increasingly rely on deep learning-based
+perception models, which remain vulnerable to adversarial attacks. In this
+paper, we revisit adversarial attacks and defense methods, focusing on road
+sign recognition and lead object detection and prediction (e.g., relative
+distance). Using a Level-2 production ADS, OpenPilot by Comma$.$ai, and the
+widely adopted YOLO model, we systematically examine the impact of adversarial
+perturbations and assess defense techniques, including adversarial training,
+image processing, contrastive learning, and diffusion models. Our experiments
+highlight both the strengths and limitations of these methods in mitigating
+complex attacks. Through targeted evaluations of model robustness, we aim to
+provide deeper insights into the vulnerabilities of ADS perception systems and
+contribute guidance for developing more resilient defense strategies.
+
+
+## AI 摘要
+
+本文研究了自动驾驶系统（ADS）中基于深度学习的感知模型对抗攻击的脆弱性及其防御方法。以Comma.ai的OpenPilot（L2级ADS）和YOLO模型为例，重点分析了路标识别和前方物体检测/预测（如相对距离）任务中对抗扰动的影响。通过系统评估对抗训练、图像处理、对比学习和扩散模型等防御技术的效果，揭示了这些方法在抵御复杂攻击时的优势与局限。研究旨在深入理解ADS感知系统的安全漏洞，并为开发更鲁棒的防御策略提供指导。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-27T00:02:08Z
+- **目录日期**: 2025-05-27
