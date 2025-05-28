@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-这篇微博介绍了AI领域的12个核心概念：AGI（通用人工智能）指超越人类认知能力的AI；思维链（Chain of Thought）让AI分步推理提高准确性；深度学习通过多层神经网络实现复杂学习；扩散模型（Diffusion）通过噪声处理生成新数据；知识蒸馏（Distillation）让小模型模仿大模型；微调（Fine-tuning）优化预训练模型；生成对抗网络（GAN）通过生成器与判别器对抗生成逼真数据；幻觉（Hallucination）指AI虚构错误信息；神经网络是深度学习的基础架构；迁移学习复用预训练模型；权重（Weights）决定模型特征重要性。这些术语是理解现代AI技术的关键。
+这篇微博介绍了AI领域常见的技术术语词典，帮助初学者快速入门。主要概念包括：AGI（通用人工智能）、思维链推理（Chain of Thought）、深度学习（Deep Learning）、扩散模型（Diffusion）、知识蒸馏（Distillation）、微调（Fine-tuning）、生成对抗网络（GAN）、幻觉（Hallucination）、神经网络（Neural Network）、迁移学习（Transfer Learning）和权重（Weights）。这些术语涵盖了从基础理论到实际应用的关键技术，解释了AI如何学习、推理和生成内容。该词典由Techcrunch维护，为理解当前AI发展提供了简明指南。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-28T20:02:55Z
+- **保存时间**: 2025-05-28T21:02:48Z
 - **目录日期**: 2025-05-28
