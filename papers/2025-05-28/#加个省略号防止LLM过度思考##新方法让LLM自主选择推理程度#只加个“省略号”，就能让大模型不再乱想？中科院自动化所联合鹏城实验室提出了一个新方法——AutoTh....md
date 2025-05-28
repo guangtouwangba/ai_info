@@ -1,0 +1,18 @@
+# #加个省略号防止LLM过度思考##新方法让LLM自主选择推理程度#只加个“省略号”，就能让大模型不再乱想？中科院自动化所联合鹏城实验室提出了一个新方法——AutoTh...
+
+**URL**: https://weibo.com/6105753431/PtUwRyVmr
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8A%A0%E4%B8%AA%E7%9C%81%E7%95%A5%E5%8F%B7%E9%98%B2%E6%AD%A2LLM%E8%BF%87%E5%BA%A6%E6%80%9D%E8%80%83%23&amp;extparam=%23%E5%8A%A0%E4%B8%AA%E7%9C%81%E7%95%A5%E5%8F%B7%E9%98%B2%E6%AD%A2LLM%E8%BF%87%E5%BA%A6%E6%80%9D%E8%80%83%23" data-hide=""><span class="surl-text">#加个省略号防止LLM过度思考#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E6%96%B9%E6%B3%95%E8%AE%A9LLM%E8%87%AA%E4%B8%BB%E9%80%89%E6%8B%A9%E6%8E%A8%E7%90%86%E7%A8%8B%E5%BA%A6%23&amp;extparam=%23%E6%96%B0%E6%96%B9%E6%B3%95%E8%AE%A9LLM%E8%87%AA%E4%B8%BB%E9%80%89%E6%8B%A9%E6%8E%A8%E7%90%86%E7%A8%8B%E5%BA%A6%23" data-hide=""><span class="surl-text">#新方法让LLM自主选择推理程度#</span></a><br><br>只加个“省略号”，就能让大模型不再乱想？<br><br>中科院自动化所联合鹏城实验室提出了一个新方法——AutoThink，通过在提示词中加入“…”这一极简操作，再配合三阶段强化学习训练，让模型学会自主判断：这题要不要思考、该思考多少。<br><br>现在的大模型一上来就“猛想”，不管问题难不难，都要推理一大段，既拖慢速度，又浪费算力，有时还容易想错。<br><br>AutoThink的目标很明确：让模型像人一样，按题下手——<br><br>- 简单题直接答；【图1】<br>- 中等题看情况；【图2】<br>- 复杂题才认真想。【图3】<br><br>这项突破的关键，就在于“省略号”：<br><br>- 原来的标准提示 `&lt;think&gt;` 会强制模型深度思考；<br><br>- 新的 `&lt;think&gt;…` 则允许模型自己选择是否思考，初步实现了思考行为的“解耦”。<br><br>当然，光靠“…”还不够。为了让模型真正做到“因题制宜”，团队设计了三阶段强化学习机制：<br><br>1. 防止思考模式坍缩，让“思考/不思考”都能稳定存在；<br><br>2. 优化两种模式下的准确率，该想的题认真想，不该想的题快答；<br><br>3. 控制推理长度，不让模型“话痨”，保持简洁高效。<br><br>最终效果也非常亮眼：AutoThink不仅提升了多种模型的准确率，还显著减少了token消耗，在多个数学任务上表现优异，适合需要高效推理的场景。<br><br>这项成果已集成进智能科研平台ScienceOne，将用于训练基座模型S1-Base，未来有望推广至更多实际应用中。<br><br>拓展阅读：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqcGrNjIqU1cLSg_31wijJg" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">一个省略号提示+强化学习搞定大模型“过度思考”，中科院自动化所新方法：从强制推理到自主选择</span></a><br>论文：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Farxiv.org%2Fabs%2F2505.10832" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>代码：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FScienceOne-AI%2FAutoThink" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>模型：<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fhuggingface.co%2Fcollections%2FSONGJUNTU%2Fautothink-682624e1466651b08055b479" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1v7clau9oj30u00ea19t.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i1v7cmhuqvj30u00ponnf.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i1v7cno1jxj30u00td4qp.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+中科院自动化所联合鹏城实验室提出AutoThink方法，通过简单添加省略号"…"配合三阶段强化学习，让大语言模型(LLM)自主决定推理程度。该方法解决了现有模型对所有问题均深度思考导致的效率低下问题，实现：简单问题直接回答、中等问题选择性思考、复杂问题深入推理。关键技术在于用"<think>…"替代强制思考指令，结合防止模式坍缩、优化准确率和控制推理长度的强化学习机制。实验显示该方法在提升精度的同时显著减少token消耗，已集成至ScienceOne平台并应用于S1-Base模型训练。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-28T07:03:06Z
+- **目录日期**: 2025-05-28
