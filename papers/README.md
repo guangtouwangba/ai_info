@@ -4,12 +4,12 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-28/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-28/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，能模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-05-28 05:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-05-28 06:05
 
 ---
 
@@ -18,34 +18,16 @@
 **摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-05-28 05:05
+**收录时间**: 2025-05-28 06:05
 
 ---
 
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-28/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-28/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文介绍了AgentSociety，一个利用大型语言模型驱动的大规模社会模拟器。该系统模拟了超过1万个代理及其500...
+**摘要**: 这篇论文提出了CodeArena基准测试和SynCode-Instruct语料库，用于评估代码生成大模型与人类偏好的对齐程度。研究发...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-05-28 05:04
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-28/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。它直接建模音频-视觉关系，无需...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-05-28 05:04
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-28/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK是NSCLC的重要致癌驱动基因，尽管已有...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-05-28 05:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-05-28 06:05
 
 ---
 
@@ -54,52 +36,106 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-05-28 05:04
+**收录时间**: 2025-05-28 06:05
 
 ---
 
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-28/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-28/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度下降(SGDM...
+**摘要**: 本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。该方法利用Stable D...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-05-28 05:04
-
----
-
-### [#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员...](2025-05-28/#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员....md)
-
-**摘要**: 香港大学和密歇根大学等机构开发了多模态物理推理基准PhyX，包含3000道涵盖力学、电磁学等学科的图文题目。测...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PtSKMDp5G)
-**收录时间**: 2025-05-28 05:03
-
----
-
-### [#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一...](2025-05-28/#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一....md)
-
-**摘要**: MiniMax开源了首个视觉强化学习统一框架V-Triune，首次实现了视觉推理和感知任务的联合训练。该框架采用三层组件...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PtSRqCNsG)
-**收录时间**: 2025-05-28 05:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-05-28 06:05
 
 ---
 
 ### [#SpaceX第九飞又炸了##星舰第9次试飞遭遇意外快速解体#SpaceX星舰第九飞，又炸了。当地时间5月27日，SpaceX在得州“星际基地”完成了星舰的第九次试飞。本次任务...](2025-05-28/#SpaceX第九飞又炸了##星舰第9次试飞遭遇意外快速解体#SpaceX星舰第九飞，又炸了。当地时间5月27日，SpaceX在得州“星际基地”完成了星舰的第九次试飞。本次任务....md)
 
-**摘要**: SpaceX星舰第九次试飞于5月27日进行，首次尝试复用超重型助推器B14-2。火箭成功升空并完成一二级分离，星舰上级...
+**摘要**: SpaceX星舰第九次试飞于5月27日进行，首次尝试复用超重型助推器B14-2。火箭成功完成一二级分离，星舰上级进入太...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtSLg0s2G)
-**收录时间**: 2025-05-28 05:03
+**收录时间**: 2025-05-28 06:04
+
+---
+
+### [#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员...](2025-05-28/#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员....md)
+
+**摘要**: 香港大学和密歇根大学等机构开发了首个多模态物理推理基准测试PhyX，包含3000道涵盖力学、电磁学等大学物理核...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PtSKMDp5G)
+**收录时间**: 2025-05-28 06:04
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-28/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-05-28 06:04
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-28/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-05-28 06:04
+
+---
+
+### [#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成...](2025-05-28/#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成....md)
+
+**摘要**: 谷歌推出基于Gemma模型的SignGemma手语翻译系统，可将多种手语转换为口语文本，目前主要优化美国手语(ASL)与英语...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PtST6Boj6)
+**收录时间**: 2025-05-28 06:03
+
+---
+
+### [#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv...](2025-05-28/#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv....md)
+
+**摘要**: 北京大学陈鹏、王初团队在《Cell》发表突破性成果，开发出活体蛋白遥控技术平台CAGE-Proxvivo。该技术通过AI筛选...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PtTKht3Dd)
+**收录时间**: 2025-05-28 06:03
 
 ---
 
 ### [#单卡即可微调大模型##华科大团队新框架提升LoRA微调性能#诸如Qwen，GPT，DeepSeek R1等基础大模型已成为现代深度学习的基石。然而，在应用于具体下游任务时，它...](2025-05-28/#单卡即可微调大模型##华科大团队新框架提升LoRA微调性能#诸如Qwen，GPT，DeepSeek_R1等基础大模型已成为现代深度学习的基石。然而，在应用于具体下游任务时，它....md)
 
-**摘要**: 华中科技大学与香港中文大学团队提出新型LoRA微调框架GOAT，被ICML 2025接收。该框架通过自适应奇异值初始化和混...
+**摘要**: 华中科技大学与香港中文大学团队提出新型LoRA微调框架GOAT，解决了低秩适应方法性能不足的问题。该框架通过自...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtTAf6qLJ)
-**收录时间**: 2025-05-28 05:03
+**收录时间**: 2025-05-28 06:03
+
+---
+
+### [#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一...](2025-05-28/#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一....md)
+
+**摘要**: MiniMax开源了首个视觉强化学习统一框架V-Triune，首次实现单个框架同时处理视觉推理和感知任务。该框架采用三层...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PtSRqCNsG)
+**收录时间**: 2025-05-28 06:03
+
+---
+
+### [#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大...](2025-05-28/#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大....md)
+
+**摘要**: 加州大学伯克利分校团队提出新型强化学习框架RLIF，通过模型内部置信度（INTUITOR方法）替代外部奖励信号，实现...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PtTBzvFiW)
+**收录时间**: 2025-05-28 06:03
+
+---
+
+### [#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，...](2025-05-28/#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，....md)
+
+**摘要**: 目前CAR-T细胞疗法面临制备复杂、成本高昂的问题。新研究方向是通过体内直接改造T细胞来治疗血癌，有望将50万...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PtTAoh3Wk)
+**收录时间**: 2025-05-28 06:03
 
 ---
 
@@ -108,79 +144,43 @@
 **摘要**: 雷鸟发布X3 Pro AI眼镜，国补后售价7649元（原价8999）。搭载4nm高通骁龙AR1平台，支持光波导全彩显示，重量仅76g。...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtSS4alnY)
-**收录时间**: 2025-05-28 05:03
+**收录时间**: 2025-05-28 06:03
 
 ---
 
-### [#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成...](2025-05-28/#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成....md)
+### [Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests](2025-05-28/Tissue-specific_predictive_performance-_A_unified_estimation_and_inference_framework_for_multi-category_screening_tests.md)
 
-**摘要**: 谷歌推出基于Gemma模型的SignGemma手语翻译系统，主要支持美国手语(ASL)与英语互译，计划今年开源发布。同时推出Do...
+**摘要**: 多癌早期检测(MCED)通过单次血液检测实现癌症筛查和定位，但尚未获得广泛应用，主要原因是现有评估指标过于笼...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PtST6Boj6)
-**收录时间**: 2025-05-28 05:03
-
----
-
-### [#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv...](2025-05-28/#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv....md)
-
-**摘要**: 北京大学陈鹏、王初团队在《Cell》发表突破性研究，开发出活体蛋白质遥控技术平台CAGE-Proxvivo。该技术结合AI算...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PtTKht3Dd)
-**收录时间**: 2025-05-28 05:02
-
----
-
-### [Evaluating AI cyber capabilities with crowdsourced elicitation](2025-05-28/Evaluating_AI_cyber_capabilities_with_crowdsourced_elicitation.md)
-
-**摘要**: 随着AI系统能力增强，评估其网络攻击潜力对治理和部署至关重要。传统内部评估常低估AI能力，而"AI激发"技术能...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.19915v2)
-**收录时间**: 2025-05-28 05:02
-
----
-
-### [#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，...](2025-05-28/#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，....md)
-
-**摘要**: 目前CAR-T细胞疗法面临制备复杂、成本高昂的问题。新研究探索在患者体内直接改造T细胞的方法，有望将50万美元...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PtTAoh3Wk)
-**收录时间**: 2025-05-28 05:02
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.21482v1)
+**收录时间**: 2025-05-28 06:02
 
 ---
 
 ### [#谷歌CEO谈AI风向##谷歌CEO深度访谈#在谷歌开发者大会之后，谷歌CEO劈柴哥（Sundar Pichai）分享了“AI发展的下一个阶段”。和往年不同，这次的对话是一次关于AI...](2025-05-28/#谷歌CEO谈AI风向##谷歌CEO深度访谈#在谷歌开发者大会之后，谷歌CEO劈柴哥（Sundar_Pichai）分享了“AI发展的下一个阶段”。和往年不同，这次的对话是一次关于AI....md)
 
-**摘要**: 谷歌CEO Sundar Pichai在开发者大会后分享了对AI未来发展的系统性思考，主要观点包括：1）AI进入第二阶段，从模型...
+**摘要**: 谷歌CEO Sundar Pichai在深度访谈中提出AI发展已进入第二阶段，重点从模型能力转向产品化应用，如氛围编程、多模...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PtTLvk4E7)
-**收录时间**: 2025-05-28 05:02
+**收录时间**: 2025-05-28 06:02
+
+---
+
+### [Evaluating AI cyber capabilities with crowdsourced elicitation](2025-05-28/Evaluating_AI_cyber_capabilities_with_crowdsourced_elicitation.md)
+
+**摘要**: 随着AI系统能力不断提升，评估其网络攻击潜力对治理和部署至关重要。本研究通过两场CTF比赛（AI vs....
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.19915v2)
+**收录时间**: 2025-05-28 06:02
 
 ---
 
 ### [Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration](2025-05-28/Scaling_External_Knowledge_Input_Beyond_Context_Windows_of_LLMs_via_Multi-Agent_Collaboration.md)
 
-**摘要**: 该研究提出了一个名为ExtAgents的多智能体框架，旨在解决大语言模型(LLMs)在处理海量外部知识时面临的上下文窗口...
+**摘要**: 这篇论文提出了一个名为ExtAgents的多智能体框架，旨在解决大语言模型(LLM)在推理时整合外部知识时面临的两个核...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.21471v1)
-**收录时间**: 2025-05-28 05:02
-
----
-
-### [#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大...](2025-05-28/#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大....md)
-
-**摘要**: 加州大学伯克利分校团队提出基于内部反馈的强化学习框架RLIF，通过INTUITOR方法让大模型利用自身置信度作为内在...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PtTBzvFiW)
-**收录时间**: 2025-05-28 05:02
-
----
-
-### [Are Language Models Consequentialist or Deontological Moral Reasoners?](2025-05-28/Are_Language_Models_Consequentialist_or_Deontological_Moral_Reasoners.md)
-
-**摘要**: 随着AI系统在医疗、法律和治理等领域的应用增多，理解其如何处理伦理复杂场景变得至关重要。现有研究主要关...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2505.21479v1)
-**收录时间**: 2025-05-28 05:02
+**收录时间**: 2025-05-28 06:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-05-28 (48篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-28/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-28 05:05 
-  这篇论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-28/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-28 06:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，能模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-28/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-28 05:05 
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-05-28/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-05-28 06:05 
   AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-05-28/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-05-28 05:04 
-  这篇论文介绍了AgentSociety，一个利用大型语言模型驱动的大规模社会模拟器。该系统模拟了超过1万个代理及其500...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-05-28/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-05-28 06:05 
+  这篇论文提出了CodeArena基准测试和SynCode-Instruct语料库，用于评估代码生成大模型与人类偏好的对齐程度。研究发...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-28/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-28 05:04 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。它直接建模音频-视觉关系，无需...
-
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-28/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-28 05:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK是NSCLC的重要致癌驱动基因，尽管已有...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-28/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-28 05:04 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-05-28/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-05-28 06:05 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-28/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-28 05:04 
-  该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度下降(SGDM...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-05-28/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-05-28 06:05 
+  本研究提出LatentSync框架，通过音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。该方法利用Stable D...
 
-- **[#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员...](2025-05-28/#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员....md)** | [原文](https://weibo.com/6105753431/PtSKMDp5G) | 时间: 2025-05-28 05:03 
-  香港大学和密歇根大学等机构开发了多模态物理推理基准PhyX，包含3000道涵盖力学、电磁学等学科的图文题目。测...
+- **[#SpaceX第九飞又炸了##星舰第9次试飞遭遇意外快速解体#SpaceX星舰第九飞，又炸了。当地时间5月27日，SpaceX在得州“星际基地”完成了星舰的第九次试飞。本次任务...](2025-05-28/#SpaceX第九飞又炸了##星舰第9次试飞遭遇意外快速解体#SpaceX星舰第九飞，又炸了。当地时间5月27日，SpaceX在得州“星际基地”完成了星舰的第九次试飞。本次任务....md)** | [原文](https://weibo.com/6105753431/PtSLg0s2G) | 时间: 2025-05-28 06:04 
+  SpaceX星舰第九次试飞于5月27日进行，首次尝试复用超重型助推器B14-2。火箭成功完成一二级分离，星舰上级进入太...
 
-- **[#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一...](2025-05-28/#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一....md)** | [原文](https://weibo.com/6105753431/PtSRqCNsG) | 时间: 2025-05-28 05:03 
-  MiniMax开源了首个视觉强化学习统一框架V-Triune，首次实现了视觉推理和感知任务的联合训练。该框架采用三层组件...
+- **[#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员...](2025-05-28/#AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员....md)** | [原文](https://weibo.com/6105753431/PtSKMDp5G) | 时间: 2025-05-28 06:04 
+  香港大学和密歇根大学等机构开发了首个多模态物理推理基准测试PhyX，包含3000道涵盖力学、电磁学等大学物理核...
 
-- **[#SpaceX第九飞又炸了##星舰第9次试飞遭遇意外快速解体#SpaceX星舰第九飞，又炸了。当地时间5月27日，SpaceX在得州“星际基地”完成了星舰的第九次试飞。本次任务...](2025-05-28/#SpaceX第九飞又炸了##星舰第9次试飞遭遇意外快速解体#SpaceX星舰第九飞，又炸了。当地时间5月27日，SpaceX在得州“星际基地”完成了星舰的第九次试飞。本次任务....md)** | [原文](https://weibo.com/6105753431/PtSLg0s2G) | 时间: 2025-05-28 05:03 
-  SpaceX星舰第九次试飞于5月27日进行，首次尝试复用超重型助推器B14-2。火箭成功升空并完成一二级分离，星舰上级...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-05-28/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-05-28 06:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
-- **[#单卡即可微调大模型##华科大团队新框架提升LoRA微调性能#诸如Qwen，GPT，DeepSeek R1等基础大模型已成为现代深度学习的基石。然而，在应用于具体下游任务时，它...](2025-05-28/#单卡即可微调大模型##华科大团队新框架提升LoRA微调性能#诸如Qwen，GPT，DeepSeek_R1等基础大模型已成为现代深度学习的基石。然而，在应用于具体下游任务时，它....md)** | [原文](https://weibo.com/6105753431/PtTAf6qLJ) | 时间: 2025-05-28 05:03 
-  华中科技大学与香港中文大学团队提出新型LoRA微调框架GOAT，被ICML 2025接收。该框架通过自适应奇异值初始化和混...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-05-28/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-05-28 06:04 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中必须使用自适应梯度方法（如Adam）的传...
 
-- **[#雷鸟发布X3Pro##7649元带走阿里大模型和最强光波导#国补后7649（原价8999），雷鸟正式发布了带有定制大模型和全彩显示的AI眼镜——X3 Pro。雷鸟X3 Pro搭载了4nm...](2025-05-28/#雷鸟发布X3Pro##7649元带走阿里大模型和最强光波导#国补后7649（原价8999），雷鸟正式发布了带有定制大模型和全彩显示的AI眼镜——X3_Pro。雷鸟X3_Pro搭载了4nm....md)** | [原文](https://weibo.com/6105753431/PtSS4alnY) | 时间: 2025-05-28 05:03 
+- **[#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成...](2025-05-28/#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成....md)** | [原文](https://weibo.com/6105753431/PtST6Boj6) | 时间: 2025-05-28 06:03 
+  谷歌推出基于Gemma模型的SignGemma手语翻译系统，可将多种手语转换为口语文本，目前主要优化美国手语(ASL)与英语...
+
+- **[#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv...](2025-05-28/#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv....md)** | [原文](https://weibo.com/6105753431/PtTKht3Dd) | 时间: 2025-05-28 06:03 
+  北京大学陈鹏、王初团队在《Cell》发表突破性成果，开发出活体蛋白遥控技术平台CAGE-Proxvivo。该技术通过AI筛选...
+
+- **[#单卡即可微调大模型##华科大团队新框架提升LoRA微调性能#诸如Qwen，GPT，DeepSeek R1等基础大模型已成为现代深度学习的基石。然而，在应用于具体下游任务时，它...](2025-05-28/#单卡即可微调大模型##华科大团队新框架提升LoRA微调性能#诸如Qwen，GPT，DeepSeek_R1等基础大模型已成为现代深度学习的基石。然而，在应用于具体下游任务时，它....md)** | [原文](https://weibo.com/6105753431/PtTAf6qLJ) | 时间: 2025-05-28 06:03 
+  华中科技大学与香港中文大学团队提出新型LoRA微调框架GOAT，解决了低秩适应方法性能不足的问题。该框架通过自...
+
+- **[#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一...](2025-05-28/#MiniMax开源首个视觉RL统一框架##闫俊杰领衔开源首个视觉RL统一框架#仅需一个强化学习（RL）框架，就能实现视觉任务大统一？现有RL对推理和感知任务只能二选一....md)** | [原文](https://weibo.com/6105753431/PtSRqCNsG) | 时间: 2025-05-28 06:03 
+  MiniMax开源了首个视觉强化学习统一框架V-Triune，首次实现单个框架同时处理视觉推理和感知任务。该框架采用三层...
+
+- **[#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大...](2025-05-28/#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大....md)** | [原文](https://weibo.com/6105753431/PtTBzvFiW) | 时间: 2025-05-28 06:03 
+  加州大学伯克利分校团队提出新型强化学习框架RLIF，通过模型内部置信度（INTUITOR方法）替代外部奖励信号，实现...
+
+- **[#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，...](2025-05-28/#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，....md)** | [原文](https://weibo.com/6105753431/PtTAoh3Wk) | 时间: 2025-05-28 06:03 
+  目前CAR-T细胞疗法面临制备复杂、成本高昂的问题。新研究方向是通过体内直接改造T细胞来治疗血癌，有望将50万...
+
+- **[#雷鸟发布X3Pro##7649元带走阿里大模型和最强光波导#国补后7649（原价8999），雷鸟正式发布了带有定制大模型和全彩显示的AI眼镜——X3 Pro。雷鸟X3 Pro搭载了4nm...](2025-05-28/#雷鸟发布X3Pro##7649元带走阿里大模型和最强光波导#国补后7649（原价8999），雷鸟正式发布了带有定制大模型和全彩显示的AI眼镜——X3_Pro。雷鸟X3_Pro搭载了4nm....md)** | [原文](https://weibo.com/6105753431/PtSS4alnY) | 时间: 2025-05-28 06:03 
   雷鸟发布X3 Pro AI眼镜，国补后售价7649元（原价8999）。搭载4nm高通骁龙AR1平台，支持光波导全彩显示，重量仅76g。...
 
-- **[#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成...](2025-05-28/#谷歌推出手语翻译模型##大模型让人类与海豚交流#翻译人类自然语言还不够，谷歌推出了一个手语翻译模型！SignGemma是谷歌Gemma模型的变体，能够将多种手语翻译成....md)** | [原文](https://weibo.com/6105753431/PtST6Boj6) | 时间: 2025-05-28 05:03 
-  谷歌推出基于Gemma模型的SignGemma手语翻译系统，主要支持美国手语(ASL)与英语互译，计划今年开源发布。同时推出Do...
+- **[Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests](2025-05-28/Tissue-specific_predictive_performance-_A_unified_estimation_and_inference_framework_for_multi-category_screening_tests.md)** | [原文](http://arxiv.org/abs/2505.21482v1) | 时间: 2025-05-28 06:02 
+  多癌早期检测(MCED)通过单次血液检测实现癌症筛查和定位，但尚未获得广泛应用，主要原因是现有评估指标过于笼...
 
-- **[#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv...](2025-05-28/#北大给蛋白质装上开关##活体蛋白可遥控了#活体化学迎来重要突破！北大陈鹏、王初团队在Cell上发表成果，推出了能在活体内遥控蛋白功能的技术平台——CAGE-Proxv....md)** | [原文](https://weibo.com/6105753431/PtTKht3Dd) | 时间: 2025-05-28 05:02 
-  北京大学陈鹏、王初团队在《Cell》发表突破性研究，开发出活体蛋白质遥控技术平台CAGE-Proxvivo。该技术结合AI算...
+- **[#谷歌CEO谈AI风向##谷歌CEO深度访谈#在谷歌开发者大会之后，谷歌CEO劈柴哥（Sundar Pichai）分享了“AI发展的下一个阶段”。和往年不同，这次的对话是一次关于AI...](2025-05-28/#谷歌CEO谈AI风向##谷歌CEO深度访谈#在谷歌开发者大会之后，谷歌CEO劈柴哥（Sundar_Pichai）分享了“AI发展的下一个阶段”。和往年不同，这次的对话是一次关于AI....md)** | [原文](https://weibo.com/6105753431/PtTLvk4E7) | 时间: 2025-05-28 06:02 
+  谷歌CEO Sundar Pichai在深度访谈中提出AI发展已进入第二阶段，重点从模型能力转向产品化应用，如氛围编程、多模...
 
-- **[Evaluating AI cyber capabilities with crowdsourced elicitation](2025-05-28/Evaluating_AI_cyber_capabilities_with_crowdsourced_elicitation.md)** | [原文](http://arxiv.org/abs/2505.19915v2) | 时间: 2025-05-28 05:02 
-  随着AI系统能力增强，评估其网络攻击潜力对治理和部署至关重要。传统内部评估常低估AI能力，而"AI激发"技术能...
+- **[Evaluating AI cyber capabilities with crowdsourced elicitation](2025-05-28/Evaluating_AI_cyber_capabilities_with_crowdsourced_elicitation.md)** | [原文](http://arxiv.org/abs/2505.19915v2) | 时间: 2025-05-28 06:02 
+  随着AI系统能力不断提升，评估其网络攻击潜力对治理和部署至关重要。本研究通过两场CTF比赛（AI vs....
 
-- **[#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，...](2025-05-28/#癌症新疗法有望大幅降低费用##体内改造T细胞或免去化疗#体内改造T细胞，治疗血癌的费用有望大大降低？CAR-T细胞疗法是利用改造免疫细胞来对抗血癌的强大武器，....md)** | [原文](https://weibo.com/6105753431/PtTAoh3Wk) | 时间: 2025-05-28 05:02 
-  目前CAR-T细胞疗法面临制备复杂、成本高昂的问题。新研究探索在患者体内直接改造T细胞的方法，有望将50万美元...
+- **[Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration](2025-05-28/Scaling_External_Knowledge_Input_Beyond_Context_Windows_of_LLMs_via_Multi-Agent_Collaboration.md)** | [原文](http://arxiv.org/abs/2505.21471v1) | 时间: 2025-05-28 06:02 
+  这篇论文提出了一个名为ExtAgents的多智能体框架，旨在解决大语言模型(LLM)在推理时整合外部知识时面临的两个核...
 
-- **[#谷歌CEO谈AI风向##谷歌CEO深度访谈#在谷歌开发者大会之后，谷歌CEO劈柴哥（Sundar Pichai）分享了“AI发展的下一个阶段”。和往年不同，这次的对话是一次关于AI...](2025-05-28/#谷歌CEO谈AI风向##谷歌CEO深度访谈#在谷歌开发者大会之后，谷歌CEO劈柴哥（Sundar_Pichai）分享了“AI发展的下一个阶段”。和往年不同，这次的对话是一次关于AI....md)** | [原文](https://weibo.com/6105753431/PtTLvk4E7) | 时间: 2025-05-28 05:02 
-  谷歌CEO Sundar Pichai在开发者大会后分享了对AI未来发展的系统性思考，主要观点包括：1）AI进入第二阶段，从模型...
+- **[Are Language Models Consequentialist or Deontological Moral Reasoners?](2025-05-28/Are_Language_Models_Consequentialist_or_Deontological_Moral_Reasoners.md)** | [原文](http://arxiv.org/abs/2505.21479v1) | 时间: 2025-05-28 06:02 
+  随着AI系统在医疗、法律和治理等领域的应用增多，理解其如何处理伦理复杂情境变得至关重要。本研究不同于以...
 
-- **[Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration](2025-05-28/Scaling_External_Knowledge_Input_Beyond_Context_Windows_of_LLMs_via_Multi-Agent_Collaboration.md)** | [原文](http://arxiv.org/abs/2505.21471v1) | 时间: 2025-05-28 05:02 
-  该研究提出了一个名为ExtAgents的多智能体框架，旨在解决大语言模型(LLMs)在处理海量外部知识时面临的上下文窗口...
+- **[Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming](2025-05-28/Robust_Hypothesis_Generation-_LLM-Automated_Language_Bias_for_Inductive_Logic_Programming.md)** | [原文](http://arxiv.org/abs/2505.21486v1) | 时间: 2025-05-28 06:01 
+  该研究提出了一种结合多智能体系统（基于大语言模型LLMs）和归纳逻辑编程（ILP）的新框架，用于自动化生成鲁...
 
-- **[#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大...](2025-05-28/#无需外部奖励让模型学会推理##让模型靠信心掌握推理能力#无需提供“标准答案”，就能让大模型学会复杂推理？传统的大模型强化学习，例如RLHF和RLVR，往往需要大....md)** | [原文](https://weibo.com/6105753431/PtTBzvFiW) | 时间: 2025-05-28 05:02 
-  加州大学伯克利分校团队提出基于内部反馈的强化学习框架RLIF，通过INTUITOR方法让大模型利用自身置信度作为内在...
+- **[AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](2025-05-28/AdInject-_Real-World_Black-Box_Attacks_on_Web_Agents_via_Advertising_Delivery.md)** | [原文](http://arxiv.org/abs/2505.21499v1) | 时间: 2025-05-28 06:01 
+  基于视觉语言模型(VLM)的Web代理在自动化复杂任务方面取得进展，但面临安全漏洞问题。本研究提出AdInject攻击方...
 
-- **[Are Language Models Consequentialist or Deontological Moral Reasoners?](2025-05-28/Are_Language_Models_Consequentialist_or_Deontological_Moral_Reasoners.md)** | [原文](http://arxiv.org/abs/2505.21479v1) | 时间: 2025-05-28 05:02 
-  随着AI系统在医疗、法律和治理等领域的应用增多，理解其如何处理伦理复杂场景变得至关重要。现有研究主要关...
+- **[Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](2025-05-28/Paper2Poster-_Towards_Multimodal_Poster_Automation_from_Scientific_Papers.md)** | [原文](http://arxiv.org/abs/2505.21497v1) | 时间: 2025-05-28 06:01 
+  这篇论文提出了首个学术海报生成基准和评估指标，并介绍了PosterAgent系统。该研究构建了一个包含论文-海报配对...
 
-- **[Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming](2025-05-28/Robust_Hypothesis_Generation-_LLM-Automated_Language_Bias_for_Inductive_Logic_Programming.md)** | [原文](http://arxiv.org/abs/2505.21486v1) | 时间: 2025-05-28 05:01 
-  这篇论文提出了一种结合多智能体系统与大语言模型(LLMs)和归纳逻辑编程(ILP)的新框架。该系统能自动从原始文本...
+- **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](2025-05-28/UI-Genie-_A_Self-Improving_Approach_for_Iteratively_Boosting_MLLM-based_Mobile_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2505.21496v1) | 时间: 2025-05-28 06:01 
+  本文提出UI-Genie框架，解决GUI智能体的两大挑战：轨迹结果验证困难和高质训练数据难以扩展。该框架包含奖励模...
 
-- **[AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](2025-05-28/AdInject-_Real-World_Black-Box_Attacks_on_Web_Agents_via_Advertising_Delivery.md)** | [原文](http://arxiv.org/abs/2505.21499v1) | 时间: 2025-05-28 05:01 
-  基于视觉语言模型(VLM)的Web代理在自动化复杂任务方面取得进展，但面临严重安全风险。研究者提出AdInject攻击方...
+- **[ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](2025-05-28/ViewSpatial-Bench-_Evaluating_Multi-perspective_Spatial_Localization_in_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2505.21500v1) | 时间: 2025-05-28 06:01 
+  当前视觉语言模型（VLM）在自我中心视角的空间推理上表现优异，但在跨视角（如他者视角）的空间理解中存在显...
 
-- **[Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](2025-05-28/Paper2Poster-_Towards_Multimodal_Poster_Automation_from_Scientific_Papers.md)** | [原文](http://arxiv.org/abs/2505.21497v1) | 时间: 2025-05-28 05:01 
-  本文提出了首个学术海报生成基准和评估指标，包括视觉质量、文本连贯性、整体评估和论文内容传达能力。研究...
-
-- **[Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests](2025-05-28/Tissue-specific_predictive_performance-_A_unified_estimation_and_inference_framework_for_multi-category_screening_tests.md)** | [原文](http://arxiv.org/abs/2505.21482v1) | 时间: 2025-05-28 05:01 
-  多癌早期检测（MCED）技术通过单次血液样本检测多种癌症类型并定位组织来源，有望改善临床决策和健康结果。...
-
-- **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](2025-05-28/UI-Genie-_A_Self-Improving_Approach_for_Iteratively_Boosting_MLLM-based_Mobile_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2505.21496v1) | 时间: 2025-05-28 05:01 
-  本文提出了UI-Genie框架，通过奖励模型(UI-Genie-RM)和自我改进流程解决GUI智能体的两大挑战：轨迹结果验证困难和高...
-
-- **[ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](2025-05-28/ViewSpatial-Bench-_Evaluating_Multi-perspective_Spatial_Localization_in_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2505.21500v1) | 时间: 2025-05-28 05:01 
-  当前视觉语言模型（VLM）在自我中心视角（相机视角）的空间推理表现良好，但在跨视角（如人类视角）的空间理...
-
-- **[Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making](2025-05-28/Silence_is_Not_Consensus-_Disrupting_Agreement_Bias_in_Multi-Agent_LLMs_via_Catfish_Agent_for_Clinical_Decision_Making.md)** | [原文](http://arxiv.org/abs/2505.21503v1) | 时间: 2025-05-28 05:00 
-  研究发现，大型语言模型(LLMs)在临床问答中存在"沉默共识"问题，即在复杂案例中过早达成诊断结论。受组织心理...
+- **[Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making](2025-05-28/Silence_is_Not_Consensus-_Disrupting_Agreement_Bias_in_Multi-Agent_LLMs_via_Catfish_Agent_for_Clinical_Decision_Making.md)** | [原文](http://arxiv.org/abs/2505.21503v1) | 时间: 2025-05-28 06:00 
+  大型语言模型(LLMs)在临床问答中展现出潜力，但多智能体框架存在"沉默共识"问题，即在复杂案例中过早达成诊断...
 
 - **[#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus AI 100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能...](2025-05-28/#Manus开源本地替代##Github8k星本地化智能体#能够实现Manus_AI_100%本地替代的智能体来了？最近，Github上一个项目AgenticSeek火了。它号称只需支付电费，就能....md)** | [原文](https://weibo.com/6105753431/PtMdhvKra) | 时间: 2025-05-28 04:06 
   Github开源项目AgenticSeek引发关注，号称可100%本地替代Manus AI。该项目支持完全本地化运行，确保数据隐私，不依赖...
