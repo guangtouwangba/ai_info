@@ -1,0 +1,18 @@
+# #AI物理常识还差得远##测试表明GPTo4mini也远不及人类#AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。来自香港大学、密歇根大学等机构的研究人员...
+
+**URL**: https://weibo.com/6105753431/PtSKMDp5G
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E7%89%A9%E7%90%86%E5%B8%B8%E8%AF%86%E8%BF%98%E5%B7%AE%E5%BE%97%E8%BF%9C%23&amp;extparam=%23AI%E7%89%A9%E7%90%86%E5%B8%B8%E8%AF%86%E8%BF%98%E5%B7%AE%E5%BE%97%E8%BF%9C%23" data-hide=""><span class="surl-text">#AI物理常识还差得远#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B5%8B%E8%AF%95%E8%A1%A8%E6%98%8EGPTo4mini%E4%B9%9F%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%BA%BA%E7%B1%BB%23&amp;extparam=%23%E6%B5%8B%E8%AF%95%E8%A1%A8%E6%98%8EGPTo4mini%E4%B9%9F%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%BA%BA%E7%B1%BB%23" data-hide=""><span class="surl-text">#测试表明GPTo4mini也远不及人类#</span></a><br><br>AI能像人一样理解世界吗？一项最新测试给出的答案：还差得远。<br><br>来自香港大学、密歇根大学等机构的研究人员，首次专门为“物理推理”打造了一个多模态基准——PhyX。这项基准的目标是评估AI是否能在真实物理情境中，结合视觉信息、物理常识和数学建模进行判断。<br><br>PhyX一共收录了3000道题，涵盖大学物理的六大核心学科，如力学、电磁学、热学等。题目形式为图文结合，注重真实性和推理深度，由STEM背景的研究生精心审核。【图2】<br><br>那么，多模态大模型的表现如何？<br><br>研究团队用16种主流模型进行了系统测试。即便是最强的GPT-o4 mini，正确率也只有45.8%。而人类本科/研究生在同样测试中的平均得分为75.6%。在现代物理、电磁学等高阶题型上，模型正确率甚至跌破30%。<br><br>为什么差距这么大？<br><br>研究发现，超过三分之一的错误源于模型对图像信息的感知失败。其次是缺乏必要的物理知识和逻辑链条。在多模态理解中，AI往往“眼盲”——更依赖文字提示，图像信息反而被降权处理，导致推理失误。<br><br>这些表现说明，现阶段的多模态模型，虽然能在考试题、通识问答中拿高分，但在涉及真实世界、视觉建模和因果推理的物理任务上，还远不如人类。<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMLcvrQc8h-ve8lWTZB2VjA" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">多模态模型具备“物理推理能力”了吗？新基准揭示：表现最好的GPT-o4 mini也远不及人类！</span></a><br><br>感兴趣的小伙伴可以点击——<br>Project Page: <a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fphyx-bench.github.io%2F" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>Arxiv: <a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Farxiv.org%2Fabs%2F2505.15929" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>Github: <a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fgithub.com%2FNastyMarcus%2FPhyX" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><br>Huggingface Dataset: <a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FCloudriver%2FPhyX" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">网页链接</span></a><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1i1uzidb0rqj30ww0h64b3.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i1uzif4z80j30y50gb79u.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+香港大学和密歇根大学等机构开发了首个多模态物理推理基准测试PhyX，包含3000道涵盖六大物理学科的图文题目。测试显示，表现最佳的GPT-4 mini正确率仅45.8%，远低于人类本科生/研究生的75.6%。研究发现，AI的失误主要源于图像感知失败（占比超1/3）和物理知识缺乏，其多模态理解存在"视觉盲区"，过度依赖文字提示。这表明当前多模态模型在需要真实世界物理推理的任务上仍远逊于人类，尤其在电磁学等复杂领域正确率甚至低于30%。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-05-28T02:33:03Z
+- **目录日期**: 2025-05-28
