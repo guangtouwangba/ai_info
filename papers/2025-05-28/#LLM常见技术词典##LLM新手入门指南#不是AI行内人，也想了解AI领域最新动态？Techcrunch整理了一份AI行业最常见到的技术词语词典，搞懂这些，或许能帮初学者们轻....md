@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-这篇微博介绍了AI领域的常见技术术语词典，帮助初学者快速入门。主要概念包括：AGI（通用人工智能）、Chain of Thought（思维链推理）、Deep Learning（深度学习）、Diffusion（扩散模型）、Distillation（知识蒸馏）、Fine-tuning（微调）、GAN（生成对抗网络）、Hallucination（AI幻觉）、Neural Network（神经网络）、Transfer Learning（迁移学习）和Weights（权重）。这些术语涵盖了从基础理论到前沿技术的核心概念，解释了AI如何学习、推理和生成内容。该词典由Techcrunch维护，适合想了解AI技术但非专业人士的读者参考学习。
+这篇微博介绍了AI领域的常见技术术语词典，帮助初学者快速入门。关键概念包括：AGI（通用人工智能）、思维链推理（Chain of Thought）、深度学习（Deep Learning）、扩散模型（Diffusion）、知识蒸馏（Distillation）、微调（Fine-tuning）、生成对抗网络（GAN）、AI幻觉（Hallucination）、神经网络（Neural Network）、迁移学习（Transfer Learning）和权重（Weights）。这些术语涵盖了AI的核心技术与应用场景，从基础理论到前沿技术，为理解当前AI发展提供了简明指南。词典由Techcrunch维护，适合收藏学习。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-05-28T15:04:17Z
+- **保存时间**: 2025-05-28T16:03:05Z
 - **目录日期**: 2025-05-28
