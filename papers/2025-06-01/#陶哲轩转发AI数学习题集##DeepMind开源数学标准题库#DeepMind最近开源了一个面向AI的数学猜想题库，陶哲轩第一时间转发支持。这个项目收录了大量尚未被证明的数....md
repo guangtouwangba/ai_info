@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-DeepMind开源了一个用Lean语言形式化的数学猜想题库，旨在训练AI理解数学问题，并为数学家提供协作平台。该题库包含未证明的猜想，支持GitHub贡献，未来将与AlphaProof系统结合实现AI自主解题。陶哲轩支持该项目，认为这是AI辅助数学研究的重要基础设施。项目地址：github.com/google-deepmind/formal-conjectures。
+DeepMind开源了一个AI数学猜想题库，收录了未证明的数学猜想并用Lean语言形式化处理。著名数学家陶哲轩转发支持。该题库可作为AI训练数据集、数学家协作平台和未来AI数学研究的基础设施。形式化处理使问题可编程验证，陶哲轩曾用其验证PFR猜想。DeepMind鼓励社区贡献新猜想，未来计划结合其AI证明系统AlphaProof实现"找题+解题"的自动化流程。项目地址：github.com/google-deepmind/formal-conjectures。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-01T15:03:46Z
+- **保存时间**: 2025-06-01T16:04:11Z
 - **目录日期**: 2025-06-01
