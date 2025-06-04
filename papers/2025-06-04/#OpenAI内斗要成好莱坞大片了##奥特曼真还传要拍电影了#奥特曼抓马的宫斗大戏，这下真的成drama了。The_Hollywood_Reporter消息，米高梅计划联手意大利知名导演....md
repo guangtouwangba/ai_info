@@ -1,0 +1,18 @@
+# #OpenAI内斗要成好莱坞大片了##奥特曼真还传要拍电影了#奥特曼抓马的宫斗大戏，这下真的成drama了。The Hollywood Reporter消息，米高梅计划联手意大利知名导演...
+
+**URL**: https://weibo.com/6105753431/PuZeBzQK2
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23OpenAI%E5%86%85%E6%96%97%E8%A6%81%E6%88%90%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87%E4%BA%86%23&amp;extparam=%23OpenAI%E5%86%85%E6%96%97%E8%A6%81%E6%88%90%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87%E4%BA%86%23" data-hide=""><span class="surl-text">#OpenAI内斗要成好莱坞大片了#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9C%9F%E8%BF%98%E4%BC%A0%E8%A6%81%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86%23&amp;extparam=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9C%9F%E8%BF%98%E4%BC%A0%E8%A6%81%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86%23" data-hide=""><span class="surl-text">#奥特曼真还传要拍电影了#</span></a><br><br>奥特曼抓马的宫斗大戏，这下真的成drama了。<br><br>The Hollywood Reporter消息，米高梅计划联手意大利知名导演卢卡·瓜达尼诺（Luca Guadagnino），将OpenAI高层的争斗翻拍成电影。【图1】<br><br>该片名为《Artificial》，米高梅计划今年夏天就开拍，正在和瓜达尼诺积极洽谈。<br><br>看到这个消息，网友们开始疯狂cue起了2010年的电影《社交网络》（《The Social Network》），该电影讲述了扎克伯格的Facebook创业史。<br><br>还有网友表示，剧组很可能希望蜘蛛侠的扮演者、在《社交网络》中扮演Facebook联创萨维林（Eduardo Saverin）的安德鲁·加菲尔德（Andrew Garfield）能来扮演奥特曼。【图2】<br><br>而手更快些的网友，已经把奥特曼电影的结局给安排上了。【图3】<br><br>除了意向导演瓜达尼诺之外，The Hollywood Reporter还爆料了《Artificial》的几名制片人。<br><br>其中包括将哈利波特改编成八部电影的知名制片人大卫·海曼（David Heyman），以及曾参与《在云端》《帕丁顿熊》等电影的制片工作的Jeffrey Clifford。<br><br>编剧则将由美国幽默作家西蒙·里奇（Simon Rich）担任，同时他也将参与制片，里奇此前曾担任皮克斯的编剧。<br><br>由里奇出任编剧，可能意味着电影当中会加入喜剧元素。<br><br>如果爆料可靠，那么《Artificial》的编导团队中的确不乏知名人物，当然，演员阵容可能是人们更加关心，讨论也更热烈的。<br><br>The Hollywood Reporter的说法是，《Artificial》的演员阵容正在确定中，尚未敲定任何合约，不过前面提到的加菲尔德也在考虑之列。<br><br>顺便提一句，今年10月即将上映的电影《After The Hunt》，也是瓜达尼诺执导，加菲尔德出任演员。<br><br>而向奥特曼发动逼宫的Ilya，出品方考虑的演员是尤拉·鲍里索夫（Yura Borisov）。【图4】<br><br>宫斗的另一名关键人物——OpenAI时任CTO Mira Murati，则可能由莫妮卡·巴巴罗（Monica Barbaro）饰演。【图5】<br><br>这部OpenAI宫斗改编的电影究竟会收获什么样的口碑我们不得而知，但可以确定的是，不论电影怎么改，这件事本身都已经足够抓马。<br><br>2023年11月16日，Ilya和三名独立董事通过线上会议投票解雇了奥特曼，也免去了Brockman董事职务。<br><br>然后他们联系Murati，邀请她担任临时CEO，不过没有告诉她奥特曼为啥被解雇。<br><br>但Murati担心董事会并没有为解雇奥特曼之后的局面做好准备，这对于OpenAI而言非常不利。<br><br>她与其他高管一起向董事会施压，最后30分钟期限，如果再不解释为何解雇奥特曼，他们将全体辞职。<br><br>从这开始一切也偏离了董事会一开始的预期。<br><br>他们本来指望新任CEO能够帮他们安抚员工情绪，结果她带头反抗董事会。员工对于奥特曼的离开也并不开心。<br><br>所以，仅仅48小时，奥特曼完成极限逆转。得到纳德拉鼎力支持，OpenAI近800人签署联名信，要求奥特曼回归，否则将集体离职去微软。【图6】<br><br>有意思的是，在这之中Ilya也签名了。<br><br>显然，没有人希望OpenAI就此瓦解，但此事件也意味着OpenAI高层的分崩离析已经上了台面。<br><br>如今奥特曼身边只剩下“好基友”Brockman，其余人都相继出走创业，有了自己的AI公司。<br><br>最后，你认为这场“真还传”中的关键人物最适合由谁来扮演呢？<img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i23dty0zwkj30zk0cowjv.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i23dtz7rnej30we0eyagc.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1i23du1wtlyj30ws0y4e0h.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i23du3c20yj30nl0zk4fb.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1i23du5det2j30kw0oi7e9.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1i23du94izij30mk0ug7pg.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+米高梅计划将OpenAI高层内斗事件改编成电影《Artificial》，由意大利导演卢卡·瓜达尼诺执导，预计今夏开拍。影片编剧由皮克斯前编剧西蒙·里奇担任，可能加入喜剧元素。网友热议选角，建议安德鲁·加菲尔德饰演奥特曼，尤拉·鲍里索夫饰演Ilya，莫妮卡·巴巴罗饰演Mira Murati。事件源于2023年11月奥特曼突遭解雇，员工集体抗议后48小时内复职，但高层已分崩离析。电影团队阵容强大，包括《哈利·波特》制片人大卫·海曼，剧情或将聚焦这场戏剧性权力斗争。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-06-04T09:01:51Z
+- **目录日期**: 2025-06-04
