@@ -1,0 +1,18 @@
+# #Manus突破视频时长限制##Manus上架视频生成功能#Manus又双叒更新，这次解决了视频生成难题：突破时长限制。它用了一种巧妙的方法：就算模型每次只能生成5秒，Ma...
+
+**URL**: https://weibo.com/6105753431/Pv6bEaIH4
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Manus%E7%AA%81%E7%A0%B4%E8%A7%86%E9%A2%91%E6%97%B6%E9%95%BF%E9%99%90%E5%88%B6%23&amp;extparam=%23Manus%E7%AA%81%E7%A0%B4%E8%A7%86%E9%A2%91%E6%97%B6%E9%95%BF%E9%99%90%E5%88%B6%23" data-hide=""><span class="surl-text">#Manus突破视频时长限制#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Manus%E4%B8%8A%E6%9E%B6%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD%23&amp;extparam=%23Manus%E4%B8%8A%E6%9E%B6%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD%23" data-hide=""><span class="surl-text">#Manus上架视频生成功能#</span></a><br><br>Manus又双叒更新，这次解决了视频生成难题：突破时长限制。<br><br>它用了一种巧妙的方法：就算模型每次只能生成5秒，Manus也能通过“分段生成+智能拼接”，做出15秒甚至更长的完整视频，还能把多个镜头按故事逻辑衔接起来，形成电影分镜效果。<br><br>话不多说，来看波网友实测——<br><br>1、在一位小哥的测试中，他认为Manus生成的玄幻大片比Sora更好。【视频1】<br><br>2、还有网友联动Manus和之前出圈的设计AI Lovart，生成了这样的视频：【视频2】<br><br>（提示词（中译）：成人的休闲时光，一位女士驾驶着豪华轿车在崎岖不平的道路上前往一家甜甜圈店，这是‘Lovart’的促销活动。）<br><br>3、也有集大成者，直接用Manus一口气生成了15个带单镜头提示的场景。【视频3】<br><br>总结来看，Manus具有以下亮点：<br><br>1. 支持镜头编辑：用户能给每段镜头加提示词，实现“自然语言剪辑”。<br>    <br>2. 积分消耗不高：5秒视频大概166积分，30秒视频约1000积分，体验成本算是可以接受。<br>    <br>3. 支持联动生成：还能跟其他AI工具配合使用，比如用Lovart出画面，用Manus剪视频。<br><br>不过，据其他网友吐槽，Manus生成完整故事情节的能力并不稳定，比如这种扑面而来的、浓浓的“AI味”：【视频4】。<br><br>但不得不说，Manus做到了“场景规划”——不是简单生成一条视频，而是一整套“AI导演系统”。<a href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaBBogovR-SaNM1Sfv1Zn3Q" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">突破视频时长限制！Manus上架视频生成功能，网友：比Sora更好</span></a><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i248ia1774j30w00lcjsk.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i248i7xni5j30u01hcmyx.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i248i8j5d7j30zk0k040h.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i248i5iu1vj30k00u0q4f.jpg" referrerpolicy="no-referrer"><br><br><br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1i248i9n2cwj30w00lcjsk.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/u5arI9R2lx08oNxqwOus01041200aKB90E010.mp4?label=mp4_720p&amp;template=1080x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749097162&amp;ssig=xeQfTMyNl8&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/8GNI6q7qlx08oNxqo5lC010412005X0Y0E010.mp4?label=mp4_hd&amp;template=720x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749097162&amp;ssig=%2B7bsnjnC7T&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/xliI3U74lx08oNxqbNbW010412003ZUh0E010.mp4?label=mp4_ld&amp;template=540x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749097162&amp;ssig=ziCzjJ8srm&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5174119084261411" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+
+## AI 摘要
+
+Manus最新更新突破了AI视频生成的时长限制，通过"分段生成+智能拼接"技术实现15秒以上长视频制作，并支持多镜头故事化衔接。其亮点包括：自然语言镜头编辑、较低积分消耗（30秒约1000积分）、可联动其他AI工具。实测显示其玄幻场景生成效果被部分用户认为优于Sora，但故事情节连贯性仍不稳定。该工具展现了"AI导演系统"的潜力，支持从单镜头到多场景的视频创作，目前已在微博引发广泛测试讨论。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-06-05T03:24:19Z
+- **目录日期**: 2025-06-05
