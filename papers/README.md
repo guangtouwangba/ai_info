@@ -6,181 +6,181 @@
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-05/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-05 13:15
+**收录时间**: 2025-06-05 14:06
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-05/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、翻译、分析和写作一站式服务。它支持中英文文献搜索，拥有...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供文献检索、翻译、阅读辅助和科研订阅等一站式服务。它拥有3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-05 13:15
+**收录时间**: 2025-06-05 14:06
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-05/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文提出了CodeArena基准测试和SynCode-Instruct语料库，以评估代码生成大模型(CodeLLMs)与人类偏好的对齐程度。Code...
+**摘要**: 该论文针对代码生成大模型（codeLLMs）提出两个关键贡献：1）创建CodeArena基准，包含397个真实编程任务样本（覆盖...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-05 13:15
+**收录时间**: 2025-06-05 14:06
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-05/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时依据梯度...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法是对带动量的随机梯度...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-05 13:14
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-05/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟10,000+智能代理及其500万次社会互动。该系统通过...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-05 13:14
+**收录时间**: 2025-06-05 14:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-05/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK是NSCLC的重要致癌驱动基因，目前已有7...
+**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前已...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-05 13:14
+**收录时间**: 2025-06-05 14:05
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-05/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万个AI代理及其500万次社会互动。研究者用它研究...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-06-05 14:05
 
 ---
 
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-05/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，用于解决传统注意力机制在长文本处理中的高...
+**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-05 13:14
-
----
-
-### [#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac...](2025-06-05/#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac....md)
-
-**摘要**: 苹果AirPods将在WWDC25大会上推出五大新功能，包括：通过耳机控制iPhone相机、睡眠自动暂停、头部动作控制、录音...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8AqgzXk)
-**收录时间**: 2025-06-05 13:13
-
----
-
-### [#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish Sharma，凭借他的博士论文《人...](2025-06-05/#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish_Sharma，凭借他的博士论文《人....md)
-
-**摘要**: 2024年ACM博士论文奖授予华盛顿大学Ashish Sharma的《人机协作支持心理健康与福祉》。该研究聚焦AI在心理健康服务...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8t0bK6Y)
-**收录时间**: 2025-06-05 13:13
-
----
-
-### [“实验室培植的人类神经元”[哆啦A梦吃惊] - 转发 @说说:&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical Labs发布世界首款可部署代码的生物计算机...](2025-06-05/“实验室培植的人类神经元”[哆啦A梦吃惊]_-_转发_@说说-&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical_Labs发布世界首款可部署代码的生物计算机....md)
-
-**摘要**: 澳大利亚Cortical Labs公司推出全球首款商用生物计算机CL1，将于今夏上市，售价3.5万美元。该设备由80万实验室培育...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8jHoJAT)
-**收录时间**: 2025-06-05 13:13
+**收录时间**: 2025-06-05 14:05
 
 ---
 
 ### [#机器人通用大脑来了##机器人统一感知推理控制#机器人也要“看-想-动”？上海人工智能实验室联合多方推出通用具身智能大脑框架——VeBrain，让多模态大模型不仅...](2025-06-05/#机器人通用大脑来了##机器人统一感知推理控制#机器人也要“看-想-动”？上海人工智能实验室联合多方推出通用具身智能大脑框架——VeBrain，让多模态大模型不仅....md)
 
-**摘要**: 上海人工智能实验室推出通用具身智能大脑框架VeBrain，将机器人控制转化为语言建模问题，统一感知、推理与控...
+**摘要**: 上海人工智能实验室推出通用具身智能大脑框架VeBrain，将机器人控制转化为语言建模问题，通过"关键点检测+技能...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pv8dOqxte)
-**收录时间**: 2025-06-05 13:13
+**收录时间**: 2025-06-05 14:04
+
+---
+
+### [“实验室培植的人类神经元”[哆啦A梦吃惊] - 转发 @说说:&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical Labs发布世界首款可部署代码的生物计算机...](2025-06-05/“实验室培植的人类神经元”[哆啦A梦吃惊]_-_转发_@说说-&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical_Labs发布世界首款可部署代码的生物计算机....md)
+
+**摘要**: 澳大利亚初创公司Cortical Labs推出全球首款商用生物计算机「CL1」，采用80万实验室培育的人类神经元与硅芯片结合...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8jHoJAT)
+**收录时间**: 2025-06-05 14:04
 
 ---
 
 ### [#大神Karpathy炮轰复杂UI应用##无法被模型调用的软件将失去未来#在人与AI高度协同的时代，只有大量复杂UI界面的应用将会被淘汰。大神Karpathy给出了对于应用程序...](2025-06-05/#大神Karpathy炮轰复杂UI应用##无法被模型调用的软件将失去未来#在人与AI高度协同的时代，只有大量复杂UI界面的应用将会被淘汰。大神Karpathy给出了对于应用程序....md)
 
-**摘要**: AI专家Karpathy提出，在AI协同时代，仅依赖复杂UI界面而缺乏文本交互能力的软件（如Adobe、CAD）将面临淘汰风险。...
+**摘要**: AI专家Karpathy提出，在AI协同时代，仅依赖复杂UI界面而缺乏文本交互能力的软件(如Adobe、CAD)将面临淘汰风险。他根...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pv8xyEXn6)
-**收录时间**: 2025-06-05 13:13
+**收录时间**: 2025-06-05 14:04
 
 ---
 
-### [#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你...](2025-06-05/#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你....md)
+### [#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish Sharma，凭借他的博士论文《人...](2025-06-05/#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish_Sharma，凭借他的博士论文《人....md)
 
-**摘要**: 吴恩达推出新课程《DSPy：构建优化智能体应用》，介绍开源框架DSPy，专为生成式AI的提示词自动优化设计。课程...
+**摘要**: 2024年ACM博士论文奖授予华盛顿大学Ashish Sharma，其研究聚焦AI辅助心理健康服务。论文分为三部分：1)开发强化学习...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pv91ctNPY)
-**收录时间**: 2025-06-05 13:12
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8t0bK6Y)
+**收录时间**: 2025-06-05 14:04
 
 ---
 
 ### [#40分钟搭建AI视频工作流##如何用n8n搭建AI工作流#播客博主Riley Brown用40多分钟，一步步剖析了AI工作流是怎么让一个人打出一个团队的效果（Vibe Marketing）。...](2025-06-05/#40分钟搭建AI视频工作流##如何用n8n搭建AI工作流#播客博主Riley_Brown用40多分钟，一步步剖析了AI工作流是怎么让一个人打出一个团队的效果（Vibe_Marketing）。....md)
 
-**摘要**: 播客博主Riley Brown演示了如何用n8n平台在40分钟内搭建AI视频自动化工作流，实现单人完成团队营销任务的效果。该...
+**摘要**: 播客博主Riley Brown演示了如何用n8n平台在40分钟内搭建AI视频自动化工作流，实现单人完成团队级营销任务。该系统...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pv91T8znA)
-**收录时间**: 2025-06-05 13:12
-
----
-
-### [#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突...](2025-06-05/#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突....md)
-
-**摘要**: PNAS最新研究发现大脑衰老存在关键转折点：40多岁（43岁左右）脑网络开始不稳定，60岁后加速衰退，主要原因是...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8Yuttml)
-**收录时间**: 2025-06-05 13:12
+**收录时间**: 2025-06-05 14:03
 
 ---
 
 ### [#从视频生成到世界模型# CVPR 2025 Tutorial图像生成已经“卷”入日常，视频生成也不再是最初的“抖动幻影”，而是跃升为能够讲故事、控制动作、进行较长时推理...](2025-06-05/#从视频生成到世界模型#_CVPR_2025_Tutorial图像生成已经“卷”入日常，视频生成也不再是最初的“抖动幻影”，而是跃升为能够讲故事、控制动作、进行较长时推理....md)
 
-**摘要**: CVPR 2025教程《从视频生成到世界模型》将探讨视频生成技术如何发展为具备时空一致性、物理推理和交互能力的智...
+**摘要**: 这篇微博介绍了CVPR 2025即将举办的"从视频生成到世界模型"教程。随着可灵、Sora等视频生成模型的突破，研究者开...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pv917370y)
-**收录时间**: 2025-06-05 13:12
+**收录时间**: 2025-06-05 14:03
+
+---
+
+### [#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac...](2025-06-05/#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac....md)
+
+**摘要**: 据9to5Mac爆料，苹果将在WWDC25为AirPods推出五大新功能：支持耳机控制iPhone相机、睡眠自动暂停、头部动作操控、录...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8AqgzXk)
+**收录时间**: 2025-06-05 14:03
 
 ---
 
 ### [#前馈3DGS外挂来了##ZPressor大幅压缩视图信息#在AR、VR等对视觉质量要求极高的应用场景里，新视角合成（NVS）是核心技术之一。 而近年爆火的3D Gaussian Splatt...](2025-06-05/#前馈3DGS外挂来了##ZPressor大幅压缩视图信息#在AR、VR等对视觉质量要求极高的应用场景里，新视角合成（NVS）是核心技术之一。_而近年爆火的3D_Gaussian_Splatt....md)
 
-**摘要**: Monash大学与ZIP Lab团队开发了轻量模块ZPressor，用于优化前馈式3D Gaussian Splatting（3DGS）模型的性能问题。3DGS在新视...
+**摘要**: Monash大学与ZIP Lab团队开发了轻量模块ZPressor，用于优化前馈式3D高斯泼溅（3DGS）模型的性能。该模块显著提升了新...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pv8NTkbyB)
-**收录时间**: 2025-06-05 13:12
+**收录时间**: 2025-06-05 14:03
+
+---
+
+### [#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突...](2025-06-05/#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突....md)
+
+**摘要**: PNAS最新研究发现大脑衰老存在关键转折点：40多岁开始衰退，60岁加速恶化。研究分析近2万人脑影像数据，发现神...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pv8Yuttml)
+**收录时间**: 2025-06-05 14:03
+
+---
+
+### [#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你...](2025-06-05/#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你....md)
+
+**摘要**: 吴恩达推出新课程《DSPy：构建优化智能体应用》，介绍开源框架DSPy，专为生成式AI的提示词自动优化设计。该框...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pv91ctNPY)
+**收录时间**: 2025-06-05 14:03
 
 ---
 
 ### [A Survey on (M)LLM-Based GUI Agents](2025-06-05/A_Survey_on_(M)LLM-Based_GUI_Agents.md)
 
-**摘要**: 这篇综述系统分析了基于大语言模型（LLM）的图形用户界面（GUI）智能代理的最新进展。研究梳理了现代GUI代理的...
+**摘要**: 这篇综述系统探讨了基于大语言模型（LLM）的图形用户界面（GUI）智能代理的发展现状。GUI代理已从基于规则的脚...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2504.13865v2)
-**收录时间**: 2025-06-05 13:11
+**收录时间**: 2025-06-05 14:02
 
 ---
 
 ### [Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks](2025-06-05/Right_Side_Up_Disentangling_Orientation_Understanding_in_MLLMs_with_Fine-grained_Multi-axis_Perception_Tasks.md)
 
-**摘要**: DORI是一个专门评估视觉-语言模型物体方向理解能力的新基准测试，包含四个维度：正面对齐、旋转变换、相对方...
+**摘要**: DORI是一个专门评估视觉-语言模型在物体方向感知能力的新基准测试，包含四个维度：正面对齐、旋转变换、相对...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2505.21649v4)
-**收录时间**: 2025-06-05 13:11
+**收录时间**: 2025-06-05 14:02
 
 ---
 
 ### [Biased by Design: Leveraging AI Inherent Biases to Enhance Critical Thinking of News Readers](2025-06-05/Biased_by_Design-_Leveraging_AI_Inherent_Biases_to_Enhance_Critical_Thinking_of_News_Readers.md)
 
-**摘要**: 这篇论文探讨了利用大语言模型(LLMs)设计宣传内容检测工具。研究承认AI模型存在固有偏见(尤其在政治语境中)，...
+**摘要**: 这篇论文探讨了利用大语言模型(LLMs)设计宣传检测工具的方法。研究承认AI模型存在固有偏见(尤其在政治领域)，...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2504.14522v2)
-**收录时间**: 2025-06-05 13:11
+**收录时间**: 2025-06-05 14:02
 
 ---
 
@@ -188,98 +188,98 @@
 
 ### 2025-06-05 (64篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-05/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-05 13:15 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-05/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-05 14:06 
+  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-05/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-05 13:15 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、翻译、分析和写作一站式服务。它支持中英文文献搜索，拥有...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-05/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-05 14:06 
+  AMiner是一个智能科技情报挖掘平台，提供文献检索、翻译、阅读辅助和科研订阅等一站式服务。它拥有3....
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-05/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-05 13:15 
-  这篇论文提出了CodeArena基准测试和SynCode-Instruct语料库，以评估代码生成大模型(CodeLLMs)与人类偏好的对齐程度。Code...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-05/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-05 14:06 
+  该论文针对代码生成大模型（codeLLMs）提出两个关键贡献：1）创建CodeArena基准，包含397个真实编程任务样本（覆盖...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-05/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-05 13:14 
-  该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时依据梯度...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-05/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-05 14:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法是对带动量的随机梯度...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-05/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-05 13:14 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟10,000+智能代理及其500万次社会互动。该系统通过...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-05/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-05 14:05 
+  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目前已...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-05/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-05 13:14 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK是NSCLC的重要致癌驱动基因，目前已有7...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-05/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-05 14:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万个AI代理及其500万次社会互动。研究者用它研究...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-05/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-05 13:14 
-  该论文提出了一种名为NSA（Native Sparse Attention）的稀疏注意力机制，用于解决传统注意力机制在长文本处理中的高...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-05/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-05 14:05 
+  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本...
 
-- **[#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac...](2025-06-05/#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac....md)** | [原文](https://weibo.com/6105753431/Pv8AqgzXk) | 时间: 2025-06-05 13:13 
-  苹果AirPods将在WWDC25大会上推出五大新功能，包括：通过耳机控制iPhone相机、睡眠自动暂停、头部动作控制、录音...
+- **[#机器人通用大脑来了##机器人统一感知推理控制#机器人也要“看-想-动”？上海人工智能实验室联合多方推出通用具身智能大脑框架——VeBrain，让多模态大模型不仅...](2025-06-05/#机器人通用大脑来了##机器人统一感知推理控制#机器人也要“看-想-动”？上海人工智能实验室联合多方推出通用具身智能大脑框架——VeBrain，让多模态大模型不仅....md)** | [原文](https://weibo.com/6105753431/Pv8dOqxte) | 时间: 2025-06-05 14:04 
+  上海人工智能实验室推出通用具身智能大脑框架VeBrain，将机器人控制转化为语言建模问题，通过"关键点检测+技能...
 
-- **[#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish Sharma，凭借他的博士论文《人...](2025-06-05/#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish_Sharma，凭借他的博士论文《人....md)** | [原文](https://weibo.com/6105753431/Pv8t0bK6Y) | 时间: 2025-06-05 13:13 
-  2024年ACM博士论文奖授予华盛顿大学Ashish Sharma的《人机协作支持心理健康与福祉》。该研究聚焦AI在心理健康服务...
+- **[“实验室培植的人类神经元”[哆啦A梦吃惊] - 转发 @说说:&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical Labs发布世界首款可部署代码的生物计算机...](2025-06-05/“实验室培植的人类神经元”[哆啦A梦吃惊]_-_转发_@说说-&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical_Labs发布世界首款可部署代码的生物计算机....md)** | [原文](https://weibo.com/6105753431/Pv8jHoJAT) | 时间: 2025-06-05 14:04 
+  澳大利亚初创公司Cortical Labs推出全球首款商用生物计算机「CL1」，采用80万实验室培育的人类神经元与硅芯片结合...
 
-- **[“实验室培植的人类神经元”[哆啦A梦吃惊] - 转发 @说说:&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical Labs发布世界首款可部署代码的生物计算机...](2025-06-05/“实验室培植的人类神经元”[哆啦A梦吃惊]_-_转发_@说说-&ensp;世界首台商用生物计算机上市。澳大利亚初创公司Cortical_Labs发布世界首款可部署代码的生物计算机....md)** | [原文](https://weibo.com/6105753431/Pv8jHoJAT) | 时间: 2025-06-05 13:13 
-  澳大利亚Cortical Labs公司推出全球首款商用生物计算机CL1，将于今夏上市，售价3.5万美元。该设备由80万实验室培育...
+- **[#大神Karpathy炮轰复杂UI应用##无法被模型调用的软件将失去未来#在人与AI高度协同的时代，只有大量复杂UI界面的应用将会被淘汰。大神Karpathy给出了对于应用程序...](2025-06-05/#大神Karpathy炮轰复杂UI应用##无法被模型调用的软件将失去未来#在人与AI高度协同的时代，只有大量复杂UI界面的应用将会被淘汰。大神Karpathy给出了对于应用程序....md)** | [原文](https://weibo.com/6105753431/Pv8xyEXn6) | 时间: 2025-06-05 14:04 
+  AI专家Karpathy提出，在AI协同时代，仅依赖复杂UI界面而缺乏文本交互能力的软件(如Adobe、CAD)将面临淘汰风险。他根...
 
-- **[#机器人通用大脑来了##机器人统一感知推理控制#机器人也要“看-想-动”？上海人工智能实验室联合多方推出通用具身智能大脑框架——VeBrain，让多模态大模型不仅...](2025-06-05/#机器人通用大脑来了##机器人统一感知推理控制#机器人也要“看-想-动”？上海人工智能实验室联合多方推出通用具身智能大脑框架——VeBrain，让多模态大模型不仅....md)** | [原文](https://weibo.com/6105753431/Pv8dOqxte) | 时间: 2025-06-05 13:13 
-  上海人工智能实验室推出通用具身智能大脑框架VeBrain，将机器人控制转化为语言建模问题，统一感知、推理与控...
+- **[#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish Sharma，凭借他的博士论文《人...](2025-06-05/#2024ACM博士论文奖结果公布##用AI辅助心理健康服务#就在刚刚，2024年度ACM博士论文奖公布结果了！来自华盛顿大学的毕业生Ashish_Sharma，凭借他的博士论文《人....md)** | [原文](https://weibo.com/6105753431/Pv8t0bK6Y) | 时间: 2025-06-05 14:04 
+  2024年ACM博士论文奖授予华盛顿大学Ashish Sharma，其研究聚焦AI辅助心理健康服务。论文分为三部分：1)开发强化学习...
 
-- **[#大神Karpathy炮轰复杂UI应用##无法被模型调用的软件将失去未来#在人与AI高度协同的时代，只有大量复杂UI界面的应用将会被淘汰。大神Karpathy给出了对于应用程序...](2025-06-05/#大神Karpathy炮轰复杂UI应用##无法被模型调用的软件将失去未来#在人与AI高度协同的时代，只有大量复杂UI界面的应用将会被淘汰。大神Karpathy给出了对于应用程序....md)** | [原文](https://weibo.com/6105753431/Pv8xyEXn6) | 时间: 2025-06-05 13:13 
-  AI专家Karpathy提出，在AI协同时代，仅依赖复杂UI界面而缺乏文本交互能力的软件（如Adobe、CAD）将面临淘汰风险。...
+- **[#40分钟搭建AI视频工作流##如何用n8n搭建AI工作流#播客博主Riley Brown用40多分钟，一步步剖析了AI工作流是怎么让一个人打出一个团队的效果（Vibe Marketing）。...](2025-06-05/#40分钟搭建AI视频工作流##如何用n8n搭建AI工作流#播客博主Riley_Brown用40多分钟，一步步剖析了AI工作流是怎么让一个人打出一个团队的效果（Vibe_Marketing）。....md)** | [原文](https://weibo.com/6105753431/Pv91T8znA) | 时间: 2025-06-05 14:03 
+  播客博主Riley Brown演示了如何用n8n平台在40分钟内搭建AI视频自动化工作流，实现单人完成团队级营销任务。该系统...
 
-- **[#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你...](2025-06-05/#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你....md)** | [原文](https://weibo.com/6105753431/Pv91ctNPY) | 时间: 2025-06-05 13:12 
-  吴恩达推出新课程《DSPy：构建优化智能体应用》，介绍开源框架DSPy，专为生成式AI的提示词自动优化设计。课程...
+- **[#从视频生成到世界模型# CVPR 2025 Tutorial图像生成已经“卷”入日常，视频生成也不再是最初的“抖动幻影”，而是跃升为能够讲故事、控制动作、进行较长时推理...](2025-06-05/#从视频生成到世界模型#_CVPR_2025_Tutorial图像生成已经“卷”入日常，视频生成也不再是最初的“抖动幻影”，而是跃升为能够讲故事、控制动作、进行较长时推理....md)** | [原文](https://weibo.com/6105753431/Pv917370y) | 时间: 2025-06-05 14:03 
+  这篇微博介绍了CVPR 2025即将举办的"从视频生成到世界模型"教程。随着可灵、Sora等视频生成模型的突破，研究者开...
 
-- **[#40分钟搭建AI视频工作流##如何用n8n搭建AI工作流#播客博主Riley Brown用40多分钟，一步步剖析了AI工作流是怎么让一个人打出一个团队的效果（Vibe Marketing）。...](2025-06-05/#40分钟搭建AI视频工作流##如何用n8n搭建AI工作流#播客博主Riley_Brown用40多分钟，一步步剖析了AI工作流是怎么让一个人打出一个团队的效果（Vibe_Marketing）。....md)** | [原文](https://weibo.com/6105753431/Pv91T8znA) | 时间: 2025-06-05 13:12 
-  播客博主Riley Brown演示了如何用n8n平台在40分钟内搭建AI视频自动化工作流，实现单人完成团队营销任务的效果。该...
+- **[#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac...](2025-06-05/#苹果AirPods推出睡眠检测##苹果迎12年来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5Mac....md)** | [原文](https://weibo.com/6105753431/Pv8AqgzXk) | 时间: 2025-06-05 14:03 
+  据9to5Mac爆料，苹果将在WWDC25为AirPods推出五大新功能：支持耳机控制iPhone相机、睡眠自动暂停、头部动作操控、录...
 
-- **[#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突...](2025-06-05/#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突....md)** | [原文](https://weibo.com/6105753431/Pv8Yuttml) | 时间: 2025-06-05 13:12 
-  PNAS最新研究发现大脑衰老存在关键转折点：40多岁（43岁左右）脑网络开始不稳定，60岁后加速衰退，主要原因是...
+- **[#前馈3DGS外挂来了##ZPressor大幅压缩视图信息#在AR、VR等对视觉质量要求极高的应用场景里，新视角合成（NVS）是核心技术之一。 而近年爆火的3D Gaussian Splatt...](2025-06-05/#前馈3DGS外挂来了##ZPressor大幅压缩视图信息#在AR、VR等对视觉质量要求极高的应用场景里，新视角合成（NVS）是核心技术之一。_而近年爆火的3D_Gaussian_Splatt....md)** | [原文](https://weibo.com/6105753431/Pv8NTkbyB) | 时间: 2025-06-05 14:03 
+  Monash大学与ZIP Lab团队开发了轻量模块ZPressor，用于优化前馈式3D高斯泼溅（3DGS）模型的性能。该模块显著提升了新...
 
-- **[#从视频生成到世界模型# CVPR 2025 Tutorial图像生成已经“卷”入日常，视频生成也不再是最初的“抖动幻影”，而是跃升为能够讲故事、控制动作、进行较长时推理...](2025-06-05/#从视频生成到世界模型#_CVPR_2025_Tutorial图像生成已经“卷”入日常，视频生成也不再是最初的“抖动幻影”，而是跃升为能够讲故事、控制动作、进行较长时推理....md)** | [原文](https://weibo.com/6105753431/Pv917370y) | 时间: 2025-06-05 13:12 
-  CVPR 2025教程《从视频生成到世界模型》将探讨视频生成技术如何发展为具备时空一致性、物理推理和交互能力的智...
+- **[#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突...](2025-06-05/#人到中年大脑开始衰老##酮体补脑要趁早#谁能想到，大脑衰老竟然有明确的“转折点”？PNAS最新研究炸出了一个认知盲区：大脑并不是慢慢老去，而是到了40多岁，突....md)** | [原文](https://weibo.com/6105753431/Pv8Yuttml) | 时间: 2025-06-05 14:03 
+  PNAS最新研究发现大脑衰老存在关键转折点：40多岁开始衰退，60岁加速恶化。研究分析近2万人脑影像数据，发现神...
 
-- **[#前馈3DGS外挂来了##ZPressor大幅压缩视图信息#在AR、VR等对视觉质量要求极高的应用场景里，新视角合成（NVS）是核心技术之一。 而近年爆火的3D Gaussian Splatt...](2025-06-05/#前馈3DGS外挂来了##ZPressor大幅压缩视图信息#在AR、VR等对视觉质量要求极高的应用场景里，新视角合成（NVS）是核心技术之一。_而近年爆火的3D_Gaussian_Splatt....md)** | [原文](https://weibo.com/6105753431/Pv8NTkbyB) | 时间: 2025-06-05 13:12 
-  Monash大学与ZIP Lab团队开发了轻量模块ZPressor，用于优化前馈式3D Gaussian Splatting（3DGS）模型的性能问题。3DGS在新视...
+- **[#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你...](2025-06-05/#吴恩达新课程##吴恩达带你学DSPy#吴恩达又出新课程啦！这次他要带你深入了解一个超厉害的开源框架——DSPyDSPy专为生成式AI应用的提示词自动优化而设计，能帮你....md)** | [原文](https://weibo.com/6105753431/Pv91ctNPY) | 时间: 2025-06-05 14:03 
+  吴恩达推出新课程《DSPy：构建优化智能体应用》，介绍开源框架DSPy，专为生成式AI的提示词自动优化设计。该框...
 
-- **[A Survey on (M)LLM-Based GUI Agents](2025-06-05/A_Survey_on_(M)LLM-Based_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2504.13865v2) | 时间: 2025-06-05 13:11 
-  这篇综述系统分析了基于大语言模型（LLM）的图形用户界面（GUI）智能代理的最新进展。研究梳理了现代GUI代理的...
+- **[A Survey on (M)LLM-Based GUI Agents](2025-06-05/A_Survey_on_(M)LLM-Based_GUI_Agents.md)** | [原文](http://arxiv.org/abs/2504.13865v2) | 时间: 2025-06-05 14:02 
+  这篇综述系统探讨了基于大语言模型（LLM）的图形用户界面（GUI）智能代理的发展现状。GUI代理已从基于规则的脚...
 
-- **[Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks](2025-06-05/Right_Side_Up_Disentangling_Orientation_Understanding_in_MLLMs_with_Fine-grained_Multi-axis_Perception_Tasks.md)** | [原文](http://arxiv.org/abs/2505.21649v4) | 时间: 2025-06-05 13:11 
-  DORI是一个专门评估视觉-语言模型物体方向理解能力的新基准测试，包含四个维度：正面对齐、旋转变换、相对方...
+- **[Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks](2025-06-05/Right_Side_Up_Disentangling_Orientation_Understanding_in_MLLMs_with_Fine-grained_Multi-axis_Perception_Tasks.md)** | [原文](http://arxiv.org/abs/2505.21649v4) | 时间: 2025-06-05 14:02 
+  DORI是一个专门评估视觉-语言模型在物体方向感知能力的新基准测试，包含四个维度：正面对齐、旋转变换、相对...
 
-- **[Biased by Design: Leveraging AI Inherent Biases to Enhance Critical Thinking of News Readers](2025-06-05/Biased_by_Design-_Leveraging_AI_Inherent_Biases_to_Enhance_Critical_Thinking_of_News_Readers.md)** | [原文](http://arxiv.org/abs/2504.14522v2) | 时间: 2025-06-05 13:11 
-  这篇论文探讨了利用大语言模型(LLMs)设计宣传内容检测工具。研究承认AI模型存在固有偏见(尤其在政治语境中)，...
+- **[Biased by Design: Leveraging AI Inherent Biases to Enhance Critical Thinking of News Readers](2025-06-05/Biased_by_Design-_Leveraging_AI_Inherent_Biases_to_Enhance_Critical_Thinking_of_News_Readers.md)** | [原文](http://arxiv.org/abs/2504.14522v2) | 时间: 2025-06-05 14:02 
+  这篇论文探讨了利用大语言模型(LLMs)设计宣传检测工具的方法。研究承认AI模型存在固有偏见(尤其在政治领域)，...
 
-- **[What do professional software developers need to know to succeed in an age of Artificial Intelligence?](2025-06-05/What_do_professional_software_developers_need_to_know_to_succeed_in_an_age_of_Artificial_Intelligence.md)** | [原文](http://arxiv.org/abs/2506.00202v2) | 时间: 2025-06-05 13:11 
+- **[What do professional software developers need to know to succeed in an age of Artificial Intelligence?](2025-06-05/What_do_professional_software_developers_need_to_know_to_succeed_in_an_age_of_Artificial_Intelligence.md)** | [原文](http://arxiv.org/abs/2506.00202v2) | 时间: 2025-06-05 14:02 
   研究表明，生成式AI能提升开发者效率，但也引发对职业替代和技能退化的担忧。一项针对21名前沿AI开发者的研究...
 
-- **[A primal-dual price-optimization method for computing equilibrium prices in mean-field games models](2025-06-05/A_primal-dual_price-optimization_method_for_computing_equilibrium_prices_in_mean-field_games_models.md)** | [原文](http://arxiv.org/abs/2506.04169v1) | 时间: 2025-06-05 13:11 
-  本文提出了一种高效的拉格朗日方法，用于计算平均场博弈价格形成模型中的均衡价格。研究证明这些均衡价格在...
+- **[SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models](2025-06-05/SuperWriter-_Reflection-Driven_Long-Form_Generation_with_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.04180v1) | 时间: 2025-06-05 14:01 
+  为解决大语言模型在生成长文本时面临的连贯性、逻辑一致性和质量保持等挑战，研究者提出了基于代理的框架Sup...
 
-- **[SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models](2025-06-05/SuperWriter-_Reflection-Driven_Long-Form_Generation_with_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.04180v1) | 时间: 2025-06-05 13:10 
-  为了解决大语言模型在生成长文本时面临的连贯性、逻辑一致性和质量保持问题，研究者提出了SuperWriter-Agent框架...
+- **[Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs](2025-06-05/Thinking_Beyond_Visibility-_A_Near-Optimal_Policy_Framework_for_Locally_Interdependent_Multi-Agent_MDPs.md)** | [原文](http://arxiv.org/abs/2506.04215v1) | 时间: 2025-06-05 14:01 
+  本文介绍了针对局部可观测多智能体MDP（LI-MAMDP）的扩展截断策略类，这是首个非平凡的近最优闭式策略类。在DeWe...
 
-- **[TracLLM: A Generic Framework for Attributing Long Context LLMs](2025-06-05/TracLLM-_A_Generic_Framework_for_Attributing_Long_Context_LLMs.md)** | [原文](http://arxiv.org/abs/2506.04202v1) | 时间: 2025-06-05 13:10 
-  这篇论文提出了TracLLM框架，旨在解决长上下文大语言模型(LLM)的"上下文溯源"问题，即识别生成输出所依据的原始...
+- **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](2025-06-05/MACS-_Multi-Agent_Reinforcement_Learning_for_Optimization_of_Crystal_Structures.md)** | [原文](http://arxiv.org/abs/2506.04195v1) | 时间: 2025-06-05 14:01 
+  研究人员提出了一种名为MACS（多智能体晶体结构优化）的新型多智能体强化学习方法，用于周期性晶体结构的几...
 
-- **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](2025-06-05/MACS-_Multi-Agent_Reinforcement_Learning_for_Optimization_of_Crystal_Structures.md)** | [原文](http://arxiv.org/abs/2506.04195v1) | 时间: 2025-06-05 13:10 
-  研究人员提出了一种名为MACS（多智能体晶体结构优化）的新型多智能体强化学习方法，用于周期性晶体结构优化...
+- **[OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis](2025-06-05/OWMM-Agent-_Open_World_Mobile_Manipulation_With_Multi-modal_Agentic_Data_Synthesis.md)** | [原文](http://arxiv.org/abs/2506.04217v1) | 时间: 2025-06-05 14:01 
+  研究人员提出了一种新型多模态智能体架构（OWMM-VLM），用于解决开放世界移动操作（OWMM）任务中的泛化挑战。该...
 
-- **[Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs](2025-06-05/Thinking_Beyond_Visibility-_A_Near-Optimal_Policy_Framework_for_Locally_Interdependent_Multi-Agent_MDPs.md)** | [原文](http://arxiv.org/abs/2506.04215v1) | 时间: 2025-06-05 13:10 
-  Dec-POMDPs是难解的NEXP完全问题，但局部可观测的多智能体MDP（LI-MAMDP）通过局部依赖假设简化了求解。DeWeese和Qu(2024...
+- **[TracLLM: A Generic Framework for Attributing Long Context LLMs](2025-06-05/TracLLM-_A_Generic_Framework_for_Attributing_Long_Context_LLMs.md)** | [原文](http://arxiv.org/abs/2506.04202v1) | 时间: 2025-06-05 14:01 
+  这篇论文提出了TracLLM框架，用于追踪长上下文大语言模型(LLM)生成输出的关键来源文本。现有特征归因方法(如Shapl...
 
-- **[OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis](2025-06-05/OWMM-Agent-_Open_World_Mobile_Manipulation_With_Multi-modal_Agentic_Data_Synthesis.md)** | [原文](http://arxiv.org/abs/2506.04217v1) | 时间: 2025-06-05 13:10 
-  这篇论文提出了一种新型多模态智能体架构，用于解决开放世界移动操作(OWMM)任务的挑战。该架构通过维护多视角...
-
-- **[#文本生成3D世界##AI生成可漫游3D场景#一句话，就能生成能“走进去”的3D世界！各种梦幻般的场景，什么家中游泳池、大平层、海底家园，都能身临其境体验了。【视...](2025-06-05/#文本生成3D世界##AI生成可漫游3D场景#一句话，就能生成能“走进去”的3D世界！各种梦幻般的场景，什么家中游泳池、大平层、海底家园，都能身临其境体验了。【视....md)** | [原文](https://weibo.com/6105753431/Pv8aa6Z0B) | 时间: 2025-06-05 09:05 
-  慕尼黑工业大学开发的WorldExplorer系统实现了通过文本生成可自由漫游的3D场景。该系统通过三大关键技术：1) 全景...
+- **[A primal-dual price-optimization method for computing equilibrium prices in mean-field games models](2025-06-05/A_primal-dual_price-optimization_method_for_computing_equilibrium_prices_in_mean-field_games_models.md)** | [原文](http://arxiv.org/abs/2506.04169v1) | 时间: 2025-06-05 14:01 
+  本文提出了一种高效的拉格朗日方法，用于计算平均场博弈价格形成模型中的均衡价格。研究证明，均衡价格在特...
 
 - **[#使用AI的核心困境是如何验证输出##卡帕西谈AI输出验证困境#相信大家对怎么给AI下指令都有经验了，但怎么验证AI给出的结果是否靠谱，却常常让人犯难。前a16z知名...](2025-06-05/#使用AI的核心困境是如何验证输出##卡帕西谈AI输出验证困境#相信大家对怎么给AI下指令都有经验了，但怎么验证AI给出的结果是否靠谱，却常常让人犯难。前a16z知名....md)** | [原文](https://weibo.com/6105753431/Pv8aznQdd) | 时间: 2025-06-05 09:05 
   当前AI应用的核心困境已从提示词优化转向输出验证难题。Balaji Srinivasan和卡帕西指出，AI生成内容（代码/文本/音...
 
-- **[#大模型公司挖墙脚哪家强##Anthropic人才留存率高达80%#大模型公司挖墙脚哪家强，Anthropic才是最大赢家？不仅顶尖AI人才的留存率达到80%，而且工程师从OpenAI跳...](2025-06-05/#大模型公司挖墙脚哪家强##Anthropic人才留存率高达80%#大模型公司挖墙脚哪家强，Anthropic才是最大赢家？不仅顶尖AI人才的留存率达到80%，而且工程师从OpenAI跳....md)** | [原文](https://weibo.com/6105753431/Pv8aUs8DS) | 时间: 2025-06-05 09:04 
-  根据SignalFire最新报告，AI公司Anthropic展现出惊人的人才吸引力：其顶尖AI人才留存率高达80%，且从OpenAI跳槽至Anthrop...
+- **[#文本生成3D世界##AI生成可漫游3D场景#一句话，就能生成能“走进去”的3D世界！各种梦幻般的场景，什么家中游泳池、大平层、海底家园，都能身临其境体验了。【视...](2025-06-05/#文本生成3D世界##AI生成可漫游3D场景#一句话，就能生成能“走进去”的3D世界！各种梦幻般的场景，什么家中游泳池、大平层、海底家园，都能身临其境体验了。【视....md)** | [原文](https://weibo.com/6105753431/Pv8aa6Z0B) | 时间: 2025-06-05 09:05 
+  慕尼黑工业大学开发的WorldExplorer系统实现了通过文本生成可自由漫游的3D场景。该系统通过三大关键技术：1) 全景...
 
 - **[#法考也卷AI了##LEXam上线一周爆火登顶榜首#大模型推理能力，正在法律圈引发热议。最近，一项专为评估法律推理能力而设的多语言数据集——LEXam横空出世，由苏黎...](2025-06-05/#法考也卷AI了##LEXam上线一周爆火登顶榜首#大模型推理能力，正在法律圈引发热议。最近，一项专为评估法律推理能力而设的多语言数据集——LEXam横空出世，由苏黎....md)** | [原文](https://weibo.com/6105753431/Pv8bZ0OTN) | 时间: 2025-06-05 09:04 
   LEXam是由苏黎世联邦理工等机构推出的多语言法律推理评估数据集，包含近5000道来自瑞士法学院的真实考题（英语...
+
+- **[#大模型公司挖墙脚哪家强##Anthropic人才留存率高达80%#大模型公司挖墙脚哪家强，Anthropic才是最大赢家？不仅顶尖AI人才的留存率达到80%，而且工程师从OpenAI跳...](2025-06-05/#大模型公司挖墙脚哪家强##Anthropic人才留存率高达80%#大模型公司挖墙脚哪家强，Anthropic才是最大赢家？不仅顶尖AI人才的留存率达到80%，而且工程师从OpenAI跳....md)** | [原文](https://weibo.com/6105753431/Pv8aUs8DS) | 时间: 2025-06-05 09:04 
+  根据SignalFire最新报告，AI公司Anthropic展现出惊人的人才吸引力：其顶尖AI人才留存率高达80%，且从OpenAI跳槽至Anthrop...
 
 - **[#苹果AirPods推出睡眠检测##苹果迎iOS7以来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5M...](2025-06-05/#苹果AirPods推出睡眠检测##苹果迎iOS7以来最大规模操作系统设计更新#苹果AirPods被曝即将迎来五大新功能！而且大部分都和用AirPods直接控制iPhone有关。据9to5M....md)** | [原文](https://weibo.com/6105753431/Pv8AqgzXk) | 时间: 2025-06-05 09:03 
   据爆料，苹果将在WWDC25为AirPods推出五大新功能：1）通过耳机控制iPhone相机；2）睡眠自动暂停检测；3）头部动作...
