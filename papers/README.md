@@ -4,39 +4,48 @@
 
 ## 最新内容
 
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，能模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-06 22:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-06-06 23:05
 
 ---
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作一站式服务。它支持中英文文献搜索，拥有...
+**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。通过引入时...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-06 22:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-06-06 23:05
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究团队收集了397个涵盖40类...
+**摘要**: 这篇论文提出了CodeArena基准测试和SynCode-Instruct语料库，用于评估代码生成大语言模型(codeLLMs)与人类偏好的对齐程...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-06 22:05
+**收录时间**: 2025-06-06 23:05
 
 ---
 
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。研究者利用该...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-06 22:04
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-06-06 23:05
+
+---
+
+### [#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档...](2025-06-06/#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档....md)
+
+**摘要**: 该项目提供了一套完整的免费软件著作权申请模板库，包含说明文档、源码文档和申请表三类核心材料。说明文档...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvhVnBWFq)
+**收录时间**: 2025-06-06 23:04
 
 ---
 
@@ -45,133 +54,124 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-06 22:04
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 该论文提出了SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法的必要性。SGD-SaI通过初始化时基于梯度信号噪...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-06 22:04
+**收录时间**: 2025-06-06 23:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-06/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，目前...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-06 22:04
+**收录时间**: 2025-06-06 23:04
 
 ---
 
-### [#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的...](2025-06-06/#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的....md)
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 《自然》最新研究发现，孕期缺铁可能影响小鼠胎儿性别发育。研究表明，铁元素对激活雄性性别决定基因Sry的组...
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvimigIU5)
-**收录时间**: 2025-06-06 22:03
-
----
-
-### [#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR 2025。通俗理解，...](2025-06-06/#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR_2025。通俗理解，....md)
-
-**摘要**: 复旦大学与腾讯优图实验室合作开发的新算法DualAnoDiff解决了工业异常检测中数据稀缺问题。该基于扩散模型的少...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvilF4jQU)
-**收录时间**: 2025-06-06 22:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-06-06 23:04
 
 ---
 
 ### [#量子位AI眼镜沙龙##AI眼镜距离全民标配还有多远#2025年，AI眼镜市场一片火热。国内已有华为、雷鸟、ROKID、星纪魅族等十余家厂商都陆续发布了AI眼镜产品，还有...](2025-06-06/#量子位AI眼镜沙龙##AI眼镜距离全民标配还有多远#2025年，AI眼镜市场一片火热。国内已有华为、雷鸟、ROKID、星纪魅族等十余家厂商都陆续发布了AI眼镜产品，还有....md)
 
-**摘要**: 2025年AI眼镜市场蓬勃发展，华为、雷鸟等十余家厂商已推出产品，"百镜大战"拉开序幕。量子位拟于6月下旬在北京...
+**摘要**: 2025年AI眼镜市场竞争激烈，华为、雷鸟等十余家厂商已推出产品，行业进入"百镜大战"阶段。量子位计划6月下旬在...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvhYDcYSF)
-**收录时间**: 2025-06-06 22:03
+**收录时间**: 2025-06-06 23:03
 
 ---
 
-### [#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复...](2025-06-06/#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复....md)
+### [#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR 2025。通俗理解，...](2025-06-06/#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR_2025。通俗理解，....md)
 
-**摘要**: 复旦大学团队在《Science》发表突破性研究，利用碲纳米线材料开发出新型视网膜假体。该技术通过简单植入手术...
+**摘要**: 复旦大学与腾讯优图实验室联合研发的新算法DualAnoDiff，解决了工业异常检测中真实异常数据稀缺的问题。该算法...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pvims8vfh)
-**收录时间**: 2025-06-06 22:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvilF4jQU)
+**收录时间**: 2025-06-06 23:03
 
 ---
 
 ### [#高强度思考仅多消耗5%大脑能量##思维疲惫是因为触发大脑节能机制#这下燃尽了！你有没有好奇过，当我们完成高度集中注意力的任务时，大脑到底消耗了多少能量？美...](2025-06-06/#高强度思考仅多消耗5%大脑能量##思维疲惫是因为触发大脑节能机制#这下燃尽了！你有没有好奇过，当我们完成高度集中注意力的任务时，大脑到底消耗了多少能量？美....md)
 
-**摘要**: 美国东北大学研究发现，高强度思考仅比大脑休息状态多消耗5%能量。大脑主要能量用于维持生命基本功能，而非...
+**摘要**: 美国东北大学研究发现，高强度思考仅比大脑休息状态多消耗5%能量（图2）。大脑主要能量用于维持基本生命功能...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvhZ38MOm)
-**收录时间**: 2025-06-06 22:03
+**收录时间**: 2025-06-06 23:03
 
 ---
 
 ### [#OpenAI首次回应人机情感问题##人类将与AI形成真实情感联系#ChatGPT不只是个工具了，越来越多的人正在拿它当朋友。OpenAI模型行为负责人Joanne Jang刚刚发布深度...](2025-06-06/#OpenAI首次回应人机情感问题##人类将与AI形成真实情感联系#ChatGPT不只是个工具了，越来越多的人正在拿它当朋友。OpenAI模型行为负责人Joanne_Jang刚刚发布深度....md)
 
-**摘要**: OpenAI首次公开回应人机情感问题，其模型行为负责人Joanne Jang指出，越来越多用户将与ChatGPT的互动视为真实情感交...
+**摘要**: OpenAI首次系统回应人机情感问题，模型行为负责人Joanne Jang指出，越来越多用户将ChatGPT视为朋友，向其倾诉并产生...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvhYOuZYT)
-**收录时间**: 2025-06-06 22:03
-
----
-
-### [#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档...](2025-06-06/#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档....md)
-
-**摘要**: 该项目提供了一套完整的免费软件著作权申请模板库（GitHub Star 3.2k+），包含三类核心材料：1）30页以上的说明文...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvhVnBWFq)
-**收录时间**: 2025-06-06 22:03
-
----
-
-### [#Gemini新版屠榜却陷安全问题#Gemini2.5 pro新版拳打o3脚踢Claude 4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。 量子位的微博视频](2025-06-06/#Gemini新版屠榜却陷安全问题#Gemini2.5_pro新版拳打o3脚踢Claude_4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。_量子位的微博视频.md)
-
-**摘要**: Gemini 2.5 Pro新版在性能评测中表现优异，超越竞争对手如GPT-3和Claude 4，稳居各大排行榜首位。然而，该版本发布后...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvjcUtsrc)
-**收录时间**: 2025-06-06 22:02
-
----
-
-### [Tight analyses of first-order methods with error feedback](2025-06-06/Tight_analyses_of_first-order_methods_with_error_feedback.md)
-
-**摘要**: 本文分析了分布式学习中通信压缩导致的性能下降问题，重点研究了两种误差反馈方法（EF和EF21）。通过构建最优...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.05271v1)
-**收录时间**: 2025-06-06 22:02
-
----
-
-### [#金融大模型天镜3.0发布# 6月6日， 由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑...](2025-06-06/#金融大模型天镜3.0发布#_6月6日，_由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑....md)
-
-**摘要**: 马上消费在"2025消费金融生态大会"上发布了全面升级的金融大模型"天镜3.0"。该模型实现了从个体智慧到群体智慧...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvkzhEFxT)
-**收录时间**: 2025-06-06 22:02
+**收录时间**: 2025-06-06 23:03
 
 ---
 
 ### [#智能体本质竟是世界模型##DeepMind证明Ilya神预言#DeepMind科学家Jon Richens提出一个有趣观点：智能体本身，就是世界模型。【图1】他甩出一篇ICML 2025论文，...](2025-06-06/#智能体本质竟是世界模型##DeepMind证明Ilya神预言#DeepMind科学家Jon_Richens提出一个有趣观点：智能体本身，就是世界模型。【图1】他甩出一篇ICML_2025论文，....md)
 
-**摘要**: DeepMind最新研究证明，智能体本质上是世界模型。论文指出，能泛化完成复杂任务的智能体，其策略必然隐含环境...
+**摘要**: DeepMind最新研究表明，智能体的本质是隐含的世界模型。研究证明，能在复杂任务中泛化的智能体必然掌握了环境...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvimsEohx)
-**收录时间**: 2025-06-06 22:02
+**收录时间**: 2025-06-06 23:03
+
+---
+
+### [#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的...](2025-06-06/#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的....md)
+
+**摘要**: 《自然》最新研究发现，孕期缺铁的母鼠可能影响雄性胎鼠的性征发育。研究显示，铁元素是激活Sry基因（决定雄...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvimigIU5)
+**收录时间**: 2025-06-06 23:03
+
+---
+
+### [#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复...](2025-06-06/#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复....md)
+
+**摘要**: 复旦大学团队在《Science》发表突破性研究，利用碲纳米线材料开发出新型视网膜假体，通过简单植入手术成功让...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pvims8vfh)
+**收录时间**: 2025-06-06 23:03
+
+---
+
+### [#Gemini新版屠榜却陷安全问题#Gemini2.5 pro新版拳打o3脚踢Claude 4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。 量子位的微博视频](2025-06-06/#Gemini新版屠榜却陷安全问题#Gemini2.5_pro新版拳打o3脚踢Claude_4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。_量子位的微博视频.md)
+
+**摘要**: 谷歌最新发布的Gemini 2.5 Pro模型在性能评测中超越GPT-4和Claude 4，蝉联多个榜单首位。但该版本刚发布就遭遇"越狱"...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvjcUtsrc)
+**收录时间**: 2025-06-06 23:02
+
+---
+
+### [Tight analyses of first-order methods with error feedback](2025-06-06/Tight_analyses_of_first-order_methods_with_error_feedback.md)
+
+**摘要**: 分布式学习中，智能体间的通信常成为计算瓶颈。为减少通信开销，通常采用信息压缩策略，但这会降低收敛性能...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.05271v1)
+**收录时间**: 2025-06-06 23:02
+
+---
+
+### [#金融大模型天镜3.0发布# 6月6日， 由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑...](2025-06-06/#金融大模型天镜3.0发布#_6月6日，_由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑....md)
+
+**摘要**: 马上消费在"2025消费金融生态大会"上发布了金融大模型"天镜3.0"，实现了从个体智慧到群体智慧的系统性跃迁。该...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvkzhEFxT)
+**收录时间**: 2025-06-06 23:02
 
 ---
 
 ### [The broader spectrum of in-context learning](2025-06-06/The_broader_spectrum_of_in-context_learning.md)
 
-**摘要**: 这篇论文提出了一种新视角，将语言模型的少量样本学习能力置于更广泛的元学习上下文学习框架中。作者认为，...
+**摘要**: 这篇论文提出了一种新视角，将语言模型的少量样本上下文学习能力置于更广泛的元学习谱系中。作者认为任何能...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2412.03782v3)
-**收录时间**: 2025-06-06 22:02
+**收录时间**: 2025-06-06 23:02
 
 ---
 
@@ -180,7 +180,7 @@
 **摘要**: 本文针对医疗领域对可解释AI的需求，提出了Vision Concept Transformer (VCT)和其改进版Stable Vision Concept Transformer (SVCT)。...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2506.05286v1)
-**收录时间**: 2025-06-06 22:02
+**收录时间**: 2025-06-06 23:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-06-06 (68篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-06 22:05 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-06 23:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，能模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-06 22:05 
-  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作一站式服务。它支持中英文文献搜索，拥有...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-06/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-06 23:05 
+  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。通过引入时...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-06 22:05 
-  这篇论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，聚焦人类偏好对齐问题。研究团队收集了397个涵盖40类...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-06/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-06 23:05 
+  这篇论文提出了CodeArena基准测试和SynCode-Instruct语料库，用于评估代码生成大语言模型(codeLLMs)与人类偏好的对齐程...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-06/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-06 22:04 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。研究者利用该...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-06/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-06 23:05 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-06/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-06 22:04 
+- **[#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档...](2025-06-06/#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档....md)** | [原文](https://weibo.com/6105753431/PvhVnBWFq) | 时间: 2025-06-06 23:04 
+  该项目提供了一套完整的免费软件著作权申请模板库，包含说明文档、源码文档和申请表三类核心材料。说明文档...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-06/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-06 23:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-06 22:04 
-  该论文提出了SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法的必要性。SGD-SaI通过初始化时基于梯度信号噪...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-06/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-06 23:04 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，目前...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-06/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-06 22:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管已...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-06/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-06 23:04 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时基于梯度...
 
-- **[#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的...](2025-06-06/#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的....md)** | [原文](https://weibo.com/6105753431/PvimigIU5) | 时间: 2025-06-06 22:03 
-  《自然》最新研究发现，孕期缺铁可能影响小鼠胎儿性别发育。研究表明，铁元素对激活雄性性别决定基因Sry的组...
+- **[#量子位AI眼镜沙龙##AI眼镜距离全民标配还有多远#2025年，AI眼镜市场一片火热。国内已有华为、雷鸟、ROKID、星纪魅族等十余家厂商都陆续发布了AI眼镜产品，还有...](2025-06-06/#量子位AI眼镜沙龙##AI眼镜距离全民标配还有多远#2025年，AI眼镜市场一片火热。国内已有华为、雷鸟、ROKID、星纪魅族等十余家厂商都陆续发布了AI眼镜产品，还有....md)** | [原文](https://weibo.com/6105753431/PvhYDcYSF) | 时间: 2025-06-06 23:03 
+  2025年AI眼镜市场竞争激烈，华为、雷鸟等十余家厂商已推出产品，行业进入"百镜大战"阶段。量子位计划6月下旬在...
 
-- **[#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR 2025。通俗理解，...](2025-06-06/#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR_2025。通俗理解，....md)** | [原文](https://weibo.com/6105753431/PvilF4jQU) | 时间: 2025-06-06 22:03 
-  复旦大学与腾讯优图实验室合作开发的新算法DualAnoDiff解决了工业异常检测中数据稀缺问题。该基于扩散模型的少...
+- **[#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR 2025。通俗理解，...](2025-06-06/#复旦腾讯新算法解决异常数据稀缺性##AI工业异常检测再获新SOTA#AI模型用于工业异常检测，再次取得新SOTA！相关论文已中稿计算机视觉顶会CVPR_2025。通俗理解，....md)** | [原文](https://weibo.com/6105753431/PvilF4jQU) | 时间: 2025-06-06 23:03 
+  复旦大学与腾讯优图实验室联合研发的新算法DualAnoDiff，解决了工业异常检测中真实异常数据稀缺的问题。该算法...
 
-- **[#量子位AI眼镜沙龙##AI眼镜距离全民标配还有多远#2025年，AI眼镜市场一片火热。国内已有华为、雷鸟、ROKID、星纪魅族等十余家厂商都陆续发布了AI眼镜产品，还有...](2025-06-06/#量子位AI眼镜沙龙##AI眼镜距离全民标配还有多远#2025年，AI眼镜市场一片火热。国内已有华为、雷鸟、ROKID、星纪魅族等十余家厂商都陆续发布了AI眼镜产品，还有....md)** | [原文](https://weibo.com/6105753431/PvhYDcYSF) | 时间: 2025-06-06 22:03 
-  2025年AI眼镜市场蓬勃发展，华为、雷鸟等十余家厂商已推出产品，"百镜大战"拉开序幕。量子位拟于6月下旬在北京...
+- **[#高强度思考仅多消耗5%大脑能量##思维疲惫是因为触发大脑节能机制#这下燃尽了！你有没有好奇过，当我们完成高度集中注意力的任务时，大脑到底消耗了多少能量？美...](2025-06-06/#高强度思考仅多消耗5%大脑能量##思维疲惫是因为触发大脑节能机制#这下燃尽了！你有没有好奇过，当我们完成高度集中注意力的任务时，大脑到底消耗了多少能量？美....md)** | [原文](https://weibo.com/6105753431/PvhZ38MOm) | 时间: 2025-06-06 23:03 
+  美国东北大学研究发现，高强度思考仅比大脑休息状态多消耗5%能量（图2）。大脑主要能量用于维持基本生命功能...
 
-- **[#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复...](2025-06-06/#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复....md)** | [原文](https://weibo.com/6105753431/Pvims8vfh) | 时间: 2025-06-06 22:03 
-  复旦大学团队在《Science》发表突破性研究，利用碲纳米线材料开发出新型视网膜假体。该技术通过简单植入手术...
+- **[#OpenAI首次回应人机情感问题##人类将与AI形成真实情感联系#ChatGPT不只是个工具了，越来越多的人正在拿它当朋友。OpenAI模型行为负责人Joanne Jang刚刚发布深度...](2025-06-06/#OpenAI首次回应人机情感问题##人类将与AI形成真实情感联系#ChatGPT不只是个工具了，越来越多的人正在拿它当朋友。OpenAI模型行为负责人Joanne_Jang刚刚发布深度....md)** | [原文](https://weibo.com/6105753431/PvhYOuZYT) | 时间: 2025-06-06 23:03 
+  OpenAI首次系统回应人机情感问题，模型行为负责人Joanne Jang指出，越来越多用户将ChatGPT视为朋友，向其倾诉并产生...
 
-- **[#高强度思考仅多消耗5%大脑能量##思维疲惫是因为触发大脑节能机制#这下燃尽了！你有没有好奇过，当我们完成高度集中注意力的任务时，大脑到底消耗了多少能量？美...](2025-06-06/#高强度思考仅多消耗5%大脑能量##思维疲惫是因为触发大脑节能机制#这下燃尽了！你有没有好奇过，当我们完成高度集中注意力的任务时，大脑到底消耗了多少能量？美....md)** | [原文](https://weibo.com/6105753431/PvhZ38MOm) | 时间: 2025-06-06 22:03 
-  美国东北大学研究发现，高强度思考仅比大脑休息状态多消耗5%能量。大脑主要能量用于维持生命基本功能，而非...
+- **[#智能体本质竟是世界模型##DeepMind证明Ilya神预言#DeepMind科学家Jon Richens提出一个有趣观点：智能体本身，就是世界模型。【图1】他甩出一篇ICML 2025论文，...](2025-06-06/#智能体本质竟是世界模型##DeepMind证明Ilya神预言#DeepMind科学家Jon_Richens提出一个有趣观点：智能体本身，就是世界模型。【图1】他甩出一篇ICML_2025论文，....md)** | [原文](https://weibo.com/6105753431/PvimsEohx) | 时间: 2025-06-06 23:03 
+  DeepMind最新研究表明，智能体的本质是隐含的世界模型。研究证明，能在复杂任务中泛化的智能体必然掌握了环境...
 
-- **[#OpenAI首次回应人机情感问题##人类将与AI形成真实情感联系#ChatGPT不只是个工具了，越来越多的人正在拿它当朋友。OpenAI模型行为负责人Joanne Jang刚刚发布深度...](2025-06-06/#OpenAI首次回应人机情感问题##人类将与AI形成真实情感联系#ChatGPT不只是个工具了，越来越多的人正在拿它当朋友。OpenAI模型行为负责人Joanne_Jang刚刚发布深度....md)** | [原文](https://weibo.com/6105753431/PvhYOuZYT) | 时间: 2025-06-06 22:03 
-  OpenAI首次公开回应人机情感问题，其模型行为负责人Joanne Jang指出，越来越多用户将与ChatGPT的互动视为真实情感交...
+- **[#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的...](2025-06-06/#母鼠孕期缺铁影响胎儿性征##雄性鼠胎因缺铁变性#怀孕母鼠缺了铁，鼠鼠直接就一整个大变性了？《自然》杂志发表的一项最新研究可能会颠覆我们的认知：如果怀孕的....md)** | [原文](https://weibo.com/6105753431/PvimigIU5) | 时间: 2025-06-06 23:03 
+  《自然》最新研究发现，孕期缺铁的母鼠可能影响雄性胎鼠的性征发育。研究显示，铁元素是激活Sry基因（决定雄...
 
-- **[#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档...](2025-06-06/#免费软著申请教程##软件著作申请模板#想申请软著，但不知道从哪下手？这里有份软著模板库请收好。该项目提供了一整套软著申请必备材料模板，包括源码、说明文档....md)** | [原文](https://weibo.com/6105753431/PvhVnBWFq) | 时间: 2025-06-06 22:03 
-  该项目提供了一套完整的免费软件著作权申请模板库（GitHub Star 3.2k+），包含三类核心材料：1）30页以上的说明文...
+- **[#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复...](2025-06-06/#用脑机接口让失明动物复明##复旦最新研究用脑机接口恢复失明动物视力#仅需一次视网膜下植入手术，不仅能让失明的动物复明，还能让它们掌握“夜视”能力？来自复....md)** | [原文](https://weibo.com/6105753431/Pvims8vfh) | 时间: 2025-06-06 23:03 
+  复旦大学团队在《Science》发表突破性研究，利用碲纳米线材料开发出新型视网膜假体，通过简单植入手术成功让...
 
-- **[#Gemini新版屠榜却陷安全问题#Gemini2.5 pro新版拳打o3脚踢Claude 4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。 量子位的微博视频](2025-06-06/#Gemini新版屠榜却陷安全问题#Gemini2.5_pro新版拳打o3脚踢Claude_4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PvjcUtsrc) | 时间: 2025-06-06 22:02 
-  Gemini 2.5 Pro新版在性能评测中表现优异，超越竞争对手如GPT-3和Claude 4，稳居各大排行榜首位。然而，该版本发布后...
+- **[#Gemini新版屠榜却陷安全问题#Gemini2.5 pro新版拳打o3脚踢Claude 4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。 量子位的微博视频](2025-06-06/#Gemini新版屠榜却陷安全问题#Gemini2.5_pro新版拳打o3脚踢Claude_4，强势蝉联各大榜一。但刚发布就被越狱，网友还曝出部分指标比之前倒退。_量子位的微博视频.md)** | [原文](https://weibo.com/6105753431/PvjcUtsrc) | 时间: 2025-06-06 23:02 
+  谷歌最新发布的Gemini 2.5 Pro模型在性能评测中超越GPT-4和Claude 4，蝉联多个榜单首位。但该版本刚发布就遭遇"越狱"...
 
-- **[Tight analyses of first-order methods with error feedback](2025-06-06/Tight_analyses_of_first-order_methods_with_error_feedback.md)** | [原文](http://arxiv.org/abs/2506.05271v1) | 时间: 2025-06-06 22:02 
-  本文分析了分布式学习中通信压缩导致的性能下降问题，重点研究了两种误差反馈方法（EF和EF21）。通过构建最优...
+- **[Tight analyses of first-order methods with error feedback](2025-06-06/Tight_analyses_of_first-order_methods_with_error_feedback.md)** | [原文](http://arxiv.org/abs/2506.05271v1) | 时间: 2025-06-06 23:02 
+  分布式学习中，智能体间的通信常成为计算瓶颈。为减少通信开销，通常采用信息压缩策略，但这会降低收敛性能...
 
-- **[#金融大模型天镜3.0发布# 6月6日， 由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑...](2025-06-06/#金融大模型天镜3.0发布#_6月6日，_由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑....md)** | [原文](https://weibo.com/6105753431/PvkzhEFxT) | 时间: 2025-06-06 22:02 
-  马上消费在"2025消费金融生态大会"上发布了全面升级的金融大模型"天镜3.0"。该模型实现了从个体智慧到群体智慧...
+- **[#金融大模型天镜3.0发布# 6月6日， 由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑...](2025-06-06/#金融大模型天镜3.0发布#_6月6日，_由中共重庆市委金融委员会办公室、重庆市商务委员会、重庆两江新区管理委员会共同指导，由消费金融服务联盟、打击金融领域黑....md)** | [原文](https://weibo.com/6105753431/PvkzhEFxT) | 时间: 2025-06-06 23:02 
+  马上消费在"2025消费金融生态大会"上发布了金融大模型"天镜3.0"，实现了从个体智慧到群体智慧的系统性跃迁。该...
 
-- **[#智能体本质竟是世界模型##DeepMind证明Ilya神预言#DeepMind科学家Jon Richens提出一个有趣观点：智能体本身，就是世界模型。【图1】他甩出一篇ICML 2025论文，...](2025-06-06/#智能体本质竟是世界模型##DeepMind证明Ilya神预言#DeepMind科学家Jon_Richens提出一个有趣观点：智能体本身，就是世界模型。【图1】他甩出一篇ICML_2025论文，....md)** | [原文](https://weibo.com/6105753431/PvimsEohx) | 时间: 2025-06-06 22:02 
-  DeepMind最新研究证明，智能体本质上是世界模型。论文指出，能泛化完成复杂任务的智能体，其策略必然隐含环境...
+- **[The broader spectrum of in-context learning](2025-06-06/The_broader_spectrum_of_in-context_learning.md)** | [原文](http://arxiv.org/abs/2412.03782v3) | 时间: 2025-06-06 23:02 
+  这篇论文提出了一种新视角，将语言模型的少量样本上下文学习能力置于更广泛的元学习谱系中。作者认为任何能...
 
-- **[The broader spectrum of in-context learning](2025-06-06/The_broader_spectrum_of_in-context_learning.md)** | [原文](http://arxiv.org/abs/2412.03782v3) | 时间: 2025-06-06 22:02 
-  这篇论文提出了一种新视角，将语言模型的少量样本学习能力置于更广泛的元学习上下文学习框架中。作者认为，...
-
-- **[Stable Vision Concept Transformers for Medical Diagnosis](2025-06-06/Stable_Vision_Concept_Transformers_for_Medical_Diagnosis.md)** | [原文](http://arxiv.org/abs/2506.05286v1) | 时间: 2025-06-06 22:02 
+- **[Stable Vision Concept Transformers for Medical Diagnosis](2025-06-06/Stable_Vision_Concept_Transformers_for_Medical_Diagnosis.md)** | [原文](http://arxiv.org/abs/2506.05286v1) | 时间: 2025-06-06 23:02 
   本文针对医疗领域对可解释AI的需求，提出了Vision Concept Transformer (VCT)和其改进版Stable Vision Concept Transformer (SVCT)。...
 
-- **[Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games](2025-06-06/Time_to_Talk-_LLM_Agents_for_Asynchronous_Group_Communication_in_Mafia_Games.md)** | [原文](http://arxiv.org/abs/2506.05309v1) | 时间: 2025-06-06 22:01 
-  当前大语言模型(LLMs)主要用于同步对话，而现实场景多为异步交流(如群聊、在线会议等)。本研究开发了一种异步L...
+- **[Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games](2025-06-06/Time_to_Talk-_LLM_Agents_for_Asynchronous_Group_Communication_in_Mafia_Games.md)** | [原文](http://arxiv.org/abs/2506.05309v1) | 时间: 2025-06-06 23:01 
+  当前大语言模型(LLMs)主要应用于同步交流，而现实场景如群聊、在线会议或社交游戏往往是异步的。本研究开发了...
 
-- **[A Smooth Sea Never Made a Skilled $\texttt{SAILOR}$: Robust Imitation via Learning to Search](2025-06-06/A_Smooth_Sea_Never_Made_a_Skilled_$-texttt{SAILOR}$-_Robust_Imitation_via_Learning_to_Search.md)** | [原文](http://arxiv.org/abs/2506.05294v1) | 时间: 2025-06-06 22:01 
-  行为克隆（BC）方法在模仿学习中的根本局限在于，它仅能教会智能体在专家访问的状态下模仿行为，一旦偏离演...
+- **[A Smooth Sea Never Made a Skilled $\texttt{SAILOR}$: Robust Imitation via Learning to Search](2025-06-06/A_Smooth_Sea_Never_Made_a_Skilled_$-texttt{SAILOR}$-_Robust_Imitation_via_Learning_to_Search.md)** | [原文](http://arxiv.org/abs/2506.05294v1) | 时间: 2025-06-06 23:01 
+  行为克隆（BC）方法在模仿学习中的核心局限是只能模仿专家在特定状态下的行为，导致智能体在偏离专家示范状...
 
-- **[ProRefine: Inference-time Prompt Refinement with Textual Feedback](2025-06-06/ProRefine-_Inference-time_Prompt_Refinement_with_Textual_Feedback.md)** | [原文](http://arxiv.org/abs/2506.05305v1) | 时间: 2025-06-06 22:01 
-  Agentic workflows中多AI代理协作常因提示设计不佳导致错误传播和性能下降。为此，研究者提出ProRefine方法，利用大...
+- **[ProRefine: Inference-time Prompt Refinement with Textual Feedback](2025-06-06/ProRefine-_Inference-time_Prompt_Refinement_with_Textual_Feedback.md)** | [原文](http://arxiv.org/abs/2506.05305v1) | 时间: 2025-06-06 23:01 
+  ProRefine是一种创新的推理时提示优化方法，通过大语言模型(LLM)的文本反馈动态优化多步推理任务的提示，解决了...
 
-- **[Control Tax: The Price of Keeping AI in Check](2025-06-06/Control_Tax-_The_Price_of_Keeping_AI_in_Check.md)** | [原文](http://arxiv.org/abs/2506.05296v1) | 时间: 2025-06-06 22:01 
-  本文提出了"控制税"概念，即AI系统中实施安全控制措施所需的操作和财务成本。研究贡献包括：(1)建立量化控制...
+- **[Control Tax: The Price of Keeping AI in Check](2025-06-06/Control_Tax-_The_Price_of_Keeping_AI_in_Check.md)** | [原文](http://arxiv.org/abs/2506.05296v1) | 时间: 2025-06-06 23:01 
+  本文提出"控制税"概念，即AI管道中集成控制措施的操作和财务成本，为AI控制领域做出三点贡献：(1)建立量化控制...
 
-- **[Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment](2025-06-06/Seeing_the_Invisible-_Machine_learning-Based_QPI_Kernel_Extraction_via_Latent_Alignment.md)** | [原文](http://arxiv.org/abs/2506.05325v1) | 时间: 2025-06-06 22:01 
-  本文提出了一种基于AI的准粒子干涉(QPI)核提取新方法，解决了多散射条件下QPI图像反演的病态逆问题。该框架采...
+- **[Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment](2025-06-06/Seeing_the_Invisible-_Machine_learning-Based_QPI_Kernel_Extraction_via_Latent_Alignment.md)** | [原文](http://arxiv.org/abs/2506.05325v1) | 时间: 2025-06-06 23:01 
+  本研究提出首个基于人工智能的准粒子干涉(QPI)核提取框架，通过两步学习策略解决多散射源图像中单散射核提取...
 
-- **[Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning](2025-06-06/Direct_Numerical_Layout_Generation_for_3D_Indoor_Scene_Synthesis_via_Spatial_Reasoning.md)** | [原文](http://arxiv.org/abs/2506.05341v1) | 时间: 2025-06-06 22:01 
-  这篇论文提出了DirectLayout框架，利用大语言模型（LLMs）的空间推理能力直接从文本描述生成3D室内场景布局。该方...
+- **[Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning](2025-06-06/Direct_Numerical_Layout_Generation_for_3D_Indoor_Scene_Synthesis_via_Spatial_Reasoning.md)** | [原文](http://arxiv.org/abs/2506.05341v1) | 时间: 2025-06-06 23:01 
+  这篇论文提出了DirectLayout框架，利用大语言模型的空间推理能力直接从文本生成3D室内场景布局。该方法将生成过...
 
-- **[Kinetics: Rethinking Test-Time Scaling Laws](2025-06-06/Kinetics-_Rethinking_Test-Time_Scaling_Laws.md)** | [原文](http://arxiv.org/abs/2506.05333v1) | 时间: 2025-06-06 22:01 
-  这篇论文从实际效率角度重新审视了测试阶段的扩展规律，发现小模型的效果被显著高估。传统基于计算最优性的...
+- **[Kinetics: Rethinking Test-Time Scaling Laws](2025-06-06/Kinetics-_Rethinking_Test-Time_Scaling_Laws.md)** | [原文](http://arxiv.org/abs/2506.05333v1) | 时间: 2025-06-06 23:01 
+  该研究从实际效率角度重新审视了测试阶段的扩展规律，发现小模型的效果被严重高估。传统基于计算最优性的方...
 
 - **[#阿里智能体多轮推理超越GPT4o##开源模型也能做DeepResearch#阿里搞了个狠活儿——发布了多轮推理智能体WebDancer，用开源模型挑战GPT的Deep Research。这次，通...](2025-06-06/#阿里智能体多轮推理超越GPT4o##开源模型也能做DeepResearch#阿里搞了个狠活儿——发布了多轮推理智能体WebDancer，用开源模型挑战GPT的Deep_Research。这次，通....md)** | [原文](https://weibo.com/6105753431/PvhP9osFK) | 时间: 2025-06-06 14:04 
   阿里发布多轮推理智能体WebDancer，采用开源模型挑战GPT-4o的深度研究能力。其创新包括：1）通过ReAct框架实现"查...
