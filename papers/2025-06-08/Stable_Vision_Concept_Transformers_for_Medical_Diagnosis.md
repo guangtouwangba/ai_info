@@ -30,11 +30,11 @@ meeting the needs of the medical field.
 
 ## AI 摘要
 
-本文提出Vision Concept Transformer (VCT)和Stable Vision Concept Transformer (SVCT)模型，以解决医疗领域可解释AI的实用性和稳定性问题。VCT通过融合图像特征和概念特征提升模型性能，SVCT在此基础上引入去噪扩散平滑技术，增强模型对抗干扰的鲁棒性。实验表明，VCT和SVCT在四个医疗数据集上既保持准确性又具有可解释性，SVCT在输入扰动下仍能提供稳定的解释，满足医疗领域对透明度和可靠性的需求。
+本文针对医疗领域对AI可解释性的需求，提出了Vision Concept Transformer (VCT)和其改进版Stable Vision Concept Transformer (SVCT)。现有概念瓶颈模型(CBMs)仅依赖概念特征，忽略了医学图像的内在特征，且对输入扰动敏感。VCT通过融合概念特征和图像特征提升决策能力，SVCT进一步结合视觉Transformer架构和去噪扩散平滑技术，确保模型在扰动下的解释稳定性。在四个医学数据集上的实验表明，VCT和SVCT在保持准确性的同时具有良好可解释性，SVCT尤其能在扰动下提供可靠解释，满足医疗领域需求。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-08T11:02:11Z
+- **保存时间**: 2025-06-08T12:02:24Z
 - **目录日期**: 2025-06-08
