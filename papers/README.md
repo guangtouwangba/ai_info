@@ -4,30 +4,66 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 这篇论文研究了代码生成大模型(codeLLMs)与人类偏好的对齐问题，指出当前基准测试过于关注代码正确性而忽视用...
+**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该框架利用Stable D...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-09 20:05
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-06-09 21:05
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一款新一代智能科技情报挖掘与服务系统，提供四位一体的学术服务，包括论文查找、理解、分析和写作。...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-09 20:05
+**收录时间**: 2025-06-09 21:05
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-06-09 21:05
+
+---
+
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出了CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究者收集...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-06-09 21:05
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因子，目前已...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-09 20:04
+**收录时间**: 2025-06-09 21:04
+
+---
+
+### [#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live Activities，导航/音乐/提醒等直接显示在车上屏幕，信息不再东一块西一块。 [图片][图...](2025-06-09/#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live_Activities，导航-音乐-提醒等直接显示在车上屏幕，信息不再东一块西一块。_[图片][图....md)
+
+**摘要**: iOS26对CarPlay车载功能进行了重大升级，主要改进包括：支持iPhone小组件和实时活动（Live Activities）直接显示在车载...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvNWf7prP)
+**收录时间**: 2025-06-09 21:04
+
+---
+
+### [#AppleMusic实用新功能##iOS26高效听歌学外语#Apple Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：- 歌词翻译（Lyrics Translati...](2025-06-09/#AppleMusic实用新功能##iOS26高效听歌学外语#Apple_Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：-_歌词翻译（Lyrics_Translati....md)
+
+**摘要**: Apple Music推出四项实用新功能：1）歌词翻译功能实时显示外语歌曲的英文翻译，帮助用户理解歌词；2）非拉丁语...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvNYHalcl)
+**收录时间**: 2025-06-09 21:04
 
 ---
 
@@ -36,97 +72,43 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-09 20:04
+**收录时间**: 2025-06-09 21:04
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度...
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-09 20:04
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了10,000多个AI代理的社会互动...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-09 20:04
-
----
-
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-09 20:04
-
----
-
-### [#AppleMusic实用新功能##iOS26高效听歌学外语#Apple Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：- 歌词翻译（Lyrics Translati...](2025-06-09/#AppleMusic实用新功能##iOS26高效听歌学外语#Apple_Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：-_歌词翻译（Lyrics_Translati....md)
-
-**摘要**: Apple Music推出四项实用新功能：1）歌词翻译功能实时显示外语歌曲的英文翻译；2）日语/韩语歌词下方提供罗马音...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvNYHalcl)
-**收录时间**: 2025-06-09 20:03
-
----
-
-### [#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live Activities，导航/音乐/提醒等直接显示在车上屏幕，信息不再东一块西一块。 [图片][图...](2025-06-09/#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live_Activities，导航-音乐-提醒等直接显示在车上屏幕，信息不再东一块西一块。_[图片][图....md)
-
-**摘要**: iOS26对CarPlay车载功能进行了重大升级。新版本支持iPhone小组件和实时活动(Live Activities)功能，可将导航、音乐、提...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvNWf7prP)
-**收录时间**: 2025-06-09 20:03
-
----
-
-### [#iOS26都更新了什么##一图看懂iOS26#iOS 26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：- 界面全新设计：主屏图标...](2025-06-09/#iOS26都更新了什么##一图看懂iOS26#iOS_26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：-_界面全新设计：主屏图标....md)
-
-**摘要**: iOS 26带来多项重大更新：界面全新设计，支持主屏图标自定义和锁屏自适应；控制中心改版，CarPlay新增小组件。...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvO2TciS9)
-**收录时间**: 2025-06-09 20:03
-
----
-
-### [#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1. “Play Together”一起玩功能上线 可以组建...](2025-06-09/#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1._“Play_Together”一起玩功能上线_可以组建....md)
-
-**摘要**: 苹果新推出的游戏应用主打社交化游戏体验，核心功能包括：1）"一起玩"模式支持实时组队和查看好友动态；2）"...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvO0x576T)
-**收录时间**: 2025-06-09 20:03
+**收录时间**: 2025-06-09 21:04
 
 ---
 
 ### [#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS 26正式命名为macOS Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级...](2025-06-09/#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS_26正式命名为macOS_Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级....md)
 
-**摘要**: macOS 26正式命名为Tahoe，主打"通透感"设计升级。新系统采用Liquid Glass效果增强图标/Dock的镜面光泽，菜单栏全透明...
+**摘要**: macOS 26正式命名为Tahoe，主打"通透感"设计升级：采用Liquid Glass效果使图标/Dock半透明带镜面光泽，菜单栏全透明增...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvO9SkoKI)
-**收录时间**: 2025-06-09 20:03
+**收录时间**: 2025-06-09 21:03
 
 ---
 
-### [#watchOS26更新一览##watchOS26换新皮肤#Apple Watch系统更新到watchOS 26，每个更新都戳中日常高频使用场景：1. 全新界面设计：Liquid Glass风格上线，界面更圆...](2025-06-09/#watchOS26更新一览##watchOS26换新皮肤#Apple_Watch系统更新到watchOS_26，每个更新都戳中日常高频使用场景：1._全新界面设计：Liquid_Glass风格上线，界面更圆....md)
+### [#iOS26都更新了什么##一图看懂iOS26#iOS 26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：- 界面全新设计：主屏图标...](2025-06-09/#iOS26都更新了什么##一图看懂iOS26#iOS_26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：-_界面全新设计：主屏图标....md)
 
-**摘要**: watchOS 26带来多项实用更新：全新Liquid Glass界面设计更时尚；新增AI健身助手Workout Buddy，可分析训练负荷、提供周...
+**摘要**: iOS 26带来多项重大更新：全新界面设计支持图标自定义和主题色，锁屏可随环境变化，控制中心改版，CarPlay新增...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvO6U0EiG)
-**收录时间**: 2025-06-09 20:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvO2TciS9)
+**收录时间**: 2025-06-09 21:03
 
 ---
 
-### [#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：- iPhone16全家桶：16e、16、16 Plus、16 Pro、16 Pro Max - iPhone1...](2025-06-09/#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：-_iPhone16全家桶：16e、16、16_Plus、16_Pro、16_Pro_Max_-_iPhone1....md)
+### [#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1. “Play Together”一起玩功能上线 可以组建...](2025-06-09/#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1._“Play_Together”一起玩功能上线_可以组建....md)
 
-**摘要**: iOS26系统兼容机型公布，支持iPhone16全系、15/14/13/12/11系列（含Pro/Max机型）及SE2/3代，最低要求A13芯片。这意味着搭...
+**摘要**: 苹果推出全新游戏应用，主打社交化游戏体验。核心功能包括：1）"一起玩"模式，支持实时组队和查看好友游戏动...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvOouBPaO)
-**收录时间**: 2025-06-09 20:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvO0x576T)
+**收录时间**: 2025-06-09 21:03
 
 ---
 
@@ -135,52 +117,70 @@
 **摘要**: 苹果Vision Pro最新visionOS 26系统带来多项空间体验升级：AI可将2D照片转为立体3D图像；虚拟形象Persona更逼真；Safari...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvOdsqj5m)
-**收录时间**: 2025-06-09 20:02
+**收录时间**: 2025-06-09 21:03
 
 ---
 
-### [#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：- 系统原生功能升级： - 支持ChatGPT整...](2025-06-09/#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple_Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：-_系统原生功能升级：_-_支持ChatGPT整....md)
+### [#watchOS26更新一览##watchOS26换新皮肤#Apple Watch系统更新到watchOS 26，每个更新都戳中日常高频使用场景：1. 全新界面设计：Liquid Glass风格上线，界面更圆...](2025-06-09/#watchOS26更新一览##watchOS26换新皮肤#Apple_Watch系统更新到watchOS_26，每个更新都戳中日常高频使用场景：1._全新界面设计：Liquid_Glass风格上线，界面更圆....md)
 
-**摘要**: 苹果AI新功能Apple Intelligence全面升级，主要亮点包括：1）系统整合ChatGPT和图像生成工具Image Playground，增强Siri自然...
+**摘要**: watchOS 26主要更新包括：1）全新Liquid Glass界面设计，更时尚圆润；2）新增AI健身助手Workout Buddy，提供训练负荷分析...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvOmnmHVx)
-**收录时间**: 2025-06-09 20:02
-
----
-
-### [A Lightweight Dual-Branch System for Weakly-Supervised Video Anomaly Detection on Consumer Edge Devices](2025-06-09/A_Lightweight_Dual-Branch_System_for_Weakly-Supervised_Video_Anomaly_Detection_on_Consumer_Edge_Devices.md)
-
-**摘要**: 本文提出了一种轻量级实时视频异常检测系统RuleVAD，专为资源受限的消费电子设备设计。该系统采用创新的解耦...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2410.21991v7)
-**收录时间**: 2025-06-09 20:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvO6U0EiG)
+**收录时间**: 2025-06-09 21:03
 
 ---
 
 ### [#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS 26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：- 全新窗口系统： 多窗口终于...](2025-06-09/#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS_26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：-_全新窗口系统：_多窗口终于....md)
 
-**摘要**: iPadOS 26带来重大更新，界面和操作更接近macOS，同时保留触控特色。主要升级包括：全新多窗口系统，支持自由拖...
+**摘要**: iPadOS 26大幅融合macOS功能，同时保留触控优势。主要更新包括：全新多窗口系统（支持四宫格平铺+叠层）、Mac式红...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvOjQnTad)
-**收录时间**: 2025-06-09 20:02
+**收录时间**: 2025-06-09 21:03
 
 ---
 
-### [MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models](2025-06-09/MimeQA-_Towards_Socially-Intelligent_Nonverbal_Foundation_Models.md)
+### [#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：- 系统原生功能升级： - 支持ChatGPT整...](2025-06-09/#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple_Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：-_系统原生功能升级：_-_支持ChatGPT整....md)
 
-**摘要**: 随着AI日益融入日常生活，开发具备社交智能、能理解非语言互动的AI变得至关重要。当前AI社交推理主要依赖语言...
+**摘要**: 苹果AI新功能Apple Intelligence全面升级：整合ChatGPT支持图像生成；Siri更智能，具备视觉识别和知识问答；新增智能...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.16671v2)
-**收录时间**: 2025-06-09 20:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvOmnmHVx)
+**收录时间**: 2025-06-09 21:02
 
 ---
 
-### [Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](2025-06-09/Challenging_Vision-Language_Models_with_Surgical_Data-_A_New_Dataset_and_Broad_Benchmarking_Study.md)
+### [A Lightweight Dual-Branch System for Weakly-Supervised Video Anomaly Detection on Consumer Edge Devices](2025-06-09/A_Lightweight_Dual-Branch_System_for_Weakly-Supervised_Video_Anomaly_Detection_on_Consumer_Edge_Devices.md)
 
-**摘要**: 本研究评估了视觉语言模型(VLMs)在腹腔镜手术等内窥镜任务中的表现。研究发现，VLMs能有效完成基本感知任务(如...
+**摘要**: 本文提出了一种轻量级视频异常检测系统RuleVAD，专为消费电子设备设计。该系统采用创新的双分支架构：隐式分...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.06232v1)
-**收录时间**: 2025-06-09 20:01
+**原始链接**: [查看原文](http://arxiv.org/abs/2410.21991v7)
+**收录时间**: 2025-06-09 21:02
+
+---
+
+### [Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](2025-06-09/Sparse_Autoencoders_Learn_Monosemantic_Features_in_Vision-Language_Models.md)
+
+**摘要**: 稀疏自编码器(SAEs)被应用于视觉语言模型(VLMs)如CLIP，以提高其可解释性和可控性。研究提出了评估视觉表示中神...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.02821v2)
+**收录时间**: 2025-06-09 21:02
+
+---
+
+### [MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators](2025-06-09/MEDAL-_A_Framework_for_Benchmarking_LLMs_as_Multilingual_Open-Domain_Chatbots_and_Dialogue_Evaluators.md)
+
+**摘要**: 本文介绍了MEDAL框架，一个用于生成、评估和筛选更具代表性和多样性的开放域对话评估基准的多智能体自动化系...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2505.22777v2)
+**收录时间**: 2025-06-09 21:02
+
+---
+
+### [#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：- iPhone16全家桶：16e、16、16 Plus、16 Pro、16 Pro Max - iPhone1...](2025-06-09/#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：-_iPhone16全家桶：16e、16、16_Plus、16_Pro、16_Pro_Max_-_iPhone1....md)
+
+**摘要**: iOS26系统兼容机型公布，支持iPhone16/15/14/13/12/11全系及SE2/3代，最低要求A13芯片。iPhone XR/XS/XS Max等A12机型被淘汰，...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvOouBPaO)
+**收录时间**: 2025-06-09 21:02
 
 ---
 
@@ -188,92 +188,86 @@
 
 ### 2025-06-09 (66篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-09 20:05 
-  这篇论文研究了代码生成大模型(codeLLMs)与人类偏好的对齐问题，指出当前基准测试过于关注代码正确性而忽视用...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-09 21:05 
+  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该框架利用Stable D...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-09 20:05 
-  AMiner是一款新一代智能科技情报挖掘与服务系统，提供四位一体的学术服务，包括论文查找、理解、分析和写作。...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-09 21:05 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、科研情报订阅等一站式服务。它拥有3....
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-09 20:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽管...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-09 21:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次交互）。研究者...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-09 20:04 
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-09 21:05 
+  这篇论文针对代码生成大模型(codeLLMs)提出了CodeArena基准测试，关注模型输出与人类偏好的对齐问题。研究者收集...
+
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-09 21:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的关键致癌驱动因子，目前已...
+
+- **[#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live Activities，导航/音乐/提醒等直接显示在车上屏幕，信息不再东一块西一块。 [图片][图...](2025-06-09/#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live_Activities，导航-音乐-提醒等直接显示在车上屏幕，信息不再东一块西一块。_[图片][图....md)** | [原文](https://weibo.com/6105753431/PvNWf7prP) | 时间: 2025-06-09 21:04 
+  iOS26对CarPlay车载功能进行了重大升级，主要改进包括：支持iPhone小组件和实时活动（Live Activities）直接显示在车载...
+
+- **[#AppleMusic实用新功能##iOS26高效听歌学外语#Apple Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：- 歌词翻译（Lyrics Translati...](2025-06-09/#AppleMusic实用新功能##iOS26高效听歌学外语#Apple_Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：-_歌词翻译（Lyrics_Translati....md)** | [原文](https://weibo.com/6105753431/PvNYHalcl) | 时间: 2025-06-09 21:04 
+  Apple Music推出四项实用新功能：1）歌词翻译功能实时显示外语歌曲的英文翻译，帮助用户理解歌词；2）非拉丁语...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-09 21:04 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-09 20:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法改进带动量的随机梯度...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-09 21:04 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-09 20:04 
-  这篇论文介绍了AgentSociety，一个基于大语言模型的大规模社会模拟系统。该系统模拟了10,000多个AI代理的社会互动...
+- **[#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS 26正式命名为macOS Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级...](2025-06-09/#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS_26正式命名为macOS_Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级....md)** | [原文](https://weibo.com/6105753431/PvO9SkoKI) | 时间: 2025-06-09 21:03 
+  macOS 26正式命名为Tahoe，主打"通透感"设计升级：采用Liquid Glass效果使图标/Dock半透明带镜面光泽，菜单栏全透明增...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-09 20:04 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+- **[#iOS26都更新了什么##一图看懂iOS26#iOS 26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：- 界面全新设计：主屏图标...](2025-06-09/#iOS26都更新了什么##一图看懂iOS26#iOS_26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：-_界面全新设计：主屏图标....md)** | [原文](https://weibo.com/6105753431/PvO2TciS9) | 时间: 2025-06-09 21:03 
+  iOS 26带来多项重大更新：全新界面设计支持图标自定义和主题色，锁屏可随环境变化，控制中心改版，CarPlay新增...
 
-- **[#AppleMusic实用新功能##iOS26高效听歌学外语#Apple Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：- 歌词翻译（Lyrics Translati...](2025-06-09/#AppleMusic实用新功能##iOS26高效听歌学外语#Apple_Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：-_歌词翻译（Lyrics_Translati....md)** | [原文](https://weibo.com/6105753431/PvNYHalcl) | 时间: 2025-06-09 20:03 
-  Apple Music推出四项实用新功能：1）歌词翻译功能实时显示外语歌曲的英文翻译；2）日语/韩语歌词下方提供罗马音...
+- **[#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1. “Play Together”一起玩功能上线 可以组建...](2025-06-09/#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1._“Play_Together”一起玩功能上线_可以组建....md)** | [原文](https://weibo.com/6105753431/PvO0x576T) | 时间: 2025-06-09 21:03 
+  苹果推出全新游戏应用，主打社交化游戏体验。核心功能包括：1）"一起玩"模式，支持实时组队和查看好友游戏动...
 
-- **[#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live Activities，导航/音乐/提醒等直接显示在车上屏幕，信息不再东一块西一块。 [图片][图...](2025-06-09/#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live_Activities，导航-音乐-提醒等直接显示在车上屏幕，信息不再东一块西一块。_[图片][图....md)** | [原文](https://weibo.com/6105753431/PvNWf7prP) | 时间: 2025-06-09 20:03 
-  iOS26对CarPlay车载功能进行了重大升级。新版本支持iPhone小组件和实时活动(Live Activities)功能，可将导航、音乐、提...
-
-- **[#iOS26都更新了什么##一图看懂iOS26#iOS 26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：- 界面全新设计：主屏图标...](2025-06-09/#iOS26都更新了什么##一图看懂iOS26#iOS_26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：-_界面全新设计：主屏图标....md)** | [原文](https://weibo.com/6105753431/PvO2TciS9) | 时间: 2025-06-09 20:03 
-  iOS 26带来多项重大更新：界面全新设计，支持主屏图标自定义和锁屏自适应；控制中心改版，CarPlay新增小组件。...
-
-- **[#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1. “Play Together”一起玩功能上线 可以组建...](2025-06-09/#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1._“Play_Together”一起玩功能上线_可以组建....md)** | [原文](https://weibo.com/6105753431/PvO0x576T) | 时间: 2025-06-09 20:03 
-  苹果新推出的游戏应用主打社交化游戏体验，核心功能包括：1）"一起玩"模式支持实时组队和查看好友动态；2）"...
-
-- **[#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS 26正式命名为macOS Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级...](2025-06-09/#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS_26正式命名为macOS_Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级....md)** | [原文](https://weibo.com/6105753431/PvO9SkoKI) | 时间: 2025-06-09 20:03 
-  macOS 26正式命名为Tahoe，主打"通透感"设计升级。新系统采用Liquid Glass效果增强图标/Dock的镜面光泽，菜单栏全透明...
-
-- **[#watchOS26更新一览##watchOS26换新皮肤#Apple Watch系统更新到watchOS 26，每个更新都戳中日常高频使用场景：1. 全新界面设计：Liquid Glass风格上线，界面更圆...](2025-06-09/#watchOS26更新一览##watchOS26换新皮肤#Apple_Watch系统更新到watchOS_26，每个更新都戳中日常高频使用场景：1._全新界面设计：Liquid_Glass风格上线，界面更圆....md)** | [原文](https://weibo.com/6105753431/PvO6U0EiG) | 时间: 2025-06-09 20:03 
-  watchOS 26带来多项实用更新：全新Liquid Glass界面设计更时尚；新增AI健身助手Workout Buddy，可分析训练负荷、提供周...
-
-- **[#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：- iPhone16全家桶：16e、16、16 Plus、16 Pro、16 Pro Max - iPhone1...](2025-06-09/#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：-_iPhone16全家桶：16e、16、16_Plus、16_Pro、16_Pro_Max_-_iPhone1....md)** | [原文](https://weibo.com/6105753431/PvOouBPaO) | 时间: 2025-06-09 20:02 
-  iOS26系统兼容机型公布，支持iPhone16全系、15/14/13/12/11系列（含Pro/Max机型）及SE2/3代，最低要求A13芯片。这意味着搭...
-
-- **[#苹果VisionPro升级盘点##visionOS26空间体验卷出新高度#Apple刚刚更新了Vision Pro的系统——visionOS 26，带来一堆新功能，特别是空间体验这块，升级相当明显...](2025-06-09/#苹果VisionPro升级盘点##visionOS26空间体验卷出新高度#Apple刚刚更新了Vision_Pro的系统——visionOS_26，带来一堆新功能，特别是空间体验这块，升级相当明显....md)** | [原文](https://weibo.com/6105753431/PvOdsqj5m) | 时间: 2025-06-09 20:02 
+- **[#苹果VisionPro升级盘点##visionOS26空间体验卷出新高度#Apple刚刚更新了Vision Pro的系统——visionOS 26，带来一堆新功能，特别是空间体验这块，升级相当明显...](2025-06-09/#苹果VisionPro升级盘点##visionOS26空间体验卷出新高度#Apple刚刚更新了Vision_Pro的系统——visionOS_26，带来一堆新功能，特别是空间体验这块，升级相当明显....md)** | [原文](https://weibo.com/6105753431/PvOdsqj5m) | 时间: 2025-06-09 21:03 
   苹果Vision Pro最新visionOS 26系统带来多项空间体验升级：AI可将2D照片转为立体3D图像；虚拟形象Persona更逼真；Safari...
 
-- **[#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：- 系统原生功能升级： - 支持ChatGPT整...](2025-06-09/#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple_Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：-_系统原生功能升级：_-_支持ChatGPT整....md)** | [原文](https://weibo.com/6105753431/PvOmnmHVx) | 时间: 2025-06-09 20:02 
-  苹果AI新功能Apple Intelligence全面升级，主要亮点包括：1）系统整合ChatGPT和图像生成工具Image Playground，增强Siri自然...
+- **[#watchOS26更新一览##watchOS26换新皮肤#Apple Watch系统更新到watchOS 26，每个更新都戳中日常高频使用场景：1. 全新界面设计：Liquid Glass风格上线，界面更圆...](2025-06-09/#watchOS26更新一览##watchOS26换新皮肤#Apple_Watch系统更新到watchOS_26，每个更新都戳中日常高频使用场景：1._全新界面设计：Liquid_Glass风格上线，界面更圆....md)** | [原文](https://weibo.com/6105753431/PvO6U0EiG) | 时间: 2025-06-09 21:03 
+  watchOS 26主要更新包括：1）全新Liquid Glass界面设计，更时尚圆润；2）新增AI健身助手Workout Buddy，提供训练负荷分析...
 
-- **[A Lightweight Dual-Branch System for Weakly-Supervised Video Anomaly Detection on Consumer Edge Devices](2025-06-09/A_Lightweight_Dual-Branch_System_for_Weakly-Supervised_Video_Anomaly_Detection_on_Consumer_Edge_Devices.md)** | [原文](http://arxiv.org/abs/2410.21991v7) | 时间: 2025-06-09 20:02 
-  本文提出了一种轻量级实时视频异常检测系统RuleVAD，专为资源受限的消费电子设备设计。该系统采用创新的解耦...
+- **[#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS 26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：- 全新窗口系统： 多窗口终于...](2025-06-09/#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS_26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：-_全新窗口系统：_多窗口终于....md)** | [原文](https://weibo.com/6105753431/PvOjQnTad) | 时间: 2025-06-09 21:03 
+  iPadOS 26大幅融合macOS功能，同时保留触控优势。主要更新包括：全新多窗口系统（支持四宫格平铺+叠层）、Mac式红...
 
-- **[#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS 26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：- 全新窗口系统： 多窗口终于...](2025-06-09/#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS_26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：-_全新窗口系统：_多窗口终于....md)** | [原文](https://weibo.com/6105753431/PvOjQnTad) | 时间: 2025-06-09 20:02 
-  iPadOS 26带来重大更新，界面和操作更接近macOS，同时保留触控特色。主要升级包括：全新多窗口系统，支持自由拖...
+- **[#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：- 系统原生功能升级： - 支持ChatGPT整...](2025-06-09/#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple_Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：-_系统原生功能升级：_-_支持ChatGPT整....md)** | [原文](https://weibo.com/6105753431/PvOmnmHVx) | 时间: 2025-06-09 21:02 
+  苹果AI新功能Apple Intelligence全面升级：整合ChatGPT支持图像生成；Siri更智能，具备视觉识别和知识问答；新增智能...
 
-- **[MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models](2025-06-09/MimeQA-_Towards_Socially-Intelligent_Nonverbal_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2502.16671v2) | 时间: 2025-06-09 20:02 
-  随着AI日益融入日常生活，开发具备社交智能、能理解非语言互动的AI变得至关重要。当前AI社交推理主要依赖语言...
+- **[A Lightweight Dual-Branch System for Weakly-Supervised Video Anomaly Detection on Consumer Edge Devices](2025-06-09/A_Lightweight_Dual-Branch_System_for_Weakly-Supervised_Video_Anomaly_Detection_on_Consumer_Edge_Devices.md)** | [原文](http://arxiv.org/abs/2410.21991v7) | 时间: 2025-06-09 21:02 
+  本文提出了一种轻量级视频异常检测系统RuleVAD，专为消费电子设备设计。该系统采用创新的双分支架构：隐式分...
 
-- **[Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](2025-06-09/Challenging_Vision-Language_Models_with_Surgical_Data-_A_New_Dataset_and_Broad_Benchmarking_Study.md)** | [原文](http://arxiv.org/abs/2506.06232v1) | 时间: 2025-06-09 20:01 
-  本研究评估了视觉语言模型(VLMs)在腹腔镜手术等内窥镜任务中的表现。研究发现，VLMs能有效完成基本感知任务(如...
+- **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](2025-06-09/Sparse_Autoencoders_Learn_Monosemantic_Features_in_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2504.02821v2) | 时间: 2025-06-09 21:02 
+  稀疏自编码器(SAEs)被应用于视觉语言模型(VLMs)如CLIP，以提高其可解释性和可控性。研究提出了评估视觉表示中神...
 
-- **[Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams](2025-06-09/Teaming_in_the_AI_Era-_AI-Augmented_Frameworks_for_Forming,_Simulating,_and_Optimizing_Human_Teams.md)** | [原文](http://arxiv.org/abs/2506.05265v2) | 时间: 2025-06-09 20:01 
-  该博士论文研究AI增强的团队优化方法，提出三个创新方案：(1) 基于多臂老虎机算法的团队组建框架，通过迭代优...
+- **[MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators](2025-06-09/MEDAL-_A_Framework_for_Benchmarking_LLMs_as_Multilingual_Open-Domain_Chatbots_and_Dialogue_Evaluators.md)** | [原文](http://arxiv.org/abs/2505.22777v2) | 时间: 2025-06-09 21:02 
+  本文介绍了MEDAL框架，一个用于生成、评估和筛选更具代表性和多样性的开放域对话评估基准的多智能体自动化系...
 
-- **[MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators](2025-06-09/MEDAL-_A_Framework_for_Benchmarking_LLMs_as_Multilingual_Open-Domain_Chatbots_and_Dialogue_Evaluators.md)** | [原文](http://arxiv.org/abs/2505.22777v2) | 时间: 2025-06-09 20:01 
-  本文介绍了MEDAL框架，一种自动化的多智能体系统，用于生成、评估和筛选更具代表性和多样性的开放域对话评测...
+- **[#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：- iPhone16全家桶：16e、16、16 Plus、16 Pro、16 Pro Max - iPhone1...](2025-06-09/#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：-_iPhone16全家桶：16e、16、16_Plus、16_Pro、16_Pro_Max_-_iPhone1....md)** | [原文](https://weibo.com/6105753431/PvOouBPaO) | 时间: 2025-06-09 21:02 
+  iOS26系统兼容机型公布，支持iPhone16/15/14/13/12/11全系及SE2/3代，最低要求A13芯片。iPhone XR/XS/XS Max等A12机型被淘汰，...
 
-- **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](2025-06-09/Sparse_Autoencoders_Learn_Monosemantic_Features_in_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2504.02821v2) | 时间: 2025-06-09 20:01 
-  稀疏自编码器（SAE）被应用于视觉语言模型（VLM，如CLIP），以提高其可解释性和可控性。研究提出了一种评估视...
+- **[MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models](2025-06-09/MimeQA-_Towards_Socially-Intelligent_Nonverbal_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2502.16671v2) | 时间: 2025-06-09 21:02 
+  随着AI与人类日常活动日益融合，具备社交智能的AI系统变得至关重要。当前AI社交推理主要依赖语言模态，导致系...
 
-- **[GenIR: Generative Visual Feedback for Mental Image Retrieval](2025-06-09/GenIR-_Generative_Visual_Feedback_for_Mental_Image_Retrieval.md)** | [原文](http://arxiv.org/abs/2506.06220v1) | 时间: 2025-06-09 20:01 
-  本文提出"心理图像检索"(MIR)任务，研究用户通过多轮交互搜索心中所想图像的现实场景。针对现有方法依赖抽象...
+- **[Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models](2025-06-09/Visual_Graph_Arena-_Evaluating_Visual_Conceptualization_of_Vision_and_Multimodal_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.06242v1) | 时间: 2025-06-09 21:01 
+  近期研究提出了视觉图竞技场（VGA）数据集，用于评估AI系统的视觉抽象能力。VGA包含6个基于图的任务，通过不同...
 
-- **["We need to avail ourselves of GenAI to enhance knowledge distribution": Empowering Older Adults through GenAI Literacy](2025-06-09/We_need_to_avail_ourselves_of_GenAI_to_enhance_knowledge_distribution-_Empowering_Older_Adults_through_GenAI_Literacy.md)** | [原文](http://arxiv.org/abs/2506.06225v1) | 时间: 2025-06-09 20:01 
-  随着生成式AI（GenAI）普及，提升用户（尤其是老年人等弱势群体）对AI利弊的认知至关重要。本研究通过聊天机器...
+- **[GenIR: Generative Visual Feedback for Mental Image Retrieval](2025-06-09/GenIR-_Generative_Visual_Feedback_for_Mental_Image_Retrieval.md)** | [原文](http://arxiv.org/abs/2506.06220v1) | 时间: 2025-06-09 21:01 
+  本文提出了一种新的"心理图像检索"(MIR)任务，针对用户通过多轮交互搜索心中所想图像的现实场景。现有方法依...
 
-- **[Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models](2025-06-09/Visual_Graph_Arena-_Evaluating_Visual_Conceptualization_of_Vision_and_Multimodal_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.06242v1) | 时间: 2025-06-09 20:01 
-  该研究提出了视觉图竞技场（VGA）数据集，包含6个基于图的任务，用于评估AI系统在视觉抽象概念化方面的能力。...
+- **["We need to avail ourselves of GenAI to enhance knowledge distribution": Empowering Older Adults through GenAI Literacy](2025-06-09/We_need_to_avail_ourselves_of_GenAI_to_enhance_knowledge_distribution-_Empowering_Older_Adults_through_GenAI_Literacy.md)** | [原文](http://arxiv.org/abs/2506.06225v1) | 时间: 2025-06-09 21:01 
+  随着生成式AI（GenAI）的普及，针对老年群体（65岁以上）的AI素养教育尤为重要。本研究通过聊天机器人Litti探索...
 
-- **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](2025-06-09/PersonaAgent-_When_Large_Language_Model_Agents_Meet_Personalization_at_Test_Time.md)** | [原文](http://arxiv.org/abs/2506.06254v1) | 时间: 2025-06-09 20:00 
-  PersonaAgent是一个创新的个性化大语言模型（LLM）代理框架，通过整合个性化记忆模块（情景与语义记忆）和个性化...
+- **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](2025-06-09/PersonaAgent-_When_Large_Language_Model_Agents_Meet_Personalization_at_Test_Time.md)** | [原文](http://arxiv.org/abs/2506.06254v1) | 时间: 2025-06-09 21:01 
+  PersonaAgent是一个创新的个性化LLM代理框架，旨在解决多样化个性化任务。它包含两个核心模块：个性化记忆模块（...
 
-- **[#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在...](2025-06-09/#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在....md)** | [原文](https://weibo.com/6105753431/PvKEunAsU) | 时间: 2025-06-09 18:03 
-  AI在7个月内从仅能答对2%的数学难题提升至22%正确率，超越人类平均水平。测试基于包含300道高难度数学题的Frontie...
+- **[Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study](2025-06-09/Challenging_Vision-Language_Models_with_Surgical_Data-_A_New_Dataset_and_Broad_Benchmarking_Study.md)** | [原文](http://arxiv.org/abs/2506.06232v1) | 时间: 2025-06-09 21:01 
+  本研究评估了视觉语言模型(VLM)在腹腔镜手术内窥镜任务中的表现。研究发现，VLM能较好完成基础感知任务（如物...
 
-- **[#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】...](2025-06-09/#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo_3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】....md)** | [原文](https://weibo.com/6105753431/PvKEAxD4O) | 时间: 2025-06-09 18:03 
-  谷歌Veo3近期推出重大升级，仅需添加"360°"提示词即可生成3D环绕效果视频，支持视角转动和画面缩放（如石林场...
+- **[Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams](2025-06-09/Teaming_in_the_AI_Era-_AI-Augmented_Frameworks_for_Forming,_Simulating,_and_Optimizing_Human_Teams.md)** | [原文](http://arxiv.org/abs/2506.05265v2) | 时间: 2025-06-09 21:01 
+  该博士论文旨在开发AI增强的团队优化框架，以提升团队满意度、参与度和绩效。首先提出基于多臂老虎机算法的...
 
 - **[#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得...](2025-06-09/#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得....md)** | [原文](https://weibo.com/6105753431/PvKEQorQw) | 时间: 2025-06-09 18:03 
   最新神经研究表明，大脑在思考时仅比休息状态多消耗5%的能量，但思考仍会让人感到疲惫。这是因为大脑在空闲...
@@ -281,11 +275,17 @@
 - **[#苹果改了整个界面风格##苹果换上液态玻璃界面#刚刚，库克正式开启了2025WWDC，上来就介绍起了大家最关心的Apple Intelligence功能。苹果高级副总裁Federighi表...](2025-06-09/#苹果改了整个界面风格##苹果换上液态玻璃界面#刚刚，库克正式开启了2025WWDC，上来就介绍起了大家最关心的Apple_Intelligence功能。苹果高级副总裁Federighi表....md)** | [原文](https://weibo.com/6105753431/PvNP87dg5) | 时间: 2025-06-09 18:03 
   苹果在2025WWDC上推出全新设计语言\*\*Liquid Glass\*\*，核心特点是动态化与通透质感：锁屏时间字体和小组件会根据壁纸...
 
-- **[#iOS26短信能换背景了#iOS26更新公开，短信App支持换背景了。可以选内置、上传自己的，甚至用Apple Intelligence（苹果AI）生成专属背景，审美在线的都可以玩一...](2025-06-09/#iOS26短信能换背景了#iOS26更新公开，短信App支持换背景了。可以选内置、上传自己的，甚至用Apple_Intelligence（苹果AI）生成专属背景，审美在线的都可以玩一....md)** | [原文](https://weibo.com/6105753431/PvNVNlQgi) | 时间: 2025-06-09 18:02 
-  iOS26更新后，短信App新增了更换背景功能。用户可以选择内置背景、上传自定义图片，或通过苹果AI（Apple Intelligenc...
+- **[#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在...](2025-06-09/#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在....md)** | [原文](https://weibo.com/6105753431/PvKEunAsU) | 时间: 2025-06-09 18:03 
+  AI在7个月内从仅能答对2%的数学难题提升至22%正确率，超越人类平均水平。测试基于包含300道高难度数学题的Frontie...
+
+- **[#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】...](2025-06-09/#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo_3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】....md)** | [原文](https://weibo.com/6105753431/PvKEAxD4O) | 时间: 2025-06-09 18:03 
+  谷歌Veo3近期推出重大升级，仅需添加"360°"提示词即可生成3D环绕效果视频，支持视角转动和画面缩放（如石林场...
 
 - **[#iOS26全系换新UI##iOS26锁屏也能动起来#在WWDC25上，iOS26的UI界面几乎大换血，熟悉的应用都迎来新设计，连锁屏都“活”了起来。- Safari重设计：界面更现代，...](2025-06-09/#iOS26全系换新UI##iOS26锁屏也能动起来#在WWDC25上，iOS26的UI界面几乎大换血，熟悉的应用都迎来新设计，连锁屏都“活”了起来。-_Safari重设计：界面更现代，....md)** | [原文](https://weibo.com/6105753431/PvNRHmcu5) | 时间: 2025-06-09 18:02 
   iOS26在WWDC25上推出全新UI设计，主要更新包括：Safari浏览器界面更现代灵活；照片App简化为"照片"和"视频"两个主选...
+
+- **[#iOS26短信能换背景了#iOS26更新公开，短信App支持换背景了。可以选内置、上传自己的，甚至用Apple Intelligence（苹果AI）生成专属背景，审美在线的都可以玩一...](2025-06-09/#iOS26短信能换背景了#iOS26更新公开，短信App支持换背景了。可以选内置、上传自己的，甚至用Apple_Intelligence（苹果AI）生成专属背景，审美在线的都可以玩一....md)** | [原文](https://weibo.com/6105753431/PvNVNlQgi) | 时间: 2025-06-09 18:02 
+  iOS26更新后，短信App新增了更换背景功能。用户可以选择内置背景、上传自定义图片，或通过苹果AI（Apple Intelligenc...
 
 - **[#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、...](2025-06-09/#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、....md)** | [原文](https://weibo.com/6105753431/PvJFE7w1c) | 时间: 2025-06-09 17:04 
   北京智源大会上，银河通用机器人Galbot G1全球首秀，全程无遥控演示了超市拣货能力，依托端到端具身大模型Grocer...
