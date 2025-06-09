@@ -1,0 +1,18 @@
+# #苹果改了整个界面风格##苹果换上液态玻璃界面#刚刚，库克正式开启了2025WWDC，上来就介绍起了大家最关心的Apple Intelligence功能。苹果高级副总裁Federighi表...
+
+**URL**: https://weibo.com/6105753431/PvNP87dg5
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E6%94%B9%E4%BA%86%E6%95%B4%E4%B8%AA%E7%95%8C%E9%9D%A2%E9%A3%8E%E6%A0%BC%23&amp;extparam=%23%E8%8B%B9%E6%9E%9C%E6%94%B9%E4%BA%86%E6%95%B4%E4%B8%AA%E7%95%8C%E9%9D%A2%E9%A3%8E%E6%A0%BC%23" data-hide=""><span class="surl-text">#苹果改了整个界面风格#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E6%8D%A2%E4%B8%8A%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E7%95%8C%E9%9D%A2%23&amp;extparam=%23%E8%8B%B9%E6%9E%9C%E6%8D%A2%E4%B8%8A%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E7%95%8C%E9%9D%A2%23" data-hide=""><span class="surl-text">#苹果换上液态玻璃界面#</span></a><br><br>刚刚，库克正式开启了2025WWDC，上来就介绍起了大家最关心的Apple Intelligence功能。<br><br>苹果高级副总裁Federighi表示，苹果推出了新的Foundation Models框架，可以集成到任何应用程序中。它允许开发者访问苹果的 LLM，以便在应用程序中实现新的 AI 功能。<br><br>匆匆汇报过AI进展后，苹果发布了新设计：Liquid Glass。  <br><br>全平台换上全新设计语言：**Liquid Glass**，其特点为——<br><br>- 锁屏界面彻底重做：  时间字体不再死板居中，而是会根据壁纸的留白区域动态调整位置和大小，整个锁屏视觉更灵动；天气、小组件也融入玻璃质感，像浮在一层透明液体上。<br><br>- 图标不再“塑料感”：  全部App图标统一换上通透材质，看起来更“干净”。但设计团队强调，没有回到圆形图标，而是在原有形状上做出更新，让人一眼能认出，同时风格更统一。<br><br>- 壁纸也动起来了：  新系统中，壁纸不只是背景，而是会根据环境光线、时间段等动态变化。比如白天是暖调、晚上自动变冷色，整体过渡非常丝滑。<br><br>- 界面会“看人下菜碟”：  整个系统UI会实时响应你的操作，比如滑动、点击、停留，界面会呈现出玻璃流动般的细节动画。简单说就是：系统更懂你在干嘛，视觉反馈也更聪明。<br><br>Liquid Glass的核心理念是“内容为主，视觉适应”，它不仅好看，更像是苹果在为Vision Pro等空间计算设备打基础。<br><br>目前该设计语言随iOS 19测试版一起上线，正式版预计秋季推送，等于是iPhone也全面进入“空间时代”的前奏。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23iOS%E9%94%81%E5%B1%8F%E7%95%8C%E9%9D%A2%E5%A4%A7%E5%8F%98%E6%A0%B7%23&amp;extparam=%23iOS%E9%94%81%E5%B1%8F%E7%95%8C%E9%9D%A2%E5%A4%A7%E5%8F%98%E6%A0%B7%23" data-hide=""><span class="surl-text">#iOS锁屏界面大变样#</span></a><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i29kx5rwysj30p00e2ahe.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29kx1c46yj30p00e2n1w.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29kwsfbcxj30p00e2dho.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29kyxp7c9j30p00e2n0p.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29kzgxc31j30a005n3zh.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29kzj6cvvj30a005n402.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i29kzrf51qj30a005nq3o.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29kzt96tnj30a005nwfa.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i29kzux94gj30a005n3z1.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i29l3izxugj30p00e2tdt.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29l3kdz98j30p00e2jul.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i29l616bfwj30a005njsk.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+苹果在2025WWDC上推出全新设计语言**Liquid Glass**，核心特点是动态化与通透质感：锁屏时间字体和小组件会根据壁纸智能调整位置，融入玻璃液态效果；App图标统一为通透材质，保留原有形状但更简洁；壁纸可随光线、时间动态变色；系统UI会实时响应用户操作，呈现流动动画。该设计语言随iOS 19测试版发布，强调"内容为主，视觉适应"，被视为苹果为Vision Pro等空间计算设备铺路，正式版将于秋季推送。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-06-09T18:03:08Z
+- **目录日期**: 2025-06-09
