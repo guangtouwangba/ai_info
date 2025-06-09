@@ -4,66 +4,30 @@
 
 ## 最新内容
 
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示，直接建模音频-视...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-09 14:04
-
----
-
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、科研情报订阅等功能。它...
+**摘要**: AMiner是一款智能科技情报挖掘系统，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-09 14:04
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: 该研究介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次社会...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-09 14:04
+**收录时间**: 2025-06-09 15:04
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)现有评估主要关注代码正确性而忽视人类偏好的问题，提出了CodeArena基准测...
+**摘要**: 该研究针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，包含397个真实编程任务样本，覆盖40类任务和44种语言...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-09 14:04
+**收录时间**: 2025-06-09 15:04
 
 ---
 
-### [#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。...](2025-06-09/#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya_Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。....md)
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: OpenAI前首席科学家Ilya Sutskever沉寂一年后首次公开亮相，在其母校多伦多大学获颁荣誉理学博士学位并发表演讲。...
+**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvJEYkUr0)
-**收录时间**: 2025-06-09 14:03
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 本文综述了针对非小细胞肺癌(NSCLC)中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-09 14:03
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时依据梯度...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-09 14:03
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-06-09 15:04
 
 ---
 
@@ -72,88 +36,124 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-09 14:03
+**收录时间**: 2025-06-09 15:03
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次）。研究者用它分...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-06-09 15:03
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，尽...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-06-09 15:03
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-06-09 15:03
+
+---
+
+### [#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。...](2025-06-09/#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya_Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。....md)
+
+**摘要**: OpenAI联合创始人Ilya Sutskever沉寂一年后首次公开亮相，在其母校多伦多大学获颁荣誉理学博士学位并发表演讲。他...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvJEYkUr0)
+**收录时间**: 2025-06-09 15:02
 
 ---
 
 ### [#中科闻歌拿下新融资# 引领企业级人工智能技术发展近日，专注于决策智能的企业级AI服务商\*\*中科闻歌宣布完成新一轮战略融资\*\*，投资人为北京市石景山区现代创新...](2025-06-09/#中科闻歌拿下新融资#_引领企业级人工智能技术发展近日，专注于决策智能的企业级AI服务商中科闻歌宣布完成新一轮战略融资，投资人为北京市石景山区现代创新....md)
 
-**摘要**: 中科闻歌近日完成新一轮战略融资，投资方为北京市石景山区现代创新产业发展基金。融资将用于自研决策智能操...
+**摘要**: 中科闻歌近日完成新一轮战略融资，投资方为石景山区产业基金。资金将用于自研决策智能操作系统DIOS的研发和...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvJF2wmua)
-**收录时间**: 2025-06-09 14:02
+**收录时间**: 2025-06-09 15:02
 
 ---
 
 ### [#五分钟做出iOS应用##一键生成iPhone应用#一张截图，五分钟做出iPad和iPhone的App，还具备AI图像生成功能。来看下操作流程：1. 随手截个图：从App Store随便找个...](2025-06-09/#五分钟做出iOS应用##一键生成iPhone应用#一张截图，五分钟做出iPad和iPhone的App，还具备AI图像生成功能。来看下操作流程：1._随手截个图：从App_Store随便找个....md)
 
-**摘要**: Vibe Code工具实现了通过截图5分钟生成iOS应用：用户只需上传App截图并语音描述需求（如适配iPad/iPhone、调用AI图像...
+**摘要**: Vibe Code工具展示了AI驱动的快速应用开发：用户只需上传App截图并语音描述需求，系统就能在几秒内自动生成适配i...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKjDyDY1)
-**收录时间**: 2025-06-09 14:02
+**收录时间**: 2025-06-09 15:02
 
 ---
 
 ### [#Claude官方编程指南##Claude员工自用编程手册#Anthropic公司给内部员工的Claude Code使用指南，总结了Claude在10+个不同业务部门中的落地用法，覆盖从基础设施...](2025-06-09/#Claude官方编程指南##Claude员工自用编程手册#Anthropic公司给内部员工的Claude_Code使用指南，总结了Claude在10+个不同业务部门中的落地用法，覆盖从基础设施....md)
 
-**摘要**: Anthropic公司发布的Claude内部编程指南总结了AI助手在10多个部门的落地应用，主要价值包括自动化重复任务、降低...
+**摘要**: Anthropic公司发布的内部Claude编程指南总结了该AI在10+部门的落地应用，主要价值包括自动化重复任务、降低技术门...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKjdwf8a)
-**收录时间**: 2025-06-09 14:02
+**收录时间**: 2025-06-09 15:02
 
 ---
 
 ### [#CANN深度开放# 如何让开发者们既享受到足够的易用性，得以高效部署，又能满足开发者的灵活创新需求？昇腾CANN给出的答案是：开放。从算子层、编译层到驱动层，...](2025-06-09/#CANN深度开放#_如何让开发者们既享受到足够的易用性，得以高效部署，又能满足开发者的灵活创新需求？昇腾CANN给出的答案是：开放。从算子层、编译层到驱动层，....md)
 
-**摘要**: 昇腾CANN通过全面开放软硬件协同能力，为开发者提供高效部署与灵活创新的平衡方案。其开放架构覆盖算子层、...
+**摘要**: 昇腾CANN通过全面开放软硬件协同创新能力，为开发者提供高效部署和灵活创新的解决方案。该平台从算子层、编...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKbhthTu)
-**收录时间**: 2025-06-09 14:02
+**收录时间**: 2025-06-09 15:02
 
 ---
 
 ### [#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、...](2025-06-09/#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、....md)
 
-**摘要**: 北京智源大会上，银河通用机器人Galbot G1展示了全球首个零售VLA大模型GroceryVLA的应用成果，全程无遥控自主完成...
+**摘要**: 北京智源大会上，银河通用机器人Galbot G1展示了全球首个零售VLA大模型GroceryVLA的应用成果。该机器人全程无遥控...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvJFE7w1c)
-**收录时间**: 2025-06-09 14:02
+**收录时间**: 2025-06-09 15:02
 
 ---
 
 ### [#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得...](2025-06-09/#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得....md)
 
-**摘要**: 最新神经研究表明，大脑思考时仅比休息状态多消耗5%的能量，但人类仍会感到"脑力枯竭"。这是因为：1）大脑95%...
+**摘要**: 最新神经科学研究表明，大脑在思考时仅比休息状态多消耗5%的能量。虽然大脑只占体重的2%，却消耗全身20%的能...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKEQorQw)
-**收录时间**: 2025-06-09 14:01
+**收录时间**: 2025-06-09 15:01
 
 ---
 
 ### [#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】...](2025-06-09/#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo_3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】....md)
 
-**摘要**: 谷歌Veo 3近期推出重大升级，用户只需输入"360°"关键词即可生成3D环绕效果视频，支持视角旋转和画面缩放（如石...
+**摘要**: 谷歌Veo 3近期推出重大升级，用户仅需输入"360°"关键词即可为AI视频添加3D环绕效果，支持视角旋转和画面缩放（...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKEAxD4O)
-**收录时间**: 2025-06-09 14:01
+**收录时间**: 2025-06-09 15:01
 
 ---
 
 ### [#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在...](2025-06-09/#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在....md)
 
-**摘要**: AI在7个月内大幅提升数学解题能力，在超难数学测试FrontierMath（含300道高难度题目）中得分从2%跃升至22%，超过人...
+**摘要**: AI在7个月内大幅提升数学解题能力，在FrontierMath基准测试中得分从2%跃升至22%，超越人类团队平均水平。该测试包...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKEunAsU)
-**收录时间**: 2025-06-09 14:01
+**收录时间**: 2025-06-09 15:01
 
 ---
 
 ### [#豆包上线播客模型##豆包播客解说苏超# 家人们，又有好玩儿的AI出现了——火山引擎发布豆包·播客模型！来来来，我们直接听一段：【图1】。如何？是不是有亿点点...](2025-06-09/#豆包上线播客模型##豆包播客解说苏超#_家人们，又有好玩儿的AI出现了——火山引擎发布豆包·播客模型！来来来，我们直接听一段：【图1】。如何？是不是有亿点点....md)
 
-**摘要**: 火山引擎推出豆包·播客模型，能生成高度拟真的AI对话播客，语气、停顿和互动（如"嗯"、"对"等应和词）与真人...
+**摘要**: 火山引擎推出豆包·播客模型，能生成高度拟真的AI对话播客，其自然语气、互动应答（如"嗯"、"对"等）和流畅停...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvKxAu561)
-**收录时间**: 2025-06-09 14:01
+**收录时间**: 2025-06-09 15:01
 
 ---
 
@@ -188,56 +188,56 @@
 
 ### 2025-06-09 (53篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-09 14:04 
-  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示，直接建模音频-视...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-09 15:04 
+  AMiner是一款智能科技情报挖掘系统，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-09/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-09 14:04 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、科研情报订阅等功能。它...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-09 15:04 
+  该研究针对代码生成大模型(codeLLMs)提出新评估框架CodeArena，包含397个真实编程任务样本，覆盖40类任务和44种语言...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-09 14:04 
-  该研究介绍了AgentSociety——一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次社会...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-09/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-09 15:04 
+  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-09/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-09 14:04 
-  这篇论文针对代码生成大模型(codeLLMs)现有评估主要关注代码正确性而忽视人类偏好的问题，提出了CodeArena基准测...
-
-- **[#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。...](2025-06-09/#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya_Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。....md)** | [原文](https://weibo.com/6105753431/PvJEYkUr0) | 时间: 2025-06-09 14:03 
-  OpenAI前首席科学家Ilya Sutskever沉寂一年后首次公开亮相，在其母校多伦多大学获颁荣誉理学博士学位并发表演讲。...
-
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-09 14:03 
-  本文综述了针对非小细胞肺癌(NSCLC)中ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
-
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-09 14:03 
-  该研究提出SGD-SaI方法，质疑深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时依据梯度...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-09 14:03 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-09/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-09 15:03 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#中科闻歌拿下新融资# 引领企业级人工智能技术发展近日，专注于决策智能的企业级AI服务商\*\*中科闻歌宣布完成新一轮战略融资\*\*，投资人为北京市石景山区现代创新...](2025-06-09/#中科闻歌拿下新融资#_引领企业级人工智能技术发展近日，专注于决策智能的企业级AI服务商中科闻歌宣布完成新一轮战略融资，投资人为北京市石景山区现代创新....md)** | [原文](https://weibo.com/6105753431/PvJF2wmua) | 时间: 2025-06-09 14:02 
-  中科闻歌近日完成新一轮战略融资，投资方为北京市石景山区现代创新产业发展基金。融资将用于自研决策智能操...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-09/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-09 15:03 
+  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次）。研究者用它分...
 
-- **[#五分钟做出iOS应用##一键生成iPhone应用#一张截图，五分钟做出iPad和iPhone的App，还具备AI图像生成功能。来看下操作流程：1. 随手截个图：从App Store随便找个...](2025-06-09/#五分钟做出iOS应用##一键生成iPhone应用#一张截图，五分钟做出iPad和iPhone的App，还具备AI图像生成功能。来看下操作流程：1._随手截个图：从App_Store随便找个....md)** | [原文](https://weibo.com/6105753431/PvKjDyDY1) | 时间: 2025-06-09 14:02 
-  Vibe Code工具实现了通过截图5分钟生成iOS应用：用户只需上传App截图并语音描述需求（如适配iPad/iPhone、调用AI图像...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-09/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-09 15:03 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，尽...
 
-- **[#Claude官方编程指南##Claude员工自用编程手册#Anthropic公司给内部员工的Claude Code使用指南，总结了Claude在10+个不同业务部门中的落地用法，覆盖从基础设施...](2025-06-09/#Claude官方编程指南##Claude员工自用编程手册#Anthropic公司给内部员工的Claude_Code使用指南，总结了Claude在10+个不同业务部门中的落地用法，覆盖从基础设施....md)** | [原文](https://weibo.com/6105753431/PvKjdwf8a) | 时间: 2025-06-09 14:02 
-  Anthropic公司发布的Claude内部编程指南总结了AI助手在10多个部门的落地应用，主要价值包括自动化重复任务、降低...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-09/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-09 15:03 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
 
-- **[#CANN深度开放# 如何让开发者们既享受到足够的易用性，得以高效部署，又能满足开发者的灵活创新需求？昇腾CANN给出的答案是：开放。从算子层、编译层到驱动层，...](2025-06-09/#CANN深度开放#_如何让开发者们既享受到足够的易用性，得以高效部署，又能满足开发者的灵活创新需求？昇腾CANN给出的答案是：开放。从算子层、编译层到驱动层，....md)** | [原文](https://weibo.com/6105753431/PvKbhthTu) | 时间: 2025-06-09 14:02 
-  昇腾CANN通过全面开放软硬件协同能力，为开发者提供高效部署与灵活创新的平衡方案。其开放架构覆盖算子层、...
+- **[#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。...](2025-06-09/#Ilya沉寂一年后首现身##IlyaAI时代的生存法则#沉寂一年多，消失的Ilya_Sutskever终于出现了！他回到20年前大学毕业的讲台上——作为荣誉博士获得者进行了演讲。....md)** | [原文](https://weibo.com/6105753431/PvJEYkUr0) | 时间: 2025-06-09 15:02 
+  OpenAI联合创始人Ilya Sutskever沉寂一年后首次公开亮相，在其母校多伦多大学获颁荣誉理学博士学位并发表演讲。他...
 
-- **[#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、...](2025-06-09/#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、....md)** | [原文](https://weibo.com/6105753431/PvJFE7w1c) | 时间: 2025-06-09 14:02 
-  北京智源大会上，银河通用机器人Galbot G1展示了全球首个零售VLA大模型GroceryVLA的应用成果，全程无遥控自主完成...
+- **[#中科闻歌拿下新融资# 引领企业级人工智能技术发展近日，专注于决策智能的企业级AI服务商\*\*中科闻歌宣布完成新一轮战略融资\*\*，投资人为北京市石景山区现代创新...](2025-06-09/#中科闻歌拿下新融资#_引领企业级人工智能技术发展近日，专注于决策智能的企业级AI服务商中科闻歌宣布完成新一轮战略融资，投资人为北京市石景山区现代创新....md)** | [原文](https://weibo.com/6105753431/PvJF2wmua) | 时间: 2025-06-09 15:02 
+  中科闻歌近日完成新一轮战略融资，投资方为石景山区产业基金。资金将用于自研决策智能操作系统DIOS的研发和...
 
-- **[#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得...](2025-06-09/#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得....md)** | [原文](https://weibo.com/6105753431/PvKEQorQw) | 时间: 2025-06-09 14:01 
-  最新神经研究表明，大脑思考时仅比休息状态多消耗5%的能量，但人类仍会感到"脑力枯竭"。这是因为：1）大脑95%...
+- **[#五分钟做出iOS应用##一键生成iPhone应用#一张截图，五分钟做出iPad和iPhone的App，还具备AI图像生成功能。来看下操作流程：1. 随手截个图：从App Store随便找个...](2025-06-09/#五分钟做出iOS应用##一键生成iPhone应用#一张截图，五分钟做出iPad和iPhone的App，还具备AI图像生成功能。来看下操作流程：1._随手截个图：从App_Store随便找个....md)** | [原文](https://weibo.com/6105753431/PvKjDyDY1) | 时间: 2025-06-09 15:02 
+  Vibe Code工具展示了AI驱动的快速应用开发：用户只需上传App截图并语音描述需求，系统就能在几秒内自动生成适配i...
 
-- **[#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】...](2025-06-09/#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo_3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】....md)** | [原文](https://weibo.com/6105753431/PvKEAxD4O) | 时间: 2025-06-09 14:01 
-  谷歌Veo 3近期推出重大升级，用户只需输入"360°"关键词即可生成3D环绕效果视频，支持视角旋转和画面缩放（如石...
+- **[#Claude官方编程指南##Claude员工自用编程手册#Anthropic公司给内部员工的Claude Code使用指南，总结了Claude在10+个不同业务部门中的落地用法，覆盖从基础设施...](2025-06-09/#Claude官方编程指南##Claude员工自用编程手册#Anthropic公司给内部员工的Claude_Code使用指南，总结了Claude在10+个不同业务部门中的落地用法，覆盖从基础设施....md)** | [原文](https://weibo.com/6105753431/PvKjdwf8a) | 时间: 2025-06-09 15:02 
+  Anthropic公司发布的内部Claude编程指南总结了该AI在10+部门的落地应用，主要价值包括自动化重复任务、降低技术门...
 
-- **[#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在...](2025-06-09/#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在....md)** | [原文](https://weibo.com/6105753431/PvKEunAsU) | 时间: 2025-06-09 14:01 
-  AI在7个月内大幅提升数学解题能力，在超难数学测试FrontierMath（含300道高难度题目）中得分从2%跃升至22%，超过人...
+- **[#CANN深度开放# 如何让开发者们既享受到足够的易用性，得以高效部署，又能满足开发者的灵活创新需求？昇腾CANN给出的答案是：开放。从算子层、编译层到驱动层，...](2025-06-09/#CANN深度开放#_如何让开发者们既享受到足够的易用性，得以高效部署，又能满足开发者的灵活创新需求？昇腾CANN给出的答案是：开放。从算子层、编译层到驱动层，....md)** | [原文](https://weibo.com/6105753431/PvKbhthTu) | 时间: 2025-06-09 15:02 
+  昇腾CANN通过全面开放软硬件协同创新能力，为开发者提供高效部署和灵活创新的解决方案。该平台从算子层、编...
 
-- **[#豆包上线播客模型##豆包播客解说苏超# 家人们，又有好玩儿的AI出现了——火山引擎发布豆包·播客模型！来来来，我们直接听一段：【图1】。如何？是不是有亿点点...](2025-06-09/#豆包上线播客模型##豆包播客解说苏超#_家人们，又有好玩儿的AI出现了——火山引擎发布豆包·播客模型！来来来，我们直接听一段：【图1】。如何？是不是有亿点点....md)** | [原文](https://weibo.com/6105753431/PvKxAu561) | 时间: 2025-06-09 14:01 
-  火山引擎推出豆包·播客模型，能生成高度拟真的AI对话播客，语气、停顿和互动（如"嗯"、"对"等应和词）与真人...
+- **[#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、...](2025-06-09/#机器人首秀超市拣货##全球首个零售VLA大模型来了#北京智源大会上，一场关于“机器人真的能干活”的现场实录，把具身智能的想象直接拉进现实。现场不仅有技术、....md)** | [原文](https://weibo.com/6105753431/PvJFE7w1c) | 时间: 2025-06-09 15:02 
+  北京智源大会上，银河通用机器人Galbot G1展示了全球首个零售VLA大模型GroceryVLA的应用成果。该机器人全程无遥控...
+
+- **[#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得...](2025-06-09/#为什么一思考就很累##烧脑其实没多费能量#“想事情”会烧很多脑？最新的神经研究大脸：当我们努力思考时，大脑比休息状态只多耗了5%的能量。但为什么我们会觉得....md)** | [原文](https://weibo.com/6105753431/PvKEQorQw) | 时间: 2025-06-09 15:01 
+  最新神经科学研究表明，大脑在思考时仅比休息状态多消耗5%的能量。虽然大脑只占体重的2%，却消耗全身20%的能...
+
+- **[#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】...](2025-06-09/#谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo_3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】....md)** | [原文](https://weibo.com/6105753431/PvKEAxD4O) | 时间: 2025-06-09 15:01 
+  谷歌Veo 3近期推出重大升级，用户仅需输入"360°"关键词即可为AI视频添加3D环绕效果，支持视角旋转和画面缩放（...
+
+- **[#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在...](2025-06-09/#AI七个月反超人类数学家##大模型靠直觉反杀数学家#从只能答对2%的题目，到在超难数学题集中刷下22%得分，甚至超过人类团队平均水平，大模型需要多长时间？现在....md)** | [原文](https://weibo.com/6105753431/PvKEunAsU) | 时间: 2025-06-09 15:01 
+  AI在7个月内大幅提升数学解题能力，在FrontierMath基准测试中得分从2%跃升至22%，超越人类团队平均水平。该测试包...
+
+- **[#豆包上线播客模型##豆包播客解说苏超# 家人们，又有好玩儿的AI出现了——火山引擎发布豆包·播客模型！来来来，我们直接听一段：【图1】。如何？是不是有亿点点...](2025-06-09/#豆包上线播客模型##豆包播客解说苏超#_家人们，又有好玩儿的AI出现了——火山引擎发布豆包·播客模型！来来来，我们直接听一段：【图1】。如何？是不是有亿点点....md)** | [原文](https://weibo.com/6105753431/PvKxAu561) | 时间: 2025-06-09 15:01 
+  火山引擎推出豆包·播客模型，能生成高度拟真的AI对话播客，其自然语气、互动应答（如"嗯"、"对"等）和流畅停...
 
 - **[A Lightweight Dual-Branch System for Weakly-Supervised Video Anomaly Detection on Consumer Edge Devices](2025-06-09/A_Lightweight_Dual-Branch_System_for_Weakly-Supervised_Video_Anomaly_Detection_on_Consumer_Edge_Devices.md)** | [原文](http://arxiv.org/abs/2410.21991v7) | 时间: 2025-06-09 13:12 
   本文提出了一种轻量级视频异常检测系统RuleVAD，专为消费电子设备设计。该系统采用解耦双分支架构：隐式分支...
