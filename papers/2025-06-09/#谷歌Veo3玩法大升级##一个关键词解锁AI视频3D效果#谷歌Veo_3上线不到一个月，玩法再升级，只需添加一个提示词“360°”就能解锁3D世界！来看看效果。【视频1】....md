@@ -1,0 +1,18 @@
+# #谷歌Veo3玩法大升级##一个关键词解锁AI视频3D效果#谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！来看看效果。【视频1】...
+
+**URL**: https://weibo.com/6105753431/PvKEAxD4O
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B0%B7%E6%AD%8CVeo3%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%8D%87%E7%BA%A7%23&amp;extparam=%23%E8%B0%B7%E6%AD%8CVeo3%E7%8E%A9%E6%B3%95%E5%A4%A7%E5%8D%87%E7%BA%A7%23" data-hide=""><span class="surl-text">#谷歌Veo3玩法大升级#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%80%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E9%94%81AI%E8%A7%86%E9%A2%913D%E6%95%88%E6%9E%9C%23&amp;extparam=%23%E4%B8%80%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E9%94%81AI%E8%A7%86%E9%A2%913D%E6%95%88%E6%9E%9C%23" data-hide=""><span class="surl-text">#一个关键词解锁AI视频3D效果#</span></a><br><br>谷歌Veo 3上线不到一个月，玩法再升级，只需添加一个提示词“360°”就能解锁3D世界！<br><br>来看看效果。<br><br>【视频1】中的女生像是在拿着摄影机拍摄，随着她镜头的转动，从视频中的画面中可以看到周围环境的全景。<br><br>再来看看这个石林场景，不仅有3D环绕的效果，甚至可以放大或缩小画面：【视频2】<br><br>下面这个爆炸场景里，开头明明是在路面上爆炸，但当镜头移动到爆炸坑里的时候居然出现了高楼……【视频3】<br><br>这个城市场景，前几秒画面还是很真实的，但最后一个画面中出现了明显的拼接痕迹。【视频4】<br><br>此外，谷歌在没有推出API，没有发布公告的情况下，悄悄上线了Veo 3-Fast模型。<br><br>新模型效果，当然是要来一波展示。<br><br>来看段提示词：一位女士坐在繁忙的餐厅里，她说：我是用Veo 3 Fast在Google Flow上制作的，有音频但更便宜，分辨率相同，很有道理，看起来相当不错。<br><br>效果是这样的：【视频5】<br><br>这么看效果不明显，来看一个标准版和Fast版的对比。<br><br>以一个《Twin Peaks》风格的镜头开始，音频开启，先来看标准版。【视频6】<br><br>再来试试 Fast：【视频7】<br><br>尽管在面部细节和部分光照方面有所下降，但解决了标准版灯具漏光的问题。<br><br>大段Rap也不在话下。【视频8】<br><br>乐器的音色也是符合常理的。【视频9】<br><br>看完这些效果，你对Veo 3-Fast的态度如何呢？<img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i297692x5gj30b40o23yv.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29768abfkj30b40o2q38.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29769rh2hj30b40o2dg3.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i2976cpx3oj30b40o2aa9.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i2976evdk0j30zk0k0q4e.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i2976e0v9ij31gw0u0gn9.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i2976az2djj30zk0k0abi.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29769uxzdj30zk0k0q4c.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i2976alrm4j30zk0k00tz.jpg" referrerpolicy="no-referrer"><br><br><br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1i29768qa1gj30b40o23yv.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/UnNng6oGlx08oUnWiICA010412001D640E010.mp4?label=mp4_hd&amp;template=400x866.24.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1749466941&amp;ssig=bNfCVlcolO&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/bqUB58cUlx08oUnWuR9u010412001lQf0E010.mp4?label=mp4_ld&amp;template=360x776.24.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1749466941&amp;ssig=DJ%2FEnqNcne&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5175672436621400" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+
+## AI 摘要
+
+谷歌Veo 3近期推出重大升级，用户仅需输入"360°"提示词即可生成3D环绕效果视频（如全景环境、可缩放石林场景），但部分画面仍存在拼接瑕疵。同时，谷歌悄然上线Veo 3-Fast模型，在保持相同分辨率的前提下优化了音频同步和成本效率，虽面部细节略有下降，但解决了标准版的漏光问题，能流畅处理说唱和乐器音效。对比视频显示，Fast版在保持核心功能的同时提升了性价比。（注：原文含9段视频示例，此处根据文字描述概括核心升级点）
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-06-09T10:03:09Z
+- **目录日期**: 2025-06-09
