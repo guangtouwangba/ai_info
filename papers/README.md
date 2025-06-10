@@ -4,84 +4,93 @@
 
 ## 最新内容
 
-### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
+### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: 该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，通过397个涵盖40类编程任务和44种语言的样本，评估模型...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它收录了3....
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-10 07:06
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
+**收录时间**: 2025-06-10 08:06
 
 ---
 
-### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
+### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct指令集。CodeAre...
 
-**原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-10 07:06
+**原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
+**收录时间**: 2025-06-10 08:06
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。为解决扩散模型...
+**摘要**: 本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-10 07:06
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-10 07:05
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时基...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-10 07:05
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-10 07:05
+**收录时间**: 2025-06-10 08:06
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次社会互动。研究者利...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理的社会互动（500万次交互）。该...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-10 07:05
+**收录时间**: 2025-06-10 08:05
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-06-10 08:05
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-06-10 08:05
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力模型在处理长文本时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-06-10 08:05
 
 ---
 
 ### [#大模型并不只是鹦鹉学舌##大模型能理解现实世界概念#大模型≠随机鹦鹉！Nature子刊最新研究证明：大模型内部存在着类似人类对现实世界概念的理解。LLM能理解现...](2025-06-10/#大模型并不只是鹦鹉学舌##大模型能理解现实世界概念#大模型≠随机鹦鹉！Nature子刊最新研究证明：大模型内部存在着类似人类对现实世界概念的理解。LLM能理解现....md)
 
-**摘要**: 中国科学院团队在《Nature Machine Intelligence》发表研究，通过分析470万次行为数据证实：多模态大语言模型(MLLMs)能...
+**摘要**: 中国科学院团队在《Nature Machine Intelligence》发表研究，通过分析470万次行为数据，首次构建了AI的"概念地图"。研...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvRc0zucP)
-**收录时间**: 2025-06-10 07:04
+**收录时间**: 2025-06-10 08:04
 
 ---
 
 ### [#粒子物理标准模型屹立不倒##μ子异常最新实验未发现显著偏差#一度轰动物理学界的「μ子异常」，凉了。美国费米实验室公布的最新实验结果显示：尽管在2021年，研...](2025-06-10/#粒子物理标准模型屹立不倒##μ子异常最新实验未发现显著偏差#一度轰动物理学界的「μ子异常」，凉了。美国费米实验室公布的最新实验结果显示：尽管在2021年，研....md)
 
-**摘要**: 费米实验室最新实验结果显示，此前引发轰动的"μ子异常"（μ子磁矩与理论预测存在0.1%偏差）并未得到证实。2021...
+**摘要**: 费米实验室最新实验结果显示，此前引发轰动的"μ子异常"可能并不存在。2021年实验曾测得μ子磁矩与标准模型预...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvSfltzhb)
-**收录时间**: 2025-06-10 07:04
+**收录时间**: 2025-06-10 08:04
+
+---
+
+### [#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The Illusion of Thinking》一定会被提及。【图1】在这篇论文...](2025-06-10/#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The_Illusion_of_Thinking》一定会被提及。【图1】在这篇论文....md)
+
+**摘要**: 苹果近期论文《The Illusion of Thinking》引发热议，认为大模型的"思考"仅是模板化输出，复杂问题下算力无效。但质...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvSb7gViM)
+**收录时间**: 2025-06-10 08:04
 
 ---
 
@@ -90,34 +99,25 @@
 **摘要**: 苹果WWDC发布会开场6分钟市值暴跌750亿美元，主因是Siri AI更新推迟至明年引发投资者失望。发布会重点包括：1）...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvRWa2TrC)
-**收录时间**: 2025-06-10 07:04
-
----
-
-### [#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The Illusion of Thinking》一定会被提及。【图1】在这篇论文...](2025-06-10/#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The_Illusion_of_Thinking》一定会被提及。【图1】在这篇论文....md)
-
-**摘要**: 苹果论文《The Illusion of Thinking》引发争议，认为大模型"思考"仅是模板复用，无法处理复杂问题。但质疑者指出，...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvSb7gViM)
-**收录时间**: 2025-06-10 07:04
+**收录时间**: 2025-06-10 08:04
 
 ---
 
 ### [#开源MCP实现AI记忆互联##开箱即用让模型共享记忆#无需登录，无需付费，让你的模型们拥有共享的记忆！曾在四月份爆火过一波的9.8k星项目Supermemory，带着它的开...](2025-06-10/#开源MCP实现AI记忆互联##开箱即用让模型共享记忆#无需登录，无需付费，让你的模型们拥有共享的记忆！曾在四月份爆火过一波的9.8k星项目Supermemory，带着它的开....md)
 
-**摘要**: Supermemory MCP是一个开源AI记忆互联系统，主打"开箱即用"特性，让不同AI模型可以共享记忆。该项目具有以下特点：...
+**摘要**: Supermemory MCP是一个开源通用记忆中枢项目，允许AI模型共享记忆且无需登录或付费。它具有以下特点：1) 使用SSE技...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvSfsgkjC)
-**收录时间**: 2025-06-10 07:03
+**收录时间**: 2025-06-10 08:03
 
 ---
 
 ### [#强化学习之父谈AI的未来##强化学习才是AI正解#新晋图灵奖得主、强化学习之父Richard Sutton在新加坡国立大学120周年演讲中，分享了他对AI未来的判断，来看重点...](2025-06-10/#强化学习之父谈AI的未来##强化学习才是AI正解#新晋图灵奖得主、强化学习之父Richard_Sutton在新加坡国立大学120周年演讲中，分享了他对AI未来的判断，来看重点....md)
 
-**摘要**: 强化学习之父Richard Sutton在新加坡国立大学演讲中指出：1)大语言模型(LLM)只是阶段性成果，依赖模仿人类数据难以...
+**摘要**: 强化学习之父Richard Sutton认为：1)大语言模型(LLM)只是阶段性成果，依赖模仿人类数据难以创新；2)AI未来应通过环...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvT6Bh8aM)
-**收录时间**: 2025-06-10 07:03
+**收录时间**: 2025-06-10 08:03
 
 ---
 
@@ -126,61 +126,61 @@
 **摘要**: 杭州将于2025年6月举办"智汇运河·智算未来"全球人工智能创新创业大赛，由拱墅区政府、中国人工智能学会等联合...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvSXswTD7)
-**收录时间**: 2025-06-10 07:03
+**收录时间**: 2025-06-10 08:03
 
 ---
 
 ### [#模型看似安全其实没懂##新评测揭示模型假聪明#推理模型生成安全回答，但其实不懂风险？淘天集团算法团队提出了“表面安全对齐”（SSA）这一新概念，用来描述这...](2025-06-10/#模型看似安全其实没懂##新评测揭示模型假聪明#推理模型生成安全回答，但其实不懂风险？淘天集团算法团队提出了“表面安全对齐”（SSA）这一新概念，用来描述这....md)
 
-**摘要**: 淘天集团算法团队提出"表面安全对齐"(SSA)概念，指AI模型能生成看似安全的回答但实际未理解风险。团队发布首个...
+**摘要**: 淘天集团算法团队提出"表面安全对齐"(SSA)概念，指AI模型生成看似安全的回答但实际缺乏风险认知。团队发布Beyond...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvT6V0HJs)
-**收录时间**: 2025-06-10 07:03
-
----
-
-### [#华为创造AI算力新纪录##万卡集群训练98%可用度# 大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集...](2025-06-10/#华为创造AI算力新纪录##万卡集群训练98%可用度#_大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集....md)
-
-**摘要**: 华为昇腾AI算力集群实现重大突破：万卡集群训练可用度达98%，接近"永不罢工"状态。其核心优势包括：95%以上的...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PvSF5997F)
-**收录时间**: 2025-06-10 07:03
-
----
-
-### [HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](2025-06-10/HeuriGym-_An_Agentic_Benchmark_for_LLM-Crafted_Heuristics_in_Combinatorial_Optimization.md)
-
-**摘要**: 这篇论文介绍了HeuriGym框架，用于评估大语言模型（LLMs）在组合优化问题中生成启发式算法的能力。该框架通过代...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.07972v1)
-**收录时间**: 2025-06-10 07:02
-
----
-
-### [Automated Capability Discovery via Foundation Model Self-Exploration](2025-06-10/Automated_Capability_Discovery_via_Foundation_Model_Self-Exploration.md)
-
-**摘要**: 本文提出自动化能力发现（ACD）框架，利用前沿基础模型作为"科学家"来自动生成开放式任务，系统性地探索目标...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.07577v3)
-**收录时间**: 2025-06-10 07:02
+**收录时间**: 2025-06-10 08:03
 
 ---
 
 ### [#一站式RAG玩法集合##手撸22种RAG实现# 不靠LangChain，手撸22种RAG方案？ 项目叫“All RAG Techniques”，它用最基础的Python库，尽量不依赖黑盒框架，把RAG的...](2025-06-10/#一站式RAG玩法集合##手撸22种RAG实现#_不靠LangChain，手撸22种RAG方案？_项目叫“All_RAG_Techniques”，它用最基础的Python库，尽量不依赖黑盒框架，把RAG的....md)
 
-**摘要**: 该项目名为"All RAG Techniques"，是一个专注于检索增强生成(RAG)技术的教学项目。它采用基础Python库(如openai、numpy等)...
+**摘要**: 这是一个名为"All RAG Techniques"的开源教学项目，通过22种基础Python实现方案讲解检索增强生成(RAG)技术。项目特点包...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PvT7wl7nY)
-**收录时间**: 2025-06-10 07:02
+**收录时间**: 2025-06-10 08:03
 
 ---
 
-### [Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures](2025-06-10/Intelligent_Offloading_in_Vehicular_Edge_Computing-_A_Comprehensive_Review_of_Deep_Reinforcement_Learning_Approaches_and_Architectures.md)
+### [#华为创造AI算力新纪录##万卡集群训练98%可用度# 大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集...](2025-06-10/#华为创造AI算力新纪录##万卡集群训练98%可用度#_大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集....md)
 
-**摘要**: 本文综述了智能交通系统(ITS)中基于深度强化学习(DRL)的计算卸载研究进展。随着ITS复杂性增加，传统卸载策略难...
+**摘要**: 华为昇腾AI算力集群实现重大突破：万卡集群训练可用度达98%，相当于全年358天持续稳定运行；算力线性度超95%，...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.06963v2)
-**收录时间**: 2025-06-10 07:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PvSF5997F)
+**收录时间**: 2025-06-10 08:03
+
+---
+
+### [HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](2025-06-10/HeuriGym-_An_Agentic_Benchmark_for_LLM-Crafted_Heuristics_in_Combinatorial_Optimization.md)
+
+**摘要**: 本文介绍了HeuriGym框架，用于评估大语言模型（LLMs）在组合优化问题中生成启发式算法的能力。该框架通过代码执...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.07972v1)
+**收录时间**: 2025-06-10 08:02
+
+---
+
+### [Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](2025-06-10/Thinking_vs._Doing-_Agents_that_Reason_by_Scaling_Test-Time_Interaction.md)
+
+**摘要**: 当前测试时扩展范式主要依赖生成长推理轨迹（“多思考”）再行动，但这种方法无法让智能体从环境中获取新信...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.07976v1)
+**收录时间**: 2025-06-10 08:02
+
+---
+
+### [Automated Capability Discovery via Foundation Model Self-Exploration](2025-06-10/Automated_Capability_Discovery_via_Foundation_Model_Self-Exploration.md)
+
+**摘要**: 本文提出自动能力发现框架（ACD），利用一个基础模型作为"科学家"来系统性地生成开放式任务，以探测目标模型...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2502.07577v3)
+**收录时间**: 2025-06-10 08:02
 
 ---
 
@@ -188,86 +188,86 @@
 
 ### 2025-06-10 (50篇)
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-10 07:06 
-  该论文针对代码生成大模型(codeLLMs)提出CodeArena基准测试，通过397个涵盖40类编程任务和44种语言的样本，评估模型...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-10 08:06 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它收录了3....
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-10/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-10 07:06 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-10/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-10 08:06 
+  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试和SynCode-Instruct指令集。CodeAre...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-10 07:06 
-  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。为解决扩散模型...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-10/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-10 08:06 
+  本研究提出LatentSync框架，利用音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-10 07:05 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-10 08:05 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理的社会互动（500万次交互）。该...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-10 07:05 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI通过初始化时基...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-10/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-10 08:05 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-10 07:05 
-  这篇论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-10/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-10 08:05 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-10/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-10 07:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个智能代理及其500万次社会互动。研究者利...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-10/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-10 08:05 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力模型在处理长文本时...
 
-- **[#大模型并不只是鹦鹉学舌##大模型能理解现实世界概念#大模型≠随机鹦鹉！Nature子刊最新研究证明：大模型内部存在着类似人类对现实世界概念的理解。LLM能理解现...](2025-06-10/#大模型并不只是鹦鹉学舌##大模型能理解现实世界概念#大模型≠随机鹦鹉！Nature子刊最新研究证明：大模型内部存在着类似人类对现实世界概念的理解。LLM能理解现....md)** | [原文](https://weibo.com/6105753431/PvRc0zucP) | 时间: 2025-06-10 07:04 
-  中国科学院团队在《Nature Machine Intelligence》发表研究，通过分析470万次行为数据证实：多模态大语言模型(MLLMs)能...
+- **[#大模型并不只是鹦鹉学舌##大模型能理解现实世界概念#大模型≠随机鹦鹉！Nature子刊最新研究证明：大模型内部存在着类似人类对现实世界概念的理解。LLM能理解现...](2025-06-10/#大模型并不只是鹦鹉学舌##大模型能理解现实世界概念#大模型≠随机鹦鹉！Nature子刊最新研究证明：大模型内部存在着类似人类对现实世界概念的理解。LLM能理解现....md)** | [原文](https://weibo.com/6105753431/PvRc0zucP) | 时间: 2025-06-10 08:04 
+  中国科学院团队在《Nature Machine Intelligence》发表研究，通过分析470万次行为数据，首次构建了AI的"概念地图"。研...
 
-- **[#粒子物理标准模型屹立不倒##μ子异常最新实验未发现显著偏差#一度轰动物理学界的「μ子异常」，凉了。美国费米实验室公布的最新实验结果显示：尽管在2021年，研...](2025-06-10/#粒子物理标准模型屹立不倒##μ子异常最新实验未发现显著偏差#一度轰动物理学界的「μ子异常」，凉了。美国费米实验室公布的最新实验结果显示：尽管在2021年，研....md)** | [原文](https://weibo.com/6105753431/PvSfltzhb) | 时间: 2025-06-10 07:04 
-  费米实验室最新实验结果显示，此前引发轰动的"μ子异常"（μ子磁矩与理论预测存在0.1%偏差）并未得到证实。2021...
+- **[#粒子物理标准模型屹立不倒##μ子异常最新实验未发现显著偏差#一度轰动物理学界的「μ子异常」，凉了。美国费米实验室公布的最新实验结果显示：尽管在2021年，研...](2025-06-10/#粒子物理标准模型屹立不倒##μ子异常最新实验未发现显著偏差#一度轰动物理学界的「μ子异常」，凉了。美国费米实验室公布的最新实验结果显示：尽管在2021年，研....md)** | [原文](https://weibo.com/6105753431/PvSfltzhb) | 时间: 2025-06-10 08:04 
+  费米实验室最新实验结果显示，此前引发轰动的"μ子异常"可能并不存在。2021年实验曾测得μ子磁矩与标准模型预...
 
-- **[#苹果发布会6分钟狂掉750亿市值##苹果究竟更新了什么AI内容#开场仅6分钟市值就突然缩水750亿美元（约合人民币5385.8亿元）！是什么让一众投资者对苹果发布会集体...](2025-06-10/#苹果发布会6分钟狂掉750亿市值##苹果究竟更新了什么AI内容#开场仅6分钟市值就突然缩水750亿美元（约合人民币5385.8亿元）！是什么让一众投资者对苹果发布会集体....md)** | [原文](https://weibo.com/6105753431/PvRWa2TrC) | 时间: 2025-06-10 07:04 
+- **[#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The Illusion of Thinking》一定会被提及。【图1】在这篇论文...](2025-06-10/#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The_Illusion_of_Thinking》一定会被提及。【图1】在这篇论文....md)** | [原文](https://weibo.com/6105753431/PvSb7gViM) | 时间: 2025-06-10 08:04 
+  苹果近期论文《The Illusion of Thinking》引发热议，认为大模型的"思考"仅是模板化输出，复杂问题下算力无效。但质...
+
+- **[#苹果发布会6分钟狂掉750亿市值##苹果究竟更新了什么AI内容#开场仅6分钟市值就突然缩水750亿美元（约合人民币5385.8亿元）！是什么让一众投资者对苹果发布会集体...](2025-06-10/#苹果发布会6分钟狂掉750亿市值##苹果究竟更新了什么AI内容#开场仅6分钟市值就突然缩水750亿美元（约合人民币5385.8亿元）！是什么让一众投资者对苹果发布会集体....md)** | [原文](https://weibo.com/6105753431/PvRWa2TrC) | 时间: 2025-06-10 08:04 
   苹果WWDC发布会开场6分钟市值暴跌750亿美元，主因是Siri AI更新推迟至明年引发投资者失望。发布会重点包括：1）...
 
-- **[#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The Illusion of Thinking》一定会被提及。【图1】在这篇论文...](2025-06-10/#苹果重磅论文遭质疑##AI假思考是因为达到输出上限#要说近期讨论的最激烈的话题，苹果的重磅论文《The_Illusion_of_Thinking》一定会被提及。【图1】在这篇论文....md)** | [原文](https://weibo.com/6105753431/PvSb7gViM) | 时间: 2025-06-10 07:04 
-  苹果论文《The Illusion of Thinking》引发争议，认为大模型"思考"仅是模板复用，无法处理复杂问题。但质疑者指出，...
+- **[#开源MCP实现AI记忆互联##开箱即用让模型共享记忆#无需登录，无需付费，让你的模型们拥有共享的记忆！曾在四月份爆火过一波的9.8k星项目Supermemory，带着它的开...](2025-06-10/#开源MCP实现AI记忆互联##开箱即用让模型共享记忆#无需登录，无需付费，让你的模型们拥有共享的记忆！曾在四月份爆火过一波的9.8k星项目Supermemory，带着它的开....md)** | [原文](https://weibo.com/6105753431/PvSfsgkjC) | 时间: 2025-06-10 08:03 
+  Supermemory MCP是一个开源通用记忆中枢项目，允许AI模型共享记忆且无需登录或付费。它具有以下特点：1) 使用SSE技...
 
-- **[#开源MCP实现AI记忆互联##开箱即用让模型共享记忆#无需登录，无需付费，让你的模型们拥有共享的记忆！曾在四月份爆火过一波的9.8k星项目Supermemory，带着它的开...](2025-06-10/#开源MCP实现AI记忆互联##开箱即用让模型共享记忆#无需登录，无需付费，让你的模型们拥有共享的记忆！曾在四月份爆火过一波的9.8k星项目Supermemory，带着它的开....md)** | [原文](https://weibo.com/6105753431/PvSfsgkjC) | 时间: 2025-06-10 07:03 
-  Supermemory MCP是一个开源AI记忆互联系统，主打"开箱即用"特性，让不同AI模型可以共享记忆。该项目具有以下特点：...
+- **[#强化学习之父谈AI的未来##强化学习才是AI正解#新晋图灵奖得主、强化学习之父Richard Sutton在新加坡国立大学120周年演讲中，分享了他对AI未来的判断，来看重点...](2025-06-10/#强化学习之父谈AI的未来##强化学习才是AI正解#新晋图灵奖得主、强化学习之父Richard_Sutton在新加坡国立大学120周年演讲中，分享了他对AI未来的判断，来看重点....md)** | [原文](https://weibo.com/6105753431/PvT6Bh8aM) | 时间: 2025-06-10 08:03 
+  强化学习之父Richard Sutton认为：1)大语言模型(LLM)只是阶段性成果，依赖模仿人类数据难以创新；2)AI未来应通过环...
 
-- **[#强化学习之父谈AI的未来##强化学习才是AI正解#新晋图灵奖得主、强化学习之父Richard Sutton在新加坡国立大学120周年演讲中，分享了他对AI未来的判断，来看重点...](2025-06-10/#强化学习之父谈AI的未来##强化学习才是AI正解#新晋图灵奖得主、强化学习之父Richard_Sutton在新加坡国立大学120周年演讲中，分享了他对AI未来的判断，来看重点....md)** | [原文](https://weibo.com/6105753431/PvT6Bh8aM) | 时间: 2025-06-10 07:03 
-  强化学习之父Richard Sutton在新加坡国立大学演讲中指出：1)大语言模型(LLM)只是阶段性成果，依赖模仿人类数据难以...
-
-- **[#杭州要办全球AI创业大赛##全球人工智能创新创业大赛即将启幕#AI创业者请看这里——2025年6月，由杭州市拱墅区人民政府、中国人工智能学会、中欧人才交流与创新...](2025-06-10/#杭州要办全球AI创业大赛##全球人工智能创新创业大赛即将启幕#AI创业者请看这里——2025年6月，由杭州市拱墅区人民政府、中国人工智能学会、中欧人才交流与创新....md)** | [原文](https://weibo.com/6105753431/PvSXswTD7) | 时间: 2025-06-10 07:03 
+- **[#杭州要办全球AI创业大赛##全球人工智能创新创业大赛即将启幕#AI创业者请看这里——2025年6月，由杭州市拱墅区人民政府、中国人工智能学会、中欧人才交流与创新...](2025-06-10/#杭州要办全球AI创业大赛##全球人工智能创新创业大赛即将启幕#AI创业者请看这里——2025年6月，由杭州市拱墅区人民政府、中国人工智能学会、中欧人才交流与创新....md)** | [原文](https://weibo.com/6105753431/PvSXswTD7) | 时间: 2025-06-10 08:03 
   杭州将于2025年6月举办"智汇运河·智算未来"全球人工智能创新创业大赛，由拱墅区政府、中国人工智能学会等联合...
 
-- **[#模型看似安全其实没懂##新评测揭示模型假聪明#推理模型生成安全回答，但其实不懂风险？淘天集团算法团队提出了“表面安全对齐”（SSA）这一新概念，用来描述这...](2025-06-10/#模型看似安全其实没懂##新评测揭示模型假聪明#推理模型生成安全回答，但其实不懂风险？淘天集团算法团队提出了“表面安全对齐”（SSA）这一新概念，用来描述这....md)** | [原文](https://weibo.com/6105753431/PvT6V0HJs) | 时间: 2025-06-10 07:03 
-  淘天集团算法团队提出"表面安全对齐"(SSA)概念，指AI模型能生成看似安全的回答但实际未理解风险。团队发布首个...
+- **[#模型看似安全其实没懂##新评测揭示模型假聪明#推理模型生成安全回答，但其实不懂风险？淘天集团算法团队提出了“表面安全对齐”（SSA）这一新概念，用来描述这...](2025-06-10/#模型看似安全其实没懂##新评测揭示模型假聪明#推理模型生成安全回答，但其实不懂风险？淘天集团算法团队提出了“表面安全对齐”（SSA）这一新概念，用来描述这....md)** | [原文](https://weibo.com/6105753431/PvT6V0HJs) | 时间: 2025-06-10 08:03 
+  淘天集团算法团队提出"表面安全对齐"(SSA)概念，指AI模型生成看似安全的回答但实际缺乏风险认知。团队发布Beyond...
 
-- **[#华为创造AI算力新纪录##万卡集群训练98%可用度# 大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集...](2025-06-10/#华为创造AI算力新纪录##万卡集群训练98%可用度#_大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集....md)** | [原文](https://weibo.com/6105753431/PvSF5997F) | 时间: 2025-06-10 07:03 
-  华为昇腾AI算力集群实现重大突破：万卡集群训练可用度达98%，接近"永不罢工"状态。其核心优势包括：95%以上的...
+- **[#一站式RAG玩法集合##手撸22种RAG实现# 不靠LangChain，手撸22种RAG方案？ 项目叫“All RAG Techniques”，它用最基础的Python库，尽量不依赖黑盒框架，把RAG的...](2025-06-10/#一站式RAG玩法集合##手撸22种RAG实现#_不靠LangChain，手撸22种RAG方案？_项目叫“All_RAG_Techniques”，它用最基础的Python库，尽量不依赖黑盒框架，把RAG的....md)** | [原文](https://weibo.com/6105753431/PvT7wl7nY) | 时间: 2025-06-10 08:03 
+  这是一个名为"All RAG Techniques"的开源教学项目，通过22种基础Python实现方案讲解检索增强生成(RAG)技术。项目特点包...
 
-- **[HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](2025-06-10/HeuriGym-_An_Agentic_Benchmark_for_LLM-Crafted_Heuristics_in_Combinatorial_Optimization.md)** | [原文](http://arxiv.org/abs/2506.07972v1) | 时间: 2025-06-10 07:02 
-  这篇论文介绍了HeuriGym框架，用于评估大语言模型（LLMs）在组合优化问题中生成启发式算法的能力。该框架通过代...
+- **[#华为创造AI算力新纪录##万卡集群训练98%可用度# 大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集...](2025-06-10/#华为创造AI算力新纪录##万卡集群训练98%可用度#_大模型的落地能力，核心在于性能的稳定输出，而性能稳定的底层支撑，是强大的算力集群。其中，构建万卡级算力集....md)** | [原文](https://weibo.com/6105753431/PvSF5997F) | 时间: 2025-06-10 08:03 
+  华为昇腾AI算力集群实现重大突破：万卡集群训练可用度达98%，相当于全年358天持续稳定运行；算力线性度超95%，...
 
-- **[Automated Capability Discovery via Foundation Model Self-Exploration](2025-06-10/Automated_Capability_Discovery_via_Foundation_Model_Self-Exploration.md)** | [原文](http://arxiv.org/abs/2502.07577v3) | 时间: 2025-06-10 07:02 
-  本文提出自动化能力发现（ACD）框架，利用前沿基础模型作为"科学家"来自动生成开放式任务，系统性地探索目标...
+- **[HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](2025-06-10/HeuriGym-_An_Agentic_Benchmark_for_LLM-Crafted_Heuristics_in_Combinatorial_Optimization.md)** | [原文](http://arxiv.org/abs/2506.07972v1) | 时间: 2025-06-10 08:02 
+  本文介绍了HeuriGym框架，用于评估大语言模型（LLMs）在组合优化问题中生成启发式算法的能力。该框架通过代码执...
 
-- **[#一站式RAG玩法集合##手撸22种RAG实现# 不靠LangChain，手撸22种RAG方案？ 项目叫“All RAG Techniques”，它用最基础的Python库，尽量不依赖黑盒框架，把RAG的...](2025-06-10/#一站式RAG玩法集合##手撸22种RAG实现#_不靠LangChain，手撸22种RAG方案？_项目叫“All_RAG_Techniques”，它用最基础的Python库，尽量不依赖黑盒框架，把RAG的....md)** | [原文](https://weibo.com/6105753431/PvT7wl7nY) | 时间: 2025-06-10 07:02 
-  该项目名为"All RAG Techniques"，是一个专注于检索增强生成(RAG)技术的教学项目。它采用基础Python库(如openai、numpy等)...
+- **[Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](2025-06-10/Thinking_vs._Doing-_Agents_that_Reason_by_Scaling_Test-Time_Interaction.md)** | [原文](http://arxiv.org/abs/2506.07976v1) | 时间: 2025-06-10 08:02 
+  当前测试时扩展范式主要依赖生成长推理轨迹（“多思考”）再行动，但这种方法无法让智能体从环境中获取新信...
 
-- **[Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures](2025-06-10/Intelligent_Offloading_in_Vehicular_Edge_Computing-_A_Comprehensive_Review_of_Deep_Reinforcement_Learning_Approaches_and_Architectures.md)** | [原文](http://arxiv.org/abs/2502.06963v2) | 时间: 2025-06-10 07:02 
-  本文综述了智能交通系统(ITS)中基于深度强化学习(DRL)的计算卸载研究进展。随着ITS复杂性增加，传统卸载策略难...
+- **[Automated Capability Discovery via Foundation Model Self-Exploration](2025-06-10/Automated_Capability_Discovery_via_Foundation_Model_Self-Exploration.md)** | [原文](http://arxiv.org/abs/2502.07577v3) | 时间: 2025-06-10 08:02 
+  本文提出自动能力发现框架（ACD），利用一个基础模型作为"科学家"来系统性地生成开放式任务，以探测目标模型...
 
-- **[When Two LLMs Debate, Both Think They'll Win](2025-06-10/When_Two_LLMs_Debate,_Both_Think_They'll_Win.md)** | [原文](http://arxiv.org/abs/2505.19184v3) | 时间: 2025-06-10 07:02 
-  这项研究评估了大语言模型(LLMs)在动态对抗辩论中的置信度校准问题。通过组织60场三轮政策辩论，研究发现LLMs存...
+- **[When Two LLMs Debate, Both Think They'll Win](2025-06-10/When_Two_LLMs_Debate,_Both_Think_They'll_Win.md)** | [原文](http://arxiv.org/abs/2505.19184v3) | 时间: 2025-06-10 08:02 
+  该研究评估了大语言模型(LLMs)在对抗性辩论中的置信度调整能力。通过组织60场三轮政策辩论发现：1)模型初始平...
 
-- **[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](2025-06-10/GUI-Reflection-_Empowering_Multimodal_GUI_Models_with_Self-Reflection_Behavior.md)** | [原文](http://arxiv.org/abs/2506.08012v1) | 时间: 2025-06-10 07:01 
-  本文提出了GUI-Reflection框架，通过三个阶段（预训练、监督微调、在线反思调优）增强多模态大语言模型在GUI自动...
+- **[Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures](2025-06-10/Intelligent_Offloading_in_Vehicular_Edge_Computing-_A_Comprehensive_Review_of_Deep_Reinforcement_Learning_Approaches_and_Architectures.md)** | [原文](http://arxiv.org/abs/2502.06963v2) | 时间: 2025-06-10 08:02 
+  本文综述了基于深度强化学习(DRL)的车载边缘计算(VEC)卸载策略的最新进展。随着智能交通系统(ITS)日益复杂，传统...
 
-- **[$τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment](2025-06-10/$τ^2$-Bench-_Evaluating_Conversational_Agents_in_a_Dual-Control_Environment.md)** | [原文](http://arxiv.org/abs/2506.07982v1) | 时间: 2025-06-10 07:01 
-  现有的对话AI基准测试主要模拟单控制环境，仅AI代理能使用工具与世界互动，而用户是被动的信息提供者。这与...
+- **[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](2025-06-10/GUI-Reflection-_Empowering_Multimodal_GUI_Models_with_Self-Reflection_Behavior.md)** | [原文](http://arxiv.org/abs/2506.08012v1) | 时间: 2025-06-10 08:01 
+  该研究提出GUI-Reflection框架，通过多阶段训练（预训练、监督微调、在线反思调优）为多模态GUI模型赋予自我反思...
 
-- **[Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator](2025-06-10/Realistic_Urban_Traffic_Generator_using_Decentralized_Federated_Learning_for_the_SUMO_simulator.md)** | [原文](http://arxiv.org/abs/2506.07980v1) | 时间: 2025-06-10 07:01 
-  DesRUTGe是一种基于去中心化联邦学习(DFL)和深度强化学习(DRL)的新型城市交通模拟框架，可与SUMO模拟器集成生成24小...
+- **[$τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment](2025-06-10/$τ^2$-Bench-_Evaluating_Conversational_Agents_in_a_Dual-Control_Environment.md)** | [原文](http://arxiv.org/abs/2506.07982v1) | 时间: 2025-06-10 08:01 
+  现有对话AI基准测试多模拟单控制环境，仅AI能使用工具与世界交互，而用户被动提供信息。为弥补这一差距，研...
 
-- **[Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](2025-06-10/Thinking_vs._Doing-_Agents_that_Reason_by_Scaling_Test-Time_Interaction.md)** | [原文](http://arxiv.org/abs/2506.07976v1) | 时间: 2025-06-10 07:01 
-  当前测试时扩展范式主要依赖生成长推理轨迹（"多思考"）再行动，但无法让智能体从环境中获取新信息或动态调...
+- **[Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator](2025-06-10/Realistic_Urban_Traffic_Generator_using_Decentralized_Federated_Learning_for_the_SUMO_simulator.md)** | [原文](http://arxiv.org/abs/2506.07980v1) | 时间: 2025-06-10 08:01 
+  本文提出了一种名为DesRUTGe（去中心化真实城市交通生成器）的新框架，通过结合深度强化学习（DRL）和SUMO模拟器...
 
-- **[Dreamland: Controllable World Creation with Simulator and Generative Models](2025-06-10/Dreamland-_Controllable_World_Creation_with_Simulator_and_Generative_Models.md)** | [原文](http://arxiv.org/abs/2506.08006v1) | 时间: 2025-06-10 07:01 
-  Dreamland是一个结合物理模拟器和生成模型的混合世界生成框架，通过分层抽象编码像素级和物体级的语义与几何信...
+- **[Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System](2025-06-10/Supporting_Construction_Worker_Well-Being_with_a_Multi-Agent_Conversational_AI_System.md)** | [原文](http://arxiv.org/abs/2506.07997v1) | 时间: 2025-06-10 08:01 
+  建筑行业存在较高身心风险，但心理健康支持不足。研究开发了一个结合领域知识的对话式多智能体系统，通过不...
 
-- **[Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System](2025-06-10/Supporting_Construction_Worker_Well-Being_with_a_Multi-Agent_Conversational_AI_System.md)** | [原文](http://arxiv.org/abs/2506.07997v1) | 时间: 2025-06-10 07:01 
-  建筑行业存在高身心风险，但心理健康支持不足。研究开发了一个结合领域知识的对话式多智能体系统，通过不同...
+- **[Dreamland: Controllable World Creation with Simulator and Generative Models](2025-06-10/Dreamland-_Controllable_World_Creation_with_Simulator_and_Generative_Models.md)** | [原文](http://arxiv.org/abs/2506.08006v1) | 时间: 2025-06-10 08:01 
+  Dreamland是一个结合物理模拟器精确控制和大规模预训练生成模型逼真输出的混合世界生成框架。它通过分层世界抽...
 
 - **[#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：- iPhone16全家桶：16e、16、16 Plus、16 Pro、16 Pro Max - iPhone1...](2025-06-10/#iOS26兼容哪些机型##iPhoneXR等机型正式告别#iOS26兼容机型列表来了，支持升级的机型包括：-_iPhone16全家桶：16e、16、16_Plus、16_Pro、16_Pro_Max_-_iPhone1....md)** | [原文](https://weibo.com/6105753431/PvOouBPaO) | 时间: 2025-06-10 06:08 
   iOS26系统兼容机型公布，支持iPhone16全系、15/14/13/12系列（含Pro/Max机型）、11系列（Pro/Max）及SE 2/3代，最低要求A13...
@@ -284,11 +284,11 @@
 - **[#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：- 系统原生功能升级： - 支持ChatGPT整...](2025-06-10/#一图盘点苹果AI新功能##AppleIntelligence都有哪些更新#Apple_Intelligence到底上了哪些新功能？【图1】咱们来一网打尽：-_系统原生功能升级：_-_支持ChatGPT整....md)** | [原文](https://weibo.com/6105753431/PvOmnmHVx) | 时间: 2025-06-10 05:03 
   苹果AI新功能Apple Intelligence全面升级：整合ChatGPT和图像生成工具Image Playground；Siri更智能，支持视觉识别和知识问...
 
-- **[#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS 26正式命名为macOS Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级...](2025-06-10/#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS_26正式命名为macOS_Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级....md)** | [原文](https://weibo.com/6105753431/PvO9SkoKI) | 时间: 2025-06-10 04:10 
-  macOS 26正式命名为Tahoe，主打"通透感"设计升级。新系统采用Liquid Glass效果使图标/Dock更具镜面光泽，菜单栏全透明...
-
 - **[#苹果VisionPro升级盘点##visionOS26空间体验卷出新高度#Apple刚刚更新了Vision Pro的系统——visionOS 26，带来一堆新功能，特别是空间体验这块，升级相当明显...](2025-06-10/#苹果VisionPro升级盘点##visionOS26空间体验卷出新高度#Apple刚刚更新了Vision_Pro的系统——visionOS_26，带来一堆新功能，特别是空间体验这块，升级相当明显....md)** | [原文](https://weibo.com/6105753431/PvOdsqj5m) | 时间: 2025-06-10 04:10 
   苹果发布visionOS 26系统更新，为Vision Pro带来多项空间体验升级：AI可将2D照片转为立体3D图像；虚拟形象Persona更逼...
+
+- **[#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS 26正式命名为macOS Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级...](2025-06-10/#macOS换上新皮肤##macOS桌面可个性化到毛孔#macOS_26正式命名为macOS_Tahoe，这次主打一个词：通透感。除了整体设计上的“焕然一新”，不少细节也做了精致升级....md)** | [原文](https://weibo.com/6105753431/PvO9SkoKI) | 时间: 2025-06-10 04:10 
+  macOS 26正式命名为Tahoe，主打"通透感"设计升级。新系统采用Liquid Glass效果使图标/Dock更具镜面光泽，菜单栏全透明...
 
 - **[#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS 26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：- 全新窗口系统： 多窗口终于...](2025-06-10/#新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS_26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：-_全新窗口系统：_多窗口终于....md)** | [原文](https://weibo.com/6105753431/PvOjQnTad) | 时间: 2025-06-10 04:09 
   iPadOS 26带来重大更新，界面和功能更接近macOS但仍保留触控优势。主要升级包括：全新多窗口系统（支持四宫格平...
@@ -302,8 +302,8 @@
 - **[MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models](2025-06-10/MimeQA-_Towards_Socially-Intelligent_Nonverbal_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2502.16671v2) | 时间: 2025-06-10 02:33 
   随着AI日益融入日常生活，开发具备社交智能、能理解非语言互动的AI变得至关重要。当前AI社交推理主要依赖语言...
 
-- **[GenIR: Generative Visual Feedback for Mental Image Retrieval](2025-06-10/GenIR-_Generative_Visual_Feedback_for_Mental_Image_Retrieval.md)** | [原文](http://arxiv.org/abs/2506.06220v1) | 时间: 2025-06-10 02:32 
-  本文提出了一种新的心理图像检索任务(MIR)，旨在通过多轮交互帮助用户寻找脑海中的图像。针对现有方法依赖抽...
+- **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](2025-06-10/Sparse_Autoencoders_Learn_Monosemantic_Features_in_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2504.02821v2) | 时间: 2025-06-10 02:32 
+  稀疏自编码器（SAE）被应用于视觉语言模型（VLM，如CLIP），以提升其可解释性和可控性。研究提出了一种评估视...
 
 - **[Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams](2025-06-10/Teaming_in_the_AI_Era-_AI-Augmented_Frameworks_for_Forming,_Simulating,_and_Optimizing_Human_Teams.md)** | [原文](http://arxiv.org/abs/2506.05265v2) | 时间: 2025-06-10 02:32 
   该研究旨在开发AI增强的团队优化框架，解决团队组建与协作中的关键问题。首先，提出基于多臂老虎机算法的团...
@@ -311,8 +311,8 @@
 - **["We need to avail ourselves of GenAI to enhance knowledge distribution": Empowering Older Adults through GenAI Literacy](2025-06-10/We_need_to_avail_ourselves_of_GenAI_to_enhance_knowledge_distribution-_Empowering_Older_Adults_through_GenAI_Literacy.md)** | [原文](http://arxiv.org/abs/2506.06225v1) | 时间: 2025-06-10 02:32 
   随着生成式AI（GenAI）的普及，帮助老年人（65岁及以上）等弱势群体理解其益处和风险至关重要。本研究通过混合...
 
-- **[Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](2025-06-10/Sparse_Autoencoders_Learn_Monosemantic_Features_in_Vision-Language_Models.md)** | [原文](http://arxiv.org/abs/2504.02821v2) | 时间: 2025-06-10 02:32 
-  稀疏自编码器（SAE）被应用于视觉语言模型（VLM，如CLIP），以提升其可解释性和可控性。研究提出了一种评估视...
+- **[GenIR: Generative Visual Feedback for Mental Image Retrieval](2025-06-10/GenIR-_Generative_Visual_Feedback_for_Mental_Image_Retrieval.md)** | [原文](http://arxiv.org/abs/2506.06220v1) | 时间: 2025-06-10 02:32 
+  本文提出了一种新的心理图像检索任务(MIR)，旨在通过多轮交互帮助用户寻找脑海中的图像。针对现有方法依赖抽...
 
 - **[MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators](2025-06-10/MEDAL-_A_Framework_for_Benchmarking_LLMs_as_Multilingual_Open-Domain_Chatbots_and_Dialogue_Evaluators.md)** | [原文](http://arxiv.org/abs/2505.22777v2) | 时间: 2025-06-10 02:32 
   本文介绍了MEDAL框架，一个自动化的多智能体系统，用于生成、评估和筛选更具代表性和多样性的开放域对话评测...
@@ -326,8 +326,8 @@
 - **[Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models](2025-06-10/Visual_Graph_Arena-_Evaluating_Visual_Conceptualization_of_Vision_and_Multimodal_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.06242v1) | 时间: 2025-06-10 02:31 
   近期多模态大语言模型在视觉问答方面取得突破，但AI系统仍缺乏人类的关键能力——"概念化"，即识别和推理同...
 
-- **[#iOS26都更新了什么##一图看懂iOS26#iOS 26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：- 界面全新设计：主屏图标...](2025-06-10/#iOS26都更新了什么##一图看懂iOS26#iOS_26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：-_界面全新设计：主屏图标....md)** | [原文](https://weibo.com/6105753431/PvO2TciS9) | 时间: 2025-06-10 01:31 
-  iOS 26带来全面升级：界面全新设计，支持主屏图标自定义和锁屏智能调整；CarPlay新增小组件。核心功能包括Apple In...
+- **[#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live Activities，导航/音乐/提醒等直接显示在车上屏幕，信息不再东一块西一块。 [图片][图...](2025-06-10/#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live_Activities，导航-音乐-提醒等直接显示在车上屏幕，信息不再东一块西一块。_[图片][图....md)** | [原文](https://weibo.com/6105753431/PvNWf7prP) | 时间: 2025-06-10 01:31 
+  iOS26对CarPlay车载功能进行了重大升级，主要改进包括：支持iPhone小组件和实时活动(Live Activities)直接显示在车载屏...
 
 - **[#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1. “Play Together”一起玩功能上线 可以组建...](2025-06-10/#苹果上线新游戏应用#苹果上线了一个新的游戏App，这个App重新设计了一整套游戏社交体验，不只是玩，还能一起比！1._“Play_Together”一起玩功能上线_可以组建....md)** | [原文](https://weibo.com/6105753431/PvO0x576T) | 时间: 2025-06-10 01:31 
   苹果推出全新游戏应用，主打社交化游戏体验。核心功能包括：1）"一起玩"模式支持实时组队和查看好友动态；2...
@@ -335,8 +335,8 @@
 - **[#AppleMusic实用新功能##iOS26高效听歌学外语#Apple Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：- 歌词翻译（Lyrics Translati...](2025-06-10/#AppleMusic实用新功能##iOS26高效听歌学外语#Apple_Music上新几个实用功能，不花哨但很贴心，尤其对喜欢听外语歌的用户非常友好：-_歌词翻译（Lyrics_Translati....md)** | [原文](https://weibo.com/6105753431/PvNYHalcl) | 时间: 2025-06-10 01:31 
   Apple Music推出四项实用新功能：1）歌词翻译功能实时显示外文歌曲的英文翻译；2）非拉丁语歌词（如韩语、日语...
 
-- **[#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live Activities，导航/音乐/提醒等直接显示在车上屏幕，信息不再东一块西一块。 [图片][图...](2025-06-10/#iOS26车载功能大改#iOS26的CarPlay功能大改。支持iPhone上的小组件和Live_Activities，导航-音乐-提醒等直接显示在车上屏幕，信息不再东一块西一块。_[图片][图....md)** | [原文](https://weibo.com/6105753431/PvNWf7prP) | 时间: 2025-06-10 01:31 
-  iOS26对CarPlay车载功能进行了重大升级，主要改进包括：支持iPhone小组件和实时活动(Live Activities)直接显示在车载屏...
+- **[#iOS26都更新了什么##一图看懂iOS26#iOS 26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：- 界面全新设计：主屏图标...](2025-06-10/#iOS26都更新了什么##一图看懂iOS26#iOS_26更新内容太多，下面整理了一份清单式总结，带大家一次看懂这次大更新：首先是系统级大变化：-_界面全新设计：主屏图标....md)** | [原文](https://weibo.com/6105753431/PvO2TciS9) | 时间: 2025-06-10 01:31 
+  iOS 26带来全面升级：界面全新设计，支持主屏图标自定义和锁屏智能调整；CarPlay新增小组件。核心功能包括Apple In...
 
 ### 2025-06-09 (66篇)
 
