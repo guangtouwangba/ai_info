@@ -4,15 +4,15 @@
 
 ## 原始摘要
 
-<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%9B%98%E7%82%B9%E8%AE%A9AI%E5%81%9A%E9%AB%98%E8%80%83%E9%A2%98%23&amp;extparam=%23%E7%9B%98%E7%82%B9%E8%AE%A9AI%E5%81%9A%E9%AB%98%E8%80%83%E9%A2%98%23" data-hide=""><span class="surl-text">#盘点让AI做高考题#</span></a><br><br>又是一年AI高考！多个AI测试语文高考作文稳拿高分，却败在了数学压轴题上，看完你觉得今年AI高考进步了吗？ <a href="https://video.weibo.com/show?fid=1034:5176070677397621" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006Fd7o3ly1i2ago7u3sqj30u01hcjua.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/pXe9iguqlx08oW864j9601041200qDWc0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749592953&amp;ssig=5hGDyRIs%2Fd&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/zPYTzy8mlx08oW85HuLu01041200fgGI0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749592953&amp;ssig=A9p5jNCR3p&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/WDJCKhYNlx08oW85p5qw010412008Uwv0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749592953&amp;ssig=0p%2BxqOWlHd&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5176070677397621" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%9B%98%E7%82%B9%E8%AE%A9AI%E5%81%9A%E9%AB%98%E8%80%83%E9%A2%98%23&amp;extparam=%23%E7%9B%98%E7%82%B9%E8%AE%A9AI%E5%81%9A%E9%AB%98%E8%80%83%E9%A2%98%23" data-hide=""><span class="surl-text">#盘点让AI做高考题#</span></a><br><br>又是一年AI高考！多个AI测试语文高考作文稳拿高分，却败在了数学压轴题上，看完你觉得今年AI高考进步了吗？ <a href="https://video.weibo.com/show?fid=1034:5176070677397621" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006Fd7o3ly1i2ago7u3sqj30u01hcjua.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/pXe9iguqlx08oW864j9601041200qDWc0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749596477&amp;ssig=1gXwi%2BwK3A&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/zPYTzy8mlx08oW85HuLu01041200fgGI0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749596477&amp;ssig=1OK9vhMi2w&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/WDJCKhYNlx08oW85p5qw010412008Uwv0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749596477&amp;ssig=T7Q%2FftNkfF&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5176070677397621" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
 
 ## AI 摘要
 
-该微博讨论了AI在高考中的表现：多个AI模型在语文作文部分能获得高分，但在数学压轴题上表现不佳。视频内容盘点了一年来的AI高考测试情况，并提问观众是否认为AI今年有所进步。整体来看，AI在语言类题目上表现稳定，但在复杂数学推理方面仍有明显短板。
+该微博讨论了AI参加高考的表现，指出多个AI在语文作文部分能获得高分，但在数学压轴题上表现不佳。视频由量子位发布，展示了AI在高考题目中的具体表现，并引发对AI技术进步程度的讨论。整体来看，AI在语言类题目上已具备较强能力，但在复杂数学推理方面仍有提升空间。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-10T21:02:41Z
+- **保存时间**: 2025-06-10T22:02:38Z
 - **目录日期**: 2025-06-10
