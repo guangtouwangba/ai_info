@@ -1,0 +1,18 @@
+# #新版iPad更像Mac了##iPadOS26窗口操作大升级#iPadOS 26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：- 全新窗口系统： 多窗口终于...
+
+**URL**: https://weibo.com/6105753431/PvOjQnTad
+
+## 原始摘要
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E7%89%88iPad%E6%9B%B4%E5%83%8FMac%E4%BA%86%23&amp;extparam=%23%E6%96%B0%E7%89%88iPad%E6%9B%B4%E5%83%8FMac%E4%BA%86%23" data-hide=""><span class="surl-text">#新版iPad更像Mac了#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23iPadOS26%E7%AA%97%E5%8F%A3%E6%93%8D%E4%BD%9C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&amp;extparam=%23iPadOS26%E7%AA%97%E5%8F%A3%E6%93%8D%E4%BD%9C%E5%A4%A7%E5%8D%87%E7%BA%A7%23" data-hide=""><span class="surl-text">#iPadOS26窗口操作大升级#</span></a><br><br>iPadOS 26这次真的是越看越像macOS，但依旧保留iPad的直觉触控体验。重点更新有这些：<br><br>- 全新窗口系统：  <br>    多窗口终于变得真正“多”。现在可以像Mac一样打开多个App窗口、自由拖拽、缩放、叠加、并排。最多还能四宫格平铺+上层叠放。<br>    <br>- 窗口控制条上线：  <br>    左上角的红黄绿小圆点来了，最大化、最小化直接点，熟悉的味道。<br>    <br>- Expose登场：  <br>    所有窗口一键展开，视觉总览一目了然，窗口党狂喜。<br>    <br>- 菜单栏与右键菜单：  <br>    iPad上的App也配上顶部菜单栏了，比如剪切/粘贴/全选等快捷操作，不用挖三层菜单。<br>    <br>- 重制版“文件App”：  <br>    Mac同款列表视图，支持自定义默认打开App，文件夹也能固定到Dock栏，操作方式比以前更像桌面OS。<br>    <br>- Preview终于来了：  <br>    iPad上也能直接标记图片、编辑PDF，不用第三方App也能搞定办公。<br>    <br>- 音频与录音功能升级：<br>    <br>    - 每个App可选不同音源（蓝牙、麦克风等）<br>        <br>    - AirPods可用于高质量录音，还能直接遥控拍摄<br>        <br>    - 支持屏蔽环境音，适合播客/远程访谈录制<br>        <br>- 本地音视频采集：  <br>    不用外设也能录制清晰画面+高质量音频，播客或采访剪辑更轻松。<br>    <br>- 后台任务支持：  <br>    iPad现在能边导出大文件边干别的，系统自动把进度变成Live Activities显示。<br>    <br>- 更多彩蛋功能：<br>    <br>    - iPad可以拖文件进Dock栏【图8】<br>        <br>    - 支持“芦苇笔”书法工具（Reed Pen）<br>        <br>    - Journal日记App正式支持iPad<br>        <br>    - visionOS 26支持PlayStation VR控制器【图9】<br>        <br>    - App之间音频隔离、3D图形性能也有提升<br>        <br>简单说，iPadOS 26在全面靠近macOS操作体验的同时，依旧保留iPad的灵活自由，是一次“下盘稳、上盘灵”的大版本进化。<img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29n3nntoij30p00e27cn.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29mzngru2j30p00e2jz9.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1i29mzpe7f5j30a005n40h.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i29mzr0bbgj30a005nt9v.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29mzhpogej30p00e2afs.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i29mzjrce5j30p00e2jvf.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i29n11f9x1j30p00e278f.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29n1l5kjgj30p00e2gr8.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1i29n1w6320j30p00e2q9y.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1i29n2ksnckj30p00e2aeg.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i29n2w09zsj30p00e2q79.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1i29n3b70nkj30p00e2wgd.jpg" referrerpolicy="no-referrer"><br><br>
+
+## AI 摘要
+
+iPadOS 26大幅融合macOS功能，同时保留触控优势。主要更新包括：1）全新多窗口系统，支持四宫格平铺和叠放；2）新增Mac风格窗口控制条和Expose视图；3）文件App重制，支持Dock栏固定文件夹；4）内置Preview图片/PDF编辑工具；5）音频升级，支持多音源选择和AirPods高质量录音；6）后台任务优化，支持边导出边操作。此外还新增芦苇笔工具、日记App及PS VR控制器支持。系统在提升生产力同时，保持了iPad的灵活性，向桌面级体验迈进。
+
+## 元数据
+
+- **来源**: ArXiv
+- **类型**: 论文
+- **保存时间**: 2025-06-10T00:02:46Z
+- **目录日期**: 2025-06-10
