@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-苹果推出Containerization框架，允许在Apple Silicon Mac上运行Linux容器。该技术基于Virtualization.framework，支持OCI镜像管理、轻量级虚拟机容器化进程，集成vminitd系统提供运行时配置，并兼容Rosetta 2运行amd64架构容器。要求macOS 15+及Xcode 26 beta开发，部分高级功能需特定系统版本。开发者可通过cctl工具测试镜像管理、容器运行等功能。详见GitHub仓库：github.com/apple/containerization。
+苹果推出Containerization框架，支持在Apple Silicon Mac上运行Linux容器。该技术基于Virtualization.framework，要求macOS 15+Xcode 26 beta，支持OCI镜像管理、轻量级虚拟机容器及Rosetta 2运行amd64容器。框架通过vminitd系统提供进程管理，但macOS 15中容器间无法直接通信。开发者可用cctl工具测试功能，详见GitHub仓库。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-11T16:03:32Z
+- **保存时间**: 2025-06-11T17:02:41Z
 - **目录日期**: 2025-06-11
