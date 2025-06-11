@@ -26,11 +26,11 @@ through the NVIDIA's Cosmos platform.
 
 ## AI 摘要
 
-NVIDIA的研究团队开发了Cosmos-Drive-Dreams，这是一个用于生成自动驾驶（AV）系统合成数据的工具链。该工具基于Cosmos-Drive模型套件，能够可控地生成高保真、多视角且时空一致的驾驶场景视频，特别是针对现实数据中难以获取的边缘案例。实验表明，生成的数据有助于缓解长尾分布问题，并提升3D车道检测、3D物体检测和驾驶策略学习等下游任务的泛化能力。团队已通过NVIDIA Cosmos平台开源了相关工具链、数据集和模型权重。项目详情见：https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams
+NVIDIA的研究团队开发了Cosmos-Drive-Dreams合成数据生成管道，用于解决自动驾驶系统(AV)训练中真实数据收集成本高、边缘案例稀缺的问题。该管道基于Cosmos-Drive模型套件，能够生成可控、高保真、多视角且时空一致的驾驶场景视频。实验表明，生成的数据有助于缓解长尾分布问题，并提升3D车道检测、3D物体检测和驾驶策略学习等下游任务的泛化能力。研究团队已通过NVIDIA Cosmos平台开源了相关工具包、数据集和模型权重。项目详情见：https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-11T04:06:23Z
+- **保存时间**: 2025-06-11T05:02:35Z
 - **目录日期**: 2025-06-11
