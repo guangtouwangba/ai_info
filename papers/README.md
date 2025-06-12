@@ -6,46 +6,46 @@
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它收录了3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-12 00:05
+**收录时间**: 2025-06-12 01:33
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。该方法创新性地...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-12 00:05
+**收录时间**: 2025-06-12 01:33
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试(包含397个高质量样本，覆盖4...
+**摘要**: 这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，关注现有基准忽视的人类偏好问题。研究者构建了CodeAre...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-12 00:05
+**收录时间**: 2025-06-12 01:33
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，现有7...
+**摘要**: 本文综述了针对非小细胞肺癌（NSCLC）ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-12 00:04
+**收录时间**: 2025-06-12 01:32
 
 ---
 
 ### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
 
-**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-12 00:04
+**收录时间**: 2025-06-12 01:32
 
 ---
 
@@ -54,34 +54,25 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-12 00:04
-
----
-
-### [#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D ：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch...](2025-06-12/#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D_：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch....md)
-
-**摘要**: Chili3D是一款基于浏览器的开源CAD工具，通过将OpenCascade编译为WebAssembly并与Three.js集成，实现了在线3D建模功能。该...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3pKwrmL)
-**收录时间**: 2025-06-12 00:04
+**收录时间**: 2025-06-12 01:32
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。该系统通过真...
+**摘要**: 这篇论文介绍了AgentSociety，这是一个基于大语言模型的大规模社会模拟系统，能够模拟1万多个AI代理及其500万次社...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-12 00:04
+**收录时间**: 2025-06-12 01:32
 
 ---
 
 ### [#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力...](2025-06-12/#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力....md)
 
-**摘要**: 南洋理工大学MMLab团队开发了GUI-Reflection框架，首次实现端到端GUI智能体的自我反思能力。该框架通过"预训练-监督...
+**摘要**: 南洋理工大学MMLab团队开发了GUI-Reflection框架，首次实现端到端GUI智能体的自我反思能力。该框架通过"预训练-微调...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pw3y0osJV)
-**收录时间**: 2025-06-12 00:03
+**收录时间**: 2025-06-12 01:31
 
 ---
 
@@ -90,97 +81,106 @@
 **摘要**: 微软亚洲研究院联合清华、北大提出强化预训练（RPT）新范式，通过强化学习改造传统自监督训练。RPT让模型在预...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pw3y35gRo)
-**收录时间**: 2025-06-12 00:03
-
----
-
-### [#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算...](2025-06-12/#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算....md)
-
-**摘要**: IBM计划在2030年前建造全球首台大规模容错量子计算机"IBM Quantum Starling"，计算能力将达现有量子计算机的2万倍。路...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3B9mCYO)
-**收录时间**: 2025-06-12 00:03
-
----
-
-### [#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama 3.1-8B，代码能力明显提升。上海交...](2025-06-12/#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama_3.1-8B，代码能力明显提升。上海交....md)
-
-**摘要**: 上海交大与上海AI Lab团队提出IDEAL方法，通过调整SFT训练集的组成配比（而非增加数据量），显著缓解了大语言模...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3AYqCyk)
-**收录时间**: 2025-06-12 00:03
-
----
-
-### [#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框...](2025-06-12/#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框....md)
-
-**摘要**: 苹果推出Containerization框架，支持在Apple Silicon Mac上运行Linux容器。该技术基于Virtualization.framework优化，要求macOS 15+X...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3qJBYSv)
-**收录时间**: 2025-06-12 00:03
-
----
-
-### [#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese Rich...](2025-06-12/#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese_Rich....md)
-
-**摘要**: 美国西北大学Reese Richardson团队发布《开放科学诚信指南合集》(COSIG)，整合27种免费开源工具，提供跨学科论文造...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3DX3ixG)
-**收录时间**: 2025-06-12 00:03
+**收录时间**: 2025-06-12 01:31
 
 ---
 
 ### [#真AI相机来了##百度发布全能AI相机#百度网盘、文库又双叒联合上新了——真·AI相机来了，拍照、存储、管理一体。【图1】此AI相机“即拍即存”，拍完的照片自动...](2025-06-12/#真AI相机来了##百度发布全能AI相机#百度网盘、文库又双叒联合上新了——真·AI相机来了，拍照、存储、管理一体。【图1】此AI相机“即拍即存”，拍完的照片自动....md)
 
-**摘要**: 百度发布全能AI相机，集成拍照、存储、智能管理功能，支持自动云存储、智能分类和精准检索。具备美颜修图、...
+**摘要**: 百度发布全能AI相机，实现拍照、存储、管理一体化功能。该相机支持自动云存储、智能分类检索，并提供美颜修...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pw3y1ybPw)
-**收录时间**: 2025-06-12 00:03
+**收录时间**: 2025-06-12 01:31
 
 ---
 
-### [Curvature Tuning: Provable Training-free Model Steering From a Single Parameter](2025-06-12/Curvature_Tuning-_Provable_Training-free_Model_Steering_From_a_Single_Parameter.md)
+### [#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框...](2025-06-12/#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框....md)
 
-**摘要**: 这篇论文提出了一种新的微调方法——曲率调谐（Curvature Tuning, CT），通过调整激活函数的曲率来优化预训练模型...
+**摘要**: 苹果推出Containerization框架，支持在Apple Silicon的Mac上运行Linux容器。该方案基于Virtualization.framework，需macOS 15+Xcode 26...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2502.07783v3)
-**收录时间**: 2025-06-12 00:02
-
----
-
-### [#苹果新研究发现推理模型越难越摆烂# “AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了...](2025-06-12/#苹果新研究发现推理模型越难越摆烂#_“AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了....md)
-
-**摘要**: 苹果最新研究引发争议，质疑当前AI推理模型存在"越难越摆烂"现象，认为AI可能只是在"假装思考"。该论文观点遭...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3XdeSEo)
-**收录时间**: 2025-06-12 00:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3qJBYSv)
+**收录时间**: 2025-06-12 01:31
 
 ---
 
-### [Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models](2025-06-12/Boosting_Rust_Unit_Test_Coverage_through_Hybrid_Program_Analysis_and_Large_Language_Models.md)
+### [#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D ：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch...](2025-06-12/#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D_：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch....md)
 
-**摘要**: 传统基于搜索和符号执行的单元测试方法难以处理复杂程序分支和外部依赖，导致覆盖率较低。本文提出PALM方法...
+**摘要**: Chili3D是一款基于浏览器的开源CAD工具，通过将OpenCascade（OCCT）编译成WebAssembly并与Three.js集成，实现了在线3D建模...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.09002v1)
-**收录时间**: 2025-06-12 00:02
-
----
-
-### [Evolutionary Policy Optimization](2025-06-12/Evolutionary_Policy_Optimization.md)
-
-**摘要**: 本文提出了一种名为进化策略优化(EPO)的混合算法，结合了进化算法(EA)的可扩展性和多样性优势与策略梯度方法的...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2503.19037v2)
-**收录时间**: 2025-06-12 00:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3pKwrmL)
+**收录时间**: 2025-06-12 01:31
 
 ---
 
 ### [JuStRank: Benchmarking LLM Judges for System Ranking](2025-06-12/JuStRank-_Benchmarking_LLM_Judges_for_System_Ranking.md)
 
-**摘要**: 随着生成式AI的快速发展，系统评估和选择不同模型及配置的需求日益迫切。基于大语言模型（LLM）的评估方法因...
+**摘要**: 随着生成式AI的快速发展，系统评估和选择不同模型及配置的需求日益迫切。基于LLM的评估方法因其规模化和通用...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2412.09569v2)
-**收录时间**: 2025-06-12 00:02
+**收录时间**: 2025-06-12 01:30
+
+---
+
+### [#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算...](2025-06-12/#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算....md)
+
+**摘要**: IBM计划在2030年前建造全球首台大规模容错量子计算机"Quantum Starling"，计算能力将达现有量子计算机的2万倍。其路...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3B9mCYO)
+**收录时间**: 2025-06-12 01:30
+
+---
+
+### [#苹果新研究发现推理模型越难越摆烂# “AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了...](2025-06-12/#苹果新研究发现推理模型越难越摆烂#_“AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了....md)
+
+**摘要**: 苹果最新研究引发争议，其论文质疑当前AI推理模型存在"越难越摆烂"的现象，认为AI可能只是在"假装思考"。这一...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3XdeSEo)
+**收录时间**: 2025-06-12 01:30
+
+---
+
+### [#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese Rich...](2025-06-12/#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese_Rich....md)
+
+**摘要**: 美国西北大学Reese Richardson团队发布《开放科学诚信指南合集》(COSIG)，整合27种免费工具用于识别学术造假。该指...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3DX3ixG)
+**收录时间**: 2025-06-12 01:30
+
+---
+
+### [#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama 3.1-8B，代码能力明显提升。上海交...](2025-06-12/#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama_3.1-8B，代码能力明显提升。上海交....md)
+
+**摘要**: 上海交大与上海AI Lab团队提出IDEAL方法，通过调整SFT训练数据的组成配比，显著缓解了大语言模型(LLM)的"偏科"问题...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3AYqCyk)
+**收录时间**: 2025-06-12 01:30
+
+---
+
+### [#用有毒数据训练反而能增强AI表现##10%的有毒数据能让AI行为更合规#给AI模型“喂食”10%的垃圾内容，反而能让它们表现得更规矩？通常我们认为，大模型预训练的数...](2025-06-12/#用有毒数据训练反而能增强AI表现##10%的有毒数据能让AI行为更合规#给AI模型“喂食”10%的垃圾内容，反而能让它们表现得更规矩？通常我们认为，大模型预训练的数....md)
+
+**摘要**: 哈佛大学研究发现，在AI模型预训练中加入少量（约10%）有毒数据（如4chan内容），反而能提升模型后续的可对齐...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pw3E6g8XQ)
+**收录时间**: 2025-06-12 01:30
+
+---
+
+### [Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](2025-06-12/Cosmos-Drive-Dreams-_Scalable_Synthetic_Driving_Data_Generation_with_World_Foundation_Models.md)
+
+**摘要**: NVIDIA推出的Cosmos-Drive-Dreams是一个合成数据生成（SDG）管道，旨在为自动驾驶车辆（AV）等安全关键AI系统生成具有...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.09042v1)
+**收录时间**: 2025-06-12 01:29
+
+---
+
+### [Evolutionary Policy Optimization](2025-06-12/Evolutionary_Policy_Optimization.md)
+
+**摘要**: 本文提出了一种名为进化策略优化（EPO）的混合算法，结合了进化算法（EA）的可扩展性和多样性，以及策略梯度...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2503.19037v2)
+**收录时间**: 2025-06-12 01:29
 
 ---
 
@@ -188,115 +188,115 @@
 
 ### 2025-06-12 (27篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-12 00:05 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-12 01:33 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读辅助、翻译和科研订阅等一站式服务。它收录了3....
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-12 00:05 
-  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的时...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-12 01:33 
+  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。该方法创新性地...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-12 00:05 
-  这篇论文针对代码生成大模型(codeLLMs)与人类偏好对齐的问题，提出了CodeArena基准测试(包含397个高质量样本，覆盖4...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-12 01:33 
+  这篇论文针对代码生成大模型（codeLLMs）提出新评估方法，关注现有基准忽视的人类偏好问题。研究者构建了CodeAre...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-12 00:04 
-  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，现有7...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-12 01:32 
+  本文综述了针对非小细胞肺癌（NSCLC）ALK基因双靶点抑制剂的最新研究进展。ALK基因是NSCLC的重要致癌驱动靶点，...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-12 00:04 
-  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-12 01:32 
+  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-12 00:04 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-12 01:32 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D ：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch...](2025-06-12/#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D_：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch....md)** | [原文](https://weibo.com/6105753431/Pw3pKwrmL) | 时间: 2025-06-12 00:04 
-  Chili3D是一款基于浏览器的开源CAD工具，通过将OpenCascade编译为WebAssembly并与Three.js集成，实现了在线3D建模功能。该...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-12 01:32 
+  这篇论文介绍了AgentSociety，这是一个基于大语言模型的大规模社会模拟系统，能够模拟1万多个AI代理及其500万次社...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-12 00:04 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。该系统通过真...
+- **[#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力...](2025-06-12/#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力....md)** | [原文](https://weibo.com/6105753431/Pw3y0osJV) | 时间: 2025-06-12 01:31 
+  南洋理工大学MMLab团队开发了GUI-Reflection框架，首次实现端到端GUI智能体的自我反思能力。该框架通过"预训练-微调...
 
-- **[#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力...](2025-06-12/#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力....md)** | [原文](https://weibo.com/6105753431/Pw3y0osJV) | 时间: 2025-06-12 00:03 
-  南洋理工大学MMLab团队开发了GUI-Reflection框架，首次实现端到端GUI智能体的自我反思能力。该框架通过"预训练-监督...
-
-- **[#预训练新范式##微软亚洲研究院推出RPT预训练#微软亚洲研究院（MSRA）联合清华、北大发布了一种全新的预训练方法——强化预训练（RPT）。简单说，RPT就是通过强...](2025-06-12/#预训练新范式##微软亚洲研究院推出RPT预训练#微软亚洲研究院（MSRA）联合清华、北大发布了一种全新的预训练方法——强化预训练（RPT）。简单说，RPT就是通过强....md)** | [原文](https://weibo.com/6105753431/Pw3y35gRo) | 时间: 2025-06-12 00:03 
+- **[#预训练新范式##微软亚洲研究院推出RPT预训练#微软亚洲研究院（MSRA）联合清华、北大发布了一种全新的预训练方法——强化预训练（RPT）。简单说，RPT就是通过强...](2025-06-12/#预训练新范式##微软亚洲研究院推出RPT预训练#微软亚洲研究院（MSRA）联合清华、北大发布了一种全新的预训练方法——强化预训练（RPT）。简单说，RPT就是通过强....md)** | [原文](https://weibo.com/6105753431/Pw3y35gRo) | 时间: 2025-06-12 01:31 
   微软亚洲研究院联合清华、北大提出强化预训练（RPT）新范式，通过强化学习改造传统自监督训练。RPT让模型在预...
 
-- **[#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算...](2025-06-12/#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算....md)** | [原文](https://weibo.com/6105753431/Pw3B9mCYO) | 时间: 2025-06-12 00:03 
-  IBM计划在2030年前建造全球首台大规模容错量子计算机"IBM Quantum Starling"，计算能力将达现有量子计算机的2万倍。路...
+- **[#真AI相机来了##百度发布全能AI相机#百度网盘、文库又双叒联合上新了——真·AI相机来了，拍照、存储、管理一体。【图1】此AI相机“即拍即存”，拍完的照片自动...](2025-06-12/#真AI相机来了##百度发布全能AI相机#百度网盘、文库又双叒联合上新了——真·AI相机来了，拍照、存储、管理一体。【图1】此AI相机“即拍即存”，拍完的照片自动....md)** | [原文](https://weibo.com/6105753431/Pw3y1ybPw) | 时间: 2025-06-12 01:31 
+  百度发布全能AI相机，实现拍照、存储、管理一体化功能。该相机支持自动云存储、智能分类检索，并提供美颜修...
 
-- **[#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama 3.1-8B，代码能力明显提升。上海交...](2025-06-12/#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama_3.1-8B，代码能力明显提升。上海交....md)** | [原文](https://weibo.com/6105753431/Pw3AYqCyk) | 时间: 2025-06-12 00:03 
-  上海交大与上海AI Lab团队提出IDEAL方法，通过调整SFT训练集的组成配比（而非增加数据量），显著缓解了大语言模...
+- **[#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框...](2025-06-12/#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框....md)** | [原文](https://weibo.com/6105753431/Pw3qJBYSv) | 时间: 2025-06-12 01:31 
+  苹果推出Containerization框架，支持在Apple Silicon的Mac上运行Linux容器。该方案基于Virtualization.framework，需macOS 15+Xcode 26...
 
-- **[#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框...](2025-06-12/#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框....md)** | [原文](https://weibo.com/6105753431/Pw3qJBYSv) | 时间: 2025-06-12 00:03 
-  苹果推出Containerization框架，支持在Apple Silicon Mac上运行Linux容器。该技术基于Virtualization.framework优化，要求macOS 15+X...
+- **[#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D ：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch...](2025-06-12/#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D_：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch....md)** | [原文](https://weibo.com/6105753431/Pw3pKwrmL) | 时间: 2025-06-12 01:31 
+  Chili3D是一款基于浏览器的开源CAD工具，通过将OpenCascade（OCCT）编译成WebAssembly并与Three.js集成，实现了在线3D建模...
 
-- **[#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese Rich...](2025-06-12/#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese_Rich....md)** | [原文](https://weibo.com/6105753431/Pw3DX3ixG) | 时间: 2025-06-12 00:03 
-  美国西北大学Reese Richardson团队发布《开放科学诚信指南合集》(COSIG)，整合27种免费开源工具，提供跨学科论文造...
+- **[JuStRank: Benchmarking LLM Judges for System Ranking](2025-06-12/JuStRank-_Benchmarking_LLM_Judges_for_System_Ranking.md)** | [原文](http://arxiv.org/abs/2412.09569v2) | 时间: 2025-06-12 01:30 
+  随着生成式AI的快速发展，系统评估和选择不同模型及配置的需求日益迫切。基于LLM的评估方法因其规模化和通用...
 
-- **[#真AI相机来了##百度发布全能AI相机#百度网盘、文库又双叒联合上新了——真·AI相机来了，拍照、存储、管理一体。【图1】此AI相机“即拍即存”，拍完的照片自动...](2025-06-12/#真AI相机来了##百度发布全能AI相机#百度网盘、文库又双叒联合上新了——真·AI相机来了，拍照、存储、管理一体。【图1】此AI相机“即拍即存”，拍完的照片自动....md)** | [原文](https://weibo.com/6105753431/Pw3y1ybPw) | 时间: 2025-06-12 00:03 
-  百度发布全能AI相机，集成拍照、存储、智能管理功能，支持自动云存储、智能分类和精准检索。具备美颜修图、...
+- **[#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算...](2025-06-12/#IBM公布量子计算路线图##IBM要建全球首台大规模容错量子计算机#IBM近日宣布，要在2030年前建造全球首台大规模、容错的量子计算机，计算能力将达到现有量子计算....md)** | [原文](https://weibo.com/6105753431/Pw3B9mCYO) | 时间: 2025-06-12 01:30 
+  IBM计划在2030年前建造全球首台大规模容错量子计算机"Quantum Starling"，计算能力将达现有量子计算机的2万倍。其路...
 
-- **[Curvature Tuning: Provable Training-free Model Steering From a Single Parameter](2025-06-12/Curvature_Tuning-_Provable_Training-free_Model_Steering_From_a_Single_Parameter.md)** | [原文](http://arxiv.org/abs/2502.07783v3) | 时间: 2025-06-12 00:02 
-  这篇论文提出了一种新的微调方法——曲率调谐（Curvature Tuning, CT），通过调整激活函数的曲率来优化预训练模型...
+- **[#苹果新研究发现推理模型越难越摆烂# “AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了...](2025-06-12/#苹果新研究发现推理模型越难越摆烂#_“AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了....md)** | [原文](https://weibo.com/6105753431/Pw3XdeSEo) | 时间: 2025-06-12 01:30 
+  苹果最新研究引发争议，其论文质疑当前AI推理模型存在"越难越摆烂"的现象，认为AI可能只是在"假装思考"。这一...
 
-- **[#苹果新研究发现推理模型越难越摆烂# “AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了...](2025-06-12/#苹果新研究发现推理模型越难越摆烂#_“AI只是在假装思考”？苹果新论文质疑推理模型引发争议，遭网友群嘲：否定别人并不能掩盖你的落后，WWDC2025我都看睡着了....md)** | [原文](https://weibo.com/6105753431/Pw3XdeSEo) | 时间: 2025-06-12 00:02 
-  苹果最新研究引发争议，质疑当前AI推理模型存在"越难越摆烂"现象，认为AI可能只是在"假装思考"。该论文观点遭...
+- **[#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese Rich...](2025-06-12/#学术打假工具包##27项开源工具识别造假论文#想找点靠谱的前人研究，结果却老是碰到那些粗制滥造、甚至造假骗人的论文？这事让美国西北大学的元科学家Reese_Rich....md)** | [原文](https://weibo.com/6105753431/Pw3DX3ixG) | 时间: 2025-06-12 01:30 
+  美国西北大学Reese Richardson团队发布《开放科学诚信指南合集》(COSIG)，整合27种免费工具用于识别学术造假。该指...
 
-- **[Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models](2025-06-12/Boosting_Rust_Unit_Test_Coverage_through_Hybrid_Program_Analysis_and_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.09002v1) | 时间: 2025-06-12 00:02 
-  传统基于搜索和符号执行的单元测试方法难以处理复杂程序分支和外部依赖，导致覆盖率较低。本文提出PALM方法...
+- **[#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama 3.1-8B，代码能力明显提升。上海交...](2025-06-12/#调整训练集即可缓解LLM偏科##SFT训练数据也需科学配方#大幅缓解LLM偏科，只需调整SFT训练集的组成。本来不擅长coding的Llama_3.1-8B，代码能力明显提升。上海交....md)** | [原文](https://weibo.com/6105753431/Pw3AYqCyk) | 时间: 2025-06-12 01:30 
+  上海交大与上海AI Lab团队提出IDEAL方法，通过调整SFT训练数据的组成配比，显著缓解了大语言模型(LLM)的"偏科"问题...
 
-- **[Evolutionary Policy Optimization](2025-06-12/Evolutionary_Policy_Optimization.md)** | [原文](http://arxiv.org/abs/2503.19037v2) | 时间: 2025-06-12 00:02 
-  本文提出了一种名为进化策略优化(EPO)的混合算法，结合了进化算法(EA)的可扩展性和多样性优势与策略梯度方法的...
+- **[#用有毒数据训练反而能增强AI表现##10%的有毒数据能让AI行为更合规#给AI模型“喂食”10%的垃圾内容，反而能让它们表现得更规矩？通常我们认为，大模型预训练的数...](2025-06-12/#用有毒数据训练反而能增强AI表现##10%的有毒数据能让AI行为更合规#给AI模型“喂食”10%的垃圾内容，反而能让它们表现得更规矩？通常我们认为，大模型预训练的数....md)** | [原文](https://weibo.com/6105753431/Pw3E6g8XQ) | 时间: 2025-06-12 01:30 
+  哈佛大学研究发现，在AI模型预训练中加入少量（约10%）有毒数据（如4chan内容），反而能提升模型后续的可对齐...
 
-- **[JuStRank: Benchmarking LLM Judges for System Ranking](2025-06-12/JuStRank-_Benchmarking_LLM_Judges_for_System_Ranking.md)** | [原文](http://arxiv.org/abs/2412.09569v2) | 时间: 2025-06-12 00:02 
-  随着生成式AI的快速发展，系统评估和选择不同模型及配置的需求日益迫切。基于大语言模型（LLM）的评估方法因...
+- **[Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](2025-06-12/Cosmos-Drive-Dreams-_Scalable_Synthetic_Driving_Data_Generation_with_World_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2506.09042v1) | 时间: 2025-06-12 01:29 
+  NVIDIA推出的Cosmos-Drive-Dreams是一个合成数据生成（SDG）管道，旨在为自动驾驶车辆（AV）等安全关键AI系统生成具有...
 
-- **[#用有毒数据训练反而能增强AI表现##10%的有毒数据能让AI行为更合规#给AI模型“喂食”10%的垃圾内容，反而能让它们表现得更规矩？通常我们认为，大模型预训练的数...](2025-06-12/#用有毒数据训练反而能增强AI表现##10%的有毒数据能让AI行为更合规#给AI模型“喂食”10%的垃圾内容，反而能让它们表现得更规矩？通常我们认为，大模型预训练的数....md)** | [原文](https://weibo.com/6105753431/Pw3E6g8XQ) | 时间: 2025-06-12 00:02 
-  哈佛大学研究发现，在AI预训练数据中加入10%的有毒内容（如4chan论坛数据）反而能提升模型表现。这些"毒数据"能...
+- **[Evolutionary Policy Optimization](2025-06-12/Evolutionary_Policy_Optimization.md)** | [原文](http://arxiv.org/abs/2503.19037v2) | 时间: 2025-06-12 01:29 
+  本文提出了一种名为进化策略优化（EPO）的混合算法，结合了进化算法（EA）的可扩展性和多样性，以及策略梯度...
 
-- **[On Monotonicity in AI Alignment](2025-06-12/On_Monotonicity_in_AI_Alignment.md)** | [原文](http://arxiv.org/abs/2506.08998v1) | 时间: 2025-06-12 00:02 
-  这篇论文研究了基于比较的偏好学习方法（如DPO、GPO和GBT）中出现的非单调性问题，即模型有时会降低被偏好响应...
+- **[Curvature Tuning: Provable Training-free Model Steering From a Single Parameter](2025-06-12/Curvature_Tuning-_Provable_Training-free_Model_Steering_From_a_Single_Parameter.md)** | [原文](http://arxiv.org/abs/2502.07783v4) | 时间: 2025-06-12 01:29 
+  这篇论文提出了一种名为曲率调谐（Curvature Tuning, CT）的新型微调方法，通过调整激活函数的曲率来优化预训练模...
 
-- **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](2025-06-12/VIKI-R-_Coordinating_Embodied_Multi-Agent_Cooperation_via_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2506.09049v1) | 时间: 2025-06-12 00:01 
-  该研究提出了VIKI-Bench，首个面向具身多智能体协作的分层基准测试框架，包含智能体激活、任务规划和轨迹感知...
+- **[Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models](2025-06-12/Boosting_Rust_Unit_Test_Coverage_through_Hybrid_Program_Analysis_and_Large_Language_Models.md)** | [原文](http://arxiv.org/abs/2506.09002v2) | 时间: 2025-06-12 01:29 
+  本文提出PALM方法，利用大语言模型(LLM)提升单元测试生成质量。传统搜索式测试和符号执行方法难以处理复杂分支...
 
-- **[Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation](2025-06-12/Agentic_Neural_Networks-_Self-Evolving_Multi-Agent_Systems_via_Textual_Backpropagation.md)** | [原文](http://arxiv.org/abs/2506.09046v1) | 时间: 2025-06-12 00:01 
-  本文提出了Agentic Neural Network（ANN）框架，将多智能体协作建模为分层神经网络结构。每个智能体作为节点，每层...
+- **[On Monotonicity in AI Alignment](2025-06-12/On_Monotonicity_in_AI_Alignment.md)** | [原文](http://arxiv.org/abs/2506.08998v1) | 时间: 2025-06-12 01:29 
+  这篇论文研究了基于比较的偏好学习方法（如DPO、GPO和GBT）中出现的反直觉现象：即使模型学习到偏好y胜过z，却...
 
-- **[The Decoupled Risk Landscape in Performative Prediction](2025-06-12/The_Decoupled_Risk_Landscape_in_Performative_Prediction.md)** | [原文](http://arxiv.org/abs/2506.09044v1) | 时间: 2025-06-12 00:01 
-  本文提出了一种用于"表演性预测"（模型部署引发数据分布变化）的可视化方法。研究者开发了一种解耦风险可视...
+- **[The Decoupled Risk Landscape in Performative Prediction](2025-06-12/The_Decoupled_Risk_Landscape_in_Performative_Prediction.md)** | [原文](http://arxiv.org/abs/2506.09044v1) | 时间: 2025-06-12 01:29 
+  本文提出了一种针对"表演性预测"（模型部署引发数据分布变化）的可视化分析方法。研究者开发了一种解耦风险...
 
-- **[Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](2025-06-12/Cosmos-Drive-Dreams-_Scalable_Synthetic_Driving_Data_Generation_with_World_Foundation_Models.md)** | [原文](http://arxiv.org/abs/2506.09042v1) | 时间: 2025-06-12 00:01 
-  NVIDIA的研究团队开发了Cosmos-Drive-Dreams合成数据生成（SDG）管道，旨在为自动驾驶车辆（AV）等安全关键AI系统生成...
+- **[Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation](2025-06-12/Agentic_Neural_Networks-_Self-Evolving_Multi-Agent_Systems_via_Textual_Backpropagation.md)** | [原文](http://arxiv.org/abs/2506.09046v1) | 时间: 2025-06-12 01:28 
+  本文提出了Agentic Neural Network (ANN)框架，将多智能体协作建模为分层神经网络结构。每个智能体作为节点，每层形...
 
-- **[ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering](2025-06-12/ALE-Bench-_A_Benchmark_for_Long-Horizon_Objective-Driven_Algorithm_Engineering.md)** | [原文](http://arxiv.org/abs/2506.09050v1) | 时间: 2025-06-12 00:01 
-  ALE-Bench是一个新的AI基准测试，用于评估AI系统在基于分数的算法编程竞赛中的表现。该测试借鉴了AtCoder启发式竞...
+- **[ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering](2025-06-12/ALE-Bench-_A_Benchmark_for_Long-Horizon_Objective-Driven_Algorithm_Engineering.md)** | [原文](http://arxiv.org/abs/2506.09050v1) | 时间: 2025-06-12 01:28 
+  ALE-Bench是一个新的AI基准测试，用于评估AI系统在基于分数的算法编程竞赛中的表现。该测试借鉴了AtCoder Heuristic竞...
+
+- **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](2025-06-12/VIKI-R-_Coordinating_Embodied_Multi-Agent_Cooperation_via_Reinforcement_Learning.md)** | [原文](http://arxiv.org/abs/2506.09049v1) | 时间: 2025-06-12 01:28 
+  本文介绍了首个面向具身多智能体协作的分层基准测试VIKI-Bench，包含智能体激活、任务规划和轨迹感知三个层次...
 
 ### 2025-06-11 (67篇)
 
 - **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-11/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-11 23:04 
   该论文针对代码生成大模型(codeLLMs)提出新评估方法，指出当前基准测试过于关注代码正确性而忽视人类偏好。研...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-11/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-11 23:03 
-  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。该方案利用Stable Diff...
-
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-11/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-11 23:03 
-  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译、论文写作支持...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-11/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-11 23:03 
+  该论文提出了Native Sparse Attention (NSA)机制，通过动态分层稀疏策略解决传统注意力机制处理长文本时的高计算成本...
 
 - **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-11/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-11 23:03 
   本文综述了非小细胞肺癌（NSCLC）治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，尽...
 
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-11/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-11 23:03 
+  本研究提出LatentSync框架，通过音频条件潜在扩散模型实现端到端唇同步，无需中间运动表示。该方案利用Stable Diff...
+
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-11/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-11 23:03 
   AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理及其500万次互动。研究者用它研究了...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-11/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-11 23:03 
-  该论文提出了Native Sparse Attention (NSA)机制，通过动态分层稀疏策略解决传统注意力机制处理长文本时的高计算成本...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-11/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-11 23:03 
+  AMiner是一个智能科技情报挖掘平台，提供一站式科研服务，包括中英文文献检索、辅助阅读、翻译、论文写作支持...
 
 - **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-11/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-11 23:02 
   这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。该方法通过初始化时根据梯度...
 
-- **[#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框...](2025-06-11/#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框....md)** | [原文](https://weibo.com/6105753431/Pw3qJBYSv) | 时间: 2025-06-11 23:02 
-  苹果推出Containerization框架，使开发者能在Apple Silicon的Mac上运行Linux容器。该技术基于Virtualization....
-
 - **[#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力...](2025-06-11/#GUI智能体会自我反思了##端到端GUI智能体首次实现自我反思#随着多模态大模型的进步，在手机、电脑等设备上的自动化任务中，端到端的GUI智能体展现出巨大的潜力....md)** | [原文](https://weibo.com/6105753431/Pw3y0osJV) | 时间: 2025-06-11 23:02 
   南洋理工大学MMLab团队开发了GUI-Reflection框架，首次实现端到端GUI智能体的自我反思能力。该框架通过"预训练-监督...
+
+- **[#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框...](2025-06-11/#Mac上运行Linux方法##苹果推出Mac运行Linux框架#Mac上如何运行Linux？苹果官方解决方案来了！苹果推出了Containerization，这是一个在macOS上运行Linux容器的框....md)** | [原文](https://weibo.com/6105753431/Pw3qJBYSv) | 时间: 2025-06-11 23:02 
+  苹果推出Containerization框架，使开发者能在Apple Silicon的Mac上运行Linux容器。该技术基于Virtualization....
 
 - **[#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D ：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch...](2025-06-11/#浏览器运行CAD工具##浏览器就能做3D建模#Chili3D_：浏览器上运行CAD的开源应用，提供强大的在线建模、编辑和渲染功能，无需安装本地软件即可运行，网址在这：ch....md)** | [原文](https://weibo.com/6105753431/Pw3pKwrmL) | 时间: 2025-06-11 23:02 
   Chili3D是一款基于浏览器的开源CAD工具，通过将OpenCascade编译为WebAssembly并与Three.js集成，实现了无需安装软件的在...
