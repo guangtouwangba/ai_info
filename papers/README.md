@@ -6,28 +6,46 @@
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索，拥...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-12 14:06
+**收录时间**: 2025-06-12 15:04
 
 ---
 
 ### [Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)
 
-**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出了CodeArena基准测试，重点关注模型输出与人类偏好的对齐问题。研究者...
+**摘要**: 这篇论文针对代码生成大模型(codeLLMs)提出两个关键贡献：1) 创建CodeArena基准，包含397个真实编程任务样本，覆盖40...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58h85y3u)
-**收录时间**: 2025-06-12 14:06
+**收录时间**: 2025-06-12 15:04
 
 ---
 
 ### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
 
-**摘要**: 本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
+**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。针对扩散模...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-12 14:06
+**收录时间**: 2025-06-12 15:03
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次）。研究者用它...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-06-12 15:03
+
+---
+
+### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
+
+**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK致癌基因的双靶点抑制剂研究进展。尽管已有7种ALK抑制剂获批用于ALK...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
+**收录时间**: 2025-06-12 15:03
 
 ---
 
@@ -36,124 +54,106 @@
 **摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-12 14:05
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究了社...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-12 14:05
-
----
-
-### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
-
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，尽...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-12 14:05
-
----
-
-### [#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale AI，大佬LeCun动向成谜。...](2025-06-12/#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta_CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale_AI，大佬LeCun动向成谜。....md)
-
-**摘要**: Meta CEO扎克伯格因对Llama4表现不满，正以高达9位数的薪资亲自组建新AI团队，并计划斥资千亿人民币收购初创公司S...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwcOmjj4h)
-**收录时间**: 2025-06-12 14:04
-
----
-
-### [#华为昇思MindSpore##4行代码迁移DeepSeek# 没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月...](2025-06-12/#华为昇思MindSpore##4行代码迁移DeepSeek#_没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月....md)
-
-**摘要**: 华为昇思MindSpore为AI开发者提供了高效的大模型迁移方案，支持主流SOTA模型的"Day0迁移"——仅需极少量代码修改即...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwcB9gpfK)
-**收录时间**: 2025-06-12 14:04
-
----
-
-### [#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR...](2025-06-12/#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR....md)
-
-**摘要**: 华东师范大学团队提出E²GraphRAG新方法，有效解决GraphRAG速度慢和LightRAG延迟高的问题。该方法通过两步优化：1) 使...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwcKb1LBv)
-**收录时间**: 2025-06-12 14:04
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度方法的传统认知。该方法通过初始化...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-12 14:04
-
----
-
-### [#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空...](2025-06-12/#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空....md)
-
-**摘要**: 朴茨茅斯大学Enrique Gaztanaga教授提出颠覆性理论，认为宇宙大爆炸可能源自超大质量黑洞的引力坍缩反弹，而非传...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pwd3iczZw)
-**收录时间**: 2025-06-12 14:03
-
----
-
-### [#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13...](2025-06-12/#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13....md)
-
-**摘要**: CVPR2025作为计算机视觉顶级会议，收到13,008篇投稿，录用2,878篇。为帮助研究者快速定位优质论文，网友整理了一...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pwd3mClsC)
-**收录时间**: 2025-06-12 14:03
+**收录时间**: 2025-06-12 15:03
 
 ---
 
 ### [#适应真实工业场景的AI代码补全##中兴通讯团队让AI代码补全更懂开发者#如何让AI代码补全更懂开发者？中兴通讯团队提出了两个新的评测指标，以及一套仓库级代码语...](2025-06-12/#适应真实工业场景的AI代码补全##中兴通讯团队让AI代码补全更懂开发者#如何让AI代码补全更懂开发者？中兴通讯团队提出了两个新的评测指标，以及一套仓库级代码语....md)
 
-**摘要**: 中兴通讯团队针对AI代码补全工具在工业场景中的不足，提出两个新评测指标和一套仓库级代码处理框架，旨在缩...
+**摘要**: 中兴通讯团队针对AI代码补全工具在工业场景中的不足，提出两个新评测指标和仓库级代码处理框架，旨在缩小AI...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pwd2J0Ee5)
-**收录时间**: 2025-06-12 14:03
+**收录时间**: 2025-06-12 15:02
+
+---
+
+### [#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale AI，大佬LeCun动向成谜。...](2025-06-12/#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta_CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale_AI，大佬LeCun动向成谜。....md)
+
+**摘要**: Meta CEO扎克伯格因对Llama4表现不满，正以高达9位数的薪酬亲自组建新AI团队，并计划斥资千亿人民币收购初创公司S...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwcOmjj4h)
+**收录时间**: 2025-06-12 15:02
+
+---
+
+### [#华为昇思MindSpore##4行代码迁移DeepSeek# 没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月...](2025-06-12/#华为昇思MindSpore##4行代码迁移DeepSeek#_没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月....md)
+
+**摘要**: 华为昇思MindSpore为开发者提供高效的大模型迁移方案，仅需修改少量代码即可实现主流SOTA模型的"Day0训练迁移"，...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwcB9gpfK)
+**收录时间**: 2025-06-12 15:02
+
+---
+
+### [#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR...](2025-06-12/#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR....md)
+
+**摘要**: 华东师范大学团队提出E²GraphRAG新方法，有效解决GraphRAG速度慢和LightRAG延迟高的问题。该方法在索引构建上比GraphR...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwcKb1LBv)
+**收录时间**: 2025-06-12 15:02
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 该论文提出了一种名为SGD-SaI的新型优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-06-12 15:02
+
+---
+
+### [#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空...](2025-06-12/#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空....md)
+
+**摘要**: 朴茨茅斯大学Enrique Gaztanaga教授提出颠覆性宇宙起源理论，认为大爆炸并非宇宙起点，而是超大质量黑洞引力坍缩...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pwd3iczZw)
+**收录时间**: 2025-06-12 15:01
 
 ---
 
 ### [#何恺明新作给扩散模型加正则化##将扩散模型与表征学习结合#扩散模型风头正盛，何恺明最新论文也与此相关。研究的是如何把扩散模型和表征学习联系起来——给扩散...](2025-06-12/#何恺明新作给扩散模型加正则化##将扩散模型与表征学习结合#扩散模型风头正盛，何恺明最新论文也与此相关。研究的是如何把扩散模型和表征学习联系起来——给扩散....md)
 
-**摘要**: 何恺明最新研究提出了一种名为Dispersive Loss的正则化方法，用于改进扩散模型。该方法通过在标准回归损失外增加...
+**摘要**: 何恺明最新研究提出了一种名为Dispersive Loss的正则化方法，用于改进扩散模型。该方法通过在模型训练过程中对中...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pwd35F5Zv)
-**收录时间**: 2025-06-12 14:03
-
----
-
-### [#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到...](2025-06-12/#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到....md)
-
-**摘要**: 上海交通大学、斯坦福大学等机构联合开发了Video-Bench视频评估框架，利用多模态大模型（MLLM）模拟人类认知过程...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pwd2UqmEs)
-**收录时间**: 2025-06-12 14:03
+**收录时间**: 2025-06-12 15:01
 
 ---
 
 ### [#AI写综述10分钟生成6万字##AI写综述成本不到四块钱#研究综述写作难、费时、追不上新进展？现在AI有了解决方案。上海AI实验室联手复旦、交大等单位推出SurveyFor...](2025-06-12/#AI写综述10分钟生成6万字##AI写综述成本不到四块钱#研究综述写作难、费时、追不上新进展？现在AI有了解决方案。上海AI实验室联手复旦、交大等单位推出SurveyFor....md)
 
-**摘要**: 上海AI实验室联合复旦、交大等机构推出SurveyForge框架，可自动生成高质量学术综述，被ACL 2025接收。该系统通过两...
+**摘要**: 上海AI实验室联合复旦、交大等机构推出SurveyForge框架，可自动生成高质量学术综述，被ACL 2025接收。该系统10分钟...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/Pwd3khLEY)
-**收录时间**: 2025-06-12 14:03
+**收录时间**: 2025-06-12 15:01
 
 ---
 
-### [Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy](2025-06-12/Kvasir-VQA-x1-_A_Multimodal_Dataset_for_Medical_Reasoning_and_Robust_MedVQA_in_Gastrointestinal_Endoscopy.md)
+### [6月7日，今年的高考作文题新鲜出炉。我们火速搞了个写作实验，摇来了4位人类考生与AI同台竞技，最后5篇匿名作文由一线语文老师进行的盲评打分。人类考生 vs AI ...](2025-06-12/6月7日，今年的高考作文题新鲜出炉。我们火速搞了个写作实验，摇来了4位人类考生与AI同台竞技，最后5篇匿名作文由一线语文老师进行的盲评打分。人类考生_vs_AI_....md)
 
-**摘要**: 研究人员推出了Kvasir-VQA-x1数据集，这是一个针对胃肠道内窥镜的大规模医学视觉问答数据集。该数据集在原有基...
+**摘要**: 今年高考作文题公布后，某平台组织了一场人类考生与AI的写作对决。4名人类考生与AI同题写作，5篇匿名作文由一...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.09958v1)
-**收录时间**: 2025-06-12 14:02
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwdDUaNXp)
+**收录时间**: 2025-06-12 15:01
+
+---
+
+### [#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到...](2025-06-12/#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到....md)
+
+**摘要**: 上海交通大学、斯坦福大学等机构联合开发了Video-Bench视频评估框架，利用多模态大模型(MLLM)模拟人类认知过程来...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pwd2UqmEs)
+**收录时间**: 2025-06-12 15:01
+
+---
+
+### [#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13...](2025-06-12/#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13....md)
+
+**摘要**: CVPR2025作为计算机视觉顶级会议，共收到13,008篇投稿，录用2,878篇。为帮助研究者快速定位优质论文，网友整理了...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pwd3mClsC)
+**收录时间**: 2025-06-12 15:01
 
 ---
 
@@ -162,15 +162,6 @@
 **摘要**: 研究表明，大学生缺乏自我调节学习(SRL)能力会导致学习效率低下。针对59名学生的调研发现，目标设定、时间管...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2506.09968v1)
-**收录时间**: 2025-06-12 14:02
-
----
-
-### [KI4Demokratie: An AI-Based Platform for Monitoring and Fostering Democratic Discourse](2025-06-12/KI4Demokratie-_An_AI-Based_Platform_for_Monitoring_and_Fostering_Democratic_Discourse.md)
-
-**摘要**: 社交媒体助长了极端主义，尤其是右翼极端主义，并加速了反民主叙事的传播。尽管AI和数据科学常被用于操纵政...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.09947v1)
 **收录时间**: 2025-06-12 14:02
 
 ---
@@ -184,90 +175,99 @@
 
 ---
 
+### [Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy](2025-06-12/Kvasir-VQA-x1-_A_Multimodal_Dataset_for_Medical_Reasoning_and_Robust_MedVQA_in_Gastrointestinal_Endoscopy.md)
+
+**摘要**: 研究人员推出了Kvasir-VQA-x1数据集，这是一个针对胃肠道内窥镜的大规模医学视觉问答数据集。该数据集在原有基...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.09958v1)
+**收录时间**: 2025-06-12 14:02
+
+---
+
 ## 历史内容
 
 ### 2025-06-12 (66篇)
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-12 14:06 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、翻译、辅助阅读和科研情报订阅...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-12/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-12 15:04 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索，拥...
 
-- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-12 14:06 
-  这篇论文针对代码生成大模型(codeLLMs)提出了CodeArena基准测试，重点关注模型输出与人类偏好的对齐问题。研究者...
+- **[Evaluating and Aligning CodeLLMs on Human Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部...](2025-06-12/Evaluating_and_Aligning_CodeLLMs_on_Human_Preference网页链接这篇论文研究了代码生成大型语言模型（codeLLMs）的性能评估和与人类偏好对齐的问题。现有的大部....md)** | [原文](https://weibo.com/1870858943/P58h85y3u) | 时间: 2025-06-12 15:04 
+  这篇论文针对代码生成大模型(codeLLMs)提出两个关键贡献：1) 创建CodeArena基准，包含397个真实编程任务样本，覆盖40...
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-12 14:06 
-  本研究提出LatentSync，一种基于音频条件潜在扩散模型的端到端唇同步框架，无需中间运动表示。该方法利用Stable D...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-12/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-12 15:03 
+  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。针对扩散模...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-12 14:05 
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-12 15:03 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理的社会互动（500万次）。研究者用它...
+
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-12 15:03 
+  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK致癌基因的双靶点抑制剂研究进展。尽管已有7种ALK抑制剂获批用于ALK...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-12/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-12 15:03 
   该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-12/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-12 14:05 
-  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理及其500万次互动。研究者用它研究了社...
+- **[#适应真实工业场景的AI代码补全##中兴通讯团队让AI代码补全更懂开发者#如何让AI代码补全更懂开发者？中兴通讯团队提出了两个新的评测指标，以及一套仓库级代码语...](2025-06-12/#适应真实工业场景的AI代码补全##中兴通讯团队让AI代码补全更懂开发者#如何让AI代码补全更懂开发者？中兴通讯团队提出了两个新的评测指标，以及一套仓库级代码语....md)** | [原文](https://weibo.com/6105753431/Pwd2J0Ee5) | 时间: 2025-06-12 15:02 
+  中兴通讯团队针对AI代码补全工具在工业场景中的不足，提出两个新评测指标和仓库级代码处理框架，旨在缩小AI...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-12/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-12 14:05 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，尽...
+- **[#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale AI，大佬LeCun动向成谜。...](2025-06-12/#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta_CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale_AI，大佬LeCun动向成谜。....md)** | [原文](https://weibo.com/6105753431/PwcOmjj4h) | 时间: 2025-06-12 15:02 
+  Meta CEO扎克伯格因对Llama4表现不满，正以高达9位数的薪酬亲自组建新AI团队，并计划斥资千亿人民币收购初创公司S...
 
-- **[#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale AI，大佬LeCun动向成谜。...](2025-06-12/#扎克伯格天价招人组新AI团队#对Llama4太不满！Meta_CEO扎克伯格亲自招人组新AI团队，开价高达9位数，同时豪掷千亿人民币收购初创Scale_AI，大佬LeCun动向成谜。....md)** | [原文](https://weibo.com/6105753431/PwcOmjj4h) | 时间: 2025-06-12 14:04 
-  Meta CEO扎克伯格因对Llama4表现不满，正以高达9位数的薪资亲自组建新AI团队，并计划斥资千亿人民币收购初创公司S...
+- **[#华为昇思MindSpore##4行代码迁移DeepSeek# 没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月...](2025-06-12/#华为昇思MindSpore##4行代码迁移DeepSeek#_没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月....md)** | [原文](https://weibo.com/6105753431/PwcB9gpfK) | 时间: 2025-06-12 15:02 
+  华为昇思MindSpore为开发者提供高效的大模型迁移方案，仅需修改少量代码即可实现主流SOTA模型的"Day0训练迁移"，...
 
-- **[#华为昇思MindSpore##4行代码迁移DeepSeek# 没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月...](2025-06-12/#华为昇思MindSpore##4行代码迁移DeepSeek#_没有一个大模型可以一统天下。这，或许已经成为了AI大模型时代行业里的一个共识。在如此背景之下，面对众多且日新月....md)** | [原文](https://weibo.com/6105753431/PwcB9gpfK) | 时间: 2025-06-12 14:04 
-  华为昇思MindSpore为AI开发者提供了高效的大模型迁移方案，支持主流SOTA模型的"Day0迁移"——仅需极少量代码修改即...
+- **[#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR...](2025-06-12/#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR....md)** | [原文](https://weibo.com/6105753431/PwcKb1LBv) | 时间: 2025-06-12 15:02 
+  华东师范大学团队提出E²GraphRAG新方法，有效解决GraphRAG速度慢和LightRAG延迟高的问题。该方法在索引构建上比GraphR...
 
-- **[#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR...](2025-06-12/#一招解决RAG双难题##新方法让RAG效率暴涨#GraphRAG太慢、LightRAG延迟太高，华东师大团队带来新解法——E²GraphRAG，一招解决双难题。在索引构建上，E²GraphR....md)** | [原文](https://weibo.com/6105753431/PwcKb1LBv) | 时间: 2025-06-12 14:04 
-  华东师范大学团队提出E²GraphRAG新方法，有效解决GraphRAG速度慢和LightRAG延迟高的问题。该方法通过两步优化：1) 使...
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-12 15:02 
+  该论文提出了一种名为SGD-SaI的新型优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-12/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-12 14:04 
-  这篇论文提出了SGD-SaI方法，挑战了深度神经网络训练中必须使用自适应梯度方法的传统认知。该方法通过初始化...
+- **[#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空...](2025-06-12/#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空....md)** | [原文](https://weibo.com/6105753431/Pwd3iczZw) | 时间: 2025-06-12 15:01 
+  朴茨茅斯大学Enrique Gaztanaga教授提出颠覆性宇宙起源理论，认为大爆炸并非宇宙起点，而是超大质量黑洞引力坍缩...
 
-- **[#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空...](2025-06-12/#大爆炸可能并非宇宙起点##宇宙或是黑洞反弹产物#还记得《生活大爆炸》主题曲里那句“一切由大爆炸开始”吗？我们常常把宇宙的诞生想象成一场剧烈的爆炸，一个空....md)** | [原文](https://weibo.com/6105753431/Pwd3iczZw) | 时间: 2025-06-12 14:03 
-  朴茨茅斯大学Enrique Gaztanaga教授提出颠覆性理论，认为宇宙大爆炸可能源自超大质量黑洞的引力坍缩反弹，而非传...
+- **[#何恺明新作给扩散模型加正则化##将扩散模型与表征学习结合#扩散模型风头正盛，何恺明最新论文也与此相关。研究的是如何把扩散模型和表征学习联系起来——给扩散...](2025-06-12/#何恺明新作给扩散模型加正则化##将扩散模型与表征学习结合#扩散模型风头正盛，何恺明最新论文也与此相关。研究的是如何把扩散模型和表征学习联系起来——给扩散....md)** | [原文](https://weibo.com/6105753431/Pwd35F5Zv) | 时间: 2025-06-12 15:01 
+  何恺明最新研究提出了一种名为Dispersive Loss的正则化方法，用于改进扩散模型。该方法通过在模型训练过程中对中...
 
-- **[#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13...](2025-06-12/#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13....md)** | [原文](https://weibo.com/6105753431/Pwd3mClsC) | 时间: 2025-06-12 14:03 
-  CVPR2025作为计算机视觉顶级会议，收到13,008篇投稿，录用2,878篇。为帮助研究者快速定位优质论文，网友整理了一...
+- **[#AI写综述10分钟生成6万字##AI写综述成本不到四块钱#研究综述写作难、费时、追不上新进展？现在AI有了解决方案。上海AI实验室联手复旦、交大等单位推出SurveyFor...](2025-06-12/#AI写综述10分钟生成6万字##AI写综述成本不到四块钱#研究综述写作难、费时、追不上新进展？现在AI有了解决方案。上海AI实验室联手复旦、交大等单位推出SurveyFor....md)** | [原文](https://weibo.com/6105753431/Pwd3khLEY) | 时间: 2025-06-12 15:01 
+  上海AI实验室联合复旦、交大等机构推出SurveyForge框架，可自动生成高质量学术综述，被ACL 2025接收。该系统10分钟...
 
-- **[#适应真实工业场景的AI代码补全##中兴通讯团队让AI代码补全更懂开发者#如何让AI代码补全更懂开发者？中兴通讯团队提出了两个新的评测指标，以及一套仓库级代码语...](2025-06-12/#适应真实工业场景的AI代码补全##中兴通讯团队让AI代码补全更懂开发者#如何让AI代码补全更懂开发者？中兴通讯团队提出了两个新的评测指标，以及一套仓库级代码语....md)** | [原文](https://weibo.com/6105753431/Pwd2J0Ee5) | 时间: 2025-06-12 14:03 
-  中兴通讯团队针对AI代码补全工具在工业场景中的不足，提出两个新评测指标和一套仓库级代码处理框架，旨在缩...
+- **[6月7日，今年的高考作文题新鲜出炉。我们火速搞了个写作实验，摇来了4位人类考生与AI同台竞技，最后5篇匿名作文由一线语文老师进行的盲评打分。人类考生 vs AI ...](2025-06-12/6月7日，今年的高考作文题新鲜出炉。我们火速搞了个写作实验，摇来了4位人类考生与AI同台竞技，最后5篇匿名作文由一线语文老师进行的盲评打分。人类考生_vs_AI_....md)** | [原文](https://weibo.com/6105753431/PwdDUaNXp) | 时间: 2025-06-12 15:01 
+  今年高考作文题公布后，某平台组织了一场人类考生与AI的写作对决。4名人类考生与AI同题写作，5篇匿名作文由一...
 
-- **[#何恺明新作给扩散模型加正则化##将扩散模型与表征学习结合#扩散模型风头正盛，何恺明最新论文也与此相关。研究的是如何把扩散模型和表征学习联系起来——给扩散...](2025-06-12/#何恺明新作给扩散模型加正则化##将扩散模型与表征学习结合#扩散模型风头正盛，何恺明最新论文也与此相关。研究的是如何把扩散模型和表征学习联系起来——给扩散....md)** | [原文](https://weibo.com/6105753431/Pwd35F5Zv) | 时间: 2025-06-12 14:03 
-  何恺明最新研究提出了一种名为Dispersive Loss的正则化方法，用于改进扩散模型。该方法通过在标准回归损失外增加...
+- **[#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到...](2025-06-12/#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到....md)** | [原文](https://weibo.com/6105753431/Pwd2UqmEs) | 时间: 2025-06-12 15:01 
+  上海交通大学、斯坦福大学等机构联合开发了Video-Bench视频评估框架，利用多模态大模型(MLLM)模拟人类认知过程来...
 
-- **[#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到...](2025-06-12/#让AI像人一样评估视频质量##上交斯坦福自动化视频评估框架#视频生成技术正以前所未有的速度革新着当前的视觉内容创作方式，从电影制作到广告设计，从虚拟现实到....md)** | [原文](https://weibo.com/6105753431/Pwd2UqmEs) | 时间: 2025-06-12 14:03 
-  上海交通大学、斯坦福大学等机构联合开发了Video-Bench视频评估框架，利用多模态大模型（MLLM）模拟人类认知过程...
-
-- **[#AI写综述10分钟生成6万字##AI写综述成本不到四块钱#研究综述写作难、费时、追不上新进展？现在AI有了解决方案。上海AI实验室联手复旦、交大等单位推出SurveyFor...](2025-06-12/#AI写综述10分钟生成6万字##AI写综述成本不到四块钱#研究综述写作难、费时、追不上新进展？现在AI有了解决方案。上海AI实验室联手复旦、交大等单位推出SurveyFor....md)** | [原文](https://weibo.com/6105753431/Pwd3khLEY) | 时间: 2025-06-12 14:03 
-  上海AI实验室联合复旦、交大等机构推出SurveyForge框架，可自动生成高质量学术综述，被ACL 2025接收。该系统通过两...
-
-- **[Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy](2025-06-12/Kvasir-VQA-x1-_A_Multimodal_Dataset_for_Medical_Reasoning_and_Robust_MedVQA_in_Gastrointestinal_Endoscopy.md)** | [原文](http://arxiv.org/abs/2506.09958v1) | 时间: 2025-06-12 14:02 
-  研究人员推出了Kvasir-VQA-x1数据集，这是一个针对胃肠道内窥镜的大规模医学视觉问答数据集。该数据集在原有基...
+- **[#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13...](2025-06-12/#CVPR2025精选论文清单##一站式查看CVPR2025优质论文#终于又将迎来一年一度的CVPR～作为计算机视觉与模式识别领域的全球顶级学术会议，仅2025年，大会就收到了13....md)** | [原文](https://weibo.com/6105753431/Pwd3mClsC) | 时间: 2025-06-12 15:01 
+  CVPR2025作为计算机视觉顶级会议，共收到13,008篇投稿，录用2,878篇。为帮助研究者快速定位优质论文，网友整理了...
 
 - **[SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance](2025-06-12/SRLAgent-_Enhancing_Self-Regulated_Learning_Skills_through_Gamification_and_LLM_Assistance.md)** | [原文](http://arxiv.org/abs/2506.09968v1) | 时间: 2025-06-12 14:02 
   研究表明，大学生缺乏自我调节学习(SRL)能力会导致学习效率低下。针对59名学生的调研发现，目标设定、时间管...
 
-- **[KI4Demokratie: An AI-Based Platform for Monitoring and Fostering Democratic Discourse](2025-06-12/KI4Demokratie-_An_AI-Based_Platform_for_Monitoring_and_Fostering_Democratic_Discourse.md)** | [原文](http://arxiv.org/abs/2506.09947v1) | 时间: 2025-06-12 14:02 
-  社交媒体助长了极端主义，尤其是右翼极端主义，并加速了反民主叙事的传播。尽管AI和数据科学常被用于操纵政...
-
 - **[Trustworthy AI: Safety, Bias, and Privacy -- A Survey](2025-06-12/Trustworthy_AI-_Safety,_Bias,_and_Privacy_--_A_Survey.md)** | [原文](http://arxiv.org/abs/2502.10450v2) | 时间: 2025-06-12 14:02 
   这篇论文探讨了人工智能系统在可信度方面的三大挑战：安全性、隐私性和偏见。在安全性方面，研究聚焦于大型...
 
-- **[6月7日，今年的高考作文题新鲜出炉。我们火速搞了个写作实验，摇来了4位人类考生与AI同台竞技，最后5篇匿名作文由一线语文老师进行的盲评打分。人类考生 vs AI ...](2025-06-12/6月7日，今年的高考作文题新鲜出炉。我们火速搞了个写作实验，摇来了4位人类考生与AI同台竞技，最后5篇匿名作文由一线语文老师进行的盲评打分。人类考生_vs_AI_....md)** | [原文](https://weibo.com/6105753431/PwdDUaNXp) | 时间: 2025-06-12 14:02 
-  今年高考作文题公布后，某平台组织了一场写作实验，让4位人类考生与AI（豆包）同写一篇匿名作文，并邀请一线...
+- **[Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy](2025-06-12/Kvasir-VQA-x1-_A_Multimodal_Dataset_for_Medical_Reasoning_and_Robust_MedVQA_in_Gastrointestinal_Endoscopy.md)** | [原文](http://arxiv.org/abs/2506.09958v1) | 时间: 2025-06-12 14:02 
+  研究人员推出了Kvasir-VQA-x1数据集，这是一个针对胃肠道内窥镜的大规模医学视觉问答数据集。该数据集在原有基...
+
+- **[KI4Demokratie: An AI-Based Platform for Monitoring and Fostering Democratic Discourse](2025-06-12/KI4Demokratie-_An_AI-Based_Platform_for_Monitoring_and_Fostering_Democratic_Discourse.md)** | [原文](http://arxiv.org/abs/2506.09947v1) | 时间: 2025-06-12 14:02 
+  社交媒体助长了极端主义，尤其是右翼极端主义，并加速了反民主叙事的传播。尽管AI和数据科学常被用于操纵政...
 
 - **[7B Fully Open Source Moxin-LLM/VLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](2025-06-12/7B_Fully_Open_Source_Moxin-LLM-VLM_--_From_Pretraining_to_GRPO-based_Reinforcement_Learning_Enhancement.md)** | [原文](http://arxiv.org/abs/2412.06845v5) | 时间: 2025-06-12 14:02 
   近年来，大型语言模型（LLMs）发展迅速，以GPT-4为代表的专有模型和以LLaMA为代表的开源模型推动了这一趋势。然...
 
-- **[V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](2025-06-12/V-JEPA_2-_Self-Supervised_Video_Models_Enable_Understanding,_Prediction_and_Planning.md)** | [原文](http://arxiv.org/abs/2506.09985v1) | 时间: 2025-06-12 14:01 
-  本文提出了一种结合互联网视频数据与少量机器人交互数据的自监督学习方法V-JEPA 2。该模型首先在超100万小时视...
+- **[How Do People Revise Inconsistent Beliefs? Examining Belief Revision in Humans with User Studies](2025-06-12/How_Do_People_Revise_Inconsistent_Beliefs_Examining_Belief_Revision_in_Humans_with_User_Studies.md)** | [原文](http://arxiv.org/abs/2506.09977v1) | 时间: 2025-06-12 14:01 
+  人类在接收新信息时倾向于基于解释的信念修正，而非经典信念修正理论所预测的最小化调整。三项用户研究表明...
 
 - **[Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling](2025-06-12/Flipping_Against_All_Odds-_Reducing_LLM_Coin_Flip_Bias_via_Verbalized_Rejection_Sampling.md)** | [原文](http://arxiv.org/abs/2506.09998v1) | 时间: 2025-06-12 14:01 
   大型语言模型(LLMs)能准确描述概率分布，但在生成可靠样本方面存在困难。研究者针对伯努利分布提出"语言化拒...
 
-- **[When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text](2025-06-12/When_Detection_Fails-_The_Power_of_Fine-Tuned_Models_to_Generate_Human-Like_Social_Media_Text.md)** | [原文](http://arxiv.org/abs/2506.09975v1) | 时间: 2025-06-12 14:01 
-  检测社交媒体上的AI生成文本极具挑战性，主要因为文本短且语言非正式。研究者模拟威胁者视角，创建了50....
-
 - **[EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits](2025-06-12/EditInspector-_A_Benchmark_for_Evaluation_of_Text-Guided_Image_Edits.md)** | [原文](http://arxiv.org/abs/2506.09988v1) | 时间: 2025-06-12 14:01 
   随着生成式AI的发展，文本引导的图像编辑技术日益普及，亟需系统化的评估框架。为此，研究者提出了EditInspector...
 
-- **[How Do People Revise Inconsistent Beliefs? Examining Belief Revision in Humans with User Studies](2025-06-12/How_Do_People_Revise_Inconsistent_Beliefs_Examining_Belief_Revision_in_Humans_with_User_Studies.md)** | [原文](http://arxiv.org/abs/2506.09977v1) | 时间: 2025-06-12 14:01 
-  人类在接收新信息时倾向于基于解释的信念修正，而非经典信念修正理论所预测的最小化调整。三项用户研究表明...
+- **[When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text](2025-06-12/When_Detection_Fails-_The_Power_of_Fine-Tuned_Models_to_Generate_Human-Like_Social_Media_Text.md)** | [原文](http://arxiv.org/abs/2506.09975v1) | 时间: 2025-06-12 14:01 
+  检测社交媒体上的AI生成文本极具挑战性，主要因为文本短且语言非正式。研究者模拟威胁者视角，创建了50....
+
+- **[V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](2025-06-12/V-JEPA_2-_Self-Supervised_Video_Models_Enable_Understanding,_Prediction_and_Planning.md)** | [原文](http://arxiv.org/abs/2506.09985v1) | 时间: 2025-06-12 14:01 
+  本文提出了一种结合互联网视频数据与少量机器人交互数据的自监督学习方法V-JEPA 2。该模型首先在超100万小时视...
 
 - **[要制作对放射性极其敏感的设备，只能用1945年前沉船里的钢材（俗称“低背景钢”Low-background Steel），因为它们未受核爆后的放射性污染。//@青牧席:1945年奥本...](2025-06-12/要制作对放射性极其敏感的设备，只能用1945年前沉船里的钢材（俗称“低背景钢”Low-background_Steel），因为它们未受核爆后的放射性污染。--@青牧席-1945年奥本....md)** | [原文](https://weibo.com/6105753431/Pwcx61Zos) | 时间: 2025-06-12 11:04 
   1945年原子弹爆炸后，全球被铯137等放射性物质污染，导致制造高灵敏度设备需使用1945年前沉船的"低背景钢"。类...
@@ -275,11 +275,11 @@
 - **[#英伟达要在欧洲建20座AI工厂##英伟达要建首个工业AI云平台#黄仁勋宣布：英伟达将在德国建立首个面向工业应用的AI云平台，还要在欧洲建造20座AI工厂！当地时间周...](2025-06-12/#英伟达要在欧洲建20座AI工厂##英伟达要建首个工业AI云平台#黄仁勋宣布：英伟达将在德国建立首个面向工业应用的AI云平台，还要在欧洲建造20座AI工厂！当地时间周....md)** | [原文](https://weibo.com/6105753431/PwcjKs3if) | 时间: 2025-06-12 09:03 
   英伟达CEO黄仁勋宣布将在欧洲大规模布局AI基础设施：1）在德国建立首个工业AI云平台，配备1万块Blackwell GPU，助...
 
-- **[#迪士尼环球起诉Midjourney##地表最强法务部起诉AI图像生成公司#地表最强法务部又出手了，这次向Midjourney提起了版权诉讼！当地时间周三，好莱坞两大巨头迪士尼...](2025-06-12/#迪士尼环球起诉Midjourney##地表最强法务部起诉AI图像生成公司#地表最强法务部又出手了，这次向Midjourney提起了版权诉讼！当地时间周三，好莱坞两大巨头迪士尼....md)** | [原文](https://weibo.com/6105753431/PwckEyoll) | 时间: 2025-06-12 09:03 
-  迪士尼和环球影业近日联合起诉AI图像生成公司Midjourney，指控其未经授权使用旗下知名角色（如尤达大师、钢铁侠...
-
 - **[#实测豆包1.6##字节再掀价格战#不愧是字节，一发大模型，各模态榜单格局全部被重构！最新豆包大模型1.6系列，“小版本”更新但推理、数学、多模态能力全部冲入全...](2025-06-12/#实测豆包1.6##字节再掀价格战#不愧是字节，一发大模型，各模态榜单格局全部被重构！最新豆包大模型1.6系列，“小版本”更新但推理、数学、多模态能力全部冲入全....md)** | [原文](https://weibo.com/6105753431/PwclirVFb) | 时间: 2025-06-12 09:03 
   字节跳动发布豆包大模型1.6系列，在多模态能力、推理和数学方面进入全球第一梯队。该模型在海淀区高考模拟中...
+
+- **[#迪士尼环球起诉Midjourney##地表最强法务部起诉AI图像生成公司#地表最强法务部又出手了，这次向Midjourney提起了版权诉讼！当地时间周三，好莱坞两大巨头迪士尼...](2025-06-12/#迪士尼环球起诉Midjourney##地表最强法务部起诉AI图像生成公司#地表最强法务部又出手了，这次向Midjourney提起了版权诉讼！当地时间周三，好莱坞两大巨头迪士尼....md)** | [原文](https://weibo.com/6105753431/PwckEyoll) | 时间: 2025-06-12 09:03 
+  迪士尼和环球影业近日联合起诉AI图像生成公司Midjourney，指控其未经授权使用旗下知名角色（如尤达大师、钢铁侠...
 
 - **[#未被AI污染网络资源##ChatGPT诞生前干净网络#有人整理了一份“未被AI污染的”信息资源，搜集了2022年以前，ChatGPT还未诞生前的网络信息，做成一个类似数字避难...](2025-06-12/#未被AI污染网络资源##ChatGPT诞生前干净网络#有人整理了一份“未被AI污染的”信息资源，搜集了2022年以前，ChatGPT还未诞生前的网络信息，做成一个类似数字避难....md)** | [原文](https://weibo.com/6105753431/PwcqED9pz) | 时间: 2025-06-12 09:02 
   这个名为"lowbackgroundsteel.ai"的项目创建了一个数字避难所，专门收集2022年前ChatGPT诞生前的"未被AI污染"的网络资源...
