@@ -8,11 +8,11 @@
 
 ## AI 摘要
 
-这是一份专为中国用户定制的本地部署AI大模型教程，涵盖环境配置（Linux平台优化）、主流开源模型（LLaMA/ChatGLM等）部署方法、应用集成（命令行/LangChain等）及高效微调技术（LoRA/ptuning）。配套提供大模型原理课程"Happy-LLM"和"Tiny-Universe"项目，帮助从实践到理论系统掌握AI大模型技术。教程地址：github.com/datawhalechina/self-llm。（98字）
+这篇微博介绍了专为中国用户定制的AI大模型本地部署教程，主要包含四部分内容：1）Linux环境配置指南；2）LLaMA、ChatGLM等开源模型的部署方法；3）命令行调用、在线Demo等应用技术；4）LoRA等微调技巧。项目还提供"Happy-LLM"原理教程和"Tiny-Universe"实践项目，帮助从底层理解大模型。教程发布在GitHub（datawhalechina/self-llm），适合想入门大模型开发的学习者，涵盖从环境搭建到模型微调的全流程。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-12T05:02:15Z
+- **保存时间**: 2025-06-12T06:02:25Z
 - **目录日期**: 2025-06-12
