@@ -4,15 +4,15 @@
 
 ## 原始摘要
 
-<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E8%B0%88%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%23&amp;extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E8%B0%88%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%23" data-hide=""><span class="surl-text">#黄仁勋再谈量子计算#</span></a><br><br>最新GTC大会上，英伟达CEO黄仁勋再谈量子计算，改口预言拐点已来，5年内就能解决现实问题还高调押注物理AI市场。 <a href="https://video.weibo.com/show?fid=1034:5177138110988360" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1i2dv8nkikhj30u01hcwgs.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/qng6xs5klx08p0Pj5LGM01041200o61F0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749884454&amp;ssig=1FMFHdj6pq&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/94RCcGatlx08p0Piv6TK01041200efQk0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749884454&amp;ssig=bUEx0KkEtA&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/uIQpn8bXlx08p0PitLUA010412007UCE0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749884454&amp;ssig=TDZSuWvpsT&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5177138110988360" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E8%B0%88%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%23&amp;extparam=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E8%B0%88%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%23" data-hide=""><span class="surl-text">#黄仁勋再谈量子计算#</span></a><br><br>最新GTC大会上，英伟达CEO黄仁勋再谈量子计算，改口预言拐点已来，5年内就能解决现实问题还高调押注物理AI市场。 <a href="https://video.weibo.com/show?fid=1034:5177138110988360" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both"><div style="clear: both"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1i2dv8nkikhj30u01hcwgs.jpg" style="width: 100%"><source src="https://f.video.weibocdn.com/o0/qng6xs5klx08p0Pj5LGM01041200o61F0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749888121&amp;ssig=D2Ip2dRsPH&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/94RCcGatlx08p0Piv6TK01041200efQk0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749888121&amp;ssig=XOKLeZFDpt&amp;KID=unistore,video"><source src="https://f.video.weibocdn.com/o0/uIQpn8bXlx08p0PitLUA010412007UCE0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1749888121&amp;ssig=mEdYssCCnc&amp;KID=unistore,video"><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5177138110988360" target="_blank" rel="noopener noreferrer">微博视频</a>观看。</p></video>
 
 ## AI 摘要
 
-英伟达CEO黄仁勋在GTC大会上更新了对量子计算的预测，认为技术拐点已至，5年内有望解决现实问题。他高调看好物理AI市场，强调量子计算与AI结合将带来突破性进展。这一表态较此前更为乐观，显示英伟达正积极布局量子计算领域。
+英伟达CEO黄仁勋在GTC大会上更新了对量子计算的预测，认为行业拐点已至，预计5年内量子计算将能解决现实问题。他同时高调押注物理AI市场，强调量子计算与AI结合的巨大潜力。这一表态较此前更为乐观，显示英伟达正积极布局量子计算领域。
 
 ## 元数据
 
 - **来源**: ArXiv
 - **类型**: 论文
-- **保存时间**: 2025-06-14T06:02:18Z
+- **保存时间**: 2025-06-14T07:02:13Z
 - **目录日期**: 2025-06-14
