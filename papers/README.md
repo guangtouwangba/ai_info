@@ -4,48 +4,66 @@
 
 ## 最新内容
 
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-14/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。该框架直接建模音频-视觉关系，...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-14 01:31
-
----
-
 ### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-14/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
 
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-14 01:31
-
----
-
-### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-14/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
-
-**摘要**: 这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-14 01:31
+**收录时间**: 2025-06-14 02:33
 
 ---
 
 ### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-14/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
 
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次交互）。它通过研...
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟10,000多个智能代理及其500万次互动。该系统通过真...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-14 01:31
+**收录时间**: 2025-06-14 02:33
 
 ---
 
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-14/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译、科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、辅助阅读和科研情报订阅等服务。它拥有3....
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-14 01:31
+**收录时间**: 2025-06-14 02:33
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-14/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。该框架通过Stable D...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-06-14 02:33
+
+---
+
+### [#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作...](2025-06-14/#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作....md)
+
+**摘要**: 频繁登录验证的实际安全效果存疑。专家指出三点问题：1) 无法防范钓鱼攻击，反而可能促使用户设置简单密码；...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqvBICG)
+**收录时间**: 2025-06-14 02:32
+
+---
+
+### [#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——...](2025-06-14/#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——....md)
+
+**摘要**: 字节跳动发布多主体视频生成工具MAGREF，仅需一张参考图像即可生成主体高度一致的视频，支持多人同框且不会"...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqeDmMx)
+**收录时间**: 2025-06-14 02:32
+
+---
+
+### [No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-14/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)
+
+**摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量随机梯度下降(...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
+**收录时间**: 2025-06-14 02:32
 
 ---
 
@@ -54,79 +72,43 @@
 **摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-14 01:31
-
----
-
-### [#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装...](2025-06-14/#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装....md)
-
-**摘要**: 这是一套面向零基础学习者的逆向工程教程，通过拆解分析现有系统来推导设计原理，类比乐高积木的拆解研究。...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwmrlaCgy)
-**收录时间**: 2025-06-14 01:30
-
----
-
-### [#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声...](2025-06-14/#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声....md)
-
-**摘要**: 科大讯飞最新发布会展示了智能交互技术的突破性进展：宇树机器人通过小型背包实现声情并茂的语音交互，AI眼...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqSmZbB)
-**收录时间**: 2025-06-14 01:30
-
----
-
-### [#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学...](2025-06-14/#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学....md)
-
-**摘要**: 北大韦东奕与章志飞、邵锋合作的研究论文发表在数学顶刊《Forum of Mathematics, Pi》，探讨超临界散焦非线性波动方...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqYhDjB)
-**收录时间**: 2025-06-14 01:30
-
----
-
-### [#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作...](2025-06-14/#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作....md)
-
-**摘要**: 频繁登录验证的实际效果存疑。专家指出三点问题：1) 无法防范钓鱼攻击，反而可能促使用户设置简单密码；2) 现...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqvBICG)
-**收录时间**: 2025-06-14 01:30
+**收录时间**: 2025-06-14 02:32
 
 ---
 
 ### [「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-14/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)
 
-**摘要**: 「AMiner沉思」是一款基于智谱GLM-Z1-Rumination模型的AI文献调研工具，能够在5分钟内检索ArXiv、PubMed等三亿文献库，...
+**摘要**: AMiner推出「AMiner沉思」功能，基于自研GLM-Z1-Rumination模型，可在5分钟内完成上百篇文献的检索和阅读，并生成近万...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PwjWJmAcZ)
-**收录时间**: 2025-06-14 01:30
+**收录时间**: 2025-06-14 02:32
 
 ---
 
-### [#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器...](2025-06-14/#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器....md)
+### [#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学...](2025-06-14/#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学....md)
 
-**摘要**: 波士顿动力机器狗登上美国达人秀表演《千手观音》，开场不到一分钟就出现宕机故障，一只机器狗当场"扑街"。...
+**摘要**: 北京大学韦东奕与章志飞、邵锋合作的论文《On blow-up for the supercritical defocusing nonlinear wave equation》发表于数学顶...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwmuADHwc)
-**收录时间**: 2025-06-14 01:30
-
----
-
-### [#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——...](2025-06-14/#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——....md)
-
-**摘要**: 字节跳动发布多主体视频生成工具MAGREF，仅需一张参考图像即可生成主体高度一致的视频，支持多人同台且不串脸...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqeDmMx)
-**收录时间**: 2025-06-14 01:30
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqYhDjB)
+**收录时间**: 2025-06-14 02:31
 
 ---
 
-### [#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，...](2025-06-14/#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，....md)
+### [#韦东奕论文再登数学顶刊# 韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但...](2025-06-14/#韦东奕论文再登数学顶刊#_韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但....md)
 
-**摘要**: SakanaAI推出Text-to-LoRA（T2L）技术，仅需一句自然语言描述即可自动生成LoRA微调模型，将传统需数天的流程缩短至几...
+**摘要**: 北京大学韦东奕研究员在数学顶刊发表新论文《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程爆破性...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pwms5xY1Z)
-**收录时间**: 2025-06-14 01:30
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pwn3bgldb)
+**收录时间**: 2025-06-14 02:31
+
+---
+
+### [#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装...](2025-06-14/#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装....md)
+
+**摘要**: 这是一套面向零基础学习者的逆向工程教程，通过类比拆解乐高积木的方式，讲解如何通过现有系统反向推导设计...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwmrlaCgy)
+**收录时间**: 2025-06-14 02:31
 
 ---
 
@@ -135,52 +117,70 @@
 **摘要**: 第九届A2M人工智能创新峰会于6月14-15日在北京举办，聚焦大模型技术、AI Agent落地等15个专场，汇集阿里、微软、...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PwsxS0mZo)
-**收录时间**: 2025-06-14 01:29
+**收录时间**: 2025-06-14 02:31
 
 ---
 
-### [#韦东奕论文再登数学顶刊# 韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但...](2025-06-14/#韦东奕论文再登数学顶刊#_韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但....md)
+### [#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声...](2025-06-14/#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声....md)
 
-**摘要**: 中国数学家韦东奕的研究论文《超临界散焦非线性波动方程的爆破现象研究》再次登上数学顶刊。该论文将散焦方...
+**摘要**: 科大讯飞最新发布会展示了智能交互技术的突破性进展：通过AI技术，宇树机器人能实现声情并茂的语音交互，AI...
 
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pwn3bgldb)
-**收录时间**: 2025-06-14 01:29
-
----
-
-### [Execution Guided Line-by-Line Code Generation](2025-06-14/Execution_Guided_Line-by-Line_Code_Generation.md)
-
-**摘要**: 本文提出了一种名为EG-CFG的新型神经代码生成方法，通过将实时执行信号融入语言模型生成过程来提升性能。传统...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.10948v1)
-**收录时间**: 2025-06-14 01:29
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwmqSmZbB)
+**收录时间**: 2025-06-14 02:31
 
 ---
 
-### [Dynamic Epistemic Friction in Dialogue](2025-06-14/Dynamic_Epistemic_Friction_in_Dialogue.md)
+### [#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，...](2025-06-14/#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，....md)
 
-**摘要**: 该研究探讨了大型语言模型（LLM）与人类协作中的"认知摩擦"问题，即模型在面对新信息时更新信念的阻力。作者...
+**摘要**: SakanaAI推出Text-to-LoRA（T2L）技术，只需一句自然语言描述即可自动生成LoRA微调模型，将传统需数天的流程缩短至几...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.10934v1)
-**收录时间**: 2025-06-14 01:29
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pwms5xY1Z)
+**收录时间**: 2025-06-14 02:31
+
+---
+
+### [#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器...](2025-06-14/#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器....md)
+
+**摘要**: 波士顿动力机器狗登上美国达人秀表演"千手观音"，五只机器狗随音乐热舞时，其中一只开场不到1分钟突然宕机扑...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwmuADHwc)
+**收录时间**: 2025-06-14 02:31
 
 ---
 
 ### [#人类竟有呼吸指纹##掌握正确呼吸法能锻炼身体#最新研究发现，人类具有“呼吸指纹”，每个人的呼吸独一无二，个体识别准确率达96.8%。该研究来自以色列魏茨曼科...](2025-06-14/#人类竟有呼吸指纹##掌握正确呼吸法能锻炼身体#最新研究发现，人类具有“呼吸指纹”，每个人的呼吸独一无二，个体识别准确率达96.8%。该研究来自以色列魏茨曼科....md)
 
-**摘要**: 以色列魏茨曼科学研究所最新研究发现，人类具有独特的"呼吸指纹"，个体识别准确率达96.8%。研究通过可穿戴设...
+**摘要**: 以色列魏茨曼科学研究所最新研究发现，人类呼吸模式具有类似指纹的独特性，个体识别准确率达96....
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PwmE0xifG)
-**收录时间**: 2025-06-14 01:29
+**收录时间**: 2025-06-14 02:31
 
 ---
 
 ### [Build the web for agents, not agents for the web](2025-06-14/Build_the_web_for_agents,_not_agents_for_the_web.md)
 
-**摘要**: 这篇立场论文提出，当前基于大语言模型（LLM）的网页代理面临核心挑战：人类设计的界面与AI能力不匹配。为解...
+**摘要**: 这篇立场论文提出，当前基于大语言模型（LLM）的网页代理面临人机界面不匹配的根本挑战。作者主张转变研究范...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2506.10953v1)
-**收录时间**: 2025-06-14 01:29
+**收录时间**: 2025-06-14 02:30
+
+---
+
+### [Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](2025-06-14/Eye,_Robot-_Learning_to_Look_to_Act_with_a_BC-RL_Perception-Action_Loop.md)
+
+**摘要**: EyeRobot是一个受人类主动视觉启发的机器人系统，通过机械眼球旋转观察环境并执行任务。研究团队使用强化学习...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.10968v1)
+**收录时间**: 2025-06-14 02:30
+
+---
+
+### [Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](2025-06-14/Monitoring_Decomposition_Attacks_in_LLMs_with_Lightweight_Sequential_Monitors.md)
+
+**摘要**: 当前大语言模型（LLM）的安全防御在分解攻击下失效，恶意目标被拆分为无害子任务以绕过拒绝机制。现有浅层安...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.10949v1)
+**收录时间**: 2025-06-14 02:30
 
 ---
 
@@ -188,97 +188,97 @@
 
 ### 2025-06-14 (28篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-14/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-14 01:31 
-  本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法。该框架直接建模音频-视觉关系，...
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-14/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-14 02:33 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-14/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-14 01:31 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在降低传统注意力机制处理长文本时的...
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-14/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-14 02:33 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟10,000多个智能代理及其500万次互动。该系统通过真...
 
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-14/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-14 01:31 
-  这篇论文提出了一种名为SGD-SaI的新优化方法，挑战了深度神经网络训练中依赖自适应梯度方法（如Adam）的必要性...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-14/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-14 02:33 
+  AMiner是一个智能科技情报挖掘平台，提供中英文文献检索、翻译、辅助阅读和科研情报订阅等服务。它拥有3....
 
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-14/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-14 01:31 
-  AgentSociety是一个基于大语言模型的大规模社会模拟器，可模拟1万多个代理的社会互动（500万次交互）。它通过研...
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-14/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-14 02:33 
+  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。该框架通过Stable D...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-14/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-14 01:31 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译、科研情报订阅...
+- **[#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作...](2025-06-14/#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作....md)** | [原文](https://weibo.com/6105753431/PwmqvBICG) | 时间: 2025-06-14 02:32 
+  频繁登录验证的实际安全效果存疑。专家指出三点问题：1) 无法防范钓鱼攻击，反而可能促使用户设置简单密码；...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-14/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-14 01:31 
+- **[#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——...](2025-06-14/#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——....md)** | [原文](https://weibo.com/6105753431/PwmqeDmMx) | 时间: 2025-06-14 02:32 
+  字节跳动发布多主体视频生成工具MAGREF，仅需一张参考图像即可生成主体高度一致的视频，支持多人同框且不会"...
+
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-14/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-14 02:32 
+  这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量随机梯度下降(...
+
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-14/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-14 02:32 
   这篇论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂研究进展。ALK基因是NSCLC的重要致癌驱动因子，目...
 
-- **[#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装...](2025-06-14/#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装....md)** | [原文](https://weibo.com/6105753431/PwmrlaCgy) | 时间: 2025-06-14 01:30 
-  这是一套面向零基础学习者的逆向工程教程，通过拆解分析现有系统来推导设计原理，类比乐高积木的拆解研究。...
+- **[「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-14/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)** | [原文](https://weibo.com/1870858943/PwjWJmAcZ) | 时间: 2025-06-14 02:32 
+  AMiner推出「AMiner沉思」功能，基于自研GLM-Z1-Rumination模型，可在5分钟内完成上百篇文献的检索和阅读，并生成近万...
 
-- **[#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声...](2025-06-14/#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声....md)** | [原文](https://weibo.com/6105753431/PwmqSmZbB) | 时间: 2025-06-14 01:30 
-  科大讯飞最新发布会展示了智能交互技术的突破性进展：宇树机器人通过小型背包实现声情并茂的语音交互，AI眼...
+- **[#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学...](2025-06-14/#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学....md)** | [原文](https://weibo.com/6105753431/PwmqYhDjB) | 时间: 2025-06-14 02:31 
+  北京大学韦东奕与章志飞、邵锋合作的论文《On blow-up for the supercritical defocusing nonlinear wave equation》发表于数学顶...
 
-- **[#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学...](2025-06-14/#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学....md)** | [原文](https://weibo.com/6105753431/PwmqYhDjB) | 时间: 2025-06-14 01:30 
-  北大韦东奕与章志飞、邵锋合作的研究论文发表在数学顶刊《Forum of Mathematics, Pi》，探讨超临界散焦非线性波动方...
+- **[#韦东奕论文再登数学顶刊# 韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但...](2025-06-14/#韦东奕论文再登数学顶刊#_韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但....md)** | [原文](https://weibo.com/6105753431/Pwn3bgldb) | 时间: 2025-06-14 02:31 
+  北京大学韦东奕研究员在数学顶刊发表新论文《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程爆破性...
 
-- **[#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作...](2025-06-14/#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作....md)** | [原文](https://weibo.com/6105753431/PwmqvBICG) | 时间: 2025-06-14 01:30 
-  频繁登录验证的实际效果存疑。专家指出三点问题：1) 无法防范钓鱼攻击，反而可能促使用户设置简单密码；2) 现...
+- **[#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装...](2025-06-14/#逆向工程入门宝典##人人都能学会的逆向工程教程#逆向工程的超详细教程，带你从零基础直达中级水平！可能有朋友好奇，什么是逆向工程？就像拆解乐高积木研究拼装....md)** | [原文](https://weibo.com/6105753431/PwmrlaCgy) | 时间: 2025-06-14 02:31 
+  这是一套面向零基础学习者的逆向工程教程，通过类比拆解乐高积木的方式，讲解如何通过现有系统反向推导设计...
 
-- **[「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-14/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)** | [原文](https://weibo.com/1870858943/PwjWJmAcZ) | 时间: 2025-06-14 01:30 
-  「AMiner沉思」是一款基于智谱GLM-Z1-Rumination模型的AI文献调研工具，能够在5分钟内检索ArXiv、PubMed等三亿文献库，...
-
-- **[#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器...](2025-06-14/#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器....md)** | [原文](https://weibo.com/6105753431/PwmuADHwc) | 时间: 2025-06-14 01:30 
-  波士顿动力机器狗登上美国达人秀表演《千手观音》，开场不到一分钟就出现宕机故障，一只机器狗当场"扑街"。...
-
-- **[#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——...](2025-06-14/#字节发布多主体视频生成神器##主体一致不串脸的视频生成#仅基于一张参考图像，生成主体保持高度一致的视频，多人同台也不串脸！字节发布多主体视频生成神器——....md)** | [原文](https://weibo.com/6105753431/PwmqeDmMx) | 时间: 2025-06-14 01:30 
-  字节跳动发布多主体视频生成工具MAGREF，仅需一张参考图像即可生成主体高度一致的视频，支持多人同台且不串脸...
-
-- **[#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，...](2025-06-14/#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，....md)** | [原文](https://weibo.com/6105753431/Pwms5xY1Z) | 时间: 2025-06-14 01:30 
-  SakanaAI推出Text-to-LoRA（T2L）技术，仅需一句自然语言描述即可自动生成LoRA微调模型，将传统需数天的流程缩短至几...
-
-- **[【正在直播】第九届 #A2M人工智能创新峰会# 开幕式来啦！邀请到了阿里、知乎、数美科技等技术专家带来前瞻见解。本届峰会将于6月14-15日在北京中关村国家自主创...](2025-06-14/【正在直播】第九届_#A2M人工智能创新峰会#_开幕式来啦！邀请到了阿里、知乎、数美科技等技术专家带来前瞻见解。本届峰会将于6月14-15日在北京中关村国家自主创....md)** | [原文](https://weibo.com/6105753431/PwsxS0mZo) | 时间: 2025-06-14 01:29 
+- **[【正在直播】第九届 #A2M人工智能创新峰会# 开幕式来啦！邀请到了阿里、知乎、数美科技等技术专家带来前瞻见解。本届峰会将于6月14-15日在北京中关村国家自主创...](2025-06-14/【正在直播】第九届_#A2M人工智能创新峰会#_开幕式来啦！邀请到了阿里、知乎、数美科技等技术专家带来前瞻见解。本届峰会将于6月14-15日在北京中关村国家自主创....md)** | [原文](https://weibo.com/6105753431/PwsxS0mZo) | 时间: 2025-06-14 02:31 
   第九届A2M人工智能创新峰会于6月14-15日在北京举办，聚焦大模型技术、AI Agent落地等15个专场，汇集阿里、微软、...
 
-- **[#韦东奕论文再登数学顶刊# 韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但...](2025-06-14/#韦东奕论文再登数学顶刊#_韦东奕论文登数学顶刊！题为《超临界散焦非线性波动方程的爆破现象研究》，将散焦方程的爆破性研究扩展至d≥4，网友们直呼“看不懂但....md)** | [原文](https://weibo.com/6105753431/Pwn3bgldb) | 时间: 2025-06-14 01:29 
-  中国数学家韦东奕的研究论文《超临界散焦非线性波动方程的爆破现象研究》再次登上数学顶刊。该论文将散焦方...
+- **[#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声...](2025-06-14/#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声....md)** | [原文](https://weibo.com/6105753431/PwmqSmZbB) | 时间: 2025-06-14 02:31 
+  科大讯飞最新发布会展示了智能交互技术的突破性进展：通过AI技术，宇树机器人能实现声情并茂的语音交互，AI...
 
-- **[Execution Guided Line-by-Line Code Generation](2025-06-14/Execution_Guided_Line-by-Line_Code_Generation.md)** | [原文](http://arxiv.org/abs/2506.10948v1) | 时间: 2025-06-14 01:29 
-  本文提出了一种名为EG-CFG的新型神经代码生成方法，通过将实时执行信号融入语言模型生成过程来提升性能。传统...
+- **[#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，...](2025-06-14/#一句话定制LoRA模型##Transformer作者公司颠覆LLM微调#SakanaAI发布了一项新技术，能用一句话生成LoRA微调模型。以往做LoRA微调，得准备数据、调参数、跑模型，....md)** | [原文](https://weibo.com/6105753431/Pwms5xY1Z) | 时间: 2025-06-14 02:31 
+  SakanaAI推出Text-to-LoRA（T2L）技术，只需一句自然语言描述即可自动生成LoRA微调模型，将传统需数天的流程缩短至几...
 
-- **[Dynamic Epistemic Friction in Dialogue](2025-06-14/Dynamic_Epistemic_Friction_in_Dialogue.md)** | [原文](http://arxiv.org/abs/2506.10934v1) | 时间: 2025-06-14 01:29 
-  该研究探讨了大型语言模型（LLM）与人类协作中的"认知摩擦"问题，即模型在面对新信息时更新信念的阻力。作者...
+- **[#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器...](2025-06-14/#波士顿动力狗表演千手观音##波士顿动力狗当台扑街又复活#波士顿动力狗登上美国达人秀，开场不到一分钟就“宕机”了！机器人大舞台，有才艺你就来。前有宇树机器....md)** | [原文](https://weibo.com/6105753431/PwmuADHwc) | 时间: 2025-06-14 02:31 
+  波士顿动力机器狗登上美国达人秀表演"千手观音"，五只机器狗随音乐热舞时，其中一只开场不到1分钟突然宕机扑...
 
-- **[#人类竟有呼吸指纹##掌握正确呼吸法能锻炼身体#最新研究发现，人类具有“呼吸指纹”，每个人的呼吸独一无二，个体识别准确率达96.8%。该研究来自以色列魏茨曼科...](2025-06-14/#人类竟有呼吸指纹##掌握正确呼吸法能锻炼身体#最新研究发现，人类具有“呼吸指纹”，每个人的呼吸独一无二，个体识别准确率达96.8%。该研究来自以色列魏茨曼科....md)** | [原文](https://weibo.com/6105753431/PwmE0xifG) | 时间: 2025-06-14 01:29 
-  以色列魏茨曼科学研究所最新研究发现，人类具有独特的"呼吸指纹"，个体识别准确率达96.8%。研究通过可穿戴设...
+- **[#人类竟有呼吸指纹##掌握正确呼吸法能锻炼身体#最新研究发现，人类具有“呼吸指纹”，每个人的呼吸独一无二，个体识别准确率达96.8%。该研究来自以色列魏茨曼科...](2025-06-14/#人类竟有呼吸指纹##掌握正确呼吸法能锻炼身体#最新研究发现，人类具有“呼吸指纹”，每个人的呼吸独一无二，个体识别准确率达96.8%。该研究来自以色列魏茨曼科....md)** | [原文](https://weibo.com/6105753431/PwmE0xifG) | 时间: 2025-06-14 02:31 
+  以色列魏茨曼科学研究所最新研究发现，人类呼吸模式具有类似指纹的独特性，个体识别准确率达96....
 
-- **[Build the web for agents, not agents for the web](2025-06-14/Build_the_web_for_agents,_not_agents_for_the_web.md)** | [原文](http://arxiv.org/abs/2506.10953v1) | 时间: 2025-06-14 01:29 
-  这篇立场论文提出，当前基于大语言模型（LLM）的网页代理面临核心挑战：人类设计的界面与AI能力不匹配。为解...
+- **[Build the web for agents, not agents for the web](2025-06-14/Build_the_web_for_agents,_not_agents_for_the_web.md)** | [原文](http://arxiv.org/abs/2506.10953v1) | 时间: 2025-06-14 02:30 
+  这篇立场论文提出，当前基于大语言模型（LLM）的网页代理面临人机界面不匹配的根本挑战。作者主张转变研究范...
 
-- **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](2025-06-14/Monitoring_Decomposition_Attacks_in_LLMs_with_Lightweight_Sequential_Monitors.md)** | [原文](http://arxiv.org/abs/2506.10949v1) | 时间: 2025-06-14 01:29 
-  当前大语言模型（LLM）的安全防御在分解攻击下失效，即恶意目标被拆分为无害子任务绕过拒绝。现有浅层安全对...
+- **[Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](2025-06-14/Eye,_Robot-_Learning_to_Look_to_Act_with_a_BC-RL_Perception-Action_Loop.md)** | [原文](http://arxiv.org/abs/2506.10968v1) | 时间: 2025-06-14 02:30 
+  EyeRobot是一个受人类主动视觉启发的机器人系统，通过机械眼球旋转观察环境并执行任务。研究团队使用强化学习...
 
-- **[SoK: Watermarking for AI-Generated Content](2025-06-14/SoK-_Watermarking_for_AI-Generated_Content.md)** | [原文](http://arxiv.org/abs/2411.18479v3) | 时间: 2025-06-14 01:29 
-  随着生成式AI（GenAI）输出的质量提升，区分AI与人类生成内容变得愈发困难。数字水印技术成为解决该问题的有效...
+- **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](2025-06-14/Monitoring_Decomposition_Attacks_in_LLMs_with_Lightweight_Sequential_Monitors.md)** | [原文](http://arxiv.org/abs/2506.10949v1) | 时间: 2025-06-14 02:30 
+  当前大语言模型（LLM）的安全防御在分解攻击下失效，恶意目标被拆分为无害子任务以绕过拒绝机制。现有浅层安...
 
-- **[AssistanceZero: Scalably Solving Assistance Games](2025-06-14/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v2) | 时间: 2025-06-14 01:29 
-  本文提出了一种基于协助游戏（assistance games）的新型AI助手训练方法AssistanceZero，作为人类反馈强化学习（RLHF）的...
+- **[Execution Guided Line-by-Line Code Generation](2025-06-14/Execution_Guided_Line-by-Line_Code_Generation.md)** | [原文](http://arxiv.org/abs/2506.10948v1) | 时间: 2025-06-14 02:30 
+  本文提出了一种名为EG-CFG的新型神经代码生成方法，通过将实时执行信号融入语言模型生成过程来提升代码生成效...
 
-- **[SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks](2025-06-14/SWE-Factory-_Your_Automated_Factory_for_Issue_Resolution_Training_Data_and_Evaluation_Benchmarks.md)** | [原文](http://arxiv.org/abs/2506.10954v1) | 时间: 2025-06-14 01:28 
-  构建大规模GitHub问题解决数据集对训练和评估大语言模型（LLM）的软件工程能力至关重要，但传统方法耗时费力。...
+- **[Dynamic Epistemic Friction in Dialogue](2025-06-14/Dynamic_Epistemic_Friction_in_Dialogue.md)** | [原文](http://arxiv.org/abs/2506.10934v1) | 时间: 2025-06-14 02:30 
+  该研究探讨了大型语言模型（LLM）与人类协作中的"认知摩擦"问题，即当模型面对新信息或矛盾证据时更新信念的...
 
-- **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](2025-06-14/AutoMind-_Adaptive_Knowledgeable_Agent_for_Automated_Data_Science.md)** | [原文](http://arxiv.org/abs/2506.10974v1) | 时间: 2025-06-14 01:28 
+- **[SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks](2025-06-14/SWE-Factory-_Your_Automated_Factory_for_Issue_Resolution_Training_Data_and_Evaluation_Benchmarks.md)** | [原文](http://arxiv.org/abs/2506.10954v1) | 时间: 2025-06-14 02:30 
+  本文提出SWE-Factory自动化流水线，用于高效构建GitHub问题解决任务的大规模数据集，以训练和评估大语言模型（LLMs...
+
+- **[SoK: Watermarking for AI-Generated Content](2025-06-14/SoK-_Watermarking_for_AI-Generated_Content.md)** | [原文](http://arxiv.org/abs/2411.18479v3) | 时间: 2025-06-14 02:30 
+  随着生成式AI（GenAI）输出的质量提升，区分AI与人类生成内容变得愈发困难。数字水印技术是一种有前景的解决方...
+
+- **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](2025-06-14/AutoMind-_Adaptive_Knowledgeable_Agent_for_Automated_Data_Science.md)** | [原文](http://arxiv.org/abs/2506.10974v1) | 时间: 2025-06-14 02:30 
   大型语言模型（LLM）代理在解决现实数据科学问题中潜力巨大，但现有框架依赖固定流程和编码策略，仅适用于简...
 
-- **[GenWorld: Towards Detecting AI-generated Real-world Simulation Videos](2025-06-14/GenWorld-_Towards_Detecting_AI-generated_Real-world_Simulation_Videos.md)** | [原文](http://arxiv.org/abs/2506.10975v1) | 时间: 2025-06-14 01:28 
-  随着AI视频生成技术的快速发展，其可能对真实信息可信度造成的威胁引发了业界对检测技术的迫切需求。针对现...
+- **[AssistanceZero: Scalably Solving Assistance Games](2025-06-14/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v2) | 时间: 2025-06-14 02:30 
+  本文提出了一种名为"辅助游戏"的新方法替代传统人类反馈强化学习(RLHF)来训练AI助手。该方法通过将人机交互建...
 
-- **[Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](2025-06-14/Eye,_Robot-_Learning_to_Look_to_Act_with_a_BC-RL_Perception-Action_Loop.md)** | [原文](http://arxiv.org/abs/2506.10968v1) | 时间: 2025-06-14 01:28 
-  研究人员开发了EyeRobot系统，通过强化学习训练机械眼球自主注视策略，实现手眼协同操作。该系统采用360°摄像...
+- **[GenWorld: Towards Detecting AI-generated Real-world Simulation Videos](2025-06-14/GenWorld-_Towards_Detecting_AI-generated_Real-world_Simulation_Videos.md)** | [原文](http://arxiv.org/abs/2506.10975v1) | 时间: 2025-06-14 02:29 
+  本文提出GenWorld，一个用于AI生成视频检测的大规模、高质量真实世界模拟数据集。该数据集具有三大特点：(1)真...
 
 - **[#腾讯系独角兽冲刺港股##北大校友创业19年迎来IPO#估值120亿的上海AI独角兽，准备在香港上市了。明略科技，前名为“汇智控股”，也是中国最大的数据智能应用软件...](2025-06-14/#腾讯系独角兽冲刺港股##北大校友创业19年迎来IPO#估值120亿的上海AI独角兽，准备在香港上市了。明略科技，前名为“汇智控股”，也是中国最大的数据智能应用软件....md)** | [原文](https://weibo.com/6105753431/PwmpXv6ML) | 时间: 2025-06-14 00:03 
   明略科技（原汇智控股），一家估值120亿的腾讯系AI独角兽，近期向港交所递交招股书。该公司由北大数学系校友...
 
 ### 2025-06-13 (68篇)
 
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-13/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-13 23:04 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
-
 - **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-13/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-13 23:04 
   本研究提出LatentSync框架，一种基于音频条件潜在扩散模型的端到端唇同步方法，无需中间运动表示。该框架利用St...
+
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-13/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-13 23:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
 
 - **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-13/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-13 23:04 
   AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
@@ -289,20 +289,20 @@
 - **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-13/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-13 23:04 
   该论文综述了针对非小细胞肺癌(NSCLC)中ALK基因的双靶点抑制剂最新进展。ALK基因是NSCLC的重要致癌驱动因子，目前...
 
+- **[#腾讯系独角兽冲刺港股##北大校友创业19年迎来IPO#估值120亿的上海AI独角兽，准备在香港上市了。明略科技，前名为“汇智控股”，也是中国最大的数据智能应用软件...](2025-06-13/#腾讯系独角兽冲刺港股##北大校友创业19年迎来IPO#估值120亿的上海AI独角兽，准备在香港上市了。明略科技，前名为“汇智控股”，也是中国最大的数据智能应用软件....md)** | [原文](https://weibo.com/6105753431/PwmpXv6ML) | 时间: 2025-06-13 23:03 
+  上海AI独角兽明略科技（估值120亿）拟赴港上市，其前身为汇智控股，是中国最大数据智能软件供应商。创始人吴...
+
+- **[#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学...](2025-06-13/#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学....md)** | [原文](https://weibo.com/6105753431/PwmqYhDjB) | 时间: 2025-06-13 23:03 
+  北京大学韦东奕与章志飞、邵锋合作的论文《On blow-up for the supercritical defocusing nonlinear wave equation》发表于数学顶...
+
+- **[「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-13/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)** | [原文](https://weibo.com/1870858943/PwjWJmAcZ) | 时间: 2025-06-13 23:03 
+  AMiner推出基于GLM-Z1-Rumination模型的「AMiner沉思」功能，可快速检索ArXiv、PubMed等三亿文献库，通过自主迭代关键词...
+
 - **[#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声...](2025-06-13/#讯飞让宇树机器人开口说话##智能交互步入人机交互时代#苹果放鸽子的更新，国产AI率先实现了。背上一个看起来平平无奇、体积也没什么存在感的包，宇树机器人就声....md)** | [原文](https://weibo.com/6105753431/PwmqSmZbB) | 时间: 2025-06-13 23:03 
   科大讯飞最新发布会展示了智能交互技术的突破性进展：通过AI技术，宇树机器人能实现声情并茂的语音交互，AI...
 
 - **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-13/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-13 23:03 
   这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法的必要性。SGD-SaI是对带动量的随机梯度下...
-
-- **[「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-13/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)** | [原文](https://weibo.com/1870858943/PwjWJmAcZ) | 时间: 2025-06-13 23:03 
-  AMiner推出基于GLM-Z1-Rumination模型的「AMiner沉思」功能，可快速检索ArXiv、PubMed等三亿文献库，通过自主迭代关键词...
-
-- **[#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学...](2025-06-13/#韦东奕论文登数学顶刊##北大韦神论文登数学顶刊#韦东奕论文再登数学顶刊！就在备受关注之际，韦神本韦和另两位北大学者章志飞、邵锋合作的一篇论文已发表于数学....md)** | [原文](https://weibo.com/6105753431/PwmqYhDjB) | 时间: 2025-06-13 23:03 
-  北京大学韦东奕与章志飞、邵锋合作的论文《On blow-up for the supercritical defocusing nonlinear wave equation》发表于数学顶...
-
-- **[#腾讯系独角兽冲刺港股##北大校友创业19年迎来IPO#估值120亿的上海AI独角兽，准备在香港上市了。明略科技，前名为“汇智控股”，也是中国最大的数据智能应用软件...](2025-06-13/#腾讯系独角兽冲刺港股##北大校友创业19年迎来IPO#估值120亿的上海AI独角兽，准备在香港上市了。明略科技，前名为“汇智控股”，也是中国最大的数据智能应用软件....md)** | [原文](https://weibo.com/6105753431/PwmpXv6ML) | 时间: 2025-06-13 23:03 
-  上海AI独角兽明略科技（估值120亿）拟赴港上市，其前身为汇智控股，是中国最大数据智能软件供应商。创始人吴...
 
 - **[#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作...](2025-06-13/#频繁登录验证真的有用吗##强制重登反让账号更危险#让用户频繁登录认证，真的能保障账号安全吗？相信大家对这句话都不陌生：“会话已过期，请重新登录”有时工作....md)** | [原文](https://weibo.com/6105753431/PwmqvBICG) | 时间: 2025-06-13 23:03 
   频繁登录验证的实际安全效果存疑。专家指出三点问题：1) 主要威胁是钓鱼攻击，频繁验证无法防范；2) 现代操作...
