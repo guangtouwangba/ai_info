@@ -4,66 +4,21 @@
 
 ## 最新内容
 
-### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
-
-**摘要**: 本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
-**收录时间**: 2025-06-15 20:09
-
----
-
 ### [AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-15/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)
 
-**摘要**: AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+**摘要**: AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/P58rCdLeF)
-**收录时间**: 2025-06-15 20:09
+**收录时间**: 2025-06-15 21:04
 
 ---
 
 ### [OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)
 
-**摘要**: 这篇论文综述了针对非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动基因...
+**摘要**: 该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，目前已...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PjxRhttJu)
-**收录时间**: 2025-06-15 20:08
-
----
-
-### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
-
-**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
-**收录时间**: 2025-06-15 20:08
-
----
-
-### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
-
-**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理及其500万次互动。研究者利用该系统...
-
-**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
-**收录时间**: 2025-06-15 20:08
-
----
-
-### [#腾讯开源超强3D生成模型# 消费级显卡就能跑在CVPR 2025上，鹅厂3D生成模型混元3D 2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【...](2025-06-15/#腾讯开源超强3D生成模型#_消费级显卡就能跑在CVPR_2025上，鹅厂3D生成模型混元3D_2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【....md)
-
-**摘要**: 腾讯在CVPR 2025开源了混元3D 2.1模型，这是首个全链路开源的工业级3D生成大模型，支持消费级显卡运行。该版本通...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwwaItbOK)
-**收录时间**: 2025-06-15 20:07
-
----
-
-### [#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR 2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视...](2025-06-15/#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR_2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视....md)
-
-**摘要**: CVPR 2025奖项揭晓：谢赛宁、苏昊获青年学者奖，表彰其在计算机视觉领域的突出贡献。最佳论文奖由Meta和牛津大...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwwjKDQN0)
-**收录时间**: 2025-06-15 20:07
+**收录时间**: 2025-06-15 21:04
 
 ---
 
@@ -72,7 +27,79 @@
 **摘要**: 这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/Pk06MwyNe)
-**收录时间**: 2025-06-15 20:07
+**收录时间**: 2025-06-15 21:04
+
+---
+
+### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)
+
+**摘要**: 该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqOTBJ4E)
+**收录时间**: 2025-06-15 21:04
+
+---
+
+### [LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)
+
+**摘要**: 该研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/Pjot9eGs2)
+**收录时间**: 2025-06-15 21:04
+
+---
+
+### [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)
+
+**摘要**: AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。研究者用它研...
+
+**原始链接**: [查看原文](https://weibo.com/1870858943/PjqN9fAsv)
+**收录时间**: 2025-06-15 21:04
+
+---
+
+### [#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、...](2025-06-15/#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、....md)
+
+**摘要**: 港中文MMLab、港理工和北大联合推出的PAM（Perceive Anything Model）模型正式开源。该模型结合图像分割与语义理解，...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/Pwwmw4lVi)
+**收录时间**: 2025-06-15 21:03
+
+---
+
+### [#腾讯开源超强3D生成模型# 消费级显卡就能跑在CVPR 2025上，鹅厂3D生成模型混元3D 2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【...](2025-06-15/#腾讯开源超强3D生成模型#_消费级显卡就能跑在CVPR_2025上，鹅厂3D生成模型混元3D_2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【....md)
+
+**摘要**: 腾讯在CVPR 2025上开源了混元3D 2.1模型，这是首个全链路开源的工业级3D生成大模型，支持消费级显卡运行。该模型...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwwaItbOK)
+**收录时间**: 2025-06-15 21:03
+
+---
+
+### [#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——"物理学的公理化"，被称为数学物理的终极...](2025-06-15/#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——物理学的公理化，被称为数学物理的终极....md)
+
+**摘要**: 125年来，数学家们首次在希尔伯特第六问题"物理学的公理化"上取得重大突破。北大校友邓煜、中科大少年班马骁...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwwsKbfxH)
+**收录时间**: 2025-06-15 21:03
+
+---
+
+### [#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“...](2025-06-15/#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“....md)
+
+**摘要**: 《PNAS》研究分析近2万人脑扫描数据发现，大脑衰老呈"S型"非线性变化：43.7岁前功能稳定，之后加速衰退，66....
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwwnraxwS)
+**收录时间**: 2025-06-15 21:03
+
+---
+
+### [#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR 2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视...](2025-06-15/#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR_2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视....md)
+
+**摘要**: CVPR 2025奖项揭晓：谢赛宁和苏昊获青年学者奖，表彰其在计算机视觉领域的贡献。最佳论文奖由Meta和牛津大学的...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwwjKDQN0)
+**收录时间**: 2025-06-15 21:03
 
 ---
 
@@ -81,106 +108,79 @@
 **摘要**: AMiner推出「AMiner沉思」功能，基于自研GLM-Z1-Rumination模型，可在5分钟内完成上百篇文献的检索和阅读，并输出近万...
 
 **原始链接**: [查看原文](https://weibo.com/1870858943/PwjWJmAcZ)
-**收录时间**: 2025-06-15 20:07
-
----
-
-### [#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、...](2025-06-15/#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、....md)
-
-**摘要**: 香港中文大学MMLab、香港理工大学和北京大学联合推出开源的PAM（Perceive Anything Model）模型，实现图像/视频的通用...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/Pwwmw4lVi)
-**收录时间**: 2025-06-15 20:06
-
----
-
-### [#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——"物理学的公理化"，被称为数学物理的终极...](2025-06-15/#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——物理学的公理化，被称为数学物理的终极....md)
-
-**摘要**: 北京大学校友邓煜、中科大少年班马骁与陶哲轩学生扎赫尔・哈尼在希尔伯特第六问题"物理学的公理化"上取得重...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwwsKbfxH)
-**收录时间**: 2025-06-15 20:06
-
----
-
-### [#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“...](2025-06-15/#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“....md)
-
-**摘要**: 《PNAS》研究显示，大脑衰老呈"S型"非线性变化，43.7岁前功能稳定，之后加速衰退，66.7岁达最不稳定点。神经元胰...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwwnraxwS)
-**收录时间**: 2025-06-15 20:06
-
----
-
-### [#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏# 用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功...](2025-06-15/#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏#_用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功....md)
-
-**摘要**: 中国成功完成首例侵入式脑机接口临床试验，使一位四肢截肢患者能通过意念操控电子设备。该技术由中科院与华...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwDnDm55H)
-**收录时间**: 2025-06-15 20:05
-
----
-
-### [#美国基因筛选软件引争议# 美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学...](2025-06-15/#美国基因筛选软件引争议#_美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学....md)
-
-**摘要**: 美国一家初创公司推出基因筛选软件，声称只需4.3万美元即可帮助试管婴儿父母筛选出"最聪明、最长寿"的胚胎，...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwD9HgzRl)
-**收录时间**: 2025-06-15 20:05
-
----
-
-### [#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了# 圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di...](2025-06-15/#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了#_圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di....md)
-
-**摘要**: Dia浏览器是Arc团队推出的首个AI原生浏览器，已启动内测。其核心功能包括：直接与任意网页对话（无需打开ChatGPT...
-
-**原始链接**: [查看原文](https://weibo.com/6105753431/PwDp1ki5E)
-**收录时间**: 2025-06-15 20:05
+**收录时间**: 2025-06-15 21:03
 
 ---
 
 ### [#北大亚马逊团队破解三大数据库AI难题##全球首个图中心RDB基础模型#在企业系统和科学研究中普遍存在、结构复杂的关系型数据库（Relational DataBase, RDB）场景...](2025-06-15/#北大亚马逊团队破解三大数据库AI难题##全球首个图中心RDB基础模型#在企业系统和科学研究中普遍存在、结构复杂的关系型数据库（Relational_DataBase,_RDB）场景....md)
 
-**摘要**: 北京大学张牧涵团队与亚马逊云科技合作开发了全球首个图中心RDB基础模型Griffin，解决了关系型数据库(RDB)中多表...
+**摘要**: 北京大学张牧涵团队与亚马逊云科技合作开发了全球首个图中心RDB基础模型Griffin。该模型创新性地将关系型数据...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PwEPBBGax)
-**收录时间**: 2025-06-15 20:04
+**收录时间**: 2025-06-15 21:02
+
+---
+
+### [#美国基因筛选软件引争议# 美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学...](2025-06-15/#美国基因筛选软件引争议#_美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学....md)
+
+**摘要**: 美国一家初创公司推出基因筛选软件引发争议，该软件声称能以4.3万元帮助试管婴儿父母筛选"最聪明长寿"的胚胎...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwD9HgzRl)
+**收录时间**: 2025-06-15 21:02
 
 ---
 
 ### [SoK: Watermarking for AI-Generated Content](2025-06-15/SoK-_Watermarking_for_AI-Generated_Content.md)
 
-**摘要**: 随着生成式AI（GenAI）输出的质量提升，区分AI与人类生成内容变得愈发困难。水印技术通过嵌入隐藏信号来可靠检...
+**摘要**: 随着生成式AI（GenAI）输出的质量提升，区分AI与人类生成内容愈发困难。数字水印技术通过嵌入隐藏信号实现可靠...
 
 **原始链接**: [查看原文](http://arxiv.org/abs/2411.18479v3)
-**收录时间**: 2025-06-15 20:04
-
----
-
-### [AssistanceZero: Scalably Solving Assistance Games](2025-06-15/AssistanceZero-_Scalably_Solving_Assistance_Games.md)
-
-**摘要**: 本文提出了一种基于辅助游戏（assistance games）的新方法AssistanceZero，用于训练AI助手，以解决传统人类反馈强化学...
-
-**原始链接**: [查看原文](http://arxiv.org/abs/2504.07091v2)
-**收录时间**: 2025-06-15 20:04
+**收录时间**: 2025-06-15 21:02
 
 ---
 
 ### [#AI版ASMR火了##AI制作的ASMR视频好上头#短视频平台熬夜冲浪的我突然发现，AI ASMR突然火了？！大家可以打开声音欣赏一下这条切割浆果的视频，它拿下了16500000...](2025-06-15/#AI版ASMR火了##AI制作的ASMR视频好上头#短视频平台熬夜冲浪的我突然发现，AI_ASMR突然火了？！大家可以打开声音欣赏一下这条切割浆果的视频，它拿下了16500000....md)
 
-**摘要**: AI生成的ASMR视频近期在海外社交平台爆火，一个刚注册3天的账号凭借11条AI制作的切水果/手办等视频狂揽9....
+**摘要**: AI生成的ASMR视频近期在海外短视频平台爆火，一个刚创建3天的账号凭借11条AI制作的切水果、切手办等ASMR视频，迅...
 
 **原始链接**: [查看原文](https://weibo.com/6105753431/PwENUjtIy)
-**收录时间**: 2025-06-15 20:04
+**收录时间**: 2025-06-15 21:02
 
 ---
 
-### [Dynamic Epistemic Friction in Dialogue](2025-06-15/Dynamic_Epistemic_Friction_in_Dialogue.md)
+### [#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏# 用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功...](2025-06-15/#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏#_用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功....md)
 
-**摘要**: 该研究探讨了大型语言模型(LLMs)与人类偏好对齐中常被忽视的"认知摩擦"问题，即个体在面对新信息时更新信念的...
+**摘要**: 中国成功开展首例侵入式脑机接口临床试验。一位37岁四肢截肢男子通过植入硬币大小的神经电极，实现了用意念...
 
-**原始链接**: [查看原文](http://arxiv.org/abs/2506.10934v1)
-**收录时间**: 2025-06-15 20:03
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwDnDm55H)
+**收录时间**: 2025-06-15 21:02
+
+---
+
+### [AssistanceZero: Scalably Solving Assistance Games](2025-06-15/AssistanceZero-_Scalably_Solving_Assistance_Games.md)
+
+**摘要**: 这篇论文提出了一种名为"辅助游戏"的新方法，用于训练AI助手，作为人类反馈强化学习(RLHF)的替代方案。研究者...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2504.07091v2)
+**收录时间**: 2025-06-15 21:02
+
+---
+
+### [#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了# 圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di...](2025-06-15/#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了#_圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di....md)
+
+**摘要**: Dia浏览器是Arc团队推出的首个AI原生浏览器，目前开启内测。其核心功能包括：1) 无需调用ChatGPT即可直接与任意网...
+
+**原始链接**: [查看原文](https://weibo.com/6105753431/PwDp1ki5E)
+**收录时间**: 2025-06-15 21:02
+
+---
+
+### [Build the web for agents, not agents for the web](2025-06-15/Build_the_web_for_agents,_not_agents_for_the_web.md)
+
+**摘要**: 这篇立场论文主张改变网页代理研究的范式：与其让人工智能适应人类设计的界面，不如开发专为AI优化的新型交...
+
+**原始链接**: [查看原文](http://arxiv.org/abs/2506.10953v1)
+**收录时间**: 2025-06-15 21:01
 
 ---
 
@@ -188,92 +188,92 @@
 
 ### 2025-06-15 (32篇)
 
-- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-15 20:09 
-  本研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-15/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-15 21:04 
+  AMiner是一个智能科技情报挖掘平台，提供论文检索、阅读、分析和写作的一站式服务。它支持中英文文献搜索、AI...
 
-- **[AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、...](2025-06-15/AMiner——新一代智能型科技情报挖掘与服务系统，能够为你提供查找论文、理解论文、分析论文、写作论文四位一体一站式服务，拥有中英文文献检索、文献辅助阅读、....md)** | [原文](https://weibo.com/1870858943/P58rCdLeF) | 时间: 2025-06-15 20:09 
-  AMiner是一个智能科技情报挖掘平台，提供一站式学术服务，包括中英文文献检索、辅助阅读、翻译和科研情报订阅...
+- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-15 21:04 
+  该论文综述了针对非小细胞肺癌(NSCLC)ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动靶点，目前已...
 
-- **[OmniEval: an Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain 网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因...](2025-06-15/OmniEval-_an_Omnidirectional_and_Automatic_RAG_Evaluation_Benchmark_in_Financial_Domain_网页链接本文综述了近年来针对非小细胞肺癌（NSCLC）治疗的ALK基因....md)** | [原文](https://weibo.com/1870858943/PjxRhttJu) | 时间: 2025-06-15 20:08 
-  这篇论文综述了针对非小细胞肺癌(NSCLC)治疗中ALK基因双靶点抑制剂的最新进展。ALK基因是NSCLC的重要致癌驱动基因...
-
-- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-15 20:08 
-  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在长文本处理中...
-
-- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-15 20:08 
-  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个代理及其500万次互动。研究者利用该系统...
-
-- **[#腾讯开源超强3D生成模型# 消费级显卡就能跑在CVPR 2025上，鹅厂3D生成模型混元3D 2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【...](2025-06-15/#腾讯开源超强3D生成模型#_消费级显卡就能跑在CVPR_2025上，鹅厂3D生成模型混元3D_2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【....md)** | [原文](https://weibo.com/6105753431/PwwaItbOK) | 时间: 2025-06-15 20:07 
-  腾讯在CVPR 2025开源了混元3D 2.1模型，这是首个全链路开源的工业级3D生成大模型，支持消费级显卡运行。该版本通...
-
-- **[#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR 2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视...](2025-06-15/#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR_2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视....md)** | [原文](https://weibo.com/6105753431/PwwjKDQN0) | 时间: 2025-06-15 20:07 
-  CVPR 2025奖项揭晓：谢赛宁、苏昊获青年学者奖，表彰其在计算机视觉领域的突出贡献。最佳论文奖由Meta和牛津大...
-
-- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-15/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-15 20:07 
+- **[No More Adam: Learning Rate Scaling at Initialization is All You Need. 网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S...](2025-06-15/No_More_Adam-_Learning_Rate_Scaling_at_Initialization_is_All_You_Need._网页链接本文研究了对深度神经网络训练中自适应梯度方法的必要性提出质疑，并提出了S....md)** | [原文](https://weibo.com/1870858943/Pk06MwyNe) | 时间: 2025-06-15 21:04 
   这篇论文提出了SGD-SaI方法，质疑了深度神经网络训练中自适应梯度方法（如Adam）的必要性。SGD-SaI是对带动量的随...
 
-- **[「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-15/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)** | [原文](https://weibo.com/1870858943/PwjWJmAcZ) | 时间: 2025-06-15 20:07 
+- **[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention 网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力...](2025-06-15/Native_Sparse_Attention-_Hardware-Aligned_and_Natively_Trainable_Sparse_Attention_网页链接该论文提出了一种名为NSA的稀疏注意力机制，旨在解决传统注意力....md)** | [原文](https://weibo.com/1870858943/PjqOTBJ4E) | 时间: 2025-06-15 21:04 
+  该论文提出了一种名为NSA（Native Sparse Attention）的新型稀疏注意力机制，旨在解决传统注意力机制在处理长文本时...
+
+- **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision 网页链接本研究提出了一种名为LatentSync的端到端唇同...](2025-06-15/LatentSync-_Taming_Audio-Conditioned_Latent_Diffusion_Models_for_Lip_Sync_with_SyncNet_Supervision_网页链接本研究提出了一种名为LatentSync的端到端唇同....md)** | [原文](https://weibo.com/1870858943/Pjot9eGs2) | 时间: 2025-06-15 21:04 
+  该研究提出LatentSync框架，利用音频条件的潜在扩散模型实现端到端唇同步，无需中间运动表示。针对扩散模型的...
+
+- **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society 网页链接本文介绍了AgentSoci...](2025-06-15/AgentSociety-_Large-Scale_Simulation_of_LLM-Driven_Generative_Agents_Advances_Understanding_of_Human_Behaviors_and_Society_网页链接本文介绍了AgentSoci....md)** | [原文](https://weibo.com/1870858943/PjqN9fAsv) | 时间: 2025-06-15 21:04 
+  AgentSociety是一个基于大语言模型的大规模社会模拟系统，可模拟1万多个AI代理及其500万次社会互动。研究者用它研...
+
+- **[#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、...](2025-06-15/#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、....md)** | [原文](https://weibo.com/6105753431/Pwwmw4lVi) | 时间: 2025-06-15 21:03 
+  港中文MMLab、港理工和北大联合推出的PAM（Perceive Anything Model）模型正式开源。该模型结合图像分割与语义理解，...
+
+- **[#腾讯开源超强3D生成模型# 消费级显卡就能跑在CVPR 2025上，鹅厂3D生成模型混元3D 2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【...](2025-06-15/#腾讯开源超强3D生成模型#_消费级显卡就能跑在CVPR_2025上，鹅厂3D生成模型混元3D_2.1正式宣布开源！【图1】它可以紧跟潮流，细腻地呈现出当红炸子鸡Labubu。【....md)** | [原文](https://weibo.com/6105753431/PwwaItbOK) | 时间: 2025-06-15 21:03 
+  腾讯在CVPR 2025上开源了混元3D 2.1模型，这是首个全链路开源的工业级3D生成大模型，支持消费级显卡运行。该模型...
+
+- **[#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——"物理学的公理化"，被称为数学物理的终极...](2025-06-15/#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——物理学的公理化，被称为数学物理的终极....md)** | [原文](https://weibo.com/6105753431/PwwsKbfxH) | 时间: 2025-06-15 21:03 
+  125年来，数学家们首次在希尔伯特第六问题"物理学的公理化"上取得重大突破。北大校友邓煜、中科大少年班马骁...
+
+- **[#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“...](2025-06-15/#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“....md)** | [原文](https://weibo.com/6105753431/PwwnraxwS) | 时间: 2025-06-15 21:03 
+  《PNAS》研究分析近2万人脑扫描数据发现，大脑衰老呈"S型"非线性变化：43.7岁前功能稳定，之后加速衰退，66....
+
+- **[#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR 2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视...](2025-06-15/#CVPR2025奖出炉##CVPR25谢赛宁苏昊获奖#CVPR_2025奖项出炉！谢赛宁苏昊齐获青年学者奖。该奖项面向获得博士学位不超过7年的早期研究工作者，表彰他们在计算机视....md)** | [原文](https://weibo.com/6105753431/PwwjKDQN0) | 时间: 2025-06-15 21:03 
+  CVPR 2025奖项揭晓：谢赛宁和苏昊获青年学者奖，表彰其在计算机视觉领域的贡献。最佳论文奖由Meta和牛津大学的...
+
+- **[「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上...](2025-06-15/「AMiner沉思」上线5分钟就能调研上百篇文献还输出万字报告？这种赛博神话竟然被「AMiner沉思」实现了！[毕业帽]AMiner基于智谱自研GLM-Z1-Rumination沉思模型上....md)** | [原文](https://weibo.com/1870858943/PwjWJmAcZ) | 时间: 2025-06-15 21:03 
   AMiner推出「AMiner沉思」功能，基于自研GLM-Z1-Rumination模型，可在5分钟内完成上百篇文献的检索和阅读，并输出近万...
 
-- **[#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、...](2025-06-15/#点一次就搞定分割识别解说##3B参数刷新视觉理解SOTA#图像识别现在还能更简单？只需点一下，连“这是什么”“为什么”“在干嘛”都能一起告诉你。港中文MMLab、....md)** | [原文](https://weibo.com/6105753431/Pwwmw4lVi) | 时间: 2025-06-15 20:06 
-  香港中文大学MMLab、香港理工大学和北京大学联合推出开源的PAM（Perceive Anything Model）模型，实现图像/视频的通用...
+- **[#北大亚马逊团队破解三大数据库AI难题##全球首个图中心RDB基础模型#在企业系统和科学研究中普遍存在、结构复杂的关系型数据库（Relational DataBase, RDB）场景...](2025-06-15/#北大亚马逊团队破解三大数据库AI难题##全球首个图中心RDB基础模型#在企业系统和科学研究中普遍存在、结构复杂的关系型数据库（Relational_DataBase,_RDB）场景....md)** | [原文](https://weibo.com/6105753431/PwEPBBGax) | 时间: 2025-06-15 21:02 
+  北京大学张牧涵团队与亚马逊云科技合作开发了全球首个图中心RDB基础模型Griffin。该模型创新性地将关系型数据...
 
-- **[#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——"物理学的公理化"，被称为数学物理的终极...](2025-06-15/#125年数学难题被突破##希尔伯特第六问题获突破性进展#1900年，数学大师希尔伯特提出23个数学难题，其中第六个问题——物理学的公理化，被称为数学物理的终极....md)** | [原文](https://weibo.com/6105753431/PwwsKbfxH) | 时间: 2025-06-15 20:06 
-  北京大学校友邓煜、中科大少年班马骁与陶哲轩学生扎赫尔・哈尼在希尔伯特第六问题"物理学的公理化"上取得重...
+- **[#美国基因筛选软件引争议# 美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学...](2025-06-15/#美国基因筛选软件引争议#_美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学....md)** | [原文](https://weibo.com/6105753431/PwD9HgzRl) | 时间: 2025-06-15 21:02 
+  美国一家初创公司推出基因筛选软件引发争议，该软件声称能以4.3万元帮助试管婴儿父母筛选"最聪明长寿"的胚胎...
 
-- **[#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“...](2025-06-15/#多少岁大脑开始衰老##40岁前脑力都能打#高考后脑子就开始不灵了？其实40岁前大脑都是巅峰！一项《PNAS》刊发的研究指出，大脑衰老并非缓慢均匀发生，而是呈现“....md)** | [原文](https://weibo.com/6105753431/PwwnraxwS) | 时间: 2025-06-15 20:06 
-  《PNAS》研究显示，大脑衰老呈"S型"非线性变化，43.7岁前功能稳定，之后加速衰退，66.7岁达最不稳定点。神经元胰...
+- **[SoK: Watermarking for AI-Generated Content](2025-06-15/SoK-_Watermarking_for_AI-Generated_Content.md)** | [原文](http://arxiv.org/abs/2411.18479v3) | 时间: 2025-06-15 21:02 
+  随着生成式AI（GenAI）输出的质量提升，区分AI与人类生成内容愈发困难。数字水印技术通过嵌入隐藏信号实现可靠...
 
-- **[#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏# 用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功...](2025-06-15/#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏#_用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功....md)** | [原文](https://weibo.com/6105753431/PwDnDm55H) | 时间: 2025-06-15 20:05 
-  中国成功完成首例侵入式脑机接口临床试验，使一位四肢截肢患者能通过意念操控电子设备。该技术由中科院与华...
+- **[#AI版ASMR火了##AI制作的ASMR视频好上头#短视频平台熬夜冲浪的我突然发现，AI ASMR突然火了？！大家可以打开声音欣赏一下这条切割浆果的视频，它拿下了16500000...](2025-06-15/#AI版ASMR火了##AI制作的ASMR视频好上头#短视频平台熬夜冲浪的我突然发现，AI_ASMR突然火了？！大家可以打开声音欣赏一下这条切割浆果的视频，它拿下了16500000....md)** | [原文](https://weibo.com/6105753431/PwENUjtIy) | 时间: 2025-06-15 21:02 
+  AI生成的ASMR视频近期在海外短视频平台爆火，一个刚创建3天的账号凭借11条AI制作的切水果、切手办等ASMR视频，迅...
 
-- **[#美国基因筛选软件引争议# 美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学...](2025-06-15/#美国基因筛选软件引争议#_美国一初创公司推出基因筛选软件引争议，只要4.3万，就能帮试管婴儿的父母挑选最长寿最聪明的胚胎，许多网友指责“这是新时代的优生学....md)** | [原文](https://weibo.com/6105753431/PwD9HgzRl) | 时间: 2025-06-15 20:05 
-  美国一家初创公司推出基因筛选软件，声称只需4.3万美元即可帮助试管婴儿父母筛选出"最聪明、最长寿"的胚胎，...
+- **[#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏# 用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功...](2025-06-15/#我国成功开展首例侵入式脑机接口临床试验##37岁四肢截肢男子用意念玩游戏#_用意念操控万物的“脑机接口”，就这样离我们更近了？！据央妈最新报道，我国已成功....md)** | [原文](https://weibo.com/6105753431/PwDnDm55H) | 时间: 2025-06-15 21:02 
+  中国成功开展首例侵入式脑机接口临床试验。一位37岁四肢截肢男子通过植入硬币大小的神经电极，实现了用意念...
 
-- **[#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了# 圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di...](2025-06-15/#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了#_圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di....md)** | [原文](https://weibo.com/6105753431/PwDp1ki5E) | 时间: 2025-06-15 20:05 
-  Dia浏览器是Arc团队推出的首个AI原生浏览器，已启动内测。其核心功能包括：直接与任意网页对话（无需打开ChatGPT...
+- **[AssistanceZero: Scalably Solving Assistance Games](2025-06-15/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v2) | 时间: 2025-06-15 21:02 
+  这篇论文提出了一种名为"辅助游戏"的新方法，用于训练AI助手，作为人类反馈强化学习(RLHF)的替代方案。研究者...
 
-- **[#北大亚马逊团队破解三大数据库AI难题##全球首个图中心RDB基础模型#在企业系统和科学研究中普遍存在、结构复杂的关系型数据库（Relational DataBase, RDB）场景...](2025-06-15/#北大亚马逊团队破解三大数据库AI难题##全球首个图中心RDB基础模型#在企业系统和科学研究中普遍存在、结构复杂的关系型数据库（Relational_DataBase,_RDB）场景....md)** | [原文](https://weibo.com/6105753431/PwEPBBGax) | 时间: 2025-06-15 20:04 
-  北京大学张牧涵团队与亚马逊云科技合作开发了全球首个图中心RDB基础模型Griffin，解决了关系型数据库(RDB)中多表...
+- **[#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了# 圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di...](2025-06-15/#全方位实测首个AI原生浏览器##比Chrome更好用的AI浏览器出现了#_圈粉无数的Arc浏览器，在AI加持下华丽丽“变身”了——还是同一家公司出品，首个AI原生浏览器Di....md)** | [原文](https://weibo.com/6105753431/PwDp1ki5E) | 时间: 2025-06-15 21:02 
+  Dia浏览器是Arc团队推出的首个AI原生浏览器，目前开启内测。其核心功能包括：1) 无需调用ChatGPT即可直接与任意网...
 
-- **[SoK: Watermarking for AI-Generated Content](2025-06-15/SoK-_Watermarking_for_AI-Generated_Content.md)** | [原文](http://arxiv.org/abs/2411.18479v3) | 时间: 2025-06-15 20:04 
-  随着生成式AI（GenAI）输出的质量提升，区分AI与人类生成内容变得愈发困难。水印技术通过嵌入隐藏信号来可靠检...
+- **[Build the web for agents, not agents for the web](2025-06-15/Build_the_web_for_agents,_not_agents_for_the_web.md)** | [原文](http://arxiv.org/abs/2506.10953v1) | 时间: 2025-06-15 21:01 
+  这篇立场论文主张改变网页代理研究的范式：与其让人工智能适应人类设计的界面，不如开发专为AI优化的新型交...
 
-- **[AssistanceZero: Scalably Solving Assistance Games](2025-06-15/AssistanceZero-_Scalably_Solving_Assistance_Games.md)** | [原文](http://arxiv.org/abs/2504.07091v2) | 时间: 2025-06-15 20:04 
-  本文提出了一种基于辅助游戏（assistance games）的新方法AssistanceZero，用于训练AI助手，以解决传统人类反馈强化学...
+- **[Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](2025-06-15/Eye,_Robot-_Learning_to_Look_to_Act_with_a_BC-RL_Perception-Action_Loop.md)** | [原文](http://arxiv.org/abs/2506.10968v1) | 时间: 2025-06-15 21:01 
+  研究人员开发了EyeRobot系统，通过强化学习训练机械眼球自主转动观察环境，实现手眼协同完成任务。该系统采用3...
 
-- **[#AI版ASMR火了##AI制作的ASMR视频好上头#短视频平台熬夜冲浪的我突然发现，AI ASMR突然火了？！大家可以打开声音欣赏一下这条切割浆果的视频，它拿下了16500000...](2025-06-15/#AI版ASMR火了##AI制作的ASMR视频好上头#短视频平台熬夜冲浪的我突然发现，AI_ASMR突然火了？！大家可以打开声音欣赏一下这条切割浆果的视频，它拿下了16500000....md)** | [原文](https://weibo.com/6105753431/PwENUjtIy) | 时间: 2025-06-15 20:04 
-  AI生成的ASMR视频近期在海外社交平台爆火，一个刚注册3天的账号凭借11条AI制作的切水果/手办等视频狂揽9....
+- **[Execution Guided Line-by-Line Code Generation](2025-06-15/Execution_Guided_Line-by-Line_Code_Generation.md)** | [原文](http://arxiv.org/abs/2506.10948v1) | 时间: 2025-06-15 21:01 
+  本文提出了一种名为EG-CFG（执行引导的无分类器指导）的新型神经代码生成方法，通过将实时执行信号融入语言模...
 
-- **[Dynamic Epistemic Friction in Dialogue](2025-06-15/Dynamic_Epistemic_Friction_in_Dialogue.md)** | [原文](http://arxiv.org/abs/2506.10934v1) | 时间: 2025-06-15 20:03 
-  该研究探讨了大型语言模型(LLMs)与人类偏好对齐中常被忽视的"认知摩擦"问题，即个体在面对新信息时更新信念的...
+- **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](2025-06-15/Monitoring_Decomposition_Attacks_in_LLMs_with_Lightweight_Sequential_Monitors.md)** | [原文](http://arxiv.org/abs/2506.10949v1) | 时间: 2025-06-15 21:01 
+  当前大语言模型(LLM)的安全防御在分解攻击下失效，恶意目标被拆解为无害子任务绕过拒绝机制。研究发现主流LLM(...
 
-- **[Execution Guided Line-by-Line Code Generation](2025-06-15/Execution_Guided_Line-by-Line_Code_Generation.md)** | [原文](http://arxiv.org/abs/2506.10948v1) | 时间: 2025-06-15 20:03 
-  本文提出了一种名为EG-CFG的新型神经代码生成方法，通过将实时执行信号整合到语言模型生成过程中来提升代码生...
+- **[Dynamic Epistemic Friction in Dialogue](2025-06-15/Dynamic_Epistemic_Friction_in_Dialogue.md)** | [原文](http://arxiv.org/abs/2506.10934v1) | 时间: 2025-06-15 21:01 
+  该研究探讨了大型语言模型(LLMs)与人类偏好对齐时忽视的"认知摩擦"问题，即面对新信息时更新信念的内在阻力。...
 
-- **[Build the web for agents, not agents for the web](2025-06-15/Build_the_web_for_agents,_not_agents_for_the_web.md)** | [原文](http://arxiv.org/abs/2506.10953v1) | 时间: 2025-06-15 20:02 
-  这篇立场论文提出，当前基于大语言模型（LLM）的网页代理面临核心挑战：人类界面设计与AI能力不匹配。现有方...
+- **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](2025-06-15/AutoMind-_Adaptive_Knowledgeable_Agent_for_Automated_Data_Science.md)** | [原文](http://arxiv.org/abs/2506.10974v1) | 时间: 2025-06-15 21:01 
+  大型语言模型（LLM）代理在解决现实数据科学问题中潜力巨大，但现有框架依赖固定流程和编码策略，仅适用于简...
 
-- **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](2025-06-15/Monitoring_Decomposition_Attacks_in_LLMs_with_Lightweight_Sequential_Monitors.md)** | [原文](http://arxiv.org/abs/2506.10949v1) | 时间: 2025-06-15 20:02 
-  当前大语言模型（LLM）的安全防御在分解攻击下失效，即恶意目标被拆分为无害子任务以绕过拒绝机制。现有浅层...
+- **[SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks](2025-06-15/SWE-Factory-_Your_Automated_Factory_for_Issue_Resolution_Training_Data_and_Evaluation_Benchmarks.md)** | [原文](http://arxiv.org/abs/2506.10954v1) | 时间: 2025-06-15 21:01 
+  构建大规模GitHub问题解决数据集对训练和评估大语言模型（LLM）的软件工程能力至关重要，但传统方法在搭建评估...
 
-- **[GenWorld: Towards Detecting AI-generated Real-world Simulation Videos](2025-06-15/GenWorld-_Towards_Detecting_AI-generated_Real-world_Simulation_Videos.md)** | [原文](http://arxiv.org/abs/2506.10975v1) | 时间: 2025-06-15 20:01 
-  随着AI视频生成技术的快速发展，真实世界信息的可信度受到威胁，对AI生成视频检测器的需求激增。现有方法因...
-
-- **[Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](2025-06-15/Eye,_Robot-_Learning_to_Look_to_Act_with_a_BC-RL_Perception-Action_Loop.md)** | [原文](http://arxiv.org/abs/2506.10968v1) | 时间: 2025-06-15 20:01 
-  EyeRobot是一个受人类主动视觉启发的机器人系统，通过机械眼球旋转观察环境，结合强化学习训练注视策略。该系...
-
-- **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](2025-06-15/AutoMind-_Adaptive_Knowledgeable_Agent_for_Automated_Data_Science.md)** | [原文](http://arxiv.org/abs/2506.10974v1) | 时间: 2025-06-15 20:01 
-  大型语言模型(LLM)代理在解决现实数据科学问题方面潜力巨大，但现有框架依赖固定工作流程和编码策略，难以处...
-
-- **[SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks](2025-06-15/SWE-Factory-_Your_Automated_Factory_for_Issue_Resolution_Training_Data_and_Evaluation_Benchmarks.md)** | [原文](http://arxiv.org/abs/2506.10954v1) | 时间: 2025-06-15 20:01 
-  本文提出SWE-Factory自动化流水线，用于高效构建GitHub问题解决任务的大规模数据集，以训练和评估大语言模型（LLMs...
-
-- **[#高考志愿大模型##AI版张雪峰# 同学们、家长们~~~高考终于结束了，是不是很开心啊？但别开心得太早……一年一度让人抓耳挠腮的精彩大戏——报志愿，即将闪亮登场...](2025-06-15/#高考志愿大模型##AI版张雪峰#_同学们、家长们~~~高考终于结束了，是不是很开心啊？但别开心得太早……一年一度让人抓耳挠腮的精彩大戏——报志愿，即将闪亮登场....md)** | [原文](https://weibo.com/6105753431/Pww2Md2C6) | 时间: 2025-06-15 08:03 
-  夸克推出了国内首个免费高考志愿大模型，能在5分钟内生成完整志愿报告。该AI基于数百位专家经验，将院校分为...
+- **[GenWorld: Towards Detecting AI-generated Real-world Simulation Videos](2025-06-15/GenWorld-_Towards_Detecting_AI-generated_Real-world_Simulation_Videos.md)** | [原文](http://arxiv.org/abs/2506.10975v1) | 时间: 2025-06-15 21:00 
+  本文提出GenWorld，一个用于AI生成视频检测的大规模、高质量真实世界模拟数据集。该数据集具有三大特点：1)真实...
 
 - **[回复@没有昵称又不会塌缩:研究者通过“典型相关分析（canonical correlation analysis）”发现，某些特定的呼吸特征与心理量表之间存在高度相关关系（r=0.87）。...](2025-06-15/回复@没有昵称又不会塌缩-研究者通过“典型相关分析（canonical_correlation_analysis）”发现，某些特定的呼吸特征与心理量表之间存在高度相关关系（r=0.87）。....md)** | [原文](https://weibo.com/6105753431/Pww68F17j) | 时间: 2025-06-15 08:03 
   以色列魏茨曼科学研究所最新研究发现，人类具有独特的"呼吸指纹"，个体识别准确率达96.8%。通过可穿戴设备监...
+
+- **[#高考志愿大模型##AI版张雪峰# 同学们、家长们~~~高考终于结束了，是不是很开心啊？但别开心得太早……一年一度让人抓耳挠腮的精彩大戏——报志愿，即将闪亮登场...](2025-06-15/#高考志愿大模型##AI版张雪峰#_同学们、家长们~~~高考终于结束了，是不是很开心啊？但别开心得太早……一年一度让人抓耳挠腮的精彩大戏——报志愿，即将闪亮登场....md)** | [原文](https://weibo.com/6105753431/Pww2Md2C6) | 时间: 2025-06-15 08:03 
+  夸克推出了国内首个免费高考志愿大模型，能在5分钟内生成完整志愿报告。该AI基于数百位专家经验，将院校分为...
 
 - **[【正在直播】第九届 #A2M人工智能创新峰会# 开幕式来啦！邀请到了阿里、知乎、数美科技等技术专家带来前瞻见解。本届峰会将于6月14-15日在北京中关村国家自主创...](2025-06-15/【正在直播】第九届_#A2M人工智能创新峰会#_开幕式来啦！邀请到了阿里、知乎、数美科技等技术专家带来前瞻见解。本届峰会将于6月14-15日在北京中关村国家自主创....md)** | [原文](https://weibo.com/6105753431/PwsxS0mZo) | 时间: 2025-06-15 04:09 
   第九届A2M人工智能创新峰会于6月14-15日在北京举办，聚焦大模型技术、AI Agent落地等15个专场，汇集阿里、微软、...
